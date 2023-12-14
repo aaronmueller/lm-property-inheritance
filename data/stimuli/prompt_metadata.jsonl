@@ -1,8 +1,8 @@
-{"idx": 6, "concept": "mouse", "property": "can be a pet", "label": "yes"}
-{"idx": 2, "concept": "bear", "property": "can hang upside down", "label": "no"}
-{"idx": 5, "concept": "dog", "property": "can carry diseases", "label": "yes"}
-{"idx": 3, "concept": "rat", "property": "can box", "label": "no"}
-{"idx": 4, "concept": "worm", "property": "can live near the water", "label": "no"}
-{"idx": 0, "concept": "lamb", "property": "produces wool", "label": "yes"}
-{"idx": 1, "concept": "deer", "property": "is made of cells", "label": "yes"}
-{"idx": 7, "concept": "cow", "property": "has rotating eyes", "label": "no"}
+{"idx": 6, "concept": "mouse", "property": "can be a pet", "implicit_knowledge": "a mouse can be a pet", "label": "yes"}
+{"idx": 2, "concept": "bear", "property": "can hang upside down", "implicit_knowledge": "a bear cannot hang upside down", "label": "no"}
+{"idx": 5, "concept": "dog", "property": "can carry diseases", "implicit_knowledge": "a dog can carry diseases", "label": "yes"}
+{"idx": 3, "concept": "rat", "property": "can box", "implicit_knowledge": "a rat cannot box", "label": "no"}
+{"idx": 4, "concept": "worm", "property": "can live near the water", "implicit_knowledge": "a worm cannot live near the water", "label": "no"}
+{"idx": 0, "concept": "lamb", "property": "produces wool", "implicit_knowledge": "a lamb produces wool", "label": "yes"}
+{"idx": 1, "concept": "deer", "property": "is made of cells", "implicit_knowledge": "a deer is made of cells", "label": "yes"}
+{"idx": 7, "concept": "cow", "property": "has rotating eyes", "implicit_knowledge": "a cow does not have rotating eyes", "label": "no"}

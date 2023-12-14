@@ -62,12 +62,23 @@ for i, (concept, label) in enumerate(zip(icl_concepts, icl_labels)):
         if "color" not in p and "good" not in p and "tall" not in p and "short" not in p
     ]
     sampled_property = random.sample(sample_space, 1)[0]
+
+    generic_concept = engine.plural_noun(concept.replace("_", " "))
+    generic_property = mem.feature_lexicon[sampled_property].pluralized
+    generic = f"{generic_concept} {generic_property}"
+    if label == "yes":
+        implicit_knowledge = f"{mem.lexicon[concept].article} {sampled_property}"
+    else:
+        implicit_knowledge = f"{mem.lexicon[concept].article} {mem.feature_lexicon[sampled_property].negation}"
+
     icl_properties.append(sampled_property)
     icl_data.append(
         {
             "idx": i,
             "concept": concept,
             "property": sampled_property,
+            "implicit_knowledge": implicit_knowledge,
+            # "implicit_knowledge": generic, TODO: add after figuring out negated cases for generics
             "label": label,
         }
     )
