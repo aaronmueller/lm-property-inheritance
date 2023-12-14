@@ -1,0 +1,1 @@
+NONCE_WORDS = ['wug', 'dax', 'fep', 'blicket', 'kiki', 'bouba', 'toma', 'glorp', 'zek']

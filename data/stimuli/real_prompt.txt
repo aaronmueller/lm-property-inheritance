@@ -1,0 +1,8 @@
+Question: Is it true that a mouse can be a pet? Answer: yes
+Question: Is it true that a bear can hang upside down? Answer: no
+Question: Is it true that a dog can carry diseases? Answer: yes
+Question: Is it true that a rat can box? Answer: no
+Question: Is it true that a worm can live near the water? Answer: no
+Question: Is it true that a lamb produces wool? Answer: yes
+Question: Is it true that a deer is made of cells? Answer: yes
+Question: Is it true that a cow has rotating eyes? Answer: no

@@ -1,0 +1,128 @@
+{"idx": 0, "concept": "centipede", "property": "is a predator", "label": "yes", "question": "A wug is a type of centipede. Question: Is it true that a wug is a predator? Answer:"}
+{"idx": 1, "concept": "octopus", "property": "can move", "label": "yes", "question": "A wug is a type of octopus. Question: Is it true that a wug can move? Answer:"}
+{"idx": 2, "concept": "wolf", "property": "has ears", "label": "yes", "question": "A wug is a type of wolf. Question: Is it true that a wug has ears? Answer:"}
+{"idx": 3, "concept": "magpie", "property": "can build nests", "label": "yes", "question": "A wug is a type of magpie. Question: Is it true that a wug can build nests? Answer:"}
+{"idx": 4, "concept": "snail", "property": "has moist skin", "label": "yes", "question": "A wug is a type of snail. Question: Is it true that a wug has moist skin? Answer:"}
+{"idx": 5, "concept": "chipmunk", "property": "has ears", "label": "yes", "question": "A wug is a type of chipmunk. Question: Is it true that a wug has ears? Answer:"}
+{"idx": 6, "concept": "cockerel", "property": "can lick", "label": "yes", "question": "A wug is a type of cockerel. Question: Is it true that a wug can lick? Answer:"}
+{"idx": 7, "concept": "grasshopper", "property": "has feet", "label": "yes", "question": "A wug is a type of grasshopper. Question: Is it true that a wug has feet? Answer:"}
+{"idx": 8, "concept": "seagull", "property": "makes a screeching sound", "label": "yes", "question": "A wug is a type of seagull. Question: Is it true that a wug makes a screeching sound? Answer:"}
+{"idx": 9, "concept": "canary", "property": "is kept in a cage", "label": "yes", "question": "A wug is a type of canary. Question: Is it true that a wug is kept in a cage? Answer:"}
+{"idx": 10, "concept": "buzzard", "property": "is warm blooded", "label": "yes", "question": "A wug is a type of buzzard. Question: Is it true that a wug is warm blooded? Answer:"}
+{"idx": 11, "concept": "platypus", "property": "has ears", "label": "yes", "question": "A wug is a type of platypus. Question: Is it true that a wug has ears? Answer:"}
+{"idx": 12, "concept": "ant", "property": "has a segmented body", "label": "yes", "question": "A wug is a type of ant. Question: Is it true that a wug has a segmented body? Answer:"}
+{"idx": 13, "concept": "tarantula", "property": "has a face", "label": "yes", "question": "A wug is a type of tarantula. Question: Is it true that a wug has a face? Answer:"}
+{"idx": 14, "concept": "leopard", "property": "can kill", "label": "yes", "question": "A wug is a type of leopard. Question: Is it true that a wug can kill? Answer:"}
+{"idx": 15, "concept": "termite", "property": "can lay eggs", "label": "yes", "question": "A wug is a type of termite. Question: Is it true that a wug can lay eggs? Answer:"}
+{"idx": 16, "concept": "gerbil", "property": "can bite", "label": "yes", "question": "A wug is a type of gerbil. Question: Is it true that a wug can bite? Answer:"}
+{"idx": 17, "concept": "bear", "property": "has babies that are called cubs", "label": "yes", "question": "A wug is a type of bear. Question: Is it true that a wug has babies that are called cubs? Answer:"}
+{"idx": 18, "concept": "heron", "property": "can lay eggs", "label": "yes", "question": "A wug is a type of heron. Question: Is it true that a wug can lay eggs? Answer:"}
+{"idx": 19, "concept": "donkey", "property": "is warm blooded", "label": "yes", "question": "A wug is a type of donkey. Question: Is it true that a wug is warm blooded? Answer:"}
+{"idx": 20, "concept": "cockroach", "property": "can drink", "label": "yes", "question": "A wug is a type of cockroach. Question: Is it true that a wug can drink? Answer:"}
+{"idx": 21, "concept": "ostrich", "property": "is streamlined", "label": "yes", "question": "A wug is a type of ostrich. Question: Is it true that a wug is streamlined? Answer:"}
+{"idx": 22, "concept": "monkey", "property": "has ears", "label": "yes", "question": "A wug is a type of monkey. Question: Is it true that a wug has ears? Answer:"}
+{"idx": 23, "concept": "skunk", "property": "can drool", "label": "yes", "question": "A wug is a type of skunk. Question: Is it true that a wug can drool? Answer:"}
+{"idx": 24, "concept": "guinea_pig", "property": "is a mammal", "label": "yes", "question": "A wug is a type of guinea pig. Question: Is it true that a wug is a mammal? Answer:"}
+{"idx": 25, "concept": "wren", "property": "has a head", "label": "yes", "question": "A wug is a type of wren. Question: Is it true that a wug has a head? Answer:"}
+{"idx": 26, "concept": "slug", "property": "can move", "label": "yes", "question": "A wug is a type of slug. Question: Is it true that a wug can move? Answer:"}
+{"idx": 27, "concept": "hamster", "property": "breeds rapidly", "label": "yes", "question": "A wug is a type of hamster. Question: Is it true that a wug breeds rapidly? Answer:"}
+{"idx": 28, "concept": "fox", "property": "can drink", "label": "yes", "question": "A wug is a type of fox. Question: Is it true that a wug can drink? Answer:"}
+{"idx": 29, "concept": "nightingale", "property": "has two legs", "label": "yes", "question": "A wug is a type of nightingale. Question: Is it true that a wug has two legs? Answer:"}
+{"idx": 30, "concept": "goat", "property": "can climb", "label": "yes", "question": "A wug is a type of goat. Question: Is it true that a wug can climb? Answer:"}
+{"idx": 31, "concept": "lobster", "property": "is cold blooded", "label": "yes", "question": "A wug is a type of lobster. Question: Is it true that a wug is cold blooded? Answer:"}
+{"idx": 32, "concept": "cheetah", "property": "can lick", "label": "yes", "question": "A wug is a type of cheetah. Question: Is it true that a wug can lick? Answer:"}
+{"idx": 33, "concept": "rabbit", "property": "is kept in a cage", "label": "yes", "question": "A wug is a type of rabbit. Question: Is it true that a wug is kept in a cage? Answer:"}
+{"idx": 34, "concept": "goldfish", "property": "has a fishy smell", "label": "yes", "question": "A wug is a type of goldfish. Question: Is it true that a wug has a fishy smell? Answer:"}
+{"idx": 35, "concept": "otter", "property": "can bleed", "label": "yes", "question": "A wug is a type of otter. Question: Is it true that a wug can bleed? Answer:"}
+{"idx": 36, "concept": "owl", "property": "has a nose", "label": "yes", "question": "A wug is a type of owl. Question: Is it true that a wug has a nose? Answer:"}
+{"idx": 37, "concept": "moth", "property": "has six legs", "label": "yes", "question": "A wug is a type of moth. Question: Is it true that a wug has six legs? Answer:"}
+{"idx": 38, "concept": "scorpion", "property": "is cold blooded", "label": "yes", "question": "A wug is a type of scorpion. Question: Is it true that a wug is cold blooded? Answer:"}
+{"idx": 39, "concept": "zebra", "property": "has a long tail", "label": "yes", "question": "A wug is a type of zebra. Question: Is it true that a wug has a long tail? Answer:"}
+{"idx": 40, "concept": "turtle", "property": "can swim", "label": "yes", "question": "A wug is a type of turtle. Question: Is it true that a wug can swim? Answer:"}
+{"idx": 41, "concept": "lion", "property": "has four legs", "label": "yes", "question": "A wug is a type of lion. Question: Is it true that a wug has four legs? Answer:"}
+{"idx": 42, "concept": "alligator", "property": "has a mouth", "label": "yes", "question": "A wug is a type of alligator. Question: Is it true that a wug has a mouth? Answer:"}
+{"idx": 43, "concept": "pig", "property": "has floppy ears", "label": "yes", "question": "A wug is a type of pig. Question: Is it true that a wug has floppy ears? Answer:"}
+{"idx": 44, "concept": "flamingo", "property": "has legs", "label": "yes", "question": "A wug is a type of flamingo. Question: Is it true that a wug has legs? Answer:"}
+{"idx": 45, "concept": "salmon", "property": "has a mouth", "label": "yes", "question": "A wug is a type of salmon. Question: Is it true that a wug has a mouth? Answer:"}
+{"idx": 46, "concept": "shark", "property": "has a pointed nose", "label": "yes", "question": "A wug is a type of shark. Question: Is it true that a wug has a pointed nose? Answer:"}
+{"idx": 47, "concept": "porcupine", "property": "has a mouth", "label": "yes", "question": "A wug is a type of porcupine. Question: Is it true that a wug has a mouth? Answer:"}
+{"idx": 48, "concept": "llama", "property": "is a herbivore", "label": "yes", "question": "A wug is a type of llama. Question: Is it true that a wug is a herbivore? Answer:"}
+{"idx": 49, "concept": "housefly", "property": "is caught by spiders", "label": "yes", "question": "A wug is a type of housefly. Question: Is it true that a wug is caught by spiders? Answer:"}
+{"idx": 50, "concept": "pony", "property": "can transport people", "label": "yes", "question": "A wug is a type of pony. Question: Is it true that a wug can transport people? Answer:"}
+{"idx": 51, "concept": "sardine", "property": "is a fish", "label": "yes", "question": "A wug is a type of sardine. Question: Is it true that a wug is a fish? Answer:"}
+{"idx": 52, "concept": "minnow", "property": "can drink", "label": "yes", "question": "A wug is a type of minnow. Question: Is it true that a wug can drink? Answer:"}
+{"idx": 53, "concept": "frog", "property": "is an amphibian", "label": "yes", "question": "A wug is a type of frog. Question: Is it true that a wug is an amphibian? Answer:"}
+{"idx": 54, "concept": "eel", "property": "has a face", "label": "yes", "question": "A wug is a type of eel. Question: Is it true that a wug has a face? Answer:"}
+{"idx": 55, "concept": "robin", "property": "has a beak", "label": "yes", "question": "A wug is a type of robin. Question: Is it true that a wug has a beak? Answer:"}
+{"idx": 56, "concept": "elephant", "property": "has tusks", "label": "yes", "question": "A wug is a type of elephant. Question: Is it true that a wug has tusks? Answer:"}
+{"idx": 57, "concept": "ladybird", "property": "has feet", "label": "yes", "question": "A wug is a type of ladybird. Question: Is it true that a wug has feet? Answer:"}
+{"idx": 58, "concept": "dragonfly", "property": "is a living thing", "label": "yes", "question": "A wug is a type of dragonfly. Question: Is it true that a wug is a living thing? Answer:"}
+{"idx": 59, "concept": "hedgehog", "property": "can walk", "label": "yes", "question": "A wug is a type of hedgehog. Question: Is it true that a wug can walk? Answer:"}
+{"idx": 60, "concept": "sparrow", "property": "has feet", "label": "yes", "question": "A wug is a type of sparrow. Question: Is it true that a wug has feet? Answer:"}
+{"idx": 61, "concept": "beetle", "property": "can grow", "label": "yes", "question": "A wug is a type of beetle. Question: Is it true that a wug can grow? Answer:"}
+{"idx": 62, "concept": "toad", "property": "is a living thing", "label": "yes", "question": "A wug is a type of toad. Question: Is it true that a wug is a living thing? Answer:"}
+{"idx": 63, "concept": "carp", "property": "has scaly skin", "label": "yes", "question": "A wug is a type of carp. Question: Is it true that a wug has scaly skin? Answer:"}
+{"idx": 64, "concept": "penguin", "property": "has a long nose", "label": "no", "question": "A wug is a type of penguin. Question: Is it true that a wug has a long nose? Answer:"}
+{"idx": 65, "concept": "chicken", "property": "gives birth to ducklings", "label": "no", "question": "A wug is a type of chicken. Question: Is it true that a wug gives birth to ducklings? Answer:"}
+{"idx": 66, "concept": "mouse", "property": "has a siphon", "label": "no", "question": "A wug is a type of mouse. Question: Is it true that a wug has a siphon? Answer:"}
+{"idx": 67, "concept": "rattlesnake", "property": "is nocturnal", "label": "no", "question": "A wug is a type of rattlesnake. Question: Is it true that a wug is nocturnal? Answer:"}
+{"idx": 68, "concept": "eagle", "property": "has patterns on its body", "label": "no", "question": "A wug is a type of eagle. Question: Is it true that a wug has patterns on its body? Answer:"}
+{"idx": 69, "concept": "mackerel", "property": "can carry leaves", "label": "no", "question": "A wug is a type of mackerel. Question: Is it true that a wug can carry leaves? Answer:"}
+{"idx": 70, "concept": "horse", "property": "has claws", "label": "no", "question": "A wug is a type of horse. Question: Is it true that a wug has claws? Answer:"}
+{"idx": 71, "concept": "tuna", "property": "has sticky grip", "label": "no", "question": "A wug is a type of tuna. Question: Is it true that a wug has sticky grip? Answer:"}
+{"idx": 72, "concept": "beaver", "property": "has a big body", "label": "no", "question": "A wug is a type of beaver. Question: Is it true that a wug has a big body? Answer:"}
+{"idx": 73, "concept": "rat", "property": "is a marsupial", "label": "no", "question": "A wug is a type of rat. Question: Is it true that a wug is a marsupial? Answer:"}
+{"idx": 74, "concept": "seahorse", "property": "can scuttle", "label": "no", "question": "A wug is a type of seahorse. Question: Is it true that a wug can scuttle? Answer:"}
+{"idx": 75, "concept": "iguana", "property": "has hinges", "label": "no", "question": "A wug is a type of iguana. Question: Is it true that a wug has hinges? Answer:"}
+{"idx": 76, "concept": "dove", "property": "has a soft body", "label": "no", "question": "A wug is a type of dove. Question: Is it true that a wug has a soft body? Answer:"}
+{"idx": 77, "concept": "wasp", "property": "breeds rapidly", "label": "no", "question": "A wug is a type of wasp. Question: Is it true that a wug breeds rapidly? Answer:"}
+{"idx": 78, "concept": "mosquito", "property": "can crawl", "label": "no", "question": "A wug is a type of mosquito. Question: Is it true that a wug can crawl? Answer:"}
+{"idx": 79, "concept": "parakeet", "property": "is a crustacean", "label": "no", "question": "A wug is a type of parakeet. Question: Is it true that a wug is a crustacean? Answer:"}
+{"idx": 80, "concept": "whale", "property": "has long hair", "label": "no", "question": "A wug is a type of whale. Question: Is it true that a wug has long hair? Answer:"}
+{"idx": 81, "concept": "camel", "property": "has a small head", "label": "no", "question": "A wug is a type of camel. Question: Is it true that a wug has a small head? Answer:"}
+{"idx": 82, "concept": "buffalo", "property": "has spiked feet", "label": "no", "question": "A wug is a type of buffalo. Question: Is it true that a wug has spiked feet? Answer:"}
+{"idx": 83, "concept": "woodpecker", "property": "wakes up early", "label": "no", "question": "A wug is a type of woodpecker. Question: Is it true that a wug wakes up early? Answer:"}
+{"idx": 84, "concept": "starling", "property": "is a deer", "label": "no", "question": "A wug is a type of starling. Question: Is it true that a wug is a deer? Answer:"}
+{"idx": 85, "concept": "locust", "property": "can swing", "label": "no", "question": "A wug is a type of locust. Question: Is it true that a wug can swing? Answer:"}
+{"idx": 86, "concept": "flounder", "property": "has horns", "label": "no", "question": "A wug is a type of flounder. Question: Is it true that a wug has horns? Answer:"}
+{"idx": 87, "concept": "cod", "property": "is used as bait for fishing", "label": "no", "question": "A wug is a type of cod. Question: Is it true that a wug is used as bait for fishing? Answer:"}
+{"idx": 88, "concept": "gorilla", "property": "is a delicacy", "label": "no", "question": "A wug is a type of gorilla. Question: Is it true that a wug is a delicacy? Answer:"}
+{"idx": 89, "concept": "kangaroo", "property": "can run fast", "label": "no", "question": "A wug is a type of kangaroo. Question: Is it true that a wug can run fast? Answer:"}
+{"idx": 90, "concept": "crab", "property": "has a long trunk", "label": "no", "question": "A wug is a type of crab. Question: Is it true that a wug has a long trunk? Answer:"}
+{"idx": 91, "concept": "sheep", "property": "is not a horse", "label": "no", "question": "A wug is a type of sheep. Question: Is it true that a wug is not a horse? Answer:"}
+{"idx": 92, "concept": "walrus", "property": "has dangly bits around its beak", "label": "no", "question": "A wug is a type of walrus. Question: Is it true that a wug has dangly bits around its beak? Answer:"}
+{"idx": 93, "concept": "crayfish", "property": "makes a mooing sound", "label": "no", "question": "A wug is a type of crayfish. Question: Is it true that a wug makes a mooing sound? Answer:"}
+{"idx": 94, "concept": "pelican", "property": "is shorn", "label": "no", "question": "A wug is a type of pelican. Question: Is it true that a wug is shorn? Answer:"}
+{"idx": 95, "concept": "cow", "property": "has baleen", "label": "no", "question": "A wug is a type of cow. Question: Is it true that a wug has baleen? Answer:"}
+{"idx": 96, "concept": "swan", "property": "does jump long distances", "label": "no", "question": "A wug is a type of swan. Question: Is it true that a wug does jump long distances? Answer:"}
+{"idx": 97, "concept": "butterfly", "property": "can sit", "label": "no", "question": "A wug is a type of butterfly. Question: Is it true that a wug can sit? Answer:"}
+{"idx": 98, "concept": "hornet", "property": "is a reptile", "label": "no", "question": "A wug is a type of hornet. Question: Is it true that a wug is a reptile? Answer:"}
+{"idx": 99, "concept": "shrimp", "property": "is from the Andes", "label": "no", "question": "A wug is a type of shrimp. Question: Is it true that a wug is from the Andes? Answer:"}
+{"idx": 100, "concept": "cat", "property": "is a beetle", "label": "no", "question": "A wug is a type of cat. Question: Is it true that a wug is a beetle? Answer:"}
+{"idx": 101, "concept": "prawn", "property": "requires moisture", "label": "no", "question": "A wug is a type of prawn. Question: Is it true that a wug requires moisture? Answer:"}
+{"idx": 102, "concept": "raven", "property": "is a canine", "label": "no", "question": "A wug is a type of raven. Question: Is it true that a wug is a canine? Answer:"}
+{"idx": 103, "concept": "tortoise", "property": "requires warm conditions", "label": "no", "question": "A wug is a type of tortoise. Question: Is it true that a wug requires warm conditions? Answer:"}
+{"idx": 104, "concept": "squid", "property": "can be salty in taste", "label": "no", "question": "A wug is a type of squid. Question: Is it true that a wug can be salty in taste? Answer:"}
+{"idx": 105, "concept": "crane", "property": "is a canine", "label": "no", "question": "A wug is a type of crane. Question: Is it true that a wug is a canine? Answer:"}
+{"idx": 106, "concept": "falcon", "property": "runs on wheels", "label": "no", "question": "A wug is a type of falcon. Question: Is it true that a wug runs on wheels? Answer:"}
+{"idx": 107, "concept": "deer", "property": "can go without drinking water", "label": "no", "question": "A wug is a type of deer. Question: Is it true that a wug can go without drinking water? Answer:"}
+{"idx": 108, "concept": "calf", "property": "can be oily", "label": "no", "question": "A wug is a type of calf. Question: Is it true that a wug can be oily? Answer:"}
+{"idx": 109, "concept": "partridge", "property": "has compound eyes", "label": "no", "question": "A wug is a type of partridge. Question: Is it true that a wug has compound eyes? Answer:"}
+{"idx": 110, "concept": "oyster", "property": "hatches from a chrysalis", "label": "no", "question": "A wug is a type of oyster. Question: Is it true that a wug hatches from a chrysalis? Answer:"}
+{"idx": 111, "concept": "hummingbird", "property": "can charge", "label": "no", "question": "A wug is a type of hummingbird. Question: Is it true that a wug can charge? Answer:"}
+{"idx": 112, "concept": "caterpillar", "property": "can migrate", "label": "no", "question": "A wug is a type of caterpillar. Question: Is it true that a wug can migrate? Answer:"}
+{"idx": 113, "concept": "raccoon", "property": "is overfished", "label": "no", "question": "A wug is a type of raccoon. Question: Is it true that a wug is overfished? Answer:"}
+{"idx": 114, "concept": "panther", "property": "has babies that are called kids", "label": "no", "question": "A wug is a type of panther. Question: Is it true that a wug has babies that are called kids? Answer:"}
+{"idx": 115, "concept": "peacock", "property": "has big hind legs", "label": "no", "question": "A wug is a type of peacock. Question: Is it true that a wug has big hind legs? Answer:"}
+{"idx": 116, "concept": "herring", "property": "has a nose", "label": "no", "question": "A wug is a type of herring. Question: Is it true that a wug has a nose? Answer:"}
+{"idx": 117, "concept": "dolphin", "property": "has a small head", "label": "no", "question": "A wug is a type of dolphin. Question: Is it true that a wug has a small head? Answer:"}
+{"idx": 118, "concept": "emu", "property": "swims upstream", "label": "no", "question": "A wug is a type of emu. Question: Is it true that a wug swims upstream? Answer:"}
+{"idx": 119, "concept": "flea", "property": "stores nuts for winter", "label": "no", "question": "A wug is a type of flea. Question: Is it true that a wug stores nuts for winter? Answer:"}
+{"idx": 120, "concept": "turkey", "property": "is not a horse", "label": "no", "question": "A wug is a type of turkey. Question: Is it true that a wug is not a horse? Answer:"}
+{"idx": 121, "concept": "hawk", "property": "has an insatiable appetite", "label": "no", "question": "A wug is a type of hawk. Question: Is it true that a wug has an insatiable appetite? Answer:"}
+{"idx": 122, "concept": "lamb", "property": "is hard to open", "label": "no", "question": "A wug is a type of lamb. Question: Is it true that a wug is hard to open? Answer:"}
+{"idx": 123, "concept": "stick_insect", "property": "has a queen", "label": "no", "question": "A wug is a type of stick insect. Question: Is it true that a wug has a queen? Answer:"}
+{"idx": 124, "concept": "kingfisher", "property": "is hard to kill", "label": "no", "question": "A wug is a type of kingfisher. Question: Is it true that a wug is hard to kill? Answer:"}
+{"idx": 125, "concept": "trout", "property": "can turn into a pupa", "label": "no", "question": "A wug is a type of trout. Question: Is it true that a wug can turn into a pupa? Answer:"}
+{"idx": 126, "concept": "duck", "property": "is a small horse", "label": "no", "question": "A wug is a type of duck. Question: Is it true that a wug is a small horse? Answer:"}
+{"idx": 127, "concept": "cricket", "property": "has a long face", "label": "no", "question": "A wug is a type of cricket. Question: Is it true that a wug has a long face? Answer:"}
