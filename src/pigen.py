@@ -3,12 +3,15 @@
 import pathlib
 import random
 import json
+import inflect
 
 import config
 
 from collections import defaultdict
 from semantic_memory import memory, list_utils
 from ordered_set import OrderedSet
+
+engine = inflect.engine()
 
 MEM_PATH = "data/semantic-memory"
 
@@ -95,11 +98,15 @@ for i, (concept, label) in enumerate(zip(test_concepts, test_labels)):
         and "friend" not in p
     ]
     sampled_property = random.sample(sample_space, 1)[0]
+    generic_concept = engine.plural_noun(concept.replace("_", " "))
+    generic_property = mem.feature_lexicon[sampled_property].pluralized
+    generic = f"{generic_concept} {generic_property}"
     test_data.append(
         {
             "idx": i,
             "concept": concept,
             "property": sampled_property,
+            # "implicit_knowledge": generic, TODO: add after figuring out negated cases for generics
             "label": label,
         }
     )
@@ -165,7 +172,7 @@ for entry in test_data:
     test_real.append(real_entry)
 
 # write test_real.jsonl and test_nw.jsonl
-    
+
 with open("data/stimuli/test_real.jsonl", "w") as f:
     for entry in test_real:
         json.dump(entry, f)
@@ -175,4 +182,3 @@ with open("data/stimuli/test_pi.jsonl", "w") as f:
     for entry in test_nw:
         json.dump(entry, f)
         f.write("\n")
-
