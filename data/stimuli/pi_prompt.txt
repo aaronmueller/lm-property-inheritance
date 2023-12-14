@@ -1,8 +1,8 @@
-A dax is a type of mouse. Question: Is it true that a dax can be a pet? Answer: yes
-A blicket is a type of bear. Question: Is it true that a blicket can hang upside down? Answer: no
-A fep is a type of dog. Question: Is it true that a fep can carry diseases? Answer: yes
-A kiki is a type of rat. Question: Is it true that a kiki can box? Answer: no
-A toma is a type of worm. Question: Is it true that a toma can live near the water? Answer: no
-A bouba is a type of lamb. Question: Is it true that a bouba produces wool? Answer: yes
-A zek is a type of deer. Question: Is it true that a zek is made of cells? Answer: yes
-A glorp is a type of cow. Question: Is it true that a glorp has rotating eyes? Answer: no
+A blicket is a type of mouse. Question: Is it true that a blicket can be a pet? Answer: yes
+A bouba is a type of bear. Question: Is it true that a bouba can hang upside down? Answer: no
+A kiki is a type of dog. Question: Is it true that a kiki can carry diseases? Answer: yes
+A fep is a type of rat. Question: Is it true that a fep can box? Answer: no
+A glorp is a type of worm. Question: Is it true that a glorp can live near the water? Answer: no
+A zek is a type of lamb. Question: Is it true that a zek produces wool? Answer: yes
+A dax is a type of deer. Question: Is it true that a dax is made of cells? Answer: yes
+A wug is a type of cow. Question: Is it true that a wug has rotating eyes? Answer: no

@@ -1,128 +1,128 @@
-{"idx": 0, "concept": "centipede", "property": "is a predator", "label": "yes"}
-{"idx": 1, "concept": "octopus", "property": "can move", "label": "yes"}
-{"idx": 2, "concept": "wolf", "property": "has ears", "label": "yes"}
-{"idx": 3, "concept": "magpie", "property": "can build nests", "label": "yes"}
-{"idx": 4, "concept": "snail", "property": "has moist skin", "label": "yes"}
-{"idx": 5, "concept": "chipmunk", "property": "has ears", "label": "yes"}
-{"idx": 6, "concept": "cockerel", "property": "can lick", "label": "yes"}
-{"idx": 7, "concept": "grasshopper", "property": "has feet", "label": "yes"}
-{"idx": 8, "concept": "seagull", "property": "makes a screeching sound", "label": "yes"}
-{"idx": 9, "concept": "canary", "property": "is kept in a cage", "label": "yes"}
-{"idx": 10, "concept": "buzzard", "property": "is warm blooded", "label": "yes"}
-{"idx": 11, "concept": "platypus", "property": "has ears", "label": "yes"}
-{"idx": 12, "concept": "ant", "property": "has a segmented body", "label": "yes"}
-{"idx": 13, "concept": "tarantula", "property": "has a face", "label": "yes"}
-{"idx": 14, "concept": "leopard", "property": "can kill", "label": "yes"}
-{"idx": 15, "concept": "termite", "property": "can lay eggs", "label": "yes"}
-{"idx": 16, "concept": "gerbil", "property": "can bite", "label": "yes"}
-{"idx": 17, "concept": "bear", "property": "has babies that are called cubs", "label": "yes"}
-{"idx": 18, "concept": "heron", "property": "can lay eggs", "label": "yes"}
-{"idx": 19, "concept": "donkey", "property": "is warm blooded", "label": "yes"}
-{"idx": 20, "concept": "cockroach", "property": "can drink", "label": "yes"}
-{"idx": 21, "concept": "ostrich", "property": "is streamlined", "label": "yes"}
-{"idx": 22, "concept": "monkey", "property": "has ears", "label": "yes"}
-{"idx": 23, "concept": "skunk", "property": "can drool", "label": "yes"}
-{"idx": 24, "concept": "guinea_pig", "property": "is a mammal", "label": "yes"}
-{"idx": 25, "concept": "wren", "property": "has a head", "label": "yes"}
-{"idx": 26, "concept": "slug", "property": "can move", "label": "yes"}
-{"idx": 27, "concept": "hamster", "property": "breeds rapidly", "label": "yes"}
-{"idx": 28, "concept": "fox", "property": "can drink", "label": "yes"}
-{"idx": 29, "concept": "nightingale", "property": "has two legs", "label": "yes"}
-{"idx": 30, "concept": "goat", "property": "can climb", "label": "yes"}
-{"idx": 31, "concept": "lobster", "property": "is cold blooded", "label": "yes"}
-{"idx": 32, "concept": "cheetah", "property": "can lick", "label": "yes"}
-{"idx": 33, "concept": "rabbit", "property": "is kept in a cage", "label": "yes"}
-{"idx": 34, "concept": "goldfish", "property": "has a fishy smell", "label": "yes"}
-{"idx": 35, "concept": "otter", "property": "can bleed", "label": "yes"}
-{"idx": 36, "concept": "owl", "property": "has a nose", "label": "yes"}
-{"idx": 37, "concept": "moth", "property": "has six legs", "label": "yes"}
-{"idx": 38, "concept": "scorpion", "property": "is cold blooded", "label": "yes"}
-{"idx": 39, "concept": "zebra", "property": "has a long tail", "label": "yes"}
-{"idx": 40, "concept": "turtle", "property": "can swim", "label": "yes"}
-{"idx": 41, "concept": "lion", "property": "has four legs", "label": "yes"}
-{"idx": 42, "concept": "alligator", "property": "has a mouth", "label": "yes"}
-{"idx": 43, "concept": "pig", "property": "has floppy ears", "label": "yes"}
-{"idx": 44, "concept": "flamingo", "property": "has legs", "label": "yes"}
-{"idx": 45, "concept": "salmon", "property": "has a mouth", "label": "yes"}
-{"idx": 46, "concept": "shark", "property": "has a pointed nose", "label": "yes"}
-{"idx": 47, "concept": "porcupine", "property": "has a mouth", "label": "yes"}
-{"idx": 48, "concept": "llama", "property": "is a herbivore", "label": "yes"}
-{"idx": 49, "concept": "housefly", "property": "is caught by spiders", "label": "yes"}
-{"idx": 50, "concept": "pony", "property": "can transport people", "label": "yes"}
-{"idx": 51, "concept": "sardine", "property": "is a fish", "label": "yes"}
-{"idx": 52, "concept": "minnow", "property": "can drink", "label": "yes"}
-{"idx": 53, "concept": "frog", "property": "is an amphibian", "label": "yes"}
-{"idx": 54, "concept": "eel", "property": "has a face", "label": "yes"}
-{"idx": 55, "concept": "robin", "property": "has a beak", "label": "yes"}
-{"idx": 56, "concept": "elephant", "property": "has tusks", "label": "yes"}
-{"idx": 57, "concept": "ladybird", "property": "has feet", "label": "yes"}
-{"idx": 58, "concept": "dragonfly", "property": "is a living thing", "label": "yes"}
-{"idx": 59, "concept": "hedgehog", "property": "can walk", "label": "yes"}
-{"idx": 60, "concept": "sparrow", "property": "has feet", "label": "yes"}
-{"idx": 61, "concept": "beetle", "property": "can grow", "label": "yes"}
-{"idx": 62, "concept": "toad", "property": "is a living thing", "label": "yes"}
-{"idx": 63, "concept": "carp", "property": "has scaly skin", "label": "yes"}
-{"idx": 64, "concept": "penguin", "property": "has a long nose", "label": "no"}
-{"idx": 65, "concept": "chicken", "property": "gives birth to ducklings", "label": "no"}
-{"idx": 66, "concept": "mouse", "property": "has a siphon", "label": "no"}
-{"idx": 67, "concept": "rattlesnake", "property": "is nocturnal", "label": "no"}
-{"idx": 68, "concept": "eagle", "property": "has patterns on its body", "label": "no"}
-{"idx": 69, "concept": "mackerel", "property": "can carry leaves", "label": "no"}
-{"idx": 70, "concept": "horse", "property": "has claws", "label": "no"}
-{"idx": 71, "concept": "tuna", "property": "has sticky grip", "label": "no"}
-{"idx": 72, "concept": "beaver", "property": "has a big body", "label": "no"}
-{"idx": 73, "concept": "rat", "property": "is a marsupial", "label": "no"}
-{"idx": 74, "concept": "seahorse", "property": "can scuttle", "label": "no"}
-{"idx": 75, "concept": "iguana", "property": "has hinges", "label": "no"}
-{"idx": 76, "concept": "dove", "property": "has a soft body", "label": "no"}
-{"idx": 77, "concept": "wasp", "property": "breeds rapidly", "label": "no"}
-{"idx": 78, "concept": "mosquito", "property": "can crawl", "label": "no"}
-{"idx": 79, "concept": "parakeet", "property": "is a crustacean", "label": "no"}
-{"idx": 80, "concept": "whale", "property": "has long hair", "label": "no"}
-{"idx": 81, "concept": "camel", "property": "has a small head", "label": "no"}
-{"idx": 82, "concept": "buffalo", "property": "has spiked feet", "label": "no"}
-{"idx": 83, "concept": "woodpecker", "property": "wakes up early", "label": "no"}
-{"idx": 84, "concept": "starling", "property": "is a deer", "label": "no"}
-{"idx": 85, "concept": "locust", "property": "can swing", "label": "no"}
-{"idx": 86, "concept": "flounder", "property": "has horns", "label": "no"}
-{"idx": 87, "concept": "cod", "property": "is used as bait for fishing", "label": "no"}
-{"idx": 88, "concept": "gorilla", "property": "is a delicacy", "label": "no"}
-{"idx": 89, "concept": "kangaroo", "property": "can run fast", "label": "no"}
-{"idx": 90, "concept": "crab", "property": "has a long trunk", "label": "no"}
-{"idx": 91, "concept": "sheep", "property": "is not a horse", "label": "no"}
-{"idx": 92, "concept": "walrus", "property": "has dangly bits around its beak", "label": "no"}
-{"idx": 93, "concept": "crayfish", "property": "makes a mooing sound", "label": "no"}
-{"idx": 94, "concept": "pelican", "property": "is shorn", "label": "no"}
-{"idx": 95, "concept": "cow", "property": "has baleen", "label": "no"}
-{"idx": 96, "concept": "swan", "property": "does jump long distances", "label": "no"}
-{"idx": 97, "concept": "butterfly", "property": "can sit", "label": "no"}
-{"idx": 98, "concept": "hornet", "property": "is a reptile", "label": "no"}
-{"idx": 99, "concept": "shrimp", "property": "is from the Andes", "label": "no"}
-{"idx": 100, "concept": "cat", "property": "is a beetle", "label": "no"}
-{"idx": 101, "concept": "prawn", "property": "requires moisture", "label": "no"}
-{"idx": 102, "concept": "raven", "property": "is a canine", "label": "no"}
-{"idx": 103, "concept": "tortoise", "property": "requires warm conditions", "label": "no"}
-{"idx": 104, "concept": "squid", "property": "can be salty in taste", "label": "no"}
-{"idx": 105, "concept": "crane", "property": "is a canine", "label": "no"}
-{"idx": 106, "concept": "falcon", "property": "runs on wheels", "label": "no"}
-{"idx": 107, "concept": "deer", "property": "can go without drinking water", "label": "no"}
-{"idx": 108, "concept": "calf", "property": "can be oily", "label": "no"}
-{"idx": 109, "concept": "partridge", "property": "has compound eyes", "label": "no"}
-{"idx": 110, "concept": "oyster", "property": "hatches from a chrysalis", "label": "no"}
-{"idx": 111, "concept": "hummingbird", "property": "can charge", "label": "no"}
-{"idx": 112, "concept": "caterpillar", "property": "can migrate", "label": "no"}
-{"idx": 113, "concept": "raccoon", "property": "is overfished", "label": "no"}
-{"idx": 114, "concept": "panther", "property": "has babies that are called kids", "label": "no"}
-{"idx": 115, "concept": "peacock", "property": "has big hind legs", "label": "no"}
-{"idx": 116, "concept": "herring", "property": "has a nose", "label": "no"}
-{"idx": 117, "concept": "dolphin", "property": "has a small head", "label": "no"}
-{"idx": 118, "concept": "emu", "property": "swims upstream", "label": "no"}
-{"idx": 119, "concept": "flea", "property": "stores nuts for winter", "label": "no"}
-{"idx": 120, "concept": "turkey", "property": "is not a horse", "label": "no"}
-{"idx": 121, "concept": "hawk", "property": "has an insatiable appetite", "label": "no"}
-{"idx": 122, "concept": "lamb", "property": "is hard to open", "label": "no"}
-{"idx": 123, "concept": "stick_insect", "property": "has a queen", "label": "no"}
-{"idx": 124, "concept": "kingfisher", "property": "is hard to kill", "label": "no"}
-{"idx": 125, "concept": "trout", "property": "can turn into a pupa", "label": "no"}
-{"idx": 126, "concept": "duck", "property": "is a small horse", "label": "no"}
-{"idx": 127, "concept": "cricket", "property": "has a long face", "label": "no"}
+{"idx": 0, "concept": "centipede", "property": "is a predator", "a centipede is a predator": "a centipede is a predator", "label": "yes"}
+{"idx": 1, "concept": "octopus", "property": "can move", "an octopus can move": "an octopus can move", "label": "yes"}
+{"idx": 2, "concept": "wolf", "property": "has feet", "a wolf has feet": "a wolf has feet", "label": "yes"}
+{"idx": 3, "concept": "magpie", "property": "can build nests", "a magpie can build nests": "a magpie can build nests", "label": "yes"}
+{"idx": 4, "concept": "snail", "property": "has moist skin", "a snail has moist skin": "a snail has moist skin", "label": "yes"}
+{"idx": 5, "concept": "chipmunk", "property": "has ears", "a chipmunk has ears": "a chipmunk has ears", "label": "yes"}
+{"idx": 6, "concept": "cockerel", "property": "can lick", "a cockerel can lick": "a cockerel can lick", "label": "yes"}
+{"idx": 7, "concept": "grasshopper", "property": "has feet", "a grasshopper has feet": "a grasshopper has feet", "label": "yes"}
+{"idx": 8, "concept": "seagull", "property": "makes a screeching sound", "a seagull makes a screeching sound": "a seagull makes a screeching sound", "label": "yes"}
+{"idx": 9, "concept": "canary", "property": "is kept in a cage", "a canary is kept in a cage": "a canary is kept in a cage", "label": "yes"}
+{"idx": 10, "concept": "buzzard", "property": "has eyes", "a buzzard has eyes": "a buzzard has eyes", "label": "yes"}
+{"idx": 11, "concept": "platypus", "property": "has a tail", "a platypus has a tail": "a platypus has a tail", "label": "yes"}
+{"idx": 12, "concept": "ant", "property": "can sting", "an ant can sting": "an ant can sting", "label": "yes"}
+{"idx": 13, "concept": "tarantula", "property": "can crawl", "a tarantula can crawl": "a tarantula can crawl", "label": "yes"}
+{"idx": 14, "concept": "leopard", "property": "can jump", "a leopard can jump": "a leopard can jump", "label": "yes"}
+{"idx": 15, "concept": "termite", "property": "can build", "a termite can build": "a termite can build", "label": "yes"}
+{"idx": 16, "concept": "gerbil", "property": "has legs", "a gerbil has legs": "a gerbil has legs", "label": "yes"}
+{"idx": 17, "concept": "bear", "property": "can drink", "a bear can drink": "a bear can drink", "label": "yes"}
+{"idx": 18, "concept": "heron", "property": "can grow", "a heron can grow": "a heron can grow", "label": "yes"}
+{"idx": 19, "concept": "donkey", "property": "is common in developing countries", "a donkey is common in developing countries": "a donkey is common in developing countries", "label": "yes"}
+{"idx": 20, "concept": "cockroach", "property": "has legs", "a cockroach has legs": "a cockroach has legs", "label": "yes"}
+{"idx": 21, "concept": "ostrich", "property": "can bleed", "an ostrich can bleed": "an ostrich can bleed", "label": "yes"}
+{"idx": 22, "concept": "monkey", "property": "has two feet", "a monkey has two feet": "a monkey has two feet", "label": "yes"}
+{"idx": 23, "concept": "skunk", "property": "has a neck", "a skunk has a neck": "a skunk has a neck", "label": "yes"}
+{"idx": 24, "concept": "guinea_pig", "property": "can lick", "a guinea pig can lick": "a guinea pig can lick", "label": "yes"}
+{"idx": 25, "concept": "wren", "property": "can be airborne", "a wren can be airborne": "a wren can be airborne", "label": "yes"}
+{"idx": 26, "concept": "slug", "property": "can bleed", "a slug can bleed": "a slug can bleed", "label": "yes"}
+{"idx": 27, "concept": "hamster", "property": "has skin", "a hamster has skin": "a hamster has skin", "label": "yes"}
+{"idx": 28, "concept": "fox", "property": "can hunt", "a fox can hunt": "a fox can hunt", "label": "yes"}
+{"idx": 29, "concept": "nightingale", "property": "is nocturnal", "a nightingale is nocturnal": "a nightingale is nocturnal", "label": "yes"}
+{"idx": 30, "concept": "goat", "property": "is domesticated", "a goat is domesticated": "a goat is domesticated", "label": "yes"}
+{"idx": 31, "concept": "lobster", "property": "can make sounds", "a lobster can make sounds": "a lobster can make sounds", "label": "yes"}
+{"idx": 32, "concept": "cheetah", "property": "has a crushing bite", "a cheetah has a crushing bite": "a cheetah has a crushing bite", "label": "yes"}
+{"idx": 33, "concept": "rabbit", "property": "can be fast", "a rabbit can be fast": "a rabbit can be fast", "label": "yes"}
+{"idx": 34, "concept": "goldfish", "property": "has two eyes", "a goldfish has two eyes": "a goldfish has two eyes", "label": "yes"}
+{"idx": 35, "concept": "otter", "property": "has a tail", "an otter has a tail": "an otter has a tail", "label": "yes"}
+{"idx": 36, "concept": "owl", "property": "has two feet", "an owl has two feet": "an owl has two feet", "label": "yes"}
+{"idx": 37, "concept": "moth", "property": "has eyes", "a moth has eyes": "a moth has eyes", "label": "yes"}
+{"idx": 38, "concept": "scorpion", "property": "can sleep", "a scorpion can sleep": "a scorpion can sleep", "label": "yes"}
+{"idx": 39, "concept": "zebra", "property": "is hunted by humans", "a zebra is hunted by humans": "a zebra is hunted by humans", "label": "yes"}
+{"idx": 40, "concept": "turtle", "property": "is a reptile", "a turtle is a reptile": "a turtle is a reptile", "label": "yes"}
+{"idx": 41, "concept": "lion", "property": "has legs", "a lion has legs": "a lion has legs", "label": "yes"}
+{"idx": 42, "concept": "alligator", "property": "has a nose", "an alligator has a nose": "an alligator has a nose", "label": "yes"}
+{"idx": 43, "concept": "pig", "property": "has forelimbs", "a pig has forelimbs": "a pig has forelimbs", "label": "yes"}
+{"idx": 44, "concept": "flamingo", "property": "has legs", "a flamingo has legs": "a flamingo has legs", "label": "yes"}
+{"idx": 45, "concept": "salmon", "property": "has a mouth", "a salmon has a mouth": "a salmon has a mouth", "label": "yes"}
+{"idx": 46, "concept": "shark", "property": "has a tail", "a shark has a tail": "a shark has a tail", "label": "yes"}
+{"idx": 47, "concept": "porcupine", "property": "has a mouth", "a porcupine has a mouth": "a porcupine has a mouth", "label": "yes"}
+{"idx": 48, "concept": "llama", "property": "is a herbivore", "a llama is a herbivore": "a llama is a herbivore", "label": "yes"}
+{"idx": 49, "concept": "housefly", "property": "is caught by spiders", "a housefly is caught by spiders": "a housefly is caught by spiders", "label": "yes"}
+{"idx": 50, "concept": "pony", "property": "can transport people", "a pony can transport people": "a pony can transport people", "label": "yes"}
+{"idx": 51, "concept": "sardine", "property": "is a fish", "a sardine is a fish": "a sardine is a fish", "label": "yes"}
+{"idx": 52, "concept": "minnow", "property": "can drink", "a minnow can drink": "a minnow can drink", "label": "yes"}
+{"idx": 53, "concept": "frog", "property": "is an amphibian", "a frog is an amphibian": "a frog is an amphibian", "label": "yes"}
+{"idx": 54, "concept": "eel", "property": "has a fishy smell", "an eel has a fishy smell": "an eel has a fishy smell", "label": "yes"}
+{"idx": 55, "concept": "robin", "property": "has a beak", "a robin has a beak": "a robin has a beak", "label": "yes"}
+{"idx": 56, "concept": "elephant", "property": "has two eyes", "an elephant has two eyes": "an elephant has two eyes", "label": "yes"}
+{"idx": 57, "concept": "ladybird", "property": "has feet", "a ladybird has feet": "a ladybird has feet", "label": "yes"}
+{"idx": 58, "concept": "dragonfly", "property": "is a living thing", "a dragonfly is a living thing": "a dragonfly is a living thing", "label": "yes"}
+{"idx": 59, "concept": "hedgehog", "property": "can walk", "a hedgehog can walk": "a hedgehog can walk", "label": "yes"}
+{"idx": 60, "concept": "sparrow", "property": "has feet", "a sparrow has feet": "a sparrow has feet", "label": "yes"}
+{"idx": 61, "concept": "beetle", "property": "can grow", "a beetle can grow": "a beetle can grow", "label": "yes"}
+{"idx": 62, "concept": "toad", "property": "is a living thing", "a toad is a living thing": "a toad is a living thing", "label": "yes"}
+{"idx": 63, "concept": "carp", "property": "has scaly skin", "a carp has scaly skin": "a carp has scaly skin", "label": "yes"}
+{"idx": 64, "concept": "penguin", "property": "has a long tongue", "a penguin does not have a long tongue": "a penguin does not have a long tongue", "label": "no"}
+{"idx": 65, "concept": "chicken", "property": "gives birth to lambs", "a chicken does not give birth to lambs": "a chicken does not give birth to lambs", "label": "no"}
+{"idx": 66, "concept": "mouse", "property": "has a small beak", "a mouse does not have a small beak": "a mouse does not have a small beak", "label": "no"}
+{"idx": 67, "concept": "rattlesnake", "property": "is poetic", "a rattlesnake is not poetic": "a rattlesnake is not poetic", "label": "no"}
+{"idx": 68, "concept": "eagle", "property": "has pincers", "an eagle does not have pincers": "an eagle does not have pincers", "label": "no"}
+{"idx": 69, "concept": "mackerel", "property": "can carry leaves", "a mackerel cannot carry leaves": "a mackerel cannot carry leaves", "label": "no"}
+{"idx": 70, "concept": "horse", "property": "has compound eyes", "a horse does not have compound eyes": "a horse does not have compound eyes", "label": "no"}
+{"idx": 71, "concept": "tuna", "property": "has strong legs", "a tuna does not have strong legs": "a tuna does not have strong legs", "label": "no"}
+{"idx": 72, "concept": "beaver", "property": "has a big horn", "a beaver does not have a big horn": "a beaver does not have a big horn", "label": "no"}
+{"idx": 73, "concept": "rat", "property": "is a mollusc", "a rat is not a mollusc": "a rat is not a mollusc", "label": "no"}
+{"idx": 74, "concept": "seahorse", "property": "can shoot spikes", "a seahorse cannot shoot spikes": "a seahorse cannot shoot spikes", "label": "no"}
+{"idx": 75, "concept": "iguana", "property": "has humps", "an iguana does not have humps": "an iguana does not have humps", "label": "no"}
+{"idx": 76, "concept": "dove", "property": "has a spiky skin", "a dove does not have a spiky skin": "a dove does not have a spiky skin", "label": "no"}
+{"idx": 77, "concept": "wasp", "property": "breeds rapidly", "a wasp does not breed rapidly": "a wasp does not breed rapidly", "label": "no"}
+{"idx": 78, "concept": "mosquito", "property": "can crawl", "a mosquito cannot crawl": "a mosquito cannot crawl", "label": "no"}
+{"idx": 79, "concept": "parakeet", "property": "is a farm animal", "a parakeet is not a farm animal": "a parakeet is not a farm animal", "label": "no"}
+{"idx": 80, "concept": "whale", "property": "has lumpy skin", "a whale does not have lumpy skin": "a whale does not have lumpy skin", "label": "no"}
+{"idx": 81, "concept": "camel", "property": "has a smooth texture", "a camel does not have a smooth texture": "a camel does not have a smooth texture", "label": "no"}
+{"idx": 82, "concept": "buffalo", "property": "has striped patterns", "a buffalo does not have striped patterns": "a buffalo does not have striped patterns", "label": "no"}
+{"idx": 83, "concept": "woodpecker", "property": "is a fish", "a woodpecker is not a fish": "a woodpecker is not a fish", "label": "no"}
+{"idx": 84, "concept": "starling", "property": "can turn into a pupa", "a starling cannot turn into a pupa": "a starling cannot turn into a pupa", "label": "no"}
+{"idx": 85, "concept": "locust", "property": "has long hair", "a locust does not have long hair": "a locust does not have long hair", "label": "no"}
+{"idx": 86, "concept": "flounder", "property": "is used for transport", "a flounder is not used for transport": "a flounder is not used for transport", "label": "no"}
+{"idx": 87, "concept": "cod", "property": "is a baby cow", "a cod is not a baby cow": "a cod is not a baby cow", "label": "no"}
+{"idx": 88, "concept": "gorilla", "property": "can scavenge in bins", "a gorilla cannot scavenge in bins": "a gorilla cannot scavenge in bins", "label": "no"}
+{"idx": 89, "concept": "kangaroo", "property": "has a proboscis", "a kangaroo does not have a proboscis": "a kangaroo does not have a proboscis", "label": "no"}
+{"idx": 90, "concept": "crab", "property": "is reared for veal", "a crab is not reared for veal": "a crab is not reared for veal", "label": "no"}
+{"idx": 91, "concept": "sheep", "property": "has dark ringed eyes", "a sheep does not have dark ringed eyes": "a sheep does not have dark ringed eyes", "label": "no"}
+{"idx": 92, "concept": "walrus", "property": "mimics human speech", "a walrus does not mimic human speech": "a walrus does not mimic human speech", "label": "no"}
+{"idx": 93, "concept": "crayfish", "property": "is semi aquatic", "a crayfish is not semi aquatic": "a crayfish is not semi aquatic", "label": "no"}
+{"idx": 94, "concept": "pelican", "property": "has big nostrils", "a pelican does not have big nostrils": "a pelican does not have big nostrils", "label": "no"}
+{"idx": 95, "concept": "cow", "property": "consumes planktons", "a cow does not consume planktons": "a cow does not consume planktons", "label": "no"}
+{"idx": 96, "concept": "swan", "property": "can sting", "a swan cannot sting": "a swan cannot sting", "label": "no"}
+{"idx": 97, "concept": "butterfly", "property": "is a rodent", "a butterfly is not a rodent": "a butterfly is not a rodent", "label": "no"}
+{"idx": 98, "concept": "hornet", "property": "is herded by dogs", "a hornet is not herded by dogs": "a hornet is not herded by dogs", "label": "no"}
+{"idx": 99, "concept": "shrimp", "property": "has two claws", "a shrimp does not have two claws": "a shrimp does not have two claws", "label": "no"}
+{"idx": 100, "concept": "cat", "property": "is a freshwater fish", "a cat is not a freshwater fish": "a cat is not a freshwater fish", "label": "no"}
+{"idx": 101, "concept": "prawn", "property": "prefers muddy water", "a prawn does not prefer muddy water": "a prawn does not prefer muddy water", "label": "no"}
+{"idx": 102, "concept": "raven", "property": "can be ridden", "a raven cannot be ridden": "a raven cannot be ridden", "label": "no"}
+{"idx": 103, "concept": "tortoise", "property": "is a bird", "a tortoise is not a bird": "a tortoise is not a bird", "label": "no"}
+{"idx": 104, "concept": "squid", "property": "requires warm conditions", "a squid does not require warm conditions": "a squid does not require warm conditions", "label": "no"}
+{"idx": 105, "concept": "crane", "property": "can guard", "a crane cannot guard": "a crane cannot guard", "label": "no"}
+{"idx": 106, "concept": "falcon", "property": "can be resilient", "a falcon cannot be resilient": "a falcon cannot be resilient", "label": "no"}
+{"idx": 107, "concept": "deer", "property": "has dangly bits around its beak", "a deer does not have dangly bits around its beak": "a deer does not have dangly bits around its beak", "label": "no"}
+{"idx": 108, "concept": "calf", "property": "is a bird of prey", "a calf is not a bird of prey": "a calf is not a bird of prey", "label": "no"}
+{"idx": 109, "concept": "partridge", "property": "can chase", "a partridge cannot chase": "a partridge cannot chase", "label": "no"}
+{"idx": 110, "concept": "oyster", "property": "can pollinate", "an oyster cannot pollinate": "an oyster cannot pollinate", "label": "no"}
+{"idx": 111, "concept": "hummingbird", "property": "is red with black spots", "a hummingbird is not red with black spots": "a hummingbird is not red with black spots", "label": "no"}
+{"idx": 112, "concept": "caterpillar", "property": "has a wet nose", "a caterpillar does not have a wet nose": "a caterpillar does not have a wet nose", "label": "no"}
+{"idx": 113, "concept": "raccoon", "property": "has big front teeth", "a raccoon does not have big front teeth": "a raccoon does not have big front teeth", "label": "no"}
+{"idx": 114, "concept": "panther", "property": "has a shell on its back", "a panther does not have a shell on its back": "a panther does not have a shell on its back", "label": "no"}
+{"idx": 115, "concept": "peacock", "property": "has a smooth texture", "a peacock does not have a smooth texture": "a peacock does not have a smooth texture", "label": "no"}
+{"idx": 116, "concept": "herring", "property": "traps prey in web", "a herring does not trap prey in web": "a herring does not trap prey in web", "label": "no"}
+{"idx": 117, "concept": "dolphin", "property": "is pink when cooked", "a dolphin is not pink when cooked": "a dolphin is not pink when cooked", "label": "no"}
+{"idx": 118, "concept": "emu", "property": "has a woolen coat", "an emu does not have a woolen coat": "an emu does not have a woolen coat", "label": "no"}
+{"idx": 119, "concept": "flea", "property": "is feline", "a flea is not feline": "a flea is not feline", "label": "no"}
+{"idx": 120, "concept": "turkey", "property": "has a slim body", "a turkey does not have a slim body": "a turkey does not have a slim body", "label": "no"}
+{"idx": 121, "concept": "hawk", "property": "is kept in a hutch", "a hawk is not kept in a hutch": "a hawk is not kept in a hutch", "label": "no"}
+{"idx": 122, "concept": "lamb", "property": "can wallow", "a lamb cannot wallow": "a lamb cannot wallow", "label": "no"}
+{"idx": 123, "concept": "stick_insect", "property": "is a mollusc", "a stick insect is not a mollusc": "a stick insect is not a mollusc", "label": "no"}
+{"idx": 124, "concept": "kingfisher", "property": "has a moustache", "a kingfisher does not have a moustache": "a kingfisher does not have a moustache", "label": "no"}
+{"idx": 125, "concept": "trout", "property": "can cling to rocks", "a trout cannot cling to rocks": "a trout cannot cling to rocks", "label": "no"}
+{"idx": 126, "concept": "duck", "property": "is bred with roosters", "a duck is not bred with roosters": "a duck is not bred with roosters", "label": "no"}
+{"idx": 127, "concept": "cricket", "property": "is red with black spots", "a cricket is not red with black spots": "a cricket is not red with black spots", "label": "no"}

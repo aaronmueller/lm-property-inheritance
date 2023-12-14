@@ -1,128 +1,128 @@
-{"idx": 0, "concept": "centipede", "property": "is a predator", "label": "yes", "question": "Question: Is it true that a centipede is a predator? Answer:"}
-{"idx": 1, "concept": "octopus", "property": "can move", "label": "yes", "question": "Question: Is it true that an octopus can move? Answer:"}
-{"idx": 2, "concept": "wolf", "property": "has ears", "label": "yes", "question": "Question: Is it true that a wolf has ears? Answer:"}
-{"idx": 3, "concept": "magpie", "property": "can build nests", "label": "yes", "question": "Question: Is it true that a magpie can build nests? Answer:"}
-{"idx": 4, "concept": "snail", "property": "has moist skin", "label": "yes", "question": "Question: Is it true that a snail has moist skin? Answer:"}
-{"idx": 5, "concept": "chipmunk", "property": "has ears", "label": "yes", "question": "Question: Is it true that a chipmunk has ears? Answer:"}
-{"idx": 6, "concept": "cockerel", "property": "can lick", "label": "yes", "question": "Question: Is it true that a cockerel can lick? Answer:"}
-{"idx": 7, "concept": "grasshopper", "property": "has feet", "label": "yes", "question": "Question: Is it true that a grasshopper has feet? Answer:"}
-{"idx": 8, "concept": "seagull", "property": "makes a screeching sound", "label": "yes", "question": "Question: Is it true that a seagull makes a screeching sound? Answer:"}
-{"idx": 9, "concept": "canary", "property": "is kept in a cage", "label": "yes", "question": "Question: Is it true that a canary is kept in a cage? Answer:"}
-{"idx": 10, "concept": "buzzard", "property": "is warm blooded", "label": "yes", "question": "Question: Is it true that a buzzard is warm blooded? Answer:"}
-{"idx": 11, "concept": "platypus", "property": "has ears", "label": "yes", "question": "Question: Is it true that a platypus has ears? Answer:"}
-{"idx": 12, "concept": "ant", "property": "has a segmented body", "label": "yes", "question": "Question: Is it true that an ant has a segmented body? Answer:"}
-{"idx": 13, "concept": "tarantula", "property": "has a face", "label": "yes", "question": "Question: Is it true that a tarantula has a face? Answer:"}
-{"idx": 14, "concept": "leopard", "property": "can kill", "label": "yes", "question": "Question: Is it true that a leopard can kill? Answer:"}
-{"idx": 15, "concept": "termite", "property": "can lay eggs", "label": "yes", "question": "Question: Is it true that a termite can lay eggs? Answer:"}
-{"idx": 16, "concept": "gerbil", "property": "can bite", "label": "yes", "question": "Question: Is it true that a gerbil can bite? Answer:"}
-{"idx": 17, "concept": "bear", "property": "has babies that are called cubs", "label": "yes", "question": "Question: Is it true that a bear has babies that are called cubs? Answer:"}
-{"idx": 18, "concept": "heron", "property": "can lay eggs", "label": "yes", "question": "Question: Is it true that a heron can lay eggs? Answer:"}
-{"idx": 19, "concept": "donkey", "property": "is warm blooded", "label": "yes", "question": "Question: Is it true that a donkey is warm blooded? Answer:"}
-{"idx": 20, "concept": "cockroach", "property": "can drink", "label": "yes", "question": "Question: Is it true that a cockroach can drink? Answer:"}
-{"idx": 21, "concept": "ostrich", "property": "is streamlined", "label": "yes", "question": "Question: Is it true that an ostrich is streamlined? Answer:"}
-{"idx": 22, "concept": "monkey", "property": "has ears", "label": "yes", "question": "Question: Is it true that a monkey has ears? Answer:"}
-{"idx": 23, "concept": "skunk", "property": "can drool", "label": "yes", "question": "Question: Is it true that a skunk can drool? Answer:"}
-{"idx": 24, "concept": "guinea_pig", "property": "is a mammal", "label": "yes", "question": "Question: Is it true that a guinea pig is a mammal? Answer:"}
-{"idx": 25, "concept": "wren", "property": "has a head", "label": "yes", "question": "Question: Is it true that a wren has a head? Answer:"}
-{"idx": 26, "concept": "slug", "property": "can move", "label": "yes", "question": "Question: Is it true that a slug can move? Answer:"}
-{"idx": 27, "concept": "hamster", "property": "breeds rapidly", "label": "yes", "question": "Question: Is it true that a hamster breeds rapidly? Answer:"}
-{"idx": 28, "concept": "fox", "property": "can drink", "label": "yes", "question": "Question: Is it true that a fox can drink? Answer:"}
-{"idx": 29, "concept": "nightingale", "property": "has two legs", "label": "yes", "question": "Question: Is it true that a nightingale has two legs? Answer:"}
-{"idx": 30, "concept": "goat", "property": "can climb", "label": "yes", "question": "Question: Is it true that a goat can climb? Answer:"}
-{"idx": 31, "concept": "lobster", "property": "is cold blooded", "label": "yes", "question": "Question: Is it true that a lobster is cold blooded? Answer:"}
-{"idx": 32, "concept": "cheetah", "property": "can lick", "label": "yes", "question": "Question: Is it true that a cheetah can lick? Answer:"}
-{"idx": 33, "concept": "rabbit", "property": "is kept in a cage", "label": "yes", "question": "Question: Is it true that a rabbit is kept in a cage? Answer:"}
-{"idx": 34, "concept": "goldfish", "property": "has a fishy smell", "label": "yes", "question": "Question: Is it true that a goldfish has a fishy smell? Answer:"}
-{"idx": 35, "concept": "otter", "property": "can bleed", "label": "yes", "question": "Question: Is it true that an otter can bleed? Answer:"}
-{"idx": 36, "concept": "owl", "property": "has a nose", "label": "yes", "question": "Question: Is it true that an owl has a nose? Answer:"}
-{"idx": 37, "concept": "moth", "property": "has six legs", "label": "yes", "question": "Question: Is it true that a moth has six legs? Answer:"}
-{"idx": 38, "concept": "scorpion", "property": "is cold blooded", "label": "yes", "question": "Question: Is it true that a scorpion is cold blooded? Answer:"}
-{"idx": 39, "concept": "zebra", "property": "has a long tail", "label": "yes", "question": "Question: Is it true that a zebra has a long tail? Answer:"}
-{"idx": 40, "concept": "turtle", "property": "can swim", "label": "yes", "question": "Question: Is it true that a turtle can swim? Answer:"}
-{"idx": 41, "concept": "lion", "property": "has four legs", "label": "yes", "question": "Question: Is it true that a lion has four legs? Answer:"}
-{"idx": 42, "concept": "alligator", "property": "has a mouth", "label": "yes", "question": "Question: Is it true that an alligator has a mouth? Answer:"}
-{"idx": 43, "concept": "pig", "property": "has floppy ears", "label": "yes", "question": "Question: Is it true that a pig has floppy ears? Answer:"}
-{"idx": 44, "concept": "flamingo", "property": "has legs", "label": "yes", "question": "Question: Is it true that a flamingo has legs? Answer:"}
-{"idx": 45, "concept": "salmon", "property": "has a mouth", "label": "yes", "question": "Question: Is it true that a salmon has a mouth? Answer:"}
-{"idx": 46, "concept": "shark", "property": "has a pointed nose", "label": "yes", "question": "Question: Is it true that a shark has a pointed nose? Answer:"}
-{"idx": 47, "concept": "porcupine", "property": "has a mouth", "label": "yes", "question": "Question: Is it true that a porcupine has a mouth? Answer:"}
-{"idx": 48, "concept": "llama", "property": "is a herbivore", "label": "yes", "question": "Question: Is it true that a llama is a herbivore? Answer:"}
-{"idx": 49, "concept": "housefly", "property": "is caught by spiders", "label": "yes", "question": "Question: Is it true that a housefly is caught by spiders? Answer:"}
-{"idx": 50, "concept": "pony", "property": "can transport people", "label": "yes", "question": "Question: Is it true that a pony can transport people? Answer:"}
-{"idx": 51, "concept": "sardine", "property": "is a fish", "label": "yes", "question": "Question: Is it true that a sardine is a fish? Answer:"}
-{"idx": 52, "concept": "minnow", "property": "can drink", "label": "yes", "question": "Question: Is it true that a minnow can drink? Answer:"}
-{"idx": 53, "concept": "frog", "property": "is an amphibian", "label": "yes", "question": "Question: Is it true that a frog is an amphibian? Answer:"}
-{"idx": 54, "concept": "eel", "property": "has a face", "label": "yes", "question": "Question: Is it true that an eel has a face? Answer:"}
-{"idx": 55, "concept": "robin", "property": "has a beak", "label": "yes", "question": "Question: Is it true that a robin has a beak? Answer:"}
-{"idx": 56, "concept": "elephant", "property": "has tusks", "label": "yes", "question": "Question: Is it true that an elephant has tusks? Answer:"}
-{"idx": 57, "concept": "ladybird", "property": "has feet", "label": "yes", "question": "Question: Is it true that a ladybird has feet? Answer:"}
-{"idx": 58, "concept": "dragonfly", "property": "is a living thing", "label": "yes", "question": "Question: Is it true that a dragonfly is a living thing? Answer:"}
-{"idx": 59, "concept": "hedgehog", "property": "can walk", "label": "yes", "question": "Question: Is it true that a hedgehog can walk? Answer:"}
-{"idx": 60, "concept": "sparrow", "property": "has feet", "label": "yes", "question": "Question: Is it true that a sparrow has feet? Answer:"}
-{"idx": 61, "concept": "beetle", "property": "can grow", "label": "yes", "question": "Question: Is it true that a beetle can grow? Answer:"}
-{"idx": 62, "concept": "toad", "property": "is a living thing", "label": "yes", "question": "Question: Is it true that a toad is a living thing? Answer:"}
-{"idx": 63, "concept": "carp", "property": "has scaly skin", "label": "yes", "question": "Question: Is it true that a carp has scaly skin? Answer:"}
-{"idx": 64, "concept": "penguin", "property": "has a long nose", "label": "no", "question": "Question: Is it true that a penguin has a long nose? Answer:"}
-{"idx": 65, "concept": "chicken", "property": "gives birth to ducklings", "label": "no", "question": "Question: Is it true that a chicken gives birth to ducklings? Answer:"}
-{"idx": 66, "concept": "mouse", "property": "has a siphon", "label": "no", "question": "Question: Is it true that a mouse has a siphon? Answer:"}
-{"idx": 67, "concept": "rattlesnake", "property": "is nocturnal", "label": "no", "question": "Question: Is it true that a rattlesnake is nocturnal? Answer:"}
-{"idx": 68, "concept": "eagle", "property": "has patterns on its body", "label": "no", "question": "Question: Is it true that an eagle has patterns on its body? Answer:"}
-{"idx": 69, "concept": "mackerel", "property": "can carry leaves", "label": "no", "question": "Question: Is it true that a mackerel can carry leaves? Answer:"}
-{"idx": 70, "concept": "horse", "property": "has claws", "label": "no", "question": "Question: Is it true that a horse has claws? Answer:"}
-{"idx": 71, "concept": "tuna", "property": "has sticky grip", "label": "no", "question": "Question: Is it true that a tuna has sticky grip? Answer:"}
-{"idx": 72, "concept": "beaver", "property": "has a big body", "label": "no", "question": "Question: Is it true that a beaver has a big body? Answer:"}
-{"idx": 73, "concept": "rat", "property": "is a marsupial", "label": "no", "question": "Question: Is it true that a rat is a marsupial? Answer:"}
-{"idx": 74, "concept": "seahorse", "property": "can scuttle", "label": "no", "question": "Question: Is it true that a seahorse can scuttle? Answer:"}
-{"idx": 75, "concept": "iguana", "property": "has hinges", "label": "no", "question": "Question: Is it true that an iguana has hinges? Answer:"}
-{"idx": 76, "concept": "dove", "property": "has a soft body", "label": "no", "question": "Question: Is it true that a dove has a soft body? Answer:"}
-{"idx": 77, "concept": "wasp", "property": "breeds rapidly", "label": "no", "question": "Question: Is it true that a wasp breeds rapidly? Answer:"}
-{"idx": 78, "concept": "mosquito", "property": "can crawl", "label": "no", "question": "Question: Is it true that a mosquito can crawl? Answer:"}
-{"idx": 79, "concept": "parakeet", "property": "is a crustacean", "label": "no", "question": "Question: Is it true that a parakeet is a crustacean? Answer:"}
-{"idx": 80, "concept": "whale", "property": "has long hair", "label": "no", "question": "Question: Is it true that a whale has long hair? Answer:"}
-{"idx": 81, "concept": "camel", "property": "has a small head", "label": "no", "question": "Question: Is it true that a camel has a small head? Answer:"}
-{"idx": 82, "concept": "buffalo", "property": "has spiked feet", "label": "no", "question": "Question: Is it true that a buffalo has spiked feet? Answer:"}
-{"idx": 83, "concept": "woodpecker", "property": "wakes up early", "label": "no", "question": "Question: Is it true that a woodpecker wakes up early? Answer:"}
-{"idx": 84, "concept": "starling", "property": "is a deer", "label": "no", "question": "Question: Is it true that a starling is a deer? Answer:"}
-{"idx": 85, "concept": "locust", "property": "can swing", "label": "no", "question": "Question: Is it true that a locust can swing? Answer:"}
-{"idx": 86, "concept": "flounder", "property": "has horns", "label": "no", "question": "Question: Is it true that a flounder has horns? Answer:"}
-{"idx": 87, "concept": "cod", "property": "is used as bait for fishing", "label": "no", "question": "Question: Is it true that a cod is used as bait for fishing? Answer:"}
-{"idx": 88, "concept": "gorilla", "property": "is a delicacy", "label": "no", "question": "Question: Is it true that a gorilla is a delicacy? Answer:"}
-{"idx": 89, "concept": "kangaroo", "property": "can run fast", "label": "no", "question": "Question: Is it true that a kangaroo can run fast? Answer:"}
-{"idx": 90, "concept": "crab", "property": "has a long trunk", "label": "no", "question": "Question: Is it true that a crab has a long trunk? Answer:"}
-{"idx": 91, "concept": "sheep", "property": "is not a horse", "label": "no", "question": "Question: Is it true that a sheep is not a horse? Answer:"}
-{"idx": 92, "concept": "walrus", "property": "has dangly bits around its beak", "label": "no", "question": "Question: Is it true that a walrus has dangly bits around its beak? Answer:"}
-{"idx": 93, "concept": "crayfish", "property": "makes a mooing sound", "label": "no", "question": "Question: Is it true that a crayfish makes a mooing sound? Answer:"}
-{"idx": 94, "concept": "pelican", "property": "is shorn", "label": "no", "question": "Question: Is it true that a pelican is shorn? Answer:"}
-{"idx": 95, "concept": "cow", "property": "has baleen", "label": "no", "question": "Question: Is it true that a cow has baleen? Answer:"}
-{"idx": 96, "concept": "swan", "property": "does jump long distances", "label": "no", "question": "Question: Is it true that a swan does jump long distances? Answer:"}
-{"idx": 97, "concept": "butterfly", "property": "can sit", "label": "no", "question": "Question: Is it true that a butterfly can sit? Answer:"}
-{"idx": 98, "concept": "hornet", "property": "is a reptile", "label": "no", "question": "Question: Is it true that a hornet is a reptile? Answer:"}
-{"idx": 99, "concept": "shrimp", "property": "is from the Andes", "label": "no", "question": "Question: Is it true that a shrimp is from the Andes? Answer:"}
-{"idx": 100, "concept": "cat", "property": "is a beetle", "label": "no", "question": "Question: Is it true that a cat is a beetle? Answer:"}
-{"idx": 101, "concept": "prawn", "property": "requires moisture", "label": "no", "question": "Question: Is it true that a prawn requires moisture? Answer:"}
-{"idx": 102, "concept": "raven", "property": "is a canine", "label": "no", "question": "Question: Is it true that a raven is a canine? Answer:"}
-{"idx": 103, "concept": "tortoise", "property": "requires warm conditions", "label": "no", "question": "Question: Is it true that a tortoise requires warm conditions? Answer:"}
-{"idx": 104, "concept": "squid", "property": "can be salty in taste", "label": "no", "question": "Question: Is it true that a squid can be salty in taste? Answer:"}
-{"idx": 105, "concept": "crane", "property": "is a canine", "label": "no", "question": "Question: Is it true that a crane is a canine? Answer:"}
-{"idx": 106, "concept": "falcon", "property": "runs on wheels", "label": "no", "question": "Question: Is it true that a falcon runs on wheels? Answer:"}
-{"idx": 107, "concept": "deer", "property": "can go without drinking water", "label": "no", "question": "Question: Is it true that a deer can go without drinking water? Answer:"}
-{"idx": 108, "concept": "calf", "property": "can be oily", "label": "no", "question": "Question: Is it true that a calf can be oily? Answer:"}
-{"idx": 109, "concept": "partridge", "property": "has compound eyes", "label": "no", "question": "Question: Is it true that a partridge has compound eyes? Answer:"}
-{"idx": 110, "concept": "oyster", "property": "hatches from a chrysalis", "label": "no", "question": "Question: Is it true that an oyster hatches from a chrysalis? Answer:"}
-{"idx": 111, "concept": "hummingbird", "property": "can charge", "label": "no", "question": "Question: Is it true that a hummingbird can charge? Answer:"}
-{"idx": 112, "concept": "caterpillar", "property": "can migrate", "label": "no", "question": "Question: Is it true that a caterpillar can migrate? Answer:"}
-{"idx": 113, "concept": "raccoon", "property": "is overfished", "label": "no", "question": "Question: Is it true that a raccoon is overfished? Answer:"}
-{"idx": 114, "concept": "panther", "property": "has babies that are called kids", "label": "no", "question": "Question: Is it true that a panther has babies that are called kids? Answer:"}
-{"idx": 115, "concept": "peacock", "property": "has big hind legs", "label": "no", "question": "Question: Is it true that a peacock has big hind legs? Answer:"}
-{"idx": 116, "concept": "herring", "property": "has a nose", "label": "no", "question": "Question: Is it true that a herring has a nose? Answer:"}
-{"idx": 117, "concept": "dolphin", "property": "has a small head", "label": "no", "question": "Question: Is it true that a dolphin has a small head? Answer:"}
-{"idx": 118, "concept": "emu", "property": "swims upstream", "label": "no", "question": "Question: Is it true that an emu swims upstream? Answer:"}
-{"idx": 119, "concept": "flea", "property": "stores nuts for winter", "label": "no", "question": "Question: Is it true that a flea stores nuts for winter? Answer:"}
-{"idx": 120, "concept": "turkey", "property": "is not a horse", "label": "no", "question": "Question: Is it true that a turkey is not a horse? Answer:"}
-{"idx": 121, "concept": "hawk", "property": "has an insatiable appetite", "label": "no", "question": "Question: Is it true that a hawk has an insatiable appetite? Answer:"}
-{"idx": 122, "concept": "lamb", "property": "is hard to open", "label": "no", "question": "Question: Is it true that a lamb is hard to open? Answer:"}
-{"idx": 123, "concept": "stick_insect", "property": "has a queen", "label": "no", "question": "Question: Is it true that a stick insect has a queen? Answer:"}
-{"idx": 124, "concept": "kingfisher", "property": "is hard to kill", "label": "no", "question": "Question: Is it true that a kingfisher is hard to kill? Answer:"}
-{"idx": 125, "concept": "trout", "property": "can turn into a pupa", "label": "no", "question": "Question: Is it true that a trout can turn into a pupa? Answer:"}
-{"idx": 126, "concept": "duck", "property": "is a small horse", "label": "no", "question": "Question: Is it true that a duck is a small horse? Answer:"}
-{"idx": 127, "concept": "cricket", "property": "has a long face", "label": "no", "question": "Question: Is it true that a cricket has a long face? Answer:"}
+{"idx": 0, "concept": "centipede", "property": "is a predator", "a centipede is a predator": "a centipede is a predator", "label": "yes", "question": "Question: Is it true that a centipede is a predator? Answer:"}
+{"idx": 1, "concept": "octopus", "property": "can move", "an octopus can move": "an octopus can move", "label": "yes", "question": "Question: Is it true that an octopus can move? Answer:"}
+{"idx": 2, "concept": "wolf", "property": "has feet", "a wolf has feet": "a wolf has feet", "label": "yes", "question": "Question: Is it true that a wolf has feet? Answer:"}
+{"idx": 3, "concept": "magpie", "property": "can build nests", "a magpie can build nests": "a magpie can build nests", "label": "yes", "question": "Question: Is it true that a magpie can build nests? Answer:"}
+{"idx": 4, "concept": "snail", "property": "has moist skin", "a snail has moist skin": "a snail has moist skin", "label": "yes", "question": "Question: Is it true that a snail has moist skin? Answer:"}
+{"idx": 5, "concept": "chipmunk", "property": "has ears", "a chipmunk has ears": "a chipmunk has ears", "label": "yes", "question": "Question: Is it true that a chipmunk has ears? Answer:"}
+{"idx": 6, "concept": "cockerel", "property": "can lick", "a cockerel can lick": "a cockerel can lick", "label": "yes", "question": "Question: Is it true that a cockerel can lick? Answer:"}
+{"idx": 7, "concept": "grasshopper", "property": "has feet", "a grasshopper has feet": "a grasshopper has feet", "label": "yes", "question": "Question: Is it true that a grasshopper has feet? Answer:"}
+{"idx": 8, "concept": "seagull", "property": "makes a screeching sound", "a seagull makes a screeching sound": "a seagull makes a screeching sound", "label": "yes", "question": "Question: Is it true that a seagull makes a screeching sound? Answer:"}
+{"idx": 9, "concept": "canary", "property": "is kept in a cage", "a canary is kept in a cage": "a canary is kept in a cage", "label": "yes", "question": "Question: Is it true that a canary is kept in a cage? Answer:"}
+{"idx": 10, "concept": "buzzard", "property": "has eyes", "a buzzard has eyes": "a buzzard has eyes", "label": "yes", "question": "Question: Is it true that a buzzard has eyes? Answer:"}
+{"idx": 11, "concept": "platypus", "property": "has a tail", "a platypus has a tail": "a platypus has a tail", "label": "yes", "question": "Question: Is it true that a platypus has a tail? Answer:"}
+{"idx": 12, "concept": "ant", "property": "can sting", "an ant can sting": "an ant can sting", "label": "yes", "question": "Question: Is it true that an ant can sting? Answer:"}
+{"idx": 13, "concept": "tarantula", "property": "can crawl", "a tarantula can crawl": "a tarantula can crawl", "label": "yes", "question": "Question: Is it true that a tarantula can crawl? Answer:"}
+{"idx": 14, "concept": "leopard", "property": "can jump", "a leopard can jump": "a leopard can jump", "label": "yes", "question": "Question: Is it true that a leopard can jump? Answer:"}
+{"idx": 15, "concept": "termite", "property": "can build", "a termite can build": "a termite can build", "label": "yes", "question": "Question: Is it true that a termite can build? Answer:"}
+{"idx": 16, "concept": "gerbil", "property": "has legs", "a gerbil has legs": "a gerbil has legs", "label": "yes", "question": "Question: Is it true that a gerbil has legs? Answer:"}
+{"idx": 17, "concept": "bear", "property": "can drink", "a bear can drink": "a bear can drink", "label": "yes", "question": "Question: Is it true that a bear can drink? Answer:"}
+{"idx": 18, "concept": "heron", "property": "can grow", "a heron can grow": "a heron can grow", "label": "yes", "question": "Question: Is it true that a heron can grow? Answer:"}
+{"idx": 19, "concept": "donkey", "property": "is common in developing countries", "a donkey is common in developing countries": "a donkey is common in developing countries", "label": "yes", "question": "Question: Is it true that a donkey is common in developing countries? Answer:"}
+{"idx": 20, "concept": "cockroach", "property": "has legs", "a cockroach has legs": "a cockroach has legs", "label": "yes", "question": "Question: Is it true that a cockroach has legs? Answer:"}
+{"idx": 21, "concept": "ostrich", "property": "can bleed", "an ostrich can bleed": "an ostrich can bleed", "label": "yes", "question": "Question: Is it true that an ostrich can bleed? Answer:"}
+{"idx": 22, "concept": "monkey", "property": "has two feet", "a monkey has two feet": "a monkey has two feet", "label": "yes", "question": "Question: Is it true that a monkey has two feet? Answer:"}
+{"idx": 23, "concept": "skunk", "property": "has a neck", "a skunk has a neck": "a skunk has a neck", "label": "yes", "question": "Question: Is it true that a skunk has a neck? Answer:"}
+{"idx": 24, "concept": "guinea_pig", "property": "can lick", "a guinea pig can lick": "a guinea pig can lick", "label": "yes", "question": "Question: Is it true that a guinea pig can lick? Answer:"}
+{"idx": 25, "concept": "wren", "property": "can be airborne", "a wren can be airborne": "a wren can be airborne", "label": "yes", "question": "Question: Is it true that a wren can be airborne? Answer:"}
+{"idx": 26, "concept": "slug", "property": "can bleed", "a slug can bleed": "a slug can bleed", "label": "yes", "question": "Question: Is it true that a slug can bleed? Answer:"}
+{"idx": 27, "concept": "hamster", "property": "has skin", "a hamster has skin": "a hamster has skin", "label": "yes", "question": "Question: Is it true that a hamster has skin? Answer:"}
+{"idx": 28, "concept": "fox", "property": "can hunt", "a fox can hunt": "a fox can hunt", "label": "yes", "question": "Question: Is it true that a fox can hunt? Answer:"}
+{"idx": 29, "concept": "nightingale", "property": "is nocturnal", "a nightingale is nocturnal": "a nightingale is nocturnal", "label": "yes", "question": "Question: Is it true that a nightingale is nocturnal? Answer:"}
+{"idx": 30, "concept": "goat", "property": "is domesticated", "a goat is domesticated": "a goat is domesticated", "label": "yes", "question": "Question: Is it true that a goat is domesticated? Answer:"}
+{"idx": 31, "concept": "lobster", "property": "can make sounds", "a lobster can make sounds": "a lobster can make sounds", "label": "yes", "question": "Question: Is it true that a lobster can make sounds? Answer:"}
+{"idx": 32, "concept": "cheetah", "property": "has a crushing bite", "a cheetah has a crushing bite": "a cheetah has a crushing bite", "label": "yes", "question": "Question: Is it true that a cheetah has a crushing bite? Answer:"}
+{"idx": 33, "concept": "rabbit", "property": "can be fast", "a rabbit can be fast": "a rabbit can be fast", "label": "yes", "question": "Question: Is it true that a rabbit can be fast? Answer:"}
+{"idx": 34, "concept": "goldfish", "property": "has two eyes", "a goldfish has two eyes": "a goldfish has two eyes", "label": "yes", "question": "Question: Is it true that a goldfish has two eyes? Answer:"}
+{"idx": 35, "concept": "otter", "property": "has a tail", "an otter has a tail": "an otter has a tail", "label": "yes", "question": "Question: Is it true that an otter has a tail? Answer:"}
+{"idx": 36, "concept": "owl", "property": "has two feet", "an owl has two feet": "an owl has two feet", "label": "yes", "question": "Question: Is it true that an owl has two feet? Answer:"}
+{"idx": 37, "concept": "moth", "property": "has eyes", "a moth has eyes": "a moth has eyes", "label": "yes", "question": "Question: Is it true that a moth has eyes? Answer:"}
+{"idx": 38, "concept": "scorpion", "property": "can sleep", "a scorpion can sleep": "a scorpion can sleep", "label": "yes", "question": "Question: Is it true that a scorpion can sleep? Answer:"}
+{"idx": 39, "concept": "zebra", "property": "is hunted by humans", "a zebra is hunted by humans": "a zebra is hunted by humans", "label": "yes", "question": "Question: Is it true that a zebra is hunted by humans? Answer:"}
+{"idx": 40, "concept": "turtle", "property": "is a reptile", "a turtle is a reptile": "a turtle is a reptile", "label": "yes", "question": "Question: Is it true that a turtle is a reptile? Answer:"}
+{"idx": 41, "concept": "lion", "property": "has legs", "a lion has legs": "a lion has legs", "label": "yes", "question": "Question: Is it true that a lion has legs? Answer:"}
+{"idx": 42, "concept": "alligator", "property": "has a nose", "an alligator has a nose": "an alligator has a nose", "label": "yes", "question": "Question: Is it true that an alligator has a nose? Answer:"}
+{"idx": 43, "concept": "pig", "property": "has forelimbs", "a pig has forelimbs": "a pig has forelimbs", "label": "yes", "question": "Question: Is it true that a pig has forelimbs? Answer:"}
+{"idx": 44, "concept": "flamingo", "property": "has legs", "a flamingo has legs": "a flamingo has legs", "label": "yes", "question": "Question: Is it true that a flamingo has legs? Answer:"}
+{"idx": 45, "concept": "salmon", "property": "has a mouth", "a salmon has a mouth": "a salmon has a mouth", "label": "yes", "question": "Question: Is it true that a salmon has a mouth? Answer:"}
+{"idx": 46, "concept": "shark", "property": "has a tail", "a shark has a tail": "a shark has a tail", "label": "yes", "question": "Question: Is it true that a shark has a tail? Answer:"}
+{"idx": 47, "concept": "porcupine", "property": "has a mouth", "a porcupine has a mouth": "a porcupine has a mouth", "label": "yes", "question": "Question: Is it true that a porcupine has a mouth? Answer:"}
+{"idx": 48, "concept": "llama", "property": "is a herbivore", "a llama is a herbivore": "a llama is a herbivore", "label": "yes", "question": "Question: Is it true that a llama is a herbivore? Answer:"}
+{"idx": 49, "concept": "housefly", "property": "is caught by spiders", "a housefly is caught by spiders": "a housefly is caught by spiders", "label": "yes", "question": "Question: Is it true that a housefly is caught by spiders? Answer:"}
+{"idx": 50, "concept": "pony", "property": "can transport people", "a pony can transport people": "a pony can transport people", "label": "yes", "question": "Question: Is it true that a pony can transport people? Answer:"}
+{"idx": 51, "concept": "sardine", "property": "is a fish", "a sardine is a fish": "a sardine is a fish", "label": "yes", "question": "Question: Is it true that a sardine is a fish? Answer:"}
+{"idx": 52, "concept": "minnow", "property": "can drink", "a minnow can drink": "a minnow can drink", "label": "yes", "question": "Question: Is it true that a minnow can drink? Answer:"}
+{"idx": 53, "concept": "frog", "property": "is an amphibian", "a frog is an amphibian": "a frog is an amphibian", "label": "yes", "question": "Question: Is it true that a frog is an amphibian? Answer:"}
+{"idx": 54, "concept": "eel", "property": "has a fishy smell", "an eel has a fishy smell": "an eel has a fishy smell", "label": "yes", "question": "Question: Is it true that an eel has a fishy smell? Answer:"}
+{"idx": 55, "concept": "robin", "property": "has a beak", "a robin has a beak": "a robin has a beak", "label": "yes", "question": "Question: Is it true that a robin has a beak? Answer:"}
+{"idx": 56, "concept": "elephant", "property": "has two eyes", "an elephant has two eyes": "an elephant has two eyes", "label": "yes", "question": "Question: Is it true that an elephant has two eyes? Answer:"}
+{"idx": 57, "concept": "ladybird", "property": "has feet", "a ladybird has feet": "a ladybird has feet", "label": "yes", "question": "Question: Is it true that a ladybird has feet? Answer:"}
+{"idx": 58, "concept": "dragonfly", "property": "is a living thing", "a dragonfly is a living thing": "a dragonfly is a living thing", "label": "yes", "question": "Question: Is it true that a dragonfly is a living thing? Answer:"}
+{"idx": 59, "concept": "hedgehog", "property": "can walk", "a hedgehog can walk": "a hedgehog can walk", "label": "yes", "question": "Question: Is it true that a hedgehog can walk? Answer:"}
+{"idx": 60, "concept": "sparrow", "property": "has feet", "a sparrow has feet": "a sparrow has feet", "label": "yes", "question": "Question: Is it true that a sparrow has feet? Answer:"}
+{"idx": 61, "concept": "beetle", "property": "can grow", "a beetle can grow": "a beetle can grow", "label": "yes", "question": "Question: Is it true that a beetle can grow? Answer:"}
+{"idx": 62, "concept": "toad", "property": "is a living thing", "a toad is a living thing": "a toad is a living thing", "label": "yes", "question": "Question: Is it true that a toad is a living thing? Answer:"}
+{"idx": 63, "concept": "carp", "property": "has scaly skin", "a carp has scaly skin": "a carp has scaly skin", "label": "yes", "question": "Question: Is it true that a carp has scaly skin? Answer:"}
+{"idx": 64, "concept": "penguin", "property": "has a long tongue", "a penguin does not have a long tongue": "a penguin does not have a long tongue", "label": "no", "question": "Question: Is it true that a penguin has a long tongue? Answer:"}
+{"idx": 65, "concept": "chicken", "property": "gives birth to lambs", "a chicken does not give birth to lambs": "a chicken does not give birth to lambs", "label": "no", "question": "Question: Is it true that a chicken gives birth to lambs? Answer:"}
+{"idx": 66, "concept": "mouse", "property": "has a small beak", "a mouse does not have a small beak": "a mouse does not have a small beak", "label": "no", "question": "Question: Is it true that a mouse has a small beak? Answer:"}
+{"idx": 67, "concept": "rattlesnake", "property": "is poetic", "a rattlesnake is not poetic": "a rattlesnake is not poetic", "label": "no", "question": "Question: Is it true that a rattlesnake is poetic? Answer:"}
+{"idx": 68, "concept": "eagle", "property": "has pincers", "an eagle does not have pincers": "an eagle does not have pincers", "label": "no", "question": "Question: Is it true that an eagle has pincers? Answer:"}
+{"idx": 69, "concept": "mackerel", "property": "can carry leaves", "a mackerel cannot carry leaves": "a mackerel cannot carry leaves", "label": "no", "question": "Question: Is it true that a mackerel can carry leaves? Answer:"}
+{"idx": 70, "concept": "horse", "property": "has compound eyes", "a horse does not have compound eyes": "a horse does not have compound eyes", "label": "no", "question": "Question: Is it true that a horse has compound eyes? Answer:"}
+{"idx": 71, "concept": "tuna", "property": "has strong legs", "a tuna does not have strong legs": "a tuna does not have strong legs", "label": "no", "question": "Question: Is it true that a tuna has strong legs? Answer:"}
+{"idx": 72, "concept": "beaver", "property": "has a big horn", "a beaver does not have a big horn": "a beaver does not have a big horn", "label": "no", "question": "Question: Is it true that a beaver has a big horn? Answer:"}
+{"idx": 73, "concept": "rat", "property": "is a mollusc", "a rat is not a mollusc": "a rat is not a mollusc", "label": "no", "question": "Question: Is it true that a rat is a mollusc? Answer:"}
+{"idx": 74, "concept": "seahorse", "property": "can shoot spikes", "a seahorse cannot shoot spikes": "a seahorse cannot shoot spikes", "label": "no", "question": "Question: Is it true that a seahorse can shoot spikes? Answer:"}
+{"idx": 75, "concept": "iguana", "property": "has humps", "an iguana does not have humps": "an iguana does not have humps", "label": "no", "question": "Question: Is it true that an iguana has humps? Answer:"}
+{"idx": 76, "concept": "dove", "property": "has a spiky skin", "a dove does not have a spiky skin": "a dove does not have a spiky skin", "label": "no", "question": "Question: Is it true that a dove has a spiky skin? Answer:"}
+{"idx": 77, "concept": "wasp", "property": "breeds rapidly", "a wasp does not breed rapidly": "a wasp does not breed rapidly", "label": "no", "question": "Question: Is it true that a wasp breeds rapidly? Answer:"}
+{"idx": 78, "concept": "mosquito", "property": "can crawl", "a mosquito cannot crawl": "a mosquito cannot crawl", "label": "no", "question": "Question: Is it true that a mosquito can crawl? Answer:"}
+{"idx": 79, "concept": "parakeet", "property": "is a farm animal", "a parakeet is not a farm animal": "a parakeet is not a farm animal", "label": "no", "question": "Question: Is it true that a parakeet is a farm animal? Answer:"}
+{"idx": 80, "concept": "whale", "property": "has lumpy skin", "a whale does not have lumpy skin": "a whale does not have lumpy skin", "label": "no", "question": "Question: Is it true that a whale has lumpy skin? Answer:"}
+{"idx": 81, "concept": "camel", "property": "has a smooth texture", "a camel does not have a smooth texture": "a camel does not have a smooth texture", "label": "no", "question": "Question: Is it true that a camel has a smooth texture? Answer:"}
+{"idx": 82, "concept": "buffalo", "property": "has striped patterns", "a buffalo does not have striped patterns": "a buffalo does not have striped patterns", "label": "no", "question": "Question: Is it true that a buffalo has striped patterns? Answer:"}
+{"idx": 83, "concept": "woodpecker", "property": "is a fish", "a woodpecker is not a fish": "a woodpecker is not a fish", "label": "no", "question": "Question: Is it true that a woodpecker is a fish? Answer:"}
+{"idx": 84, "concept": "starling", "property": "can turn into a pupa", "a starling cannot turn into a pupa": "a starling cannot turn into a pupa", "label": "no", "question": "Question: Is it true that a starling can turn into a pupa? Answer:"}
+{"idx": 85, "concept": "locust", "property": "has long hair", "a locust does not have long hair": "a locust does not have long hair", "label": "no", "question": "Question: Is it true that a locust has long hair? Answer:"}
+{"idx": 86, "concept": "flounder", "property": "is used for transport", "a flounder is not used for transport": "a flounder is not used for transport", "label": "no", "question": "Question: Is it true that a flounder is used for transport? Answer:"}
+{"idx": 87, "concept": "cod", "property": "is a baby cow", "a cod is not a baby cow": "a cod is not a baby cow", "label": "no", "question": "Question: Is it true that a cod is a baby cow? Answer:"}
+{"idx": 88, "concept": "gorilla", "property": "can scavenge in bins", "a gorilla cannot scavenge in bins": "a gorilla cannot scavenge in bins", "label": "no", "question": "Question: Is it true that a gorilla can scavenge in bins? Answer:"}
+{"idx": 89, "concept": "kangaroo", "property": "has a proboscis", "a kangaroo does not have a proboscis": "a kangaroo does not have a proboscis", "label": "no", "question": "Question: Is it true that a kangaroo has a proboscis? Answer:"}
+{"idx": 90, "concept": "crab", "property": "is reared for veal", "a crab is not reared for veal": "a crab is not reared for veal", "label": "no", "question": "Question: Is it true that a crab is reared for veal? Answer:"}
+{"idx": 91, "concept": "sheep", "property": "has dark ringed eyes", "a sheep does not have dark ringed eyes": "a sheep does not have dark ringed eyes", "label": "no", "question": "Question: Is it true that a sheep has dark ringed eyes? Answer:"}
+{"idx": 92, "concept": "walrus", "property": "mimics human speech", "a walrus does not mimic human speech": "a walrus does not mimic human speech", "label": "no", "question": "Question: Is it true that a walrus mimics human speech? Answer:"}
+{"idx": 93, "concept": "crayfish", "property": "is semi aquatic", "a crayfish is not semi aquatic": "a crayfish is not semi aquatic", "label": "no", "question": "Question: Is it true that a crayfish is semi aquatic? Answer:"}
+{"idx": 94, "concept": "pelican", "property": "has big nostrils", "a pelican does not have big nostrils": "a pelican does not have big nostrils", "label": "no", "question": "Question: Is it true that a pelican has big nostrils? Answer:"}
+{"idx": 95, "concept": "cow", "property": "consumes planktons", "a cow does not consume planktons": "a cow does not consume planktons", "label": "no", "question": "Question: Is it true that a cow consumes planktons? Answer:"}
+{"idx": 96, "concept": "swan", "property": "can sting", "a swan cannot sting": "a swan cannot sting", "label": "no", "question": "Question: Is it true that a swan can sting? Answer:"}
+{"idx": 97, "concept": "butterfly", "property": "is a rodent", "a butterfly is not a rodent": "a butterfly is not a rodent", "label": "no", "question": "Question: Is it true that a butterfly is a rodent? Answer:"}
+{"idx": 98, "concept": "hornet", "property": "is herded by dogs", "a hornet is not herded by dogs": "a hornet is not herded by dogs", "label": "no", "question": "Question: Is it true that a hornet is herded by dogs? Answer:"}
+{"idx": 99, "concept": "shrimp", "property": "has two claws", "a shrimp does not have two claws": "a shrimp does not have two claws", "label": "no", "question": "Question: Is it true that a shrimp has two claws? Answer:"}
+{"idx": 100, "concept": "cat", "property": "is a freshwater fish", "a cat is not a freshwater fish": "a cat is not a freshwater fish", "label": "no", "question": "Question: Is it true that a cat is a freshwater fish? Answer:"}
+{"idx": 101, "concept": "prawn", "property": "prefers muddy water", "a prawn does not prefer muddy water": "a prawn does not prefer muddy water", "label": "no", "question": "Question: Is it true that a prawn prefers muddy water? Answer:"}
+{"idx": 102, "concept": "raven", "property": "can be ridden", "a raven cannot be ridden": "a raven cannot be ridden", "label": "no", "question": "Question: Is it true that a raven can be ridden? Answer:"}
+{"idx": 103, "concept": "tortoise", "property": "is a bird", "a tortoise is not a bird": "a tortoise is not a bird", "label": "no", "question": "Question: Is it true that a tortoise is a bird? Answer:"}
+{"idx": 104, "concept": "squid", "property": "requires warm conditions", "a squid does not require warm conditions": "a squid does not require warm conditions", "label": "no", "question": "Question: Is it true that a squid requires warm conditions? Answer:"}
+{"idx": 105, "concept": "crane", "property": "can guard", "a crane cannot guard": "a crane cannot guard", "label": "no", "question": "Question: Is it true that a crane can guard? Answer:"}
+{"idx": 106, "concept": "falcon", "property": "can be resilient", "a falcon cannot be resilient": "a falcon cannot be resilient", "label": "no", "question": "Question: Is it true that a falcon can be resilient? Answer:"}
+{"idx": 107, "concept": "deer", "property": "has dangly bits around its beak", "a deer does not have dangly bits around its beak": "a deer does not have dangly bits around its beak", "label": "no", "question": "Question: Is it true that a deer has dangly bits around its beak? Answer:"}
+{"idx": 108, "concept": "calf", "property": "is a bird of prey", "a calf is not a bird of prey": "a calf is not a bird of prey", "label": "no", "question": "Question: Is it true that a calf is a bird of prey? Answer:"}
+{"idx": 109, "concept": "partridge", "property": "can chase", "a partridge cannot chase": "a partridge cannot chase", "label": "no", "question": "Question: Is it true that a partridge can chase? Answer:"}
+{"idx": 110, "concept": "oyster", "property": "can pollinate", "an oyster cannot pollinate": "an oyster cannot pollinate", "label": "no", "question": "Question: Is it true that an oyster can pollinate? Answer:"}
+{"idx": 111, "concept": "hummingbird", "property": "is red with black spots", "a hummingbird is not red with black spots": "a hummingbird is not red with black spots", "label": "no", "question": "Question: Is it true that a hummingbird is red with black spots? Answer:"}
+{"idx": 112, "concept": "caterpillar", "property": "has a wet nose", "a caterpillar does not have a wet nose": "a caterpillar does not have a wet nose", "label": "no", "question": "Question: Is it true that a caterpillar has a wet nose? Answer:"}
+{"idx": 113, "concept": "raccoon", "property": "has big front teeth", "a raccoon does not have big front teeth": "a raccoon does not have big front teeth", "label": "no", "question": "Question: Is it true that a raccoon has big front teeth? Answer:"}
+{"idx": 114, "concept": "panther", "property": "has a shell on its back", "a panther does not have a shell on its back": "a panther does not have a shell on its back", "label": "no", "question": "Question: Is it true that a panther has a shell on its back? Answer:"}
+{"idx": 115, "concept": "peacock", "property": "has a smooth texture", "a peacock does not have a smooth texture": "a peacock does not have a smooth texture", "label": "no", "question": "Question: Is it true that a peacock has a smooth texture? Answer:"}
+{"idx": 116, "concept": "herring", "property": "traps prey in web", "a herring does not trap prey in web": "a herring does not trap prey in web", "label": "no", "question": "Question: Is it true that a herring traps prey in web? Answer:"}
+{"idx": 117, "concept": "dolphin", "property": "is pink when cooked", "a dolphin is not pink when cooked": "a dolphin is not pink when cooked", "label": "no", "question": "Question: Is it true that a dolphin is pink when cooked? Answer:"}
+{"idx": 118, "concept": "emu", "property": "has a woolen coat", "an emu does not have a woolen coat": "an emu does not have a woolen coat", "label": "no", "question": "Question: Is it true that an emu has a woolen coat? Answer:"}
+{"idx": 119, "concept": "flea", "property": "is feline", "a flea is not feline": "a flea is not feline", "label": "no", "question": "Question: Is it true that a flea is feline? Answer:"}
+{"idx": 120, "concept": "turkey", "property": "has a slim body", "a turkey does not have a slim body": "a turkey does not have a slim body", "label": "no", "question": "Question: Is it true that a turkey has a slim body? Answer:"}
+{"idx": 121, "concept": "hawk", "property": "is kept in a hutch", "a hawk is not kept in a hutch": "a hawk is not kept in a hutch", "label": "no", "question": "Question: Is it true that a hawk is kept in a hutch? Answer:"}
+{"idx": 122, "concept": "lamb", "property": "can wallow", "a lamb cannot wallow": "a lamb cannot wallow", "label": "no", "question": "Question: Is it true that a lamb can wallow? Answer:"}
+{"idx": 123, "concept": "stick_insect", "property": "is a mollusc", "a stick insect is not a mollusc": "a stick insect is not a mollusc", "label": "no", "question": "Question: Is it true that a stick insect is a mollusc? Answer:"}
+{"idx": 124, "concept": "kingfisher", "property": "has a moustache", "a kingfisher does not have a moustache": "a kingfisher does not have a moustache", "label": "no", "question": "Question: Is it true that a kingfisher has a moustache? Answer:"}
+{"idx": 125, "concept": "trout", "property": "can cling to rocks", "a trout cannot cling to rocks": "a trout cannot cling to rocks", "label": "no", "question": "Question: Is it true that a trout can cling to rocks? Answer:"}
+{"idx": 126, "concept": "duck", "property": "is bred with roosters", "a duck is not bred with roosters": "a duck is not bred with roosters", "label": "no", "question": "Question: Is it true that a duck is bred with roosters? Answer:"}
+{"idx": 127, "concept": "cricket", "property": "is red with black spots", "a cricket is not red with black spots": "a cricket is not red with black spots", "label": "no", "question": "Question: Is it true that a cricket is red with black spots? Answer:"}
