@@ -1,0 +1,2617 @@
+WORD1 WORD2 POS TYPE AVG_SCORE AVG_SCORE_0_10 STD SCORES..
+conflict disagreement N r-hyp-1 5.20 8.67 1.25 5 6 6 6 6 5 2 6 4 6
+advance take V no-rel 1.42 2.37 1.66 3 0 3 0 0 5 0 0 1 2 3 0
+trail follow V hyp-2 4.31 7.18 1.86 4 4 6 2 6 6 6 3 0 4 3 6 6
+mason worker N hyp-3 4.50 7.5 1.76 6 6 4 4 6 3 6 3 5 0 5 6
+aura light N hyp-1 3.69 6.15 1.86 4 5 3 4 6 0 3 6 3 0 4 5 5
+radish carrot N cohyp 0.09 0.15 0.29 0 0 0 0 0 0 0 0 1 0 0
+tusk duty N no-rel 0.08 0.13 0.28 0 0 0 0 0 0 0 0 1 0 0 0
+vehicle motorcycle N r-hyp-4 1.09 1.82 1.93 1 0 0 1 0 0 0 0 4 6 0
+veal meat N hyp-1 5.86 9.77 0.35 6 6 6 6 5 6 5 6 6 6 6 6 6 6
+keyboard arm N no-rel 0.54 0.9 0.75 0 1 2 2 0 0 0 0 0 0 1 0 1
+swing push V cohyp 1.83 3.05 1.46 1 0 0 2 2 1 5 1 1 4 3 2
+rhyme dinner N no-rel 0.00 0.0 0.00 0 0 0 0 0 0 0 0 0 0 0
+place area N hyp-2 4.77 7.95 1.31 5 2 5 6 5 6 5 5 2 6 4 5 6
+father ancestor N hyp-4 3.90 6.5 1.87 1 5 2 6 6 4 2 2 5 6
+truce peace N hyp-1 4.80 8.0 1.78 5 6 6 4 0 5 6 6 4 6
+glass cabinet N no-rel 1.92 3.2 1.90 3 4 1 0 0 3 1 0 0 5 5 0 3
+evict move V hyp-3 2.77 4.62 1.93 2 4 6 1 5 4 0 4 0 2 1 5 2
+hair mammal N mero 1.00 1.67 1.66 0 0 2 0 0 2 0 2 1 0 0 0 6
+ear head N mero 0.00 0.0 0.00 0 0 0 0 0 0 0 0 0
+enemy crocodile N no-rel 0.20 0.33 0.40 1 0 0 0 0 0 1 0 0 0
+geology study N hyp-4 5.38 8.97 0.84 6 6 5 6 6 6 5 3 5 5 5 6 6
+defrost thaw V hyp-1 4.62 7.7 1.60 6 4 5 3 6 5 6 6 5 4 0 5 5
+nitrogen oxygen N cohyp 0.31 0.52 0.61 0 0 0 1 0 0 0 0 0 0 2 0 1
+plot plan N hyp-3 4.78 7.97 1.93 6 5 6 3 6 0 5 6 6
+duck animal N hyp-4 5.92 9.87 0.28 6 6 6 5 6 6 6 6 6 6 6 6
+typewriter machine N hyp-3 5.30 8.83 1.55 4 6 6 6 1 6 6 6 6 6
+elephant animal N hyp-4 5.90 9.83 0.30 6 6 6 6 6 5 6 6 6 6
+limousine migraine N no-rel 0.15 0.25 0.36 0 0 0 0 0 0 0 1 1 0 0 0 0
+chest body N mero 1.18 1.97 1.64 1 0 5 3 0 0 0 1 3 0 0
+competence ability N hyp-1 4.64 7.73 0.88 4 5 4 6 5 4 6 3 5 5 4
+reason cause N syn 3.46 5.77 1.82 0 5 4 6 4 5 4 3 1 6 3 3 1
+chipmunk squirrel N hyp-1 1.69 2.82 1.68 0 1 2 1 0 1 5 3 0 5 0 2 2
+gate door N cohyp 3.92 6.53 1.93 0 4 5 2 4 5 6 6 6 3 5 1
+lodge inn N syn 4.15 6.92 1.96 6 3 4 2 4 6 6 6 0 6 3 2 6
+idol person N hyp-4 2.57 4.28 1.59 3 1 0 3 2 4 5
+heaven hell N ant 0.40 0.67 0.92 0 0 3 0 0 0 0 1 0 0
+alcohol substance N hyp-3 5.50 9.17 0.92 5 6 6 6 6 5 3 6 6 6
+topic theme N syn 3.71 6.18 2.31 6 6 2 4 6 5 4 6 0 1 1 0 5 6
+butter cream N cohyp 2.69 4.48 2.05 4 0 0 3 6 1 5 1 2 2 4 6 1
+rise fall V ant 0.31 0.52 0.72 0 0 0 0 0 2 0 0 0 0 0 0 2
+yell speak V hyp-2 5.30 8.83 1.19 3 6 6 3 6 6 5 6 6 6
+material leather N r-hyp-4 1.64 2.73 1.55 0 1 1 3 5 3 3 1 1 0 0
+deny crush V no-rel 1.31 2.18 1.43 0 0 0 4 3 1 2 1 0 3 0 3 0
+crane bird N hyp-3 5.30 8.83 1.79 6 6 6 6 6 0 5 6 6 6
+gain get V hyp-1 4.62 7.7 1.78 0 5 6 5 6 5 6 3 6 6 5 5 2
+winter season N hyp-1 5.83 9.72 0.37 6 6 6 6 6 6 6 5 6 6 6 5
+chair bench N cohyp 2.36 3.93 1.44 3 5 0 3 5 3 1 2 2 3 1 3 1 1
+nylon cotton N cohyp 0.82 1.37 1.85 0 0 6 0 0 0 0 0 3 0 0
+eye face N mero 1.20 2.0 1.83 1 0 3 0 1 0 1 6 0 0
+worker waitress N r-hyp-4 1.00 1.67 1.41 0 0 2 1 3 3 0 0 0 0 0 0 4
+notion constitution N no-rel 2.20 3.67 1.72 1 3 3 0 3 0 5 3 0 4
+bat club N hyp-1 3.60 6.0 2.06 4 4 0 6 5 5 3 0 3 6
+annoy tease V r-hyp-3 3.70 6.17 2.15 2 5 2 6 4 6 0 1 5 6
+swim sink V ant 0.64 1.07 1.07 0 0 2 2 0 0 0 0 3 0 0
+rearrange organize V cohyp 5.00 8.33 0.96 6 5 5 6 6 4 4 6 5 6 4 3 5
+suede material N hyp-4 5.70 9.5 0.64 5 6 6 6 4 6 6 6 6 6
+dungeon castle N mero 1.43 2.38 1.40 4 0 1 0 3 1 1
+technique knowledge N hyp-4 2.55 4.25 1.97 0 0 6 2 3 1 5 1 3 5 2
+add calculate V hyp-1 5.23 8.72 1.05 4 4 3 6 4 5 6 6 6 6 6 6 6
+husband spouse N hyp-1 5.73 9.55 0.62 6 4 6 5 6 6 6 6 6 6 6
+spouse mate N syn 4.67 7.78 1.31 3 5 6 3 6 4 2 6 6 5 5 5
+cow animal N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6
+disguise hide V hyp-1 5.00 8.33 1.18 6 5 4 6 6 3 3 6 6 5
+wall barrier N hyp-2 5.36 8.93 0.97 6 5 6 4 6 6 3 6 5 6 6 4 6 6
+quilt blanket N cohyp 4.77 7.95 1.89 3 6 6 6 2 6 6 6 6 5 4 6 0
+miner worker N hyp-4 5.46 9.1 0.93 6 6 3 6 5 6 6 6 4 6 6 5 6
+toy doll N r-hyp-1 2.10 3.5 2.51 3 1 0 0 5 0 6 6 0 0
+soda liquid N hyp-3 5.90 9.83 0.30 5 6 6 6 6 6 6 6 6 6
+instruct inform V hyp-1 4.31 7.18 1.54 5 6 1 2 6 5 6 4 3 4 6 4 4
+pick select V hyp-1 4.80 8.0 2.18 6 6 5 6 6 6 0 1 6 6
+rim wheel N mero 1.64 2.73 1.72 0 0 0 1 3 1 3 0 1 5 4
+jupiter pluto N cohyp 0.33 0.55 0.62 1 0 0 0 2 0 0 0 0 0 1 0
+perch fish N hyp-4 3.69 6.15 2.52 6 5 0 2 1 6 6 0 6 5 5 6 0
+wrinkle skin N mero 1.64 2.73 1.77 0 0 1 0 5 1 4 4 1 2 0
+canoe boat N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+meter measure N hyp-4 5.90 9.83 0.30 6 6 6 6 6 6 6 5 6 6
+cue clue N syn 2.23 3.72 1.85 4 0 0 1 0 4 4 3 5 4 3 1 0
+sunday weekend N mero 3.20 5.33 2.56 0 5 6 3 6 1 0 5 6 0
+talk communicate V hyp-1 5.55 9.25 0.99 6 6 3 6 6 4 6 6 6 6 6
+jug jar N cohyp 2.40 4.0 2.06 3 5 1 6 3 4 0 0 2 0
+christ jesus N syn 2.27 3.78 2.30 0 0 0 6 0 5 5 0 2 3 4
+subtraction mansion N no-rel 0.00 0.0 0.00 0 0 0 0 0 0 0 0 0 0 0
+instinct knowledge N hyp-3 2.86 4.77 1.55 5 4 2 0 4 3 2
+snake animal N hyp-4 5.25 8.75 1.53 3 5 6 6 6 6 6 6 6 1 6 6
+chain link N cohyp 4.00 6.67 1.77 0 4 5 3 6 5 4 6 3 6 3 5 5 1
+keyboard piano N mero 4.25 7.08 2.01 6 0 2 6 6 5 1 6 4 5 5 5
+fig food N hyp-3 5.00 8.33 1.86 6 6 6 6 6 4 0 3 6 6 6
+material rubber N r-hyp-4 0.77 1.28 1.37 0 0 0 0 2 5 1 0 0 0 0 1 1
+balcony porch N cohyp 3.40 5.67 1.85 4 4 5 2 1 6 5 1 5 1
+tip pencil N mero 0.30 0.5 0.46 0 0 0 0 1 0 1 1 0 0
+sub submarine N syn 1.92 3.2 2.02 0 0 0 3 0 6 1 3 5 4 2 0 1
+limb tree N mero 0.91 1.52 1.16 1 0 0 2 3 0 3 0 1 0 0
+wait hesitate V r-hyp-2 3.60 6.0 2.06 4 6 2 6 3 6 0 1 5 3
+gander biology N no-rel 0.58 0.97 1.66 0 1 0 0 0 0 6 0 0 0 0 0
+letter symbol N hyp-3 5.33 8.88 1.03 3 4 6 6 6 6 6 5 4 6 6 6
+snatch grab V cohyp 5.36 8.93 0.72 5 6 5 5 6 5 6 6 6 4 5 6 6 4
+blessing approval N syn 5.20 8.67 0.87 3 5 5 5 6 5 6 6 6 5
+promise climb V no-rel 0.08 0.13 0.28 1 0 0 0 0 0 0 0 0 0 0 0
+attic house N mero 0.86 1.43 1.25 0 1 3 0 0 4 1 0 0 2 1 0 0 0
+note message N hyp-3 5.40 9.0 0.92 3 6 6 5 6 6 6 6 5 5
+noun adjective N cohyp 0.50 0.83 0.76 0 0 0 2 2 0 0 0 0 1 0 1
+thought reflection N r-hyp-2 3.00 5.0 1.69 5 0 2 4 2 3 5
+tease perform V no-rel 1.75 2.92 2.05 2 1 6 2 0 0 1 6 0 0 2 1
+flower bloom N syn 2.45 4.08 2.27 6 0 0 0 1 3 6 0 4 3 4
+liver biologist N no-rel 0.23 0.38 0.42 1 1 0 0 0 0 0 0 0 0 0 0 1
+bar pub N mero 4.92 8.2 1.21 5 6 5 5 5 5 6 3 2 4 6 6 6
+ball game N hyp-4 3.15 5.25 1.99 0 3 5 6 2 5 3 1 3 6 5 1 1
+authority power N hyp-2 5.46 9.1 0.75 5 6 6 4 6 5 6 6 5 6 4 6 6
+mouse rodent N hyp-1 5.83 9.72 0.37 6 6 6 6 6 6 6 6 6 5 5 6
+sibling family N mero 4.77 7.95 1.48 4 4 3 6 6 6 6 4 5 6 5 1 6
+wart mole N cohyp 2.58 4.3 2.25 2 0 6 6 6 1 4 1 1 1 0 3
+tenor bass N cohyp 1.67 2.78 1.89 3 2 0 6 1 4 0 0 0 0 1 3
+shore beach N cohyp 2.00 3.33 1.65 2 3 2 4 0 3 0 0 4 4 0
+analyze waste V no-rel 0.42 0.7 0.49 1 1 1 0 0 0 1 0 0 0 1 0
+discipline punishment N hyp-1 4.62 7.7 1.69 6 4 6 6 6 4 4 6 4 3 6 0 5
+stoplight signal N hyp-2 5.40 9.0 1.20 5 6 6 6 5 6 6 2 6 6
+theft addition N no-rel 1.00 1.67 0.91 1 0 2 0 1 0 0 1 1 3 2 1
+mustache hair N hyp-2 4.55 7.58 1.67 6 6 3 1 5 3 3 5 6 6 6
+auto car N syn 1.90 3.17 1.76 2 1 0 5 1 5 3 1 1 0
+say claim V r-hyp-3 2.10 3.5 1.87 2 1 5 1 6 1 0 1 3 1
+finger glove N mero 0.62 1.03 1.15 0 0 2 0 1 4 0 0 0 0 0 1 0
+basketball activity N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6 6
+proof evidence N hyp-1 5.30 8.83 1.49 5 6 6 5 6 6 6 6 1 6
+recruit get V hyp-4 4.08 6.8 1.69 4 6 3 6 4 6 4 3 4 5 1 6 1
+hall passage N hyp-3 5.10 8.5 1.76 6 6 5 6 6 5 0 5 6 6
+rummy game N hyp-2 5.17 8.62 1.77 6 6 5 6 0 3 6 6 6 6 6 6
+symptom orchid N no-rel 0.08 0.13 0.27 0 1 0 0 0 0 0 0 0 0 0 0 0
+sofa chair N cohyp 3.38 5.63 2.17 5 4 1 6 5 6 1 2 6 5 2 1 0
+sickle tool N hyp-4 4.69 7.82 1.77 6 6 4 5 2 6 0 6 5 4 5 6 6
+sitting standing N cohyp 0.15 0.25 0.36 0 0 0 0 0 1 0 0 1 0 0 0 0
+select pick V r-hyp-1 4.85 8.08 1.51 2 6 5 2 6 3 6 6 4 6 6 6 5
+infant baby N syn 3.75 6.25 2.05 1 0 6 6 5 6 4 2 3 2 4 6
+hurt upset V hyp-1 4.33 7.22 1.31 6 1 5 6 5 4 5 3 5 4 4 4
+test exam N syn 5.33 8.88 1.37 6 6 6 6 6 5 6 1 6 5 6 5
+empire kingdom N cohyp 4.00 6.67 1.83 6 3 4 6 2 5 4 3 6 0 6 3
+nucleus cell N mero 1.23 2.05 1.67 0 1 3 0 0 0 1 0 6 2 1 2 0
+force gravity N r-hyp-2 2.15 3.58 2.35 0 0 5 0 4 6 0 0 1 3 6 0 3
+pasta salad N cohyp 2.55 4.25 2.31 0 6 2 0 0 6 0 3 4 5 2
+depart arrive V ant 1.08 1.8 1.38 4 1 2 0 3 0 0 0 3 0 1 0 0
+desire attack V no-rel 0.43 0.72 0.73 0 0 0 2 1 0 2 0 0 0 1 0 0 0
+winner loser N ant 0.33 0.55 0.85 1 0 0 0 3 0 0 0 0 0 0 0
+group choir N r-hyp-3 1.46 2.43 1.65 0 0 1 2 2 0 0 3 6 0 1 2 2
+range stove N syn 3.62 6.03 2.10 5 3 6 6 5 2 6 3 6 3 0 1 1
+human animal N hyp-4 5.27 8.78 1.35 6 6 5 6 6 3 6 2 6 6 6
+robin bird N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+clerk worker N hyp-2 5.31 8.85 1.32 6 6 5 5 1 6 6 6 6 5 5 6 6
+motorcycle bike N syn 5.40 9.0 1.20 6 6 6 6 5 5 2 6 6 6
+mouth face N mero 1.82 3.03 2.17 6 0 5 1 0 0 1 0 3 4 0
+god being N hyp-4 4.78 7.97 1.69 6 1 6 5 6 3 4 6 6
+intelligence knowledge N hyp-2 2.69 4.48 1.77 4 1 4 3 5 3 0 3 0 6 3 1 2
+rubber eraser N hyp-1 4.09 6.82 1.83 5 5 4 6 5 6 3 0 6 2 3
+integrity worker N no-rel 0.80 1.33 1.08 3 0 0 0 2 2 1 0 0 0
+newspaper officer N no-rel 0.15 0.25 0.53 0 0 0 0 0 0 0 0 2 0 0 0 0
+onion garlic N cohyp 0.62 1.03 1.39 0 0 1 0 2 5 0 0 0 0 0 0 0
+innocence grape N no-rel 0.18 0.3 0.39 0 0 0 1 0 0 0 0 1 0 0
+communication conversation N r-hyp-3 2.42 4.03 2.29 0 0 5 0 1 1 4 0 5 6 5 2
+borrow lend V ant 1.77 2.95 2.12 3 0 0 2 6 3 0 0 0 0 4 0 5
+skunk animal N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+goo muck N syn 3.42 5.7 2.22 0 5 3 4 5 5 6 6 1 0 5 1
+soccer sport N hyp-3 5.92 9.87 0.28 6 6 6 5 6 6 6 6 6 6 6 6
+unite marry V r-hyp-1 3.85 6.42 1.61 4 1 6 4 5 4 3 5 5 1 6 2 4
+phase stage N syn 4.33 7.22 1.80 6 2 6 0 4 4 6 4 6 4 6 4
+pumpkin squash N hyp-1 3.45 5.75 2.50 5 5 4 5 1 6 0 6 0 6 0
+washer appliance N hyp-3 5.64 9.4 1.04 6 6 6 6 6 6 5 2 6 6 6 6 6 6
+pork meat N hyp-1 5.90 9.83 0.30 6 6 6 6 6 6 5 6 6 6
+male female N ant 1.08 1.8 1.33 0 1 4 0 0 1 3 0 3 0 1 0 1
+tub bathroom N mero 0.90 1.5 1.22 0 2 0 4 1 0 1 1 0 0
+swan trip N no-rel 0.08 0.13 0.28 0 0 0 0 0 0 0 0 1 0 0 0
+learn develop V r-hyp-1 3.92 6.53 1.82 4 6 4 5 6 2 4 2 5 2 5 0 6
+dime nickel N cohyp 0.43 0.72 0.49 1 0 0 0 0 1 1
+chairperson leader N hyp-2 4.83 8.05 1.40 6 6 4 5 1 4 6 5 6 6 5 4
+football basketball N cohyp 0.86 1.43 1.06 0 0 0 1 3 1 0 1 2 0 1 3 0 0
+cod fish N hyp-4 5.54 9.23 1.08 5 6 6 6 6 6 6 6 6 6 2 6 5
+boil freeze V ant 0.30 0.5 0.64 2 0 0 0 0 0 1 0 0 0
+summit peak N syn 5.75 9.58 0.60 6 6 6 5 6 6 6 6 6 6 6 4
+mission assignment N hyp-1 5.08 8.47 1.66 6 6 5 6 6 6 0 4 6 5 6 5
+pane window N mero 2.08 3.47 2.23 0 0 5 6 1 6 3 0 2 1 0 0 3
+liquor gin N r-hyp-1 0.83 1.38 1.62 0 0 0 0 1 0 0 1 6 1 0 1
+closing finish V hyp-1 4.67 7.78 1.75 5 6 6 6 3 3 6 5 0 5 6 5
+toe foot N mero 0.22 0.37 0.63 0 2 0 0 0 0 0 0 0
+owl bird N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+maker producer N r-hyp-1 3.15 5.25 2.25 0 0 6 4 6 6 4 4 1 5 2 0 3
+sunset evening N mero 2.00 3.33 1.57 1 1 3 5 0 0 1 4 3 3 0 3 2
+utensil tool N cohyp 5.40 9.0 0.92 5 6 6 3 6 6 5 5 6 6
+daughter son N ant 1.18 1.97 1.27 0 1 1 0 2 3 4 1 1 0 0
+cotton polyester N cohyp 1.31 2.18 1.73 0 0 1 3 0 6 0 1 0 3 2 0 1
+drag pull V hyp-1 4.62 7.7 1.08 6 4 5 3 6 5 3 3 6 4 5 5 5
+column line N hyp-2 2.77 4.62 2.04 0 0 0 4 3 4 5 1 5 4 1 6 3
+repentance guilt N cohyp 3.25 5.42 1.74 4 6 2 3 6 3 0 4 4 2 1 4
+cent dollar N mero 0.62 1.03 0.92 1 0 0 1 2 0 0 0 0 0 3 0 1
+saxophone treatment N no-rel 0.09 0.15 0.29 0 1 0 0 0 0 0 0 0 0 0
+softball football N cohyp 0.58 0.97 0.86 1 0 1 0 1 0 1 3 0 0 0 0
+speech lecture N r-hyp-1 3.90 6.5 1.97 5 4 6 0 4 3 6 6 1 4
+six seven N cohyp 0.31 0.52 0.72 0 0 0 0 0 2 0 0 0 0 0 0 2
+label sign N hyp-3 4.40 7.33 1.20 5 3 4 4 6 3 6 4 6 3
+enemy friend N ant 0.93 1.55 1.22 0 4 0 0 1 1 0 1 2 0 1 3 0 0
+move sway V r-hyp-2 4.20 7.0 1.47 4 6 5 6 3 3 5 4 1 5
+wardrobe closet N syn 3.73 6.22 2.22 6 6 3 6 6 2 3 1 2 6 0
+encyclopedia book N hyp-2 5.36 8.93 0.81 4 6 4 6 4 6 6 6 5 5 6 5 6 6
+picture image N syn 5.00 8.33 2.05 6 6 6 6 6 6 2 0 6 6
+digger worker N hyp-4 4.50 7.5 2.11 6 5 4 6 6 5 1 0 6 6
+strap bra N mero 0.93 1.55 1.62 0 1 2 0 0 6 2 0 0 2 0 0 0 0
+period puberty N r-hyp-2 2.90 4.83 1.81 4 4 0 1 4 3 5 3 0 5
+compound mix V r-hyp-1 3.00 5.0 1.41 3 5 1 4 1 3 5 1 4 3 3
+liquid substance N hyp-2 5.38 8.97 1.08 6 5 5 6 6 3 6 6 6 6 6 3 6
+lettuce food N hyp-4 5.83 9.72 0.37 6 6 6 6 6 6 6 5 6 6 6 5
+class group N hyp-2 4.08 6.8 2.20 0 5 3 1 6 5 6 5 5 5 0 6 6
+migraine pain N hyp-3 5.42 9.03 1.11 6 5 6 6 6 3 6 6 6 6 6 3
+chemistry science N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6
+instrument piano N r-hyp-2 0.33 0.55 0.94 0 3 0 0 0 0 0 0 0
+pause run V no-rel 0.09 0.15 0.29 0 0 0 0 0 0 0 0 1 0 0
+emotion feeling N hyp-1 4.67 7.78 2.09 6 6 6 6 6 3 6 6 6 0 1 4
+renounce change V hyp-4 3.86 6.43 2.10 6 3 6 1 5 6 0 4 6 5 4 3 0 5
+snap pop V cohyp 2.80 4.67 2.18 5 3 0 1 4 5 0 0 5 5
+wine grape N mero 0.83 1.38 0.90 1 1 1 0 0 0 2 0 0 1 1 3
+north direction N hyp-3 5.29 8.82 1.79 6 6 6 6 6 6 6 0 2 6 6 6 6 6
+chain lock N cohyp 1.31 2.18 1.38 0 2 0 1 2 0 0 2 5 0 2 1 2
+remark slay V no-rel 0.64 1.07 1.15 0 1 0 0 0 3 0 0 0 3 0
+belief superstition N r-hyp-1 2.38 3.97 1.64 3 3 2 4 4 1 0 3 1 2 2 6 0
+idea suggestion N r-hyp-1 2.38 3.97 1.82 3 2 0 1 3 5 6 1 1 2 1 1 5
+suppose think V hyp-3 5.42 9.03 0.95 5 6 6 6 4 6 6 5 6 6 6 3
+avenue street N hyp-1 4.08 6.8 1.98 6 6 4 2 3 3 2 0 6 6 5 6
+jeep vehicle N hyp-4 5.91 9.85 0.29 6 5 6 6 6 6 6 6 6 6 6
+atom matter N hyp-2 5.62 9.37 0.62 6 5 4 6 6 5 6 6 6 5 6 6 6
+blow strike V cohyp 3.58 5.97 1.71 6 4 4 3 6 5 3 4 0 1 4 3
+fix attach V hyp-1 3.40 5.67 2.06 2 3 6 0 2 6 4 6 4 1
+snail animal N hyp-4 5.17 8.62 1.77 3 5 6 6 6 6 6 6 6 0 6 6
+monkey animal N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6
+mammal dog N r-hyp-4 1.30 2.17 1.85 0 0 0 1 0 1 0 3 6 2
+marble rock N hyp-1 5.00 8.33 1.41 6 4 1 6 6 4 6 6 6 5 5 6 4
+plate spoon N cohyp 0.20 0.33 0.40 0 0 1 0 0 0 0 1 0 0
+suggestion idea N hyp-1 5.10 8.5 0.94 3 6 5 6 5 6 5 4 6 5
+defend protect V r-hyp-1 5.08 8.47 1.14 5 5 6 6 6 4 5 4 6 6 2 5 6
+volleyball activity N hyp-4 4.86 8.1 2.10 4 6 0 6 6 6 6
+shoulder body N mero 1.92 3.2 1.85 1 0 4 2 6 0 3 0 1 1 1 4
+rabbit synagogue N no-rel 0.08 0.13 0.27 0 0 0 0 0 0 0 1 0 0 0 0 0
+person reader N r-hyp-2 2.00 3.33 1.61 3 5 0 0 1 0 3 3 3 2
+integrate mix V hyp-2 5.50 9.17 0.87 6 6 6 5 6 5 6 6 6 5 6 3
+road avenue N r-hyp-3 1.27 2.12 1.54 3 0 1 3 0 0 3 0 4 0 0
+tornado typhoon N cohyp 2.85 4.75 1.99 0 5 3 3 4 5 6 4 2 0 0 4 1
+cigarette cigar N cohyp 2.92 4.87 1.82 2 0 3 6 4 6 3 3 4 1 3 0 3
+van vehicle N hyp-3 5.85 9.75 0.53 6 6 6 6 6 4 6 6 6 6 6 6 6
+gang group N hyp-4 5.55 9.25 0.89 6 6 6 6 3 6 5 6 6 5 6
+vegetable spinach N r-hyp-1 0.33 0.55 0.85 0 0 0 0 0 0 0 1 0 0 0 3
+snatch take V hyp-2 5.15 8.58 1.41 6 4 5 4 6 6 6 6 1 5 6 6 6
+region partner N no-rel 0.45 0.75 1.16 0 0 0 1 4 0 0 0 0 0 0
+science geology N r-hyp-3 0.33 0.55 0.47 0 0 0 0 1 0 0 1 0 1 0 1
+iron steel N mero 3.33 5.55 2.21 6 6 3 5 6 3 0 4 3 0 0 4
+pistol weapon N hyp-3 5.77 9.62 0.58 6 6 5 6 6 6 6 6 6 6 6 4 6
+lecture class N mero 5.08 8.47 1.26 6 6 2 6 6 3 6 5 5 6 5 5
+jug container N hyp-3 5.42 9.03 0.95 6 6 5 6 3 4 6 6 6 6 5 6
+ending end N syn 3.30 5.5 2.28 5 6 5 1 2 3 0 0 5 6
+pavement surface N hyp-3 5.15 8.58 1.56 6 6 5 5 0 5 6 6 5 6 6 6 5
+collar neck N mero 0.73 1.22 0.86 1 1 1 0 0 0 1 0 0 3 1
+legion group N hyp-4 4.60 7.67 1.62 6 3 2 6 6 2 6 4 6 5
+hip body N mero 1.40 2.33 2.11 5 6 0 1 1 1 0 0 0 0
+captain officer N hyp-3 4.93 8.22 1.10 6 5 6 2 4 5 5 4 5 4 5 6 6 6
+alto voice N hyp-2 4.90 8.17 1.58 6 6 6 4 6 5 2 6 2 6
+plaque memorial N hyp-1 4.33 7.22 1.03 5 3 3 4 6 5 5 4 6 4 4 3
+crab food N hyp-3 5.46 9.1 0.75 6 4 6 5 6 4 6 6 6 6 5 6 5
+crush demolish V syn 5.00 8.33 1.15 6 6 5 5 3 6 3 4 6 4 6 6
+beast monster N r-hyp-4 3.69 6.15 2.16 0 3 6 6 6 2 3 5 6 3 6 1 1
+grass marrow N no-rel 0.38 0.63 0.49 1 1 0 0 0 0 0 1 1 0 1 0 0
+spade card N hyp-2 4.33 7.22 2.13 4 5 6 0 6 5 6 0 6 5 3 6
+chimpanzee primate N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+hawk eagle N cohyp 1.00 1.67 1.73 0 6 3 0 0 3 1 0 0 1 0 0 0 0
+column paper N mero 0.77 1.28 1.62 0 1 0 0 0 0 2 0 6 0 0 0 1
+egg milk N cohyp 0.18 0.3 0.39 0 0 0 1 0 0 0 0 1 0 0
+snake weakness N no-rel 1.08 1.8 1.49 0 1 2 1 2 0 0 0 3 0 5 0 0
+mixture solution N r-hyp-1 4.42 7.37 1.85 6 3 0 4 2 6 6 4 6 5 5 6
+gravy sauce N hyp-1 5.73 9.55 0.62 6 6 6 6 6 6 6 4 6 5 6
+cavity rat N no-rel 0.31 0.52 0.61 1 0 0 0 0 2 0 0 0 0 0 1 0
+ear employee N no-rel 0.45 0.75 1.16 0 4 0 1 0 0 0 0 0 0 0
+bread football N no-rel 0.08 0.13 0.28 0 0 0 0 0 0 0 0 1 0 0 0
+colonel officer N hyp-3 5.15 8.58 1.29 2 3 4 5 5 6 6 6 6 6 6 6 6
+spade shovel N hyp-2 5.08 8.47 0.83 5 5 4 4 6 4 5 4 6 6 6 6 5
+soul music N hyp-3 5.80 9.67 0.60 6 6 6 4 6 6 6 6 6 6
+christian church N mero 2.50 4.17 2.47 1 0 4 6 5 0 0 0 3 0 6 5
+hustle move V hyp-1 4.60 7.67 1.91 5 6 1 6 6 6 5 1 4 6
+designer creator N hyp-1 5.40 9.0 0.92 5 6 6 6 3 6 5 6 5 6
+minority toilet N no-rel 0.00 0.0 0.00 0 0 0 0 0 0 0 0 0
+alto tenor N cohyp 0.91 1.52 1.16 0 0 0 2 0 1 0 3 1 3 0
+kettle teapot N cohyp 2.55 4.25 2.27 0 0 0 6 5 0 3 4 1 5 4
+tragedy comedy N ant 0.45 0.75 0.89 3 0 1 0 0 0 0 0 1 0 0
+morning night N cohyp 0.50 0.83 0.92 3 0 0 0 0 0 1 1 0 0
+pig hog N syn 3.40 5.67 2.73 1 6 0 6 6 6 0 6 3 0
+cherry tree N hyp-3 4.30 7.17 2.10 2 6 2 6 4 5 6 6 0 6
+thesis statement N hyp-4 3.70 6.17 2.28 6 4 6 6 4 0 2 0 6 3
+faith religion N syn 2.08 3.47 2.06 5 0 1 4 1 0 5 0 1 5 3 0
+punishment reward N ant 1.08 1.8 1.38 0 0 0 1 0 0 1 3 3 2 0 0 4
+drift float V syn 2.73 4.55 1.71 4 4 1 5 0 2 3 0 3 3 5
+scribble write V hyp-1 4.91 8.18 1.00 5 5 5 5 5 6 3 6 3 6 5
+animal lamb N r-hyp-3 0.93 1.55 1.62 0 0 0 1 1 0 3 6 0 0 1 0 1 0
+condition state N hyp-1 2.55 4.25 2.15 0 6 2 6 4 2 0 4 1 3 0
+goose bird N hyp-4 5.54 9.23 1.60 6 6 6 6 6 0 6 6 6 6 6 6 6
+goal achievement N hyp-4 4.71 7.85 2.05 6 1 6 6 2 6 6
+murderer thief N cohyp 2.00 3.33 1.87 1 6 2 4 0 2 0 0 0 2 3 4
+toss annoy V no-rel 0.36 0.6 1.15 0 0 0 0 0 0 4 0 0 0 0
+animal duck N r-hyp-4 1.00 1.67 1.22 2 1 1 0 0 0 2 0 0 0 2 4
+wood lumber N mero 2.15 3.58 2.03 1 2 4 1 6 5 5 0 1 1 0 0 2
+ponder think V hyp-1 5.64 9.4 0.61 6 6 5 6 6 5 6 6 6 4 5 6 6 6
+waitress worker N hyp-4 5.92 9.87 0.27 6 6 5 6 6 6 6 6 6 6 6 6 6
+satan devil N syn 5.38 8.97 1.39 6 6 6 4 1 6 6 6 6 6 6 5 6
+goal chisel N no-rel 0.27 0.45 0.86 0 0 0 0 0 0 3 0 0 0 0
+stud bull N cohyp 3.36 5.6 2.14 4 0 6 4 6 4 1 3 3 6 0
+mayor person N hyp-3 4.00 6.67 1.62 3 6 2 6 1 4 6 3 3 4 3 5 6
+agreement disagreement N ant 1.18 1.97 1.70 1 1 1 2 0 6 0 0 2 0 0
+mug cup N cohyp 5.58 9.3 0.86 5 6 6 6 6 5 6 6 6 6 6 3
+palace home N hyp-3 5.50 9.17 1.20 6 6 6 6 6 6 2 6 6 5
+month year N mero 1.31 2.18 1.77 2 2 5 0 1 0 0 0 2 0 0 5 0
+sidewalk path N hyp-2 5.25 8.75 1.16 4 6 6 6 5 5 6 5 6 6 6 2
+queen shower N no-rel 0.27 0.45 0.62 2 1 0 0 0 0 0 0 0 0 0
+insurance safety N hyp-3 3.33 5.55 2.09 4 0 0 5 5 5 0 4 3 3 6 5
+volleyball sport N hyp-3 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+commercial advertisement N hyp-1 5.23 8.72 0.89 6 5 5 5 5 6 6 6 5 3 6 4 6
+week year N cohyp 0.62 1.03 1.15 0 1 0 0 0 2 0 0 0 0 0 4 1
+irritate spend V no-rel 0.31 0.52 0.61 0 0 1 0 2 0 0 0 0 1 0 0 0
+frog toad N syn 1.36 2.27 1.87 0 0 0 2 0 6 0 0 1 3 3
+kidnap take V hyp-2 4.69 7.82 1.98 2 0 5 6 2 4 6 6 6 6 6 6 6
+beer beverage N hyp-3 5.55 9.25 0.89 6 6 6 5 3 6 5 6 6 6 6
+bruise wound N cohyp 5.00 8.33 1.18 6 6 5 6 6 4 3 5 3 6
+schedule plan N hyp-1 4.18 6.97 2.29 6 6 6 4 2 0 5 0 6 5 6
+recliner furniture N hyp-4 5.46 9.1 0.93 6 6 6 5 6 6 4 3 6 5 6 6 6
+cement stone N cohyp 3.82 6.37 2.44 6 6 6 5 5 0 0 0 4 6 4
+supper dinosaur N no-rel 0.14 0.23 0.35 0 0 0 0 1 0 0 0 0 0 1 0 0 0
+oatmeal food N hyp-3 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+draw create V hyp-2 5.27 8.78 1.05 6 5 6 4 3 6 6 6 6 4 6
+bird gander N r-hyp-4 0.64 1.07 1.11 0 1 3 0 0 3 0 0 0 2 0 0 0 0
+doctor surgeon N r-hyp-1 2.43 4.05 2.09 0 5 0 1 1 3 4 6 1 3 1 0 6 3
+statue figure N hyp-3 4.30 7.17 1.27 5 5 6 6 3 2 4 3 5 4
+speak scream V r-hyp-2 1.60 2.67 1.36 2 3 3 0 3 0 2 3 0 0
+hour life N cohyp 1.91 3.18 1.68 0 0 4 2 2 3 5 0 2 3 0
+server waiter N syn 4.77 7.95 1.58 2 6 6 5 6 2 3 6 6 5 3 6 6
+camera anatomy N no-rel 0.23 0.38 0.42 0 1 0 0 0 0 0 0 1 0 0 0 1
+sphere shape N hyp-2 5.91 9.85 0.29 6 6 6 6 6 6 6 6 5 6 6
+orange fruit N hyp-3 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6
+mouth universe N no-rel 0.29 0.48 0.45 1 0 0 0 0 1 0
+auto vehicle N hyp-4 1.55 2.58 1.83 0 0 1 5 4 4 0 0 2 0 1
+trout fish N hyp-1 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+celery food N hyp-3 5.58 9.3 0.86 6 6 6 6 6 6 6 5 3 6 5 6
+protein milk N mero 1.14 1.9 1.60 0 0 0 1 1 0 2 6 1 1 1 0 3 0
+smash crush V syn 4.80 8.0 1.25 5 6 6 6 3 6 5 3 3 5
+time space N cohyp 1.60 2.67 2.11 2 5 0 0 0 6 2 1 0 0
+mongoose animal N hyp-4 5.00 8.33 1.35 6 2 5 5 6 3 6 6 4 6 6
+discover find V syn 5.00 8.33 1.61 5 6 6 1 6 3 6 6 6 5
+bracelet necklace N cohyp 0.93 1.55 1.67 6 1 2 0 0 3 1 0 0 0 0 0 0 0
+bunch group N hyp-3 4.92 8.2 1.38 1 6 6 6 6 4 4 5 6 5 5 5
+divide obtain V no-rel 0.83 1.38 1.34 0 0 0 0 4 0 0 3 1 0 0 2
+science anatomy N r-hyp-4 0.45 0.75 0.99 0 0 0 2 0 0 0 0 3 0 0
+abdomen belly N syn 2.31 3.85 1.86 0 4 1 0 4 3 5 2 6 1 2 1 1
+novel fiction N hyp-1 3.46 5.77 1.99 4 0 5 3 3 5 6 5 1 3 4 6 0
+pan utensil N hyp-3 2.69 4.48 1.49 1 2 3 3 2 2 4 4 2 6 0 4 2
+toilet bathroom N mero 2.50 4.17 2.16 5 5 1 4 0 6 1 0 2 1
+conversation communication N hyp-3 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+swallow waste V no-rel 0.90 1.5 1.04 0 3 0 0 2 0 1 2 0 1
+king leader N hyp-3 5.20 8.67 1.17 6 6 6 6 6 3 3 6 5 5
+hurricane tornado N cohyp 2.17 3.62 2.15 6 0 3 6 3 0 2 3 0 3 0 0
+witch job N no-rel 2.11 3.52 1.91 3 1 4 1 6 1 0 3 0
+limousine vehicle N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6
+dope pot N syn 4.00 6.67 2.27 6 0 3 5 1 6 5 5 6 5 0 6
+rectangle square N r-hyp-1 1.85 3.08 1.96 0 1 0 3 1 3 5 0 3 0 6 2 0
+adverb word N hyp-3 5.25 8.75 1.16 6 5 6 3 6 4 6 6 6 3 6 6
+abundance scarcity N ant 2.14 3.57 2.10 1 0 4 3 6 1 0
+wipe rub V hyp-1 4.08 6.8 1.93 3 6 6 6 4 4 6 5 0 5 3 1
+melody tune N syn 5.42 9.03 0.76 6 6 5 4 6 6 6 4 6 6 5 5
+advance retreat V ant 1.00 1.67 1.48 0 2 0 1 1 0 0 0 2 5 0
+mark sign N syn 3.23 5.38 1.80 3 3 4 4 4 3 4 1 5 0 5 0 6
+student pupil N syn 5.55 9.25 0.89 6 6 5 6 3 5 6 6 6 6 6
+juice milk N cohyp 0.33 0.55 0.62 1 0 0 0 1 0 0 0 0 2 0 0
+surgery vacation N no-rel 0.55 0.92 0.66 2 0 0 1 1 0 1 0 1 0 0
+cupboard closet N syn 3.23 5.38 2.04 5 4 1 0 5 0 6 4 1 4 2 5 5
+history jewel N no-rel 0.23 0.38 0.58 0 0 0 0 2 0 0 0 0 0 0 1 0
+path leopard N no-rel 0.20 0.33 0.40 1 0 0 0 0 0 1 0 0 0
+dog mammal N hyp-4 4.55 7.58 2.23 0 0 5 5 6 6 6 6 4 6 6
+child family N mero 2.73 4.55 1.76 3 1 1 1 6 4 3 3 3 5 0
+jaw face N mero 0.73 1.22 1.14 0 4 1 0 0 1 0 1 1 0 0
+atlas book N hyp-2 4.82 8.03 1.80 6 0 5 6 3 6 6 6 6 5 4
+sorrow father N no-rel 0.17 0.28 0.55 0 0 0 0 0 2 0 0 0 0 0 0
+man woman N ant 0.36 0.6 0.88 0 0 0 1 0 0 0 0 3 0 0
+twelve number N hyp-3 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+overwhelm defeat V hyp-2 2.85 4.75 1.56 3 4 4 3 5 0 2 2 5 0 2 4 3
+ancestor father N r-hyp-4 2.50 4.17 2.16 0 6 4 5 0 5 3 0 0 0 1 3 4 4
+chain bucket N no-rel 0.00 0.0 0.00 0 0 0 0 0 0 0 0 0 0 0 0
+doe animal N hyp-4 5.62 9.37 1.08 6 6 6 5 6 2 6 6 6 6 6 6 6
+crook burglar N r-hyp-2 2.50 4.17 2.20 6 1 0 6 4 3 2 3 0 0
+fungus plant N cohyp 2.85 4.75 1.99 2 6 4 3 4 5 0 1 0 4 0 5 3
+leak hole N hyp-1 1.50 2.5 1.91 1 6 1 2 0 0 1 0 4 0
+flame pleasure N no-rel 0.55 0.92 0.89 3 0 0 0 0 0 1 1 1 0 0
+friend foe N ant 0.79 1.32 1.08 0 0 0 1 3 1 0 1 2 0 0 3 0 0
+slay kill V hyp-1 5.55 9.25 0.89 6 6 3 6 6 5 6 6 6 6 5
+rooster chicken N hyp-1 4.10 6.83 2.26 0 6 5 6 6 6 2 1 3 6
+turkey bird N hyp-3 5.83 9.72 0.55 4 6 6 6 6 6 6 6 6 6 6 6
+package envelope N cohyp 1.92 3.2 1.82 1 2 3 0 4 1 5 5 0 3 0 0 1
+machine spice N no-rel 0.27 0.45 0.45 0 1 1 0 0 0 0 0 0 1 0
+myth mythology N mero 3.45 5.75 1.72 4 5 0 4 1 4 4 3 6 2 5
+flannel material N hyp-1 5.64 9.4 0.48 5 6 5 5 6 6 6 6 5 6 6
+catch seize V hyp-1 3.00 5.0 2.19 4 4 2 6 4 5 0 0 5 0
+shield armor N hyp-1 5.40 9.0 0.92 6 6 5 6 6 5 3 6 5 6
+decline accept V ant 0.70 1.17 1.42 3 4 0 0 0 0 0 0 0 0
+person people N mero 3.80 6.33 1.78 2 4 3 6 5 4 6 0 3 5
+tunnel passage N hyp-2 5.15 8.58 1.03 6 4 4 4 5 3 6 6 6 6 5 6 6
+head tail N ant 0.18 0.3 0.57 0 0 0 0 0 0 0 0 0 2 0
+toss throw V hyp-2 4.92 8.2 1.32 4 6 6 6 6 5 4 2 6 5 6 3
+shake sink V no-rel 0.31 0.52 0.82 0 0 1 0 3 0 0 0 0 0 0 0 0
+bolt lock N mero 5.50 9.17 0.76 6 6 6 6 6 5 5 6 6 4 6 4
+cabin house N hyp-1 5.17 8.62 1.14 6 6 5 5 6 6 4 2 5 6 5 6
+almanac book N hyp-3 5.54 9.23 0.84 6 6 5 3 6 6 6 6 5 6 6 6 5
+cauliflower food N hyp-4 5.86 9.77 0.35 6 6 6 6 6 6 5 6 5 6 6 6 6 6
+hundred amount N hyp-4 4.80 8.0 2.18 6 6 6 6 6 6 0 5 1 6
+penguin bird N hyp-4 5.85 9.75 0.36 6 6 5 6 6 6 6 6 6 6 5 6 6
+bath tub N syn 3.38 5.63 2.50 5 4 6 2 0 6 6 0 6 0 1 2 6
+smash crash V cohyp 3.62 6.03 1.39 5 4 5 3 4 3 1 1 3 4 4 4 6
+nag complain V hyp-1 5.31 8.85 1.26 6 5 6 3 6 6 5 6 6 6 2 6 6
+cobbler pie N hyp-1 3.29 5.48 2.08 6 5 4 4 5 6 0 4 2 3 2 0 0 5
+glance look V hyp-1 5.08 8.47 1.21 6 6 6 4 2 6 6 4 6 5 5 6 4
+coleslaw food N hyp-4 5.55 9.25 0.78 6 6 4 6 6 6 6 6 4 6 5
+soothe comfort V syn 5.36 8.93 0.97 6 6 4 6 6 4 6 6 3 5 5 6 6 6
+animal reptile N r-hyp-3 0.70 1.17 0.90 0 1 0 1 1 0 1 3 0 0
+elimination process N hyp-4 4.50 7.5 1.12 5 5 4 4 4 6 4 6 5 6 3 5 2 4
+remove move V hyp-2 3.69 6.15 1.68 5 0 3 2 3 6 4 4 5 5 3 6 2
+lemon fruit N hyp-3 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6
+mother female N hyp-3 5.42 9.03 0.86 6 6 6 6 6 4 6 4 6 5 6 4
+blush clarify V no-rel 0.20 0.33 0.40 0 0 1 0 0 0 0 1 0 0
+ham meat N hyp-3 5.79 9.65 0.41 6 6 6 6 6 6 5 6 5 6 6 6 5 6
+reptile animal N hyp-3 5.92 9.87 0.27 5 6 6 6 6 6 6 6 6 6 6 6 6
+ascend rise V hyp-1 4.58 7.63 1.32 6 6 5 4 3 3 5 5 2 6 4 6
+therapy treatment N hyp-2 5.50 9.17 0.50 6 6 6 6 6 6 5 5 5 5 5 5
+volleyball game N hyp-3 5.83 9.72 0.55 6 6 6 6 6 6 6 6 6 6 6 4
+skillet pan N hyp-1 5.70 9.5 0.90 3 6 6 6 6 6 6 6 6 6
+writing story N r-hyp-3 2.46 4.1 2.06 6 2 0 2 0 3 6 1 1 3 0 3 5
+person idol N r-hyp-4 1.82 3.03 1.95 0 6 1 3 5 0 1 1 0 1 2
+four number N hyp-3 5.69 9.48 1.07 6 6 6 6 6 6 6 6 2 6 6 6 6
+journal notebook N cohyp 3.91 6.52 1.88 0 6 4 6 4 1 4 5 4 3 6
+banjo instrument N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6
+mate marriage N mero 1.62 2.7 1.27 0 1 1 0 2 4 3 3 2 1 1 3 0
+monument memorial N syn 5.25 8.75 0.92 5 6 6 5 6 6 5 3 5 4 6 6
+compass instrument N hyp-2 4.58 7.63 2.14 0 6 6 6 1 6 6 5 6 5 6 2
+vet veteran N syn 2.14 3.57 2.10 5 0 0 0 2 3 5
+kitchen unit N hyp-4 1.77 2.95 1.85 2 5 0 0 4 0 1 0 3 1 2 5 0
+character personality N mero 2.38 3.97 2.43 6 0 0 2 2 1 0 0 0 6 3 6 5
+gain burst V no-rel 0.69 1.15 0.82 0 1 0 1 0 2 0 2 0 0 0 2 1
+policeman law N mero 2.67 4.45 1.84 4 1 1 0 4 4 2 6 0 4 2 4
+victor winner N syn 3.69 6.15 2.61 0 6 6 5 6 6 0 3 6 6 4 0 0
+project element N no-rel 0.08 0.13 0.28 0 1 0 0 0 0 0 0 0 0 0 0
+lizard animal N hyp-4 5.21 8.68 1.61 6 0 6 4 6 6 4 6 5 6 6 6 6 6
+virtue landscape N no-rel 0.08 0.13 0.28 0 0 0 0 0 0 0 0 0 1 0 0
+boy man N hyp-1 2.27 3.78 1.71 3 0 0 3 1 6 1 4 2 2 3
+prison jail N cohyp 5.38 8.97 0.92 6 6 6 5 6 6 6 4 5 3 5 6 6
+highway road N hyp-1 5.80 9.67 0.40 5 6 6 6 6 6 6 6 6 5
+perform sing V r-hyp-2 2.64 4.4 2.10 0 0 3 2 3 5 1 0 4 6 5
+heart intellect N no-rel 0.55 0.92 0.89 0 0 1 0 0 1 0 3 1 0 0
+substance water N r-hyp-4 1.27 2.12 1.48 0 3 1 0 2 1 1 5 1 0 0
+mass ceremony N hyp-2 4.93 8.22 1.58 4 6 5 4 4 5 5 6 0 6 6 6 6 6
+story tale N syn 5.36 8.93 1.29 6 6 5 5 6 6 6 6 1 6 6 5 5 6
+mistake error N syn 5.10 8.5 1.37 5 3 6 5 6 6 6 6 6 2
+skyscraper meeting N no-rel 0.27 0.45 0.45 0 0 1 0 0 1 0 0 1 0 0
+soil shower N no-rel 0.20 0.33 0.40 0 0 0 1 1 0 0 0 0 0
+defeat renounce V hyp-4 1.25 2.08 1.88 1 4 0 0 0 0 6 2 0 0 0 2
+diamond crystal N hyp-3 3.92 6.53 2.36 3 6 6 3 4 0 6 6 1 6 0 6
+puppy animal N hyp-3 5.30 8.83 1.49 5 6 6 5 1 6 6 6 6 6
+screwdriver ghost N no-rel 0.08 0.13 0.28 1 0 0 0 0 0 0 0 0 0 0 0
+rib animal N no-rel 0.21 0.35 0.41 0 1 1 0 0 1 0 0 0 0 0 0 0 0
+bulletin news N hyp-2 4.31 7.18 1.64 6 2 6 4 4 4 4 5 6 5 5 0 5
+anisette alcohol N hyp-2 3.23 5.38 2.55 0 6 1 4 5 6 6 6 0 5 0 0 3
+maximum limit N hyp-1 3.82 6.37 2.21 6 0 4 6 5 0 6 2 4 3 6
+chili pepper N hyp-2 5.00 8.33 1.30 6 3 5 6 4 6 6 5 6 6 4 2 6
+pike fish N hyp-4 5.23 8.72 1.72 6 5 6 3 6 6 0 6 6 6 6 6 6
+potato vegetable N hyp-2 5.38 8.97 1.27 6 6 6 3 5 6 6 6 2 6 6 6 6
+nightgown underwear N hyp-2 2.79 4.65 2.30 1 5 3 4 6 6 6 0 0 0 2 0 4 2
+meter unit N hyp-3 4.90 8.17 1.92 6 6 6 3 0 6 6 6 6 4
+ruby crystal N hyp-3 4.50 7.5 1.71 6 6 1 3 6 6 3 5 6 5 5 2
+weapon gun N r-hyp-1 2.17 3.62 2.11 3 1 1 4 0 1 1 6 0 0 3 6
+food sausage N r-hyp-2 1.15 1.92 1.79 6 0 0 0 2 0 3 0 0 0 3 1 0
+vehicle car N r-hyp-4 0.92 1.53 1.14 3 0 2 0 1 0 3 0 0 2 0 0 1
+pocketbook wallet N syn 3.17 5.28 2.11 0 6 3 6 3 5 0 2 2 5 1 5
+subtraction addition N ant 0.92 1.53 1.61 0 0 0 0 4 0 0 3 4 0 0 0
+limp walk V hyp-1 4.40 7.33 1.74 6 6 6 5 6 2 1 5 3 4
+medication treatment N hyp-3 4.83 8.05 1.28 6 6 3 3 3 4 6 6 4 6 6 5
+helmet pocket N no-rel 0.40 0.67 1.20 0 0 0 0 0 0 0 0 4 0
+bucket container N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+chip computer N mero 1.60 2.67 1.50 3 3 0 0 4 0 3 1 2 0
+run jump V cohyp 0.71 1.18 1.03 1 0 0 0 0 3 1
+operation spirit N no-rel 0.15 0.25 0.53 0 0 0 0 0 2 0 0 0 0 0 0 0
+brother fraternity N mero 1.85 3.08 1.75 4 2 0 0 2 5 3 0 0 1 0 4 3
+coffee milk N cohyp 0.27 0.45 0.45 0 0 1 0 0 0 0 1 1 0 0
+blackberry fruit N hyp-3 5.82 9.7 0.57 6 6 6 6 6 6 6 6 4 6 6
+bog marsh N cohyp 4.44 7.4 1.64 5 4 0 5 5 5 5 6 5
+leopard tiger N cohyp 0.69 1.15 1.07 0 1 4 1 0 1 1 0 0 0 0 1 0
+hip joint N hyp-3 4.69 7.82 1.68 4 6 6 2 5 3 1 6 6 6 6 6 4
+write talk V cohyp 1.58 2.63 1.61 2 1 6 0 1 1 2 2 0 0 3 1
+hood cap N syn 1.70 2.83 1.10 1 2 2 3 0 3 1 3 2 0
+fish valve N no-rel 0.00 0.0 0.00 0 0 0 0 0 0 0 0 0 0 0
+point sword N mero 0.45 0.75 0.50 0 0 1 0 0 1 1 1 1 0 0
+evaluate judge V hyp-1 4.36 7.27 1.72 6 1 6 5 3 6 5 3 6 2 5
+officer corporal N r-hyp-2 0.73 1.22 1.21 0 0 2 0 0 0 0 3 3 0 0
+toss pause V no-rel 0.08 0.13 0.27 0 0 0 1 0 0 0 0 0 0 0 0 0
+goose turkey N cohyp 0.46 0.77 0.75 0 0 1 0 0 2 0 0 0 0 0 1 2
+balance account N mero 2.08 3.47 1.93 3 3 0 0 1 4 6 0 1 4 3 0
+spoon fork N cohyp 0.83 1.38 1.07 1 0 3 0 2 0 2 0 0 0 2 0
+robber outlaw N hyp-2 5.18 8.63 1.19 5 6 2 5 6 6 6 4 6 6 5
+painter artist N hyp-1 5.77 9.62 0.42 6 6 6 5 6 6 6 5 5 6 6 6 6
+meal pen N no-rel 0.10 0.17 0.30 0 0 0 0 0 0 0 0 0 1
+shovel pail N cohyp 0.33 0.55 0.62 1 0 0 0 2 0 1 0 0 0 0 0
+mixture variety N syn 4.92 8.2 1.07 6 4 6 4 4 6 4 4 6 6 5 3 6
+politics government N syn 2.11 3.52 2.08 0 3 0 4 4 1 0 6 1
+sing perform V hyp-2 5.23 8.72 1.12 6 5 6 6 4 3 6 6 6 6 5 6 3
+blue color N hyp-2 5.90 9.83 0.30 5 6 6 6 6 6 6 6 6 6
+bishop king N cohyp 1.31 2.18 1.43 4 0 0 0 2 3 3 0 0 0 1 3 1
+breast turkey N mero 1.08 1.8 1.21 0 1 0 0 0 1 3 1 0 2 0 3 3
+marriage status N hyp-3 5.00 8.33 1.00 6 6 6 5 6 5 6 4 4 4 5 3 6 4
+save crash V no-rel 0.43 0.72 0.62 0 0 0 0 2 1 0 1 1 0 1 0 0 0
+girl child N hyp-2 5.33 8.88 0.94 6 5 5 5 6 6 6 3 4 6 6 6
+lamp table N cohyp 0.09 0.15 0.29 0 0 1 0 0 0 0 0 0 0 0
+twister storm N hyp-3 4.54 7.57 1.91 4 4 6 6 4 6 5 6 1 6 0 5 6
+rabbit food N hyp-3 3.50 5.83 1.55 5 3 5 5 4 1 6 4 1 3 3 2
+vault summit N no-rel 0.79 1.32 1.42 0 1 3 0 0 5 1 0 0 1 0 0 0 0
+cookie food N hyp-3 5.93 9.88 0.26 6 6 6 6 6 6 6 6 5 6 6 6 6 6
+nun monk N cohyp 2.89 4.82 2.18 2 3 6 1 4 0 0 6 4
+anteater animal N hyp-4 5.86 9.77 0.35 6 6 5 6 6 5 6 6 6 6 6 6 6 6
+flask container N hyp-3 5.62 9.37 0.62 6 5 5 4 6 6 6 6 6 6 6 5 6
+mission duty N hyp-2 4.44 7.4 1.26 6 3 4 3 6 5 4 6 3
+maple tree N hyp-2 5.82 9.7 0.39 6 6 6 5 6 6 6 5 6 6 6
+dawn sunset N ant 0.54 0.9 0.93 0 0 0 0 3 1 0 0 0 0 0 1 2
+wag move V hyp-3 4.08 6.8 1.94 6 5 5 1 5 6 6 2 6 4 3 4 0
+bean food N hyp-4 5.83 9.72 0.37 6 5 6 6 5 6 6 6 6 6 6 6
+drawing painting N cohyp 2.00 3.33 1.77 2 0 4 0 1 2 5
+ability strength N r-hyp-2 3.23 5.38 2.01 2 4 4 3 6 0 0 1 2 4 5 5 6
+aunt planet N no-rel 0.08 0.13 0.27 0 0 0 1 0 0 0 0 0 0 0 0 0
+earnestness sincerity N syn 4.14 6.9 0.64 5 5 4 4 3 4 4
+clerk calculus N no-rel 0.64 1.07 0.89 0 2 0 0 1 1 0 1 3 0 1 0 0 0
+vehicle truck N r-hyp-4 0.73 1.22 1.35 0 0 1 3 0 0 0 0 4 0 0
+prisoner captive N syn 5.00 8.33 1.41 5 6 6 6 6 5 2 3 6 3 6 6
+olive food N hyp-4 5.75 9.58 0.60 5 4 6 6 6 6 6 6 6 6 6 6
+flu illness N hyp-3 5.80 9.67 0.40 5 6 6 6 5 6 6 6 6 6
+store shop N syn 4.00 6.67 1.54 6 5 2 5 1 3 6 3 4 4 5
+tree wood N mero 3.36 5.6 2.31 6 0 0 3 6 5 6 0 4 3 4
+square rectangle N hyp-1 3.00 5.0 2.86 0 6 0 0 0 6 6 6 6 3 0
+tusk elephant N mero 1.50 2.5 1.91 0 4 0 0 0 0 1 4 5 1
+mob group N hyp-3 5.18 8.63 1.19 6 6 6 6 3 6 4 5 6 3 6
+dishwasher appliance N hyp-3 5.69 9.48 0.61 6 6 6 6 6 5 6 6 5 6 6 6 4
+wasp bee N cohyp 2.21 3.68 2.27 5 5 0 6 5 0 3 0 0 1 2 0 0 4
+sob cry V hyp-1 5.56 9.27 0.68 6 6 6 4 6 5 5 6 6
+mushroom fungus N hyp-3 5.33 8.88 1.70 6 6 0 6 6 6 6 6 6 6 6 4
+sirloin meat N hyp-2 5.00 8.33 1.48 4 5 6 6 1 6 6 5 6 5
+ax tool N hyp-4 5.31 8.85 1.59 6 6 6 0 5 6 6 6 5 6 6 6 5
+squeeze hold V hyp-3 5.00 8.33 1.21 6 6 6 6 4 3 3 4 6 5 6
+alligator reptile N hyp-3 5.62 9.37 0.62 6 5 6 5 6 6 6 6 5 6 6 6 4
+couch sofa N syn 4.30 7.17 2.33 5 3 6 6 6 6 5 0 6 0
+wed marry V syn 4.91 8.18 1.78 6 0 3 6 5 6 5 6 6 5 6
+smear smudge V syn 5.00 8.33 1.25 6 6 6 2 5 5 5 6 4
+woman heroine N r-hyp-1 1.75 2.92 1.64 5 0 2 2 0 0 3 3 3 3 0 0
+sorrow joy N ant 0.60 1.0 0.80 0 1 0 0 0 2 0 2 1 0
+advise talk V hyp-3 4.67 7.78 1.25 6 5 4 4 5 6 2 3 4 5 6 6
+group party N r-hyp-3 1.67 2.78 1.84 3 0 0 0 4 6 1 3 1 1 0 1
+feast gathering N hyp-4 4.40 7.33 1.36 4 6 3 5 2 3 5 4 6 6
+shark fish N hyp-3 5.80 9.67 0.40 6 6 6 6 6 5 6 5 6 6
+cherry grape N cohyp 0.62 1.03 1.27 0 0 1 0 0 0 3 0 0 0 0 0 4
+elevator building N mero 0.62 1.03 1.08 0 0 0 1 0 1 0 0 1 0 1 0 4
+school education N hyp-1 4.75 7.92 1.74 6 6 6 6 6 1 2 5 6 6 4 3
+water puddle N r-hyp-1 2.00 3.33 2.04 2 0 1 0 0 5 5 0 1 5 4 0 3
+lake water N hyp-1 5.09 8.48 1.31 6 6 6 6 3 6 6 3 3 5 6
+ecstasy feeling N hyp-3 5.40 9.0 1.20 6 5 6 6 2 6 6 6 5 6
+go dismiss V r-hyp-4 1.43 2.38 1.76 1 0 0 0 5 3 1
+king ruler N hyp-2 5.25 8.75 1.64 6 5 6 6 6 0 6 6 5 6 5 6
+deny forget V hyp-4 1.50 2.5 1.19 2 0 0 1 1 0 1 2 4 2 3 2
+mile inch N cohyp 0.54 0.9 1.28 0 0 0 3 0 0 0 0 0 0 4 0 0
+silence sound N ant 2.90 4.83 2.43 1 0 6 6 1 4 0 4 1 6
+porch house N mero 1.08 1.8 1.71 1 0 6 1 3 0 0 1 1 0 0 0
+party group N hyp-3 4.69 7.82 1.43 6 4 6 2 4 5 6 4 6 6 2 4 6
+stool beginning N no-rel 0.10 0.17 0.30 0 0 0 0 0 0 0 0 0 1
+forget deny V r-hyp-4 1.62 2.7 1.21 2 0 2 1 4 0 2 3 1 3 0 2 1
+crab seafood N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6
+elbow arm N mero 1.23 2.05 1.19 0 1 3 0 2 3 0 3 1 1 0 0 2
+work homework N r-hyp-4 1.92 3.2 2.23 6 6 2 2 0 5 0 0 2 0 0 0 2
+blow pop V cohyp 2.20 3.67 1.60 4 4 0 2 3 3 4 2 0 0
+accept allow V r-hyp-1 3.55 5.92 1.16 4 5 1 3 4 4 4 5 3 4 2
+copper wallet N no-rel 0.15 0.25 0.36 0 1 0 0 0 0 0 0 0 0 0 1 0
+product harbor N no-rel 0.38 0.63 0.84 3 0 1 0 0 0 0 0 0 0 0 0 1
+chain bond N hyp-2 4.25 7.08 1.64 6 6 5 4 5 2 6 2 1 5 5 4
+barracuda fish N hyp-4 5.73 9.55 0.86 6 6 6 6 6 6 3 6 6 6 6
+refrigerator ball N no-rel 0.10 0.17 0.30 0 0 0 0 0 0 0 0 0 1
+fungus kindness N no-rel 0.15 0.25 0.36 0 0 1 0 0 0 0 0 0 0 0 0 1
+zero number N hyp-3 5.82 9.7 0.57 6 6 6 6 6 4 6 6 6 6 6
+guide book N hyp-3 4.64 7.73 1.59 4 5 3 4 5 6 5 6 6 6 1 6 6 2
+blade knife N mero 3.31 5.52 1.32 3 2 1 4 6 4 4 5 4 3 3 2 2
+pill drug N hyp-3 4.15 6.92 2.07 4 4 6 5 6 6 1 4 6 6 1 0 5
+toenail toe N mero 0.77 1.28 1.12 2 0 0 0 0 0 1 1 0 1 4 1 0
+family home N syn 2.25 3.75 2.05 5 0 6 5 1 0 1 3 0 2 1 3
+kiwi fruit N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+point needle N mero 0.82 1.37 1.11 3 0 0 1 1 0 1 0 3 0 0
+hero villain N cohyp 0.80 1.33 1.25 0 1 0 0 0 1 0 4 0 2
+shirt microscope N no-rel 0.15 0.25 0.36 0 0 0 0 0 1 0 0 0 0 0 0 1
+dinner drawer N no-rel 0.00 0.0 0.00 0 0 0 0 0 0 0 0 0 0 0 0 0
+pillow padding N hyp-2 4.17 6.95 1.62 6 6 2 3 4 6 4 3 1 4 6 5
+drift move V hyp-1 5.15 8.58 1.35 6 5 6 5 6 1 6 6 6 5 5 6 4
+executive person N hyp-3 4.91 8.18 1.16 6 6 6 4 3 6 3 5 5 4 6
+focus attention N hyp-2 4.91 8.18 1.16 6 6 6 6 3 6 4 3 5 5 4
+forehead face N mero 1.54 2.57 1.87 2 0 1 0 0 5 5 0 1 4 0 0 2
+darkness flannel N no-rel 0.23 0.38 0.80 0 0 0 0 0 0 0 3 0 0 0 0 0
+tractor vehicle N hyp-3 5.62 9.37 0.74 6 4 6 4 5 6 6 6 6 6 6 6 6
+tease bother V hyp-3 4.42 7.37 1.66 4 6 6 3 0 5 5 3 5 5 6 5
+jet plane N hyp-1 5.25 8.75 1.53 6 6 6 6 5 1 6 6 6 3 6 6
+mousse food N hyp-3 5.38 8.97 1.15 6 6 6 6 6 2 4 6 6 6 6 5 5
+vow pledge N hyp-1 4.92 8.2 1.66 5 6 6 6 6 5 5 4 6 4 6 0
+fortune wealth N hyp-2 3.20 5.33 2.18 5 5 3 4 6 0 1 6 1 1
+reap get V hyp-3 4.31 7.18 2.01 0 6 3 5 6 6 5 3 3 6 1 6 6
+talk address V r-hyp-4 4.00 6.67 1.96 0 4 6 6 2 1 6 3 5 6 5 5 3
+launch send V cohyp 3.64 6.07 1.49 3 6 1 6 3 2 3 3 4 4 5
+silk satin N cohyp 2.00 3.33 2.32 0 3 6 3 0 0 6 2 0 0
+turn differ V no-rel 2.70 4.5 1.62 0 4 0 3 5 4 4 2 3 2
+day week N cohyp 0.75 1.25 1.79 0 0 0 0 0 0 6 3 0 0 0 0
+paradise heaven N syn 4.55 7.58 1.67 6 6 6 5 1 2 6 5 5 3 5
+purchase buy V syn 4.45 7.42 2.27 0 6 6 6 6 5 6 5 3 6 0
+killer murderer N r-hyp-1 5.00 8.33 1.60 6 6 4 6 1 3 6 6 5 6 6
+trigger gun N mero 0.57 0.95 1.12 0 1 2 0 0 4 1 0 0 0 0 0 0 0
+nail claw N cohyp 3.80 6.33 1.99 0 5 6 1 6 3 3 4 4 6
+attach connect V hyp-1 5.71 9.52 0.45 6 5 5 6 6 6 6
+sum total N syn 4.92 8.2 1.00 6 4 5 6 4 4 4 6 6 3 5 5 6
+screw nail N cohyp 1.30 2.17 1.19 2 4 0 0 0 2 2 1 1 1
+reptile alligator N r-hyp-3 0.20 0.33 0.60 0 0 0 0 0 0 0 2 0 0
+bean vegetable N hyp-2 4.29 7.15 2.71 6 0 0 6 6 6 6
+officer police N mero 3.83 6.38 1.72 5 1 3 5 3 5 6 5 1 6 2 4
+charm appeal N syn 5.33 8.88 0.75 6 6 6 6 6 6 5 4 5 5 5 4
+atlas encyclopedia N cohyp 4.60 7.67 1.36 3 6 4 5 4 6 6 6 4 2
+history study N hyp-2 4.58 7.63 1.32 6 6 4 3 3 6 3 6 5 6 3 4
+pitcher container N hyp-2 5.08 8.47 1.14 4 6 6 4 6 6 5 2 6 5 5 6 5
+magazine book N cohyp 2.89 4.82 1.59 2 3 0 3 4 1 5 3 5
+sell acknowledge V no-rel 0.64 1.07 0.81 0 2 0 0 2 2 0 1 1 0 1 0 0 0
+duty service N cohyp 2.69 4.48 1.98 0 4 4 2 0 5 4 3 3 0 0 5 5
+pelt throw V hyp-1 4.67 7.78 1.11 4 5 3 6 6 5 4 4 6 4 6 3
+wing airplane N mero 0.62 1.03 0.92 0 1 1 0 2 0 0 0 0 1 0 3 0
+biscuit citrus N no-rel 0.23 0.38 0.42 0 0 0 0 0 0 1 0 1 0 0 0 1
+semester hour N cohyp 0.45 0.75 0.66 1 1 0 0 0 0 0 0 0 2 1
+executive chief N hyp-1 5.40 9.0 0.92 3 6 6 6 6 6 5 5 5 6
+tennis activity N hyp-4 5.42 9.03 0.95 6 6 3 6 6 6 5 4 5 6 6 6
+citizen person N hyp-2 5.18 8.63 1.40 6 5 1 5 6 6 6 6 5 6 5
+pedal bicycle N mero 1.17 1.95 1.28 2 0 4 0 1 0 0 0 1 3 1 2
+duty obligation N syn 4.91 8.18 1.31 6 2 6 5 3 6 5 6 6 5 4
+conclusion beginning N ant 0.23 0.38 0.58 0 0 0 0 0 0 0 0 1 0 0 2 0
+fad trend N hyp-2 4.80 8.0 1.72 6 5 5 4 6 6 5 6 5 0
+smear wipe V cohyp 4.10 6.83 1.51 5 3 5 6 3 4 3 1 5 6
+writer poet N r-hyp-1 2.33 3.88 2.39 1 2 0 6 2 4 6 1 0 0 6 0
+tooth saw N mero 1.85 3.08 1.56 3 5 0 0 1 1 3 3 1 2 0 4 1
+mattress addition N no-rel 0.10 0.17 0.30 0 0 0 0 0 0 1 0 0 0
+ritual custom N hyp-1 4.46 7.43 1.08 6 5 4 3 5 5 5 4 4 4 5 6 2
+gas automobile N mero 1.20 2.0 0.87 2 1 3 2 1 0 1 1 1 0
+twilight wealth N no-rel 0.18 0.3 0.39 0 1 0 0 0 0 0 0 0 1 0
+marriage needle N no-rel 0.08 0.13 0.27 0 0 0 0 0 0 0 0 0 0 0 0 1
+sit stand V ant 0.55 0.92 0.99 2 0 0 1 0 0 0 0 3 0 0
+sight sense N hyp-2 5.93 9.88 0.26 6 6 6 6 6 5 6 6 6 6 6 6 6 6
+trunk car N mero 0.43 0.72 0.62 0 0 0 1 1 0 2 0 0 0 1 0 0 1
+olive pickle N cohyp 1.00 1.67 1.52 0 4 0 4 0 0 0 0 1 0 0 3 1
+thought belief N hyp-1 3.08 5.13 1.33 1 4 3 5 3 5 3 3 2 5 2 1 3
+father mother N ant 0.77 1.28 1.12 1 0 3 2 0 0 0 0 0 0 1 0 3
+club fraternity N r-hyp-1 2.08 3.47 1.86 0 2 2 1 3 1 2 4 5 0 6 1 0
+digger miner N cohyp 3.92 6.53 1.71 5 6 3 6 6 3 1 3 4 4 1 5
+misery sorrow N cohyp 4.92 8.2 1.64 6 6 5 0 6 4 6 5 6 6 4 4 6
+deteriorate decay V hyp-1 4.62 7.7 1.50 2 5 6 4 5 4 5 5 6 5 6 1 6
+symphony music N hyp-4 5.10 8.5 1.04 5 6 6 6 5 6 6 3 4 4
+mammal cat N r-hyp-4 0.69 1.15 1.20 0 1 0 0 0 2 0 4 0 0 0 2 0
+journal book N hyp-1 5.00 8.33 1.28 6 6 6 2 4 6 5 4 6 4 6
+oak wood N hyp-1 5.54 9.23 1.34 6 6 6 6 5 6 6 6 6 6 6 1 6
+drawer desk N mero 0.62 1.03 0.92 0 0 2 0 1 3 0 0 1 0 0 1 0
+excuse pardon V syn 3.80 6.33 2.60 6 4 6 6 6 0 4 0 6 0
+competition calculator N no-rel 1.17 1.95 1.62 0 0 0 0 3 0 0 2 1 3 0 5
+tenor loser N no-rel 0.10 0.17 0.30 0 0 0 0 0 0 0 1 0 0
+home location N hyp-4 5.40 9.0 1.02 6 6 6 6 3 5 6 6 6 4
+homework assignment N hyp-2 5.20 8.67 1.08 6 6 6 6 6 5 4 4 3 6
+stair stairway N mero 1.69 2.82 1.94 6 0 0 1 2 4 0 0 0 3 0 2 4
+soap cleaner N hyp-1 5.45 9.08 0.66 6 6 5 5 5 6 5 6 6 6 4
+punch hit V hyp-1 4.85 8.08 1.56 6 3 5 6 4 6 6 6 1 5 6 3 6
+come leave V cohyp 0.92 1.53 1.61 6 0 0 1 1 0 0 0 1 1 0 1
+curve road N mero 1.46 2.43 1.95 0 4 0 2 0 2 0 0 1 0 4 0 6
+jazz music N hyp-2 5.77 9.62 0.80 6 6 6 6 6 6 6 6 6 6 3 6 6
+chemist scientist N hyp-1 4.54 7.57 2.17 6 5 1 6 6 0 6 5 5 1 6 6 6
+shock reaction N hyp-2 5.92 9.87 0.27 6 6 6 6 6 5 6 6 6 6 6 6 6
+hamburger food N hyp-4 5.85 9.75 0.53 6 6 4 6 6 6 6 6 6 6 6 6 6
+attack assault V syn 4.77 7.95 1.93 5 6 6 5 6 6 6 4 6 6 5 0 1
+worker mason N r-hyp-3 1.77 2.95 1.53 0 1 4 0 0 2 2 1 3 3 5 1 1
+burglar crook N hyp-2 5.50 9.17 0.87 6 6 3 6 6 6 6 6 5 5 5 6
+penny coin N hyp-1 5.73 9.55 0.45 6 6 6 5 6 6 6 6 5 6 5
+destiny dress N no-rel 0.15 0.25 0.36 0 0 0 0 0 0 1 0 0 0 0 0 1
+oregano food N hyp-4 3.58 5.97 2.10 2 6 3 2 0 6 4 6 2 6 5 1
+cobra snake N hyp-2 5.45 9.08 0.99 6 6 6 4 3 6 6 6 6 5 6
+prince captain N no-rel 0.89 1.48 0.87 1 3 0 1 1 1 0 0 1
+geology thought N no-rel 1.38 2.3 1.44 1 1 5 1 1 0 0 1 2 3 0 0 3
+customer person N hyp-3 5.45 9.08 0.78 6 6 6 5 6 6 4 6 6 4 5
+measure gallon N r-hyp-4 0.82 1.37 1.03 0 0 1 2 0 3 0 0 2 1 0
+stalk stem N syn 4.00 6.67 2.10 3 6 6 5 4 0 6 6 3 1
+attorney lawyer N syn 4.54 7.57 2.24 0 6 6 6 6 5 6 6 6 4 2 6 0
+gravity force N hyp-2 5.70 9.5 0.64 6 6 6 4 6 6 6 6 6 5
+hammock bed N hyp-1 5.00 8.33 1.04 6 6 5 5 6 6 3 6 4 4 4
+aspirin drug N hyp-3 5.92 9.87 0.28 6 6 6 6 6 6 6 5 6 6 6 6
+conference meeting N hyp-1 5.54 9.23 0.75 6 4 6 6 6 6 6 6 4 6 5 5 6
+boyfriend girlfriend N cohyp 0.79 1.32 1.08 0 0 0 0 3 1 0 1 2 0 1 3 0 0
+tuba instrument N hyp-2 5.85 9.75 0.36 6 6 5 6 6 6 6 6 5 6 6 6 6
+feeling jealousy N r-hyp-4 1.45 2.42 2.31 6 0 1 0 0 0 6 0 3 0 0
+bourbon alcohol N hyp-3 5.69 9.48 0.82 6 6 6 6 6 6 5 3 6 6 6 6 6
+statement thesis N r-hyp-4 3.15 5.25 2.03 4 0 0 4 4 3 6 0 3 6 5 4 2
+turnip plant N hyp-4 4.83 8.05 1.67 2 6 6 4 6 6 1 4 6 6 6 5
+patience impatience N ant 2.43 4.05 1.68 1 0 4 3 3 1 5
+verdict judgment N hyp-2 5.80 9.67 0.40 5 6 6 6 5 6 6 6 6 6
+metal society N no-rel 0.10 0.17 0.30 0 0 0 0 1 0 0 0 0 0
+cauliflower broccoli N cohyp 0.09 0.15 0.29 0 0 0 0 0 0 0 0 1 0 0
+goose animal N hyp-4 5.85 9.75 0.53 6 6 6 6 6 6 6 4 6 6 6 6 6
+noun verb N cohyp 0.00 0.0 0.00 0 0 0 0 0 0 0 0 0 0 0 0
+orange tree N hyp-4 2.82 4.7 2.17 1 4 4 0 0 1 6 4 4 6 1
+lock door N mero 0.67 1.12 1.43 0 0 0 0 0 0 5 1 0 0 2 0
+fame glory N cohyp 4.75 7.92 1.09 4 6 6 4 6 5 3 4 5 3 6 5
+enemy opponent N hyp-1 5.20 8.67 1.25 4 6 5 6 6 6 2 5 6 6
+spy agent N hyp-2 4.80 8.0 1.17 6 6 5 6 4 5 2 4 5 5
+grasp crunch V no-rel 1.00 1.67 1.63 1 4 0 5 1 1 0 0 0 0 0 0
+cloud sky N mero 1.23 2.05 1.31 0 3 0 1 3 0 2 3 3 0 1 0 0
+disallow smear V no-rel 0.50 0.83 0.92 0 0 1 0 0 0 0 3 0 1
+move evict V r-hyp-3 2.46 4.1 1.99 6 1 6 0 0 1 3 4 0 3 2 3 3
+cherry fruit N hyp-2 5.92 9.87 0.27 6 6 6 6 6 5 6 6 6 6 6 6 6
+anarchy disorder N hyp-1 4.15 6.92 1.87 4 5 6 6 6 0 2 6 4 6 4 3 2
+stream oxygen N no-rel 0.46 0.77 0.75 0 0 0 0 0 0 0 2 2 1 1 0 0
+hearing sight N cohyp 1.00 1.67 1.31 1 0 4 0 1 1 0
+expert professional N r-hyp-2 3.62 6.03 1.33 2 2 5 4 3 4 6 4 5 4 1 4 3
+schedule list N hyp-1 4.42 7.37 1.32 6 3 6 6 4 4 2 4 5 3 6 4
+snatch catch V cohyp 3.31 5.52 1.77 4 1 4 3 4 5 5 3 5 5 0 0 4
+prune fruit N hyp-3 5.10 8.5 1.22 6 5 6 6 6 3 4 6 3 6
+ascend climb V cohyp 4.38 7.3 1.86 0 5 6 4 5 4 4 6 6 4 6 1 6
+section unit N hyp-2 3.60 6.0 1.62 3 5 2 6 5 4 0 4 3 4
+trumpet instrument N hyp-3 5.92 9.87 0.27 6 6 6 6 6 6 6 5 6 6 6 6 6
+wife art N no-rel 0.23 0.38 0.58 0 0 0 1 0 0 0 0 0 0 0 0 2
+heroine woman N hyp-1 4.85 8.08 1.66 5 6 6 6 5 5 6 0 6 5 3 6 4
+milk butter N cohyp 1.31 2.18 1.64 1 0 2 6 1 3 0 0 2 1 0 0 1
+sight vision N syn 4.33 7.22 1.49 2 5 6 3 6 6 4 2 6 3 5 4
+lounge sit V hyp-1 4.30 7.17 1.68 2 4 6 6 2 2 6 6 4 5
+dagger knife N hyp-1 5.78 9.63 0.63 6 6 6 4 6 6 6 6 6
+snack food N hyp-3 4.67 7.78 1.93 6 6 0 4 6 6 2 5 6 6 3 6
+ancestor parent N r-hyp-3 3.70 6.17 2.00 5 0 2 3 6 1 5 5 6 4
+drawer bureau N mero 1.31 2.18 1.98 0 0 1 0 3 5 1 0 0 0 1 6 0
+sprinkle pour V cohyp 2.23 3.72 1.42 3 5 0 2 3 2 1 4 0 2 3 1 3
+thesaurus book N hyp-3 5.46 9.1 0.75 6 4 6 5 6 6 6 6 5 6 4 5 6
+construct make V hyp-1 5.00 8.33 1.35 6 2 4 6 3 6 5 6 6 5 6
+coat fireplace N no-rel 0.29 0.48 0.59 0 1 1 0 0 2 0 0 0 0 0 0 0 0
+liberty freedom N hyp-1 4.09 6.82 1.78 6 6 1 6 1 5 4 5 3 5 3
+assume think V cohyp 4.38 7.3 1.15 4 3 3 5 5 4 6 2 5 6 5 4 5
+gin liquor N hyp-1 5.85 9.75 0.36 6 6 6 5 6 6 6 6 6 6 5 6 6
+trombone instrument N hyp-3 5.90 9.83 0.30 6 6 6 6 6 6 5 6 6 6
+gallon measure N hyp-4 5.82 9.7 0.39 6 5 6 6 6 6 6 5 6 6 6
+break crunch V r-hyp-4 3.75 6.25 1.96 4 6 0 3 6 3 5 5 0 3 5 5
+drawing sketch N r-hyp-1 3.70 6.17 2.10 1 1 6 5 1 4 5 2 6 6
+hand arm N mero 0.09 0.15 0.29 0 0 0 0 0 0 0 0 1 0 0
+stud horse N hyp-3 3.46 5.77 2.56 0 4 5 2 4 6 0 6 0 6 6 0 6
+leadership layer N no-rel 0.27 0.45 0.62 1 2 0 0 0 0 0 0 0 0 0
+grandma grandparent N hyp-1 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+globe sphere N hyp-1 5.08 8.47 1.44 6 4 6 6 6 1 6 5 6 6 6 4 4
+pipe organ N mero 3.00 5.0 2.04 3 0 6 1 4 1 0 6 4 3 5 3 5 1
+debate talk V hyp-2 4.69 7.82 0.91 6 5 6 6 3 4 4 5 5 4 4 4 5
+hypothesis idea N hyp-2 5.08 8.47 0.86 6 5 4 4 5 6 5 4 6 6 4 6
+elm oak N cohyp 1.50 2.5 1.85 3 6 0 0 3 0 0 2 1 0 0 3
+acknowledge accept V hyp-1 3.50 5.83 1.69 4 3 3 3 1 5 3 6 6 1
+queen royalty N mero 5.93 9.88 0.26 6 6 6 6 6 6 6 6 5 6 6 6 6 6
+jungle forest N hyp-1 4.75 7.92 1.79 6 6 5 0 6 6 3 5 6 6 3 5
+solution mixture N hyp-1 3.91 6.52 2.15 6 3 1 6 2 0 6 6 4 6 3
+bed furniture N hyp-2 5.85 9.75 0.36 6 6 6 5 6 6 6 6 6 6 5 6 6
+suggest say V hyp-2 3.75 6.25 2.13 6 6 4 3 0 5 6 0 2 6 3 4
+lava rock N hyp-3 3.07 5.12 1.91 5 3 1 5 1 3 6 2 0 2 2 6 2 5
+dime penny N cohyp 1.54 2.57 2.34 6 0 0 0 6 0 5 2 0 0 1 0 0
+vest sweater N cohyp 3.50 5.83 1.91 4 4 0 4 0 6 5 4 5 3
+saxophone instrument N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6
+sight perception N hyp-2 4.85 8.08 1.03 6 6 4 3 5 6 4 4 6 5 4 4 6
+potato tomato N cohyp 0.18 0.3 0.57 0 0 0 0 0 0 0 0 2 0 0
+nightmare dream N hyp-1 5.75 9.58 0.60 5 4 6 6 6 6 6 6 6 6 6 6
+treatment medication N r-hyp-3 2.17 3.62 2.34 6 5 4 0 2 0 1 2 6 0 0 0
+hobby activity N hyp-3 4.27 7.12 1.96 6 1 4 5 4 5 4 6 6 6 0
+yarn thread N syn 4.62 7.7 1.15 3 6 6 5 4 4 5 4 6 5 3 3 6
+shame disgrace N syn 4.33 7.22 1.43 1 4 3 6 4 6 5 6 4 3 5 5
+recreation activity N hyp-1 4.27 7.12 2.00 6 5 1 6 6 2 3 5 1 6 6
+submarine vessel N hyp-4 5.15 8.58 1.61 6 4 5 6 6 6 6 5 6 6 0 5 6
+stool toilet N mero 1.00 1.67 1.41 0 0 0 1 1 0 0 2 0 1 2 5
+death end N hyp-1 5.00 8.33 1.04 6 4 4 3 6 5 6 5 6 4 4 6 6
+bat animal N hyp-4 5.71 9.52 0.59 6 5 6 6 4 6 6 6 6 6 6 6 6 5
+control experiment N mero 2.62 4.37 1.44 1 4 4 3 2 4 5 2 0 1 2 4 2
+marry join V hyp-2 3.55 5.92 2.23 6 0 2 2 0 4 6 6 4 6 3
+sapphire gem N hyp-2 5.92 9.87 0.28 6 6 6 6 6 6 6 6 6 6 5 6
+touch pat V r-hyp-2 3.73 6.22 2.26 6 0 5 6 5 5 1 0 3 6 4
+separate detach V r-hyp-2 4.42 7.37 1.71 6 6 5 5 1 5 6 6 1 4 4 4
+fabric cotton N r-hyp-1 1.36 2.27 1.80 3 0 0 2 6 4 0 1 2 0 1 0 0 0
+person speaker N r-hyp-3 2.50 4.17 1.76 4 2 6 2 3 0 4 3 1 1 0 4
+stone jewelry N mero 2.69 4.48 1.64 3 3 6 1 1 3 3 0 4 5 2 1 3
+clam mussel N cohyp 3.38 5.63 2.37 0 6 0 3 6 3 6 5 1 3 0 6 5
+inspect examine V hyp-1 4.55 7.58 2.06 6 6 0 6 1 5 6 4 4 6 6
+cradle crib N cohyp 5.00 8.33 1.26 6 3 3 6 6 4 6 6 6 4
+manner style N syn 2.54 4.23 2.34 0 2 0 2 3 5 6 0 0 5 0 6 4
+galaxy universe N mero 2.23 3.72 2.22 1 0 4 1 5 3 0 0 6 0 5 0 4
+graph chart N cohyp 5.00 8.33 1.24 6 6 3 5 3 6 6 6 5 3 4 6 6
+colt gun N hyp-4 4.46 7.43 1.78 6 6 3 3 5 6 3 6 6 0 6 4 4
+south direction N hyp-3 5.60 9.33 1.20 6 6 6 6 6 6 6 6 6 2
+move tow V r-hyp-4 2.08 3.47 2.09 4 0 6 2 1 0 0 1 1 2 5 0 5
+maid girl N hyp-1 3.57 5.95 2.13 5 5 0 1 5 3 6
+vocabulary language N mero 1.58 2.63 1.50 3 0 1 0 1 0 4 2 1 4 3 0
+overwhelm overcome V syn 2.85 4.75 1.83 3 3 5 3 1 1 1 0 1 4 4 5 6
+obstacle impediment N hyp-1 5.00 8.33 1.41 6 6 5 3 1 6 6 5 5 6 6 5 5
+mascara lipstick N cohyp 0.71 1.18 1.33 0 1 2 0 1 5 1 0 0 0 0 0 0 0
+twilight evening N mero 3.92 6.53 1.64 4 1 5 5 6 4 6 5 2 5 4 3 1
+scream speak V hyp-2 3.69 6.15 1.64 3 1 3 5 5 4 4 5 3 6 0 4 5
+hazard risk N syn 3.83 6.38 2.44 4 6 6 6 1 5 1 0 6 5 6 0
+glacier iceberg N cohyp 3.90 6.5 2.12 5 0 1 3 3 3 6 6 6 6
+conference group N hyp-4 4.08 6.8 1.50 6 1 6 5 3 6 5 3 4 3 4 3
+professional amateur N ant 0.23 0.38 0.58 0 0 0 0 0 2 0 0 0 0 0 0 1
+disbelief belief N ant 3.00 5.0 2.22 5 2 0 3 6 1 5 1 6 4 0
+person guest N r-hyp-3 1.73 2.88 1.81 0 1 1 4 4 3 0 5 1 0 0
+beat defeat V hyp-1 4.62 7.7 1.82 0 5 6 5 6 6 6 3 4 6 2 5 6
+vessel vehicle N hyp-2 3.83 6.38 1.77 2 6 4 2 6 5 3 4 0 4 6 4
+elect pick V cohyp 5.23 8.72 0.70 4 6 5 6 6 5 5 5 6 5 6 5 4
+warehouse storage N hyp-1 4.77 7.95 1.42 1 6 5 6 5 4 6 6 3 6 4 5 5
+science discipline N hyp-1 4.20 7.0 1.25 3 6 5 3 6 3 5 3 3 5
+soda beverage N hyp-2 5.71 9.52 0.70 6 6 4 6 6 6 6
+act drama N mero 3.62 6.03 1.94 4 3 6 6 1 6 3 1 2 3 5 1 6
+contact lens N hyp-1 3.92 6.53 1.94 2 5 1 0 4 2 5 5 5 6 6 4 6
+manufacturer creator N hyp-2 5.17 8.62 1.14 6 6 5 3 3 6 5 4 6 6 6 6
+chain bandage N no-rel 0.43 0.72 0.49 1 0 0 0 1 1 0
+suppose guess V syn 4.08 6.8 1.66 5 6 1 6 6 3 5 4 4 5 2 2
+steel blade N syn 2.80 4.67 1.78 3 5 5 2 0 2 4 1 1 5
+rice food N hyp-3 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+circle line N cohyp 2.20 3.67 2.23 0 0 6 6 3 2 3 0 2 0
+restaurant diner N r-hyp-1 1.85 3.08 1.61 0 1 1 4 6 3 2 1 1 2 1 0 2
+create build V r-hyp-1 3.77 6.28 1.72 0 3 5 1 3 6 4 3 4 6 5 5 4
+brain motion N no-rel 0.08 0.13 0.28 1 0 0 0 0 0 0 0 0 0 0 0
+forget diminish V no-rel 1.27 2.12 2.00 3 1 0 0 0 0 0 6 4 0 0
+ointment cure N hyp-1 3.69 6.15 1.86 2 2 0 1 5 4 6 5 3 5 4 6 5
+blast explosion N hyp-1 5.00 8.33 1.73 6 5 6 6 5 5 6 3 6 0 6 6
+grab take V hyp-2 4.50 7.5 1.50 6 2 4 2 6 6 4 4 6 3 5 6
+anxiety feeling N hyp-2 5.93 9.88 0.26 6 6 6 6 6 6 5 6 6 6 6 6 6 6
+decay deteriorate V r-hyp-1 4.69 7.82 1.86 4 2 5 6 3 5 6 6 6 0 6 6 6
+climber person N hyp-3 3.00 5.0 2.09 5 3 3 1 2 6 0 1 6 5 1
+procedure tear N no-rel 0.08 0.13 0.28 1 0 0 0 0 0 0 0 0 0 0 0
+assume presume V syn 3.27 5.45 1.60 4 5 5 4 5 2 1 3 4 3 0
+stink smell V hyp-2 4.50 7.5 1.86 4 6 6 3 4 4 0 6 6 6
+cricket game N hyp-4 5.00 8.33 1.25 6 3 6 4 6 3 5 6 6
+war conflict N hyp-1 5.09 8.48 1.24 6 6 6 4 2 5 6 6 4 6 5
+professional professor N r-hyp-3 2.18 3.63 1.99 3 6 0 2 1 0 0 1 5 2 4
+argument conflict N hyp-1 4.92 8.2 1.98 6 6 6 6 6 6 4 1 6 6 6 0 5
+crest peak N syn 3.58 5.97 2.33 6 3 4 6 5 0 6 0 6 0 4 3
+snail courage N no-rel 0.15 0.25 0.36 0 0 0 1 0 0 0 0 0 0 1 0 0
+buggy vehicle N hyp-4 4.92 8.2 1.85 6 6 2 6 6 0 6 6 5 6 5 5
+stew cook V hyp-1 5.57 9.28 0.82 6 6 5 6 6 5 3 6 6 6 6 6 6 5
+baseball game N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+gorilla ape N hyp-3 5.27 8.78 1.71 0 6 6 6 6 6 5 6 6 5 6
+medicine drug N hyp-1 3.83 6.38 2.48 6 6 6 0 6 0 3 4 6 6 3 0
+reaction effect N hyp-2 4.77 7.95 1.19 4 3 4 5 6 5 6 6 5 2 6 5 5
+chemistry knife N no-rel 0.50 0.83 0.91 0 1 1 0 0 2 0 0 0 0 3 0 0 0
+speech language N syn 3.67 6.12 2.01 1 6 6 4 6 3 3 2 1 5 6 1
+animal message N no-rel 0.18 0.3 0.39 0 1 0 0 0 0 0 0 0 1 0
+perform talk V no-rel 1.80 3.0 1.08 2 2 2 2 3 0 3 3 1 0
+saw tool N hyp-2 5.92 9.87 0.27 6 5 6 6 6 6 6 6 6 6 6 6 6
+carrot food N hyp-4 5.89 9.82 0.31 6 6 6 5 6 6 6 6 6
+traitor thief N cohyp 1.58 2.63 1.26 1 2 0 3 1 4 1 2 0 0 3 2
+cotton wool N cohyp 2.40 4.0 2.42 6 3 0 1 0 0 5 3 6 0
+body corpse N r-hyp-1 2.25 3.75 2.05 5 1 2 4 0 0 2 0 0 6 4 3
+knit weave V cohyp 3.92 6.53 1.75 6 1 5 1 2 6 3 4 4 4 5 6
+professional expert N hyp-2 3.82 6.37 1.11 4 1 4 4 3 4 5 4 5 5 3
+maroon color N hyp-4 5.90 9.83 0.30 6 6 5 6 6 6 6 6 6 6
+existence being N syn 4.69 7.82 1.38 4 6 5 4 6 5 6 4 1 4 4 6 6
+decompose decay V syn 5.33 8.88 1.18 2 6 6 6 6 6 5 6 6 4 5 6
+knife dagger N r-hyp-1 2.92 4.87 1.85 4 4 2 6 2 0 5 4 0 3 4 1
+knitting craft N hyp-2 5.80 9.67 0.40 5 6 6 6 6 6 5 6 6 6
+cotton fabric N hyp-1 5.64 9.4 0.77 6 6 6 6 4 6 6 6 4 6 6
+sorority organization N hyp-3 4.77 7.95 1.67 6 5 0 3 6 5 6 4 6 6 5 6 4
+wife ring N no-rel 0.10 0.17 0.30 0 1 0 0 0 0 0 0 0 0
+cloak coat N cohyp 5.21 8.68 0.94 4 3 6 5 6 6 5 6 6 6 6 5 4 5
+pollution boat N no-rel 0.20 0.33 0.40 0 0 1 0 0 0 0 1 0 0
+flute instrument N hyp-3 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+medium television N r-hyp-3 1.33 2.22 2.17 0 0 0 5 0 0 6 1 0 0 4 0
+engine train N mero 1.75 2.92 2.05 0 0 0 6 4 0 0 4 1 3 0 3
+inmate convict N syn 5.25 8.75 1.09 5 6 6 6 5 6 6 3 6 5 6 3
+unite join V hyp-1 4.80 8.0 1.33 4 6 6 6 6 3 2 5 5 5
+whale mammal N hyp-4 5.77 9.62 0.58 6 4 6 6 6 6 6 6 6 5 6 6 6
+make build V syn 5.09 8.48 0.90 5 6 4 6 6 4 6 4 4 5 6
+goal success N hyp-2 4.00 6.67 1.24 6 4 4 4 5 3 5 3 3 5 5 1 4
+barrier wall N r-hyp-2 4.64 7.73 1.44 3 6 4 5 4 5 5 6 6 6 3 1 5 6
+analysis study N hyp-4 4.20 7.0 2.32 0 6 6 4 3 5 6 6 6 0
+news information N hyp-1 5.46 9.1 0.75 5 6 6 6 6 5 5 6 6 4 6 4 6
+wound injury N hyp-1 5.46 9.1 0.84 6 6 5 6 5 6 5 6 6 5 6 6 3
+bunny rabbit N hyp-1 3.91 6.52 2.19 6 5 5 0 6 0 3 2 5 5 6
+animal container N no-rel 0.30 0.5 0.90 0 0 0 0 0 0 0 0 0 3
+homework instruction N mero 1.92 3.2 1.98 1 0 6 0 1 3 0 3 1 3 5 0
+venom poison N hyp-3 4.75 7.92 1.92 5 6 2 6 6 5 6 6 6 6 0 3
+address talk V hyp-4 3.23 5.38 2.04 3 6 3 3 6 6 0 2 1 5 4 0 3
+union group N hyp-3 5.67 9.45 0.62 6 6 6 6 6 6 6 5 6 5 6 4
+closet room N hyp-1 3.92 6.53 1.85 5 6 5 3 4 1 6 5 1 5 5 1
+river lord N no-rel 0.10 0.17 0.30 0 0 0 0 0 0 0 0 0 1
+bumper car N mero 1.42 2.37 1.44 1 1 0 1 3 0 0 2 4 0 1 4
+task job N syn 3.69 6.15 1.59 2 2 6 4 4 2 3 6 5 3 1 5 5
+mussel scallop N cohyp 2.85 4.75 1.96 0 1 6 1 3 2 6 3 6 3 3 2 1
+crossing road N mero 2.08 3.47 1.98 1 3 6 3 1 1 1 2 1 0 0 6
+deny reject V hyp-2 3.92 6.53 2.02 3 4 5 2 3 6 0 6 1 6 6 3 6
+baseball sport N hyp-4 5.85 9.75 0.53 6 6 6 6 6 6 6 6 6 6 6 4 6
+navigator sailor N hyp-3 4.20 7.0 1.54 3 6 6 4 4 5 6 3 4 1
+funeral ceremony N hyp-1 5.60 9.33 0.66 6 6 6 4 6 6 5 6 6 5
+foresight wisdom N hyp-4 4.15 6.92 1.23 3 5 2 5 5 2 5 6 4 5 3 5 4
+understand evaluate V hyp-3 2.38 3.97 1.50 0 3 1 4 3 3 1 3 5 4 2 0 2
+reach construct V no-rel 0.40 0.67 0.66 0 1 0 0 2 1 0 0 0 0
+lemon citrus N hyp-1 5.64 9.4 0.64 6 6 6 5 6 6 6 4 6 6 5
+swimmer runner N cohyp 0.58 0.97 0.86 0 0 0 0 1 0 0 0 1 1 1 3
+soil dirt N syn 4.62 7.7 1.64 4 6 4 4 5 5 6 3 6 0 5 6 6
+dinosaur animal N hyp-4 4.92 8.2 1.73 6 6 6 3 6 6 6 4 0 5 4 6 6
+back shoulder N cohyp 1.69 2.82 1.59 3 3 0 1 3 5 0 0 0 2 2 3 0
+reduce shrink V syn 3.82 6.37 2.08 6 6 1 6 5 5 1 0 4 4 4
+scoop shovel N hyp-1 4.18 6.97 1.59 3 6 5 6 5 3 2 5 1 5 5
+calculus lettuce N no-rel 0.67 1.12 1.65 1 0 6 0 0 0 0 1 0 0 0 0
+waitress server N hyp-1 5.69 9.48 0.46 5 6 5 5 6 6 5 6 6 6 6 6 6
+detail point N syn 2.33 3.88 1.80 5 2 2 0 4 1 6 2 1 3 2 0
+water fluid N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6
+sketch drawing N hyp-1 5.10 8.5 1.51 5 6 6 5 1 6 4 6 6 6
+tutu skirt N hyp-1 4.20 7.0 1.66 3 6 1 3 4 6 4 6 3 6
+bread food N hyp-3 5.42 9.03 1.04 6 6 6 6 3 4 6 6 6 6 6 4
+bride gathering N no-rel 0.33 0.55 0.47 0 0 1 0 1 1 0 0 1 0 0 0
+destroy kill V r-hyp-1 3.92 6.53 1.27 4 4 6 4 5 1 4 5 4 4 5 2 3
+author writer N syn 5.00 8.33 1.46 6 6 4 6 4 5 6 6 1 6 3 6 5 6
+tangerine fruit N hyp-4 5.70 9.5 0.90 6 6 6 6 6 6 3 6 6 6
+victor loser N ant 0.58 0.97 0.95 0 0 0 0 3 0 0 1 1 0 0 2
+eyebrow face N mero 0.29 0.48 0.45 1 0 0 0 0 1 0
+ruler emperor N r-hyp-2 2.57 4.28 2.13 0 5 0 2 4 6 4 6 1 2 1 1 4 0
+trim fit V hyp-2 3.15 5.25 1.87 6 4 4 3 0 5 0 2 1 3 5 5 3
+animal rat N r-hyp-4 0.00 0.0 0.00 0 0 0 0 0 0 0 0 0 0 0 0
+panel board N syn 4.62 7.7 1.08 6 3 5 3 5 6 5 5 4 3 5 6 4
+inch measure N hyp-4 5.36 8.93 1.54 6 5 6 5 6 6 6 0 5 6 6 6 6 6
+pope leader N hyp-2 5.22 8.7 1.03 5 3 6 5 6 4 6 6 6
+reprimand scold V syn 5.00 8.33 1.36 6 5 3 6 3 6 6 6 5 6 5 2 6
+prism pyramid N cohyp 3.38 5.63 2.10 6 1 4 4 1 2 5 1 6 3 5 0 6
+pony horse N hyp-1 4.75 7.92 1.30 5 6 4 6 6 5 5 5 5 5 1 4
+attention focus N r-hyp-2 5.10 8.5 1.04 6 6 6 6 5 3 4 4 6 5
+erode tease V no-rel 1.00 1.67 1.65 1 3 1 0 0 6 0 0 0 1 2 0 0 0
+sandwich meal N mero 4.31 7.18 1.54 3 2 4 3 4 6 6 6 3 6 2 5 6
+mosquito wisdom N no-rel 0.38 0.63 1.08 0 0 0 4 0 0 0 0 0 1 0 0 0
+lily plant N hyp-4 5.64 9.4 0.48 6 5 5 6 5 6 6 6 5 6 6
+neighborhood area N hyp-1 5.09 8.48 0.79 5 5 4 6 6 6 6 4 5 4 5
+darkness light N ant 0.90 1.5 0.94 0 1 1 1 0 1 0 2 0 3
+legislature legion N no-rel 0.46 0.77 1.34 0 0 5 0 0 1 0 0 0 0 0 0 0
+methodist baptist N cohyp 2.54 4.23 1.87 3 6 1 4 3 2 5 2 3 0 4 0 0
+bed bedroom N mero 0.18 0.3 0.39 0 0 0 1 0 0 0 0 1 0 0
+snake reptile N hyp-2 5.55 9.25 0.78 6 6 6 4 6 4 6 6 5 6 6
+emperor ruler N hyp-2 5.46 9.1 1.60 6 6 6 6 6 6 6 5 6 6 0 6 6
+recycle waste V cohyp 0.90 1.5 1.81 0 0 0 1 0 0 0 6 0 2
+company organization N hyp-2 5.50 9.17 0.67 4 5 6 5 6 6 6 5 6 6
+shine glow V r-hyp-1 3.91 6.52 1.62 6 6 4 4 5 3 3 4 5 3 0
+site location N hyp-4 4.31 7.18 1.81 4 1 4 6 6 6 6 4 1 6 5 2 5
+seal kite N no-rel 0.08 0.13 0.28 1 0 0 0 0 0 0 0 0 0 0 0
+car train N mero 1.67 2.78 1.84 1 6 0 0 1 3 3 0 0 3 3 0
+jar container N hyp-2 5.50 9.17 1.12 6 6 6 6 6 6 6 3 6 6 6 3
+time era N r-hyp-2 2.82 4.7 2.37 0 6 1 6 5 4 3 5 1 0 0
+banquet party N hyp-2 5.36 8.93 0.88 6 6 6 5 5 6 6 6 3 5 5
+spinach vegetable N hyp-1 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6
+vanilla flavor N hyp-1 5.69 9.48 0.61 6 6 6 6 6 4 5 6 6 5 6 6 6
+tow pull V hyp-3 5.18 8.63 0.83 5 4 5 4 6 5 6 6 4 6 6
+porpoise whale N hyp-3 1.08 1.8 1.59 0 0 2 1 0 1 6 0 0 1 1 0 2
+panther cat N hyp-1 5.70 9.5 0.64 6 6 6 6 6 6 6 6 5 4
+quill fleet N no-rel 0.38 0.63 0.49 1 0 0 0 0 1 0 0 0 1 0 1 1
+caffeine tea N mero 1.15 1.92 1.10 0 0 1 1 1 1 0 1 3 3 3 0 1
+divide add V cohyp 0.83 1.38 0.99 1 1 1 0 0 0 2 0 0 0 2 3
+observe tan V no-rel 0.09 0.15 0.29 0 0 0 1 0 0 0 0 0 0 0
+caffeine problem N no-rel 2.08 3.47 1.49 0 0 0 2 4 2 3 3 3 4 3 0 3
+owl animal N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+message note N r-hyp-3 3.64 6.07 2.50 4 0 5 2 6 6 6 0 6 5 0
+oat cereal N hyp-1 5.09 8.48 0.90 5 6 5 5 5 3 6 6 6 5 4
+decay erode V r-hyp-1 4.40 7.33 1.28 5 5 6 3 3 3 3 4 6 6
+pie food N hyp-3 5.40 9.0 1.20 5 6 6 6 6 6 2 5 6 6
+radio medium N hyp-3 3.54 5.9 2.06 6 1 5 4 6 4 6 1 4 5 0 3 1
+scene picture N syn 3.60 6.0 2.46 5 4 0 6 6 6 5 0 4 0
+wave motion N hyp-1 4.33 7.22 1.60 2 3 6 6 3 6 5 6 6 3 2 4
+burst erupt V r-hyp-1 4.20 7.0 1.25 4 5 3 6 6 2 4 5 3 4
+mix integrate V r-hyp-2 4.77 7.95 1.67 6 4 5 2 5 6 3 6 1 6 6 6 6
+foe adversary N hyp-1 4.86 8.1 1.55 6 3 2 6 5 6 6
+hail rain N cohyp 3.91 6.52 2.02 0 3 2 6 5 5 6 4 6 5 1
+dolphin oxygen N no-rel 0.14 0.23 0.35 0 0 0 0 1 0 0 0 0 0 1 0 0 0
+car limousine N r-hyp-1 1.17 1.95 1.99 0 0 6 0 1 0 0 5 0 1 0 1
+niece son N no-rel 0.25 0.42 0.60 0 0 2 0 0 0 0 0 1 0 0 0
+curb side N hyp-2 3.15 5.25 1.75 2 5 4 2 5 4 3 4 1 4 1 0 6
+sport recreation N hyp-1 5.60 9.33 0.66 6 6 5 6 6 4 6 5 6 6
+pavement sidewalk N mero 4.15 6.92 1.70 0 5 4 3 6 2 4 5 5 6 5 6 3
+step stairway N mero 3.57 5.95 1.59 3 4 6 2 4 5 3 3 4 3 2 5 6 0
+easter holiday N hyp-3 5.85 9.75 0.53 6 6 6 6 6 4 6 6 6 6 6 6 6
+shatter break V hyp-2 5.15 8.58 1.41 6 4 5 6 5 6 6 6 1 6 6 6 4
+twelve dozen N syn 5.00 8.33 1.79 6 6 6 6 5 6 5 4 0 6
+keep give V hyp-4 0.38 0.63 0.84 0 0 0 0 0 0 0 1 3 0 1 0 0
+job activity N hyp-1 4.77 7.95 1.72 6 5 5 3 6 5 6 6 6 5 0 6 3
+guest person N hyp-3 4.33 7.22 1.37 6 4 4 3 6 6 2 3 3 4 6 5
+golf game N hyp-3 5.00 8.33 1.31 5 5 2 6 5 6 6
+incense aroma N hyp-1 4.73 7.88 1.96 6 6 6 6 6 1 3 1 6 6 5
+rum alcohol N hyp-2 5.62 9.37 1.08 5 6 6 2 6 6 6 6 6 6 6 6 6
+threshold door N mero 2.00 3.33 1.84 0 3 1 0 3 4 4 2 0 0 1 6 2
+fork fashion N no-rel 0.25 0.42 0.43 1 0 0 0 1 0 0 0 0 1 0 0
+wing skin N no-rel 0.60 1.0 0.92 0 0 1 1 0 0 3 1 0 0
+freezer refrigerator N hyp-2 2.15 3.58 1.75 0 6 2 2 0 4 2 3 3 0 0 3 3
+steak food N hyp-3 5.85 9.75 0.53 6 6 6 6 6 6 6 6 6 6 4 6 6
+portrait picture N hyp-1 5.90 9.83 0.30 6 6 6 6 6 6 6 6 6 5
+lodge home N hyp-3 5.25 8.75 1.01 6 4 6 6 5 4 6 5 6 3 6 6
+dish food N hyp-2 1.15 1.92 1.41 0 2 2 0 1 5 2 0 2 0 0 0 1
+hobby interest N hyp-1 4.82 8.03 1.64 5 6 0 5 6 5 6 4 5 6 5
+king queen N ant 0.43 0.72 0.82 0 0 0 1 1 0 3 0 0 0 1 0 0 0
+oxygen water N mero 0.46 0.77 0.84 0 1 0 0 0 1 0 0 0 0 0 3 1
+opponent adversary N syn 4.85 8.08 1.10 6 5 6 3 4 3 4 5 6 6 5 6 4
+smother kill V hyp-1 4.40 7.33 1.96 1 6 6 3 1 6 6 6 5 4
+square circle N cohyp 0.42 0.7 1.11 4 0 0 0 0 0 0 0 1 0 0 0
+spouse marriage N mero 1.38 2.3 1.64 0 5 4 1 2 2 0 0 0 0 1 0 3
+differ agree V ant 0.77 1.28 1.25 0 0 1 0 3 3 0 3 0 0 0 0 0
+deck ship N mero 0.31 0.52 0.61 0 0 0 1 0 0 0 0 0 0 1 0 2
+creator artist N r-hyp-1 2.79 4.65 2.37 3 6 6 0 1 5 5 1 0 1 0 6 1 4
+finger thumb N r-hyp-1 0.64 1.07 1.54 0 1 1 0 0 6 1 0 0 0 0 0 0 0
+earth matter N hyp-3 4.23 7.05 2.12 6 6 5 1 4 6 4 6 6 4 1 0 6
+take have V hyp-4 2.17 3.62 1.99 2 4 6 5 4 0 1 1 1 0 2 0
+macaroni food N hyp-2 5.45 9.08 0.78 6 6 4 4 6 6 6 6 5 6 5
+shelf cabinet N mero 1.31 2.18 2.23 0 0 0 0 0 5 6 0 0 0 0 1 5
+medicine tablet N r-hyp-2 1.08 1.8 1.59 0 1 0 0 0 4 0 2 0 1 0 1 5
+search examine V hyp-2 4.15 6.92 1.41 6 4 5 5 6 2 4 5 5 4 4 1 3
+letter writing N hyp-3 2.36 3.93 2.14 0 4 1 0 5 5 0 4 5 2 0
+response question N ant 0.77 1.28 1.05 0 0 0 0 0 1 0 1 1 3 3 0 1
+rock boulder N r-hyp-1 2.00 3.33 2.04 0 1 1 5 6 1 3 4 1 0 0
+evidence answer N no-rel 3.31 5.52 0.91 4 4 3 2 4 2 4 4 3 3 2 5 3
+rent payment N hyp-4 4.55 7.58 1.50 6 5 3 5 1 5 6 3 5 5 6
+priest rabbi N cohyp 2.09 3.48 1.83 3 1 2 0 0 3 3 1 0 4 6
+pail bucket N syn 4.00 6.67 2.22 6 0 3 4 3 0 6 6 4 6 6
+squash food N hyp-3 5.67 9.45 0.62 6 6 6 5 6 6 6 5 6 6 4 6
+chief executive N r-hyp-1 4.18 6.97 2.04 6 3 5 5 3 0 5 6 6 1 6
+graduation ceremony N hyp-2 5.80 9.67 0.40 5 6 6 6 6 6 6 6 5 6
+zucchini food N hyp-4 5.91 9.85 0.29 6 6 6 6 5 6 6 6 6 6 6
+destiny stream N no-rel 0.38 0.63 0.92 0 0 0 0 0 0 0 0 0 0 0 3 2
+lace shoe N mero 1.08 1.8 1.38 0 1 0 0 0 2 0 4 1 0 0 3 3
+bit portion N hyp-1 3.82 6.37 1.95 6 6 4 0 3 2 2 4 6 3 6
+theft crime N hyp-2 5.92 9.87 0.27 6 6 5 6 6 6 6 6 6 6 6 6 6
+lip tongue N cohyp 0.40 0.67 0.80 0 0 2 0 0 0 0 2 0 0
+cancer disease N hyp-3 5.92 9.87 0.27 6 6 6 6 6 6 6 6 6 5 6 6 6
+calf animal N hyp-3 5.38 8.97 0.84 5 5 6 5 6 3 6 5 6 6 6 5 6
+reappear show V cohyp 3.38 5.63 1.60 5 5 1 3 5 1 4 5 2 3 1 5 4
+war anatomy N no-rel 0.67 1.12 1.65 1 0 6 0 0 0 0 1 0 0 0 0
+reflect think V hyp-1 4.67 7.78 1.83 6 6 0 4 6 5 5 6 4
+mitten glove N hyp-1 4.08 6.8 2.25 6 0 3 4 6 0 4 6 2 6 6 6
+treatment therapy N r-hyp-2 2.46 4.1 1.82 0 3 0 2 2 5 6 3 1 4 1 1 4
+appliance oven N r-hyp-3 0.80 1.33 1.47 0 0 0 1 0 1 0 5 0 1
+mist cloud N hyp-3 3.38 5.63 1.27 3 1 5 4 4 3 3 3 1 5 5 3 4
+wife woman N hyp-1 4.57 7.62 1.35 6 6 4 6 6 5 5 3 6 2 3 3 5 4
+anatomy science N hyp-4 5.50 9.17 0.96 6 6 6 3 5 6 6 6 4 6 6 6
+girl person N hyp-3 5.91 9.85 0.29 6 6 6 6 6 6 6 6 5 6 6
+mud dirt N hyp-1 4.77 7.95 1.80 5 6 6 6 6 6 6 4 6 4 2 0 5
+ascent descent N ant 1.00 1.67 1.63 1 0 6 2 0 0 0 1 1 1 0 0
+copper bronze N mero 1.00 1.67 1.29 1 0 0 0 2 0 0 0 3 3 0 3
+gravel stone N hyp-1 5.00 8.33 1.18 6 2 6 4 6 4 6 6 4 5 5 6 5
+formula baker N no-rel 0.55 0.92 0.89 0 1 0 0 0 1 0 0 0 3 1
+doll toy N hyp-1 5.93 9.88 0.26 6 6 6 6 6 6 6 6 5 6 6 6 6 6
+gene chromosome N mero 2.46 4.1 1.74 0 4 2 2 4 3 0 0 2 4 3 6 2
+building skyscraper N r-hyp-1 2.38 3.97 2.20 6 3 2 0 5 4 3 1 6 0 0 0 1
+cashier person N hyp-1 4.46 7.43 1.87 5 4 2 1 6 6 6 1 6 6 4 5 6
+alley way N hyp-4 3.85 6.42 2.14 6 6 6 1 5 6 4 0 4 4 3 5 0
+jar bottle N cohyp 3.08 5.13 2.53 4 1 4 0 6 5 6 0 6 0 5 0
+group staff N r-hyp-3 2.33 3.88 1.89 1 5 0 4 5 0 2 3 1
+artist creator N hyp-1 5.69 9.48 0.46 6 6 6 5 6 5 6 6 6 5 6 6 5
+senate congress N mero 2.62 4.37 2.02 4 5 4 3 5 3 5 0 1 0 0 0 4
+orchid plant N hyp-4 5.45 9.08 0.89 6 6 5 6 3 6 5 6 6 5 6
+chain bicycle N mero 0.71 1.18 1.10 0 0 0 1 0 1 0 1 2 0 1 4 0 0
+outline sketch N cohyp 4.50 7.5 1.36 4 3 4 6 6 2 6 4 6 4
+periscope submarine N mero 1.40 2.33 2.15 0 0 0 0 6 0 1 2 0 5
+rat animal N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6
+attack remove V no-rel 1.14 1.9 1.55 0 0 0 0 5 1 0 3 3 2 2 0 0 0
+instrument trumpet N r-hyp-3 1.64 2.73 1.72 0 1 1 2 6 3 3 1 1 0 0
+champagne wine N hyp-2 4.40 7.33 1.91 0 2 5 6 4 5 4 6 6 6
+frog animal N hyp-4 5.92 9.87 0.27 6 6 6 6 6 6 6 6 6 5 6 6 6
+square shape N hyp-4 5.50 9.17 1.50 6 6 6 6 6 1 6 6 6 6
+look stretch V no-rel 0.86 1.43 0.64 1 0 2 0 1 1 1
+wallet briefcase N cohyp 1.00 1.67 1.28 2 0 0 2 0 1 0 0 2 0 4
+singer evidence N no-rel 0.00 0.0 0.00 0 0 0 0 0 0 0 0 0 0
+joy sorrow N ant 0.69 1.15 1.14 1 2 1 4 0 0 0 0 0 0 0 0 1
+citrus tree N hyp-3 3.42 5.7 2.40 2 6 3 0 5 5 6 0 1 6 1 6
+flour bread N mero 0.25 0.42 0.43 0 0 0 0 1 0 0 0 0 1 0 1
+stag deer N hyp-2 4.62 7.7 2.02 6 6 6 6 6 0 6 6 3 6 4 4 1
+formula equation N cohyp 3.62 6.03 2.17 5 6 6 5 5 0 3 0 6 5 2 1 3
+trip journey N hyp-1 5.33 8.88 0.67 6 6 6 4 5 5 5 6 5
+saucer dish N syn 5.00 8.33 1.62 6 5 6 2 6 4 6 1 6 6 5 6 6
+hope despair N ant 0.17 0.28 0.55 0 0 0 0 2 0 0 0 0 0 0 0
+monopoly game N hyp-3 5.82 9.7 0.57 6 6 6 6 6 6 6 6 6 6 4
+clarify explain V hyp-1 4.92 8.2 1.73 0 3 5 6 4 4 6 6 6 6 6 6 6
+picture television N mero 0.64 1.07 0.88 3 0 0 1 0 1 0 1 1 0 0
+presume think V hyp-3 4.11 6.85 1.59 2 2 6 3 5 3 4 6 6
+feed starve V ant 0.50 0.83 1.02 2 3 0 0 0 0 0 0 0 0
+employee worker N hyp-1 5.91 9.85 0.29 6 6 6 6 6 6 6 6 6 5 6
+competition race N r-hyp-1 1.77 2.95 1.67 1 4 2 1 5 0 3 2 0 4 0 0 1
+antidote medicine N hyp-2 4.77 7.95 1.67 6 4 6 3 5 5 6 6 4 6 5 6 0
+sphere globe N r-hyp-1 3.27 5.45 2.38 3 5 3 6 6 0 0 0 5 2 6
+citizen salesman N no-rel 1.15 1.92 1.35 0 1 3 2 3 3 0 0 0 0 0 0 3
+elbow joint N hyp-3 4.31 7.18 1.81 6 2 6 6 2 3 3 6 1 4 6 5 6
+competition contest N syn 4.90 8.17 1.51 5 6 5 6 2 6 2 6 5 6
+whisper talk V hyp-1 5.50 9.17 1.02 6 6 6 6 6 6 4 6 6 3
+book encyclopedia N r-hyp-2 1.33 2.22 1.37 4 1 1 1 0 1 2 0 0 0 2 4
+cast show V hyp-2 1.80 3.0 2.32 0 1 3 6 6 2 0 0 0 0
+amateur heaven N no-rel 0.36 0.6 0.81 0 1 1 0 0 3 0 0 0 0 0 0 0 0
+barley food N hyp-3 5.80 9.67 0.60 6 6 6 6 6 6 6 6 6 4
+separate split V syn 4.07 6.78 2.22 6 6 4 6 5 6 6 0 3 3 0 6 1 5
+parent relation N hyp-4 5.56 9.27 0.68 6 6 6 4 6 5 6 6 5
+change persuade V r-hyp-3 2.83 4.72 1.91 3 0 3 1 5 6 0 3 3 1 4 5
+prom party N hyp-3 5.42 9.03 1.11 6 5 2 6 6 6 5 5 6 6 6 6
+seat throne N r-hyp-3 3.57 5.95 2.13 5 1 5 6 0 3 5
+uncle aunt N ant 0.17 0.28 0.55 0 0 0 0 0 2 0 0 0 0 0 0
+fox animal N hyp-4 5.92 9.87 0.27 6 6 6 5 6 6 6 6 6 6 6 6 6
+accelerate admit V no-rel 0.23 0.38 0.42 0 0 1 0 1 0 0 0 0 0 0 0 1
+groom wedding N mero 1.27 2.12 1.71 0 0 4 4 3 0 0 0 3 0 0
+mink animal N hyp-4 5.50 9.17 1.50 6 6 6 1 6 6 6 6 6 6
+worker technician N r-hyp-2 3.10 5.17 1.81 3 6 4 3 1 1 1 4 2 6
+calculus trigonometry N cohyp 0.77 1.28 0.89 0 1 2 1 1 0 0 3 1 0 0 1 0
+crib treatment N no-rel 0.31 0.52 0.46 0 1 1 0 0 0 1 0 0 0 0 0 1
+creature bug N r-hyp-4 2.23 3.72 2.08 3 0 3 0 6 4 2 0 6 1 3 1 0
+architecture structure N hyp-2 3.50 5.83 2.40 5 6 2 6 6 1 0 6 5 0 1 4
+reach increase V no-rel 2.07 3.45 1.87 1 4 5 1 5 4 0 2 2 0 1 4 0 0
+vault bank N mero 2.67 4.45 1.70 3 2 5 4 1 5 3 0 1 5 1 2
+furniture recliner N r-hyp-4 1.64 2.73 1.49 0 1 1 3 5 2 3 2 1 0 0
+blaze flame N hyp-1 2.50 4.17 2.11 5 4 1 6 3 0 2 0 4 0
+grasp hold V hyp-1 5.43 9.05 0.73 6 6 5 5 4 4 5 6 6 6 6 6 5 6
+weight quantity N hyp-2 4.46 7.43 1.91 3 6 0 2 6 6 6 4 3 4 6 6 6
+phone device N hyp-4 5.54 9.23 0.75 6 6 6 6 4 6 6 5 6 6 6 4 5
+beard goat N mero 0.92 1.53 1.27 2 1 0 0 3 0 0 0 0 0 3 0 3
+rose plant N hyp-4 5.85 9.75 0.36 6 5 6 6 6 6 6 6 6 6 6 5 6
+rationalize argue V hyp-2 3.08 5.13 2.18 1 3 4 1 4 4 0 0 6 6 2 6
+human mammal N hyp-4 5.90 9.83 0.30 6 6 6 6 6 5 6 6 6 6
+racquetball sport N hyp-3 5.42 9.03 1.11 6 6 2 6 6 5 6 5 6 6 6 5
+pour spill V cohyp 2.08 3.47 1.38 4 3 3 0 2 1 3 1 5 1 1 1 2
+bother count V no-rel 0.38 0.63 0.84 0 1 0 0 0 0 3 0 0 0 0 0 1
+spine backbone N syn 4.64 7.73 1.87 5 0 6 5 2 6 6 5 4 6 6
+cook stew V r-hyp-1 1.38 2.3 1.69 3 1 0 1 0 6 0 2 1 0 0 3 1
+organ kidney N r-hyp-3 1.17 1.95 1.77 0 0 1 0 1 5 0 0 1 5 1 0
+poem writing N hyp-2 5.67 9.45 0.67 6 6 6 5 6 4 6 6 6
+stage robber N no-rel 0.20 0.33 0.40 0 0 1 0 0 0 0 1 0 0
+quail animal N hyp-4 5.46 9.1 1.34 6 5 6 6 6 6 6 1 6 6 5 6 6
+extremity leg N r-hyp-2 2.08 3.47 2.25 5 0 1 5 6 0 0 1 0 4 3 0
+blame accuse V cohyp 4.55 7.58 2.02 6 1 4 5 6 0 5 5 6 6 6
+glide float V cohyp 3.11 5.18 2.28 1 6 0 2 5 0 4 6 4
+move stay V ant 0.31 0.52 0.61 0 2 0 1 0 0 0 0 0 0 0 0 1
+gander goose N hyp-1 3.17 5.28 2.07 3 3 3 3 6 1 6 1 1 6 5 0
+writing poem N r-hyp-2 1.36 2.27 1.61 4 2 0 4 0 0 0 0 3 2 0
+take snatch V r-hyp-2 4.55 7.58 1.44 5 6 4 6 6 4 6 2 5 4 2
+pile haystack N r-hyp-2 1.36 2.27 1.72 3 0 0 4 1 5 1 0 1 0 0
+rear front N ant 0.58 0.97 1.11 0 0 0 0 3 0 0 1 3 0 0 0
+protein meat N mero 1.18 1.97 1.59 0 0 4 3 0 0 3 0 3 0 0
+opinion thought N hyp-1 4.57 7.62 1.45 6 3 6 4 5 6 4 6 4 2 2 4 6 6
+pitchfork tool N hyp-2 5.50 9.17 0.65 6 6 6 4 6 5 6 5 5 6 6 5
+engagement commitment N hyp-2 5.33 8.88 0.75 6 6 6 5 4 6 4 5 5 5 6 6
+bread sandwich N mero 1.31 2.18 1.32 3 0 2 0 0 1 4 1 0 3 2 0 1
+sandwich food N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+hum whistle V cohyp 1.14 1.9 1.60 2 4 2 0 0 5 2 0 0 0 0 0 0 1
+chamber cell N cohyp 3.00 5.0 1.89 5 5 4 5 4 5 1 0 0 0 3 3 3 4
+tree plant N hyp-3 5.18 8.63 1.03 6 6 5 4 6 3 4 6 5 6 6
+boulder rock N hyp-1 5.50 9.17 1.05 6 6 6 5 6 6 6 6 2 6 5 6 5 6
+arithmetic math N hyp-2 5.10 8.5 1.58 4 6 6 6 1 4 6 6 6 6
+weed plant N hyp-2 5.54 9.23 1.08 6 6 5 6 6 2 6 6 6 6 5 6 6
+geology science N hyp-3 5.40 9.0 1.28 6 6 6 6 6 4 2 6 6 6
+custard food N hyp-3 5.79 9.65 0.56 6 4 6 6 6 6 6 6 5 6 6 6 6 6
+homework project N hyp-3 3.36 5.6 2.14 3 6 2 6 5 2 4 3 0 6 0
+way direction N syn 4.00 6.67 1.95 1 5 6 6 3 3 6 3 1 6
+demand request V hyp-1 3.91 6.52 1.38 1 5 4 6 3 5 3 3 3 5 5
+foot leg N mero 1.17 1.95 1.21 2 1 1 0 0 2 2 0 0 0 2 4
+meal supper N r-hyp-1 1.77 2.95 2.04 0 0 2 5 4 1 0 3 0 0 2 6 0
+liver heart N cohyp 0.33 0.55 0.47 0 0 0 1 1 0 0 0 0 1 0 1
+stir turn V cohyp 2.86 4.77 1.96 2 1 0 6 3 3 5
+wing bird N mero 0.69 1.15 0.99 2 0 1 0 0 0 3 0 0 2 0 0 1
+tease annoy V hyp-3 4.62 7.7 1.27 3 4 6 4 6 4 4 5 6 4 6 2 6
+accelerate build V no-rel 0.57 0.95 0.82 0 0 0 1 1 0 0 1 0 1 1 3 0 0
+head pin N mero 1.08 1.8 1.19 1 1 1 0 0 3 1 0 0 0 3 3
+wing angel N mero 0.67 1.12 1.03 2 0 0 0 0 0 0 0 2 0 1 3
+mechanic worker N hyp-3 5.73 9.55 0.45 6 6 5 5 6 6 6 6 5 6 6
+protection helmet N r-hyp-4 1.50 2.5 2.03 0 0 0 1 1 0 2 6 0 1 1 0 3 6
+line ointment N no-rel 0.15 0.25 0.36 0 0 0 0 0 1 0 0 0 0 0 0 1
+reminiscence memory N hyp-1 4.09 6.82 1.78 6 3 5 6 3 5 5 5 0 2 5
+religion belief N hyp-1 4.58 7.63 1.80 5 6 1 5 6 1 6 6 3 6 5 5
+gauze bandage N mero 4.90 8.17 1.30 4 6 4 6 2 4 6 5 6 6
+game chess N r-hyp-3 1.69 2.82 2.09 0 0 2 0 5 2 0 3 4 0 0 6 0
+overwhelm upset V cohyp 3.64 6.07 1.67 4 5 1 4 4 2 6 3 1 6 4
+problem difficulty N hyp-1 4.25 7.08 1.83 2 4 5 6 5 5 3 0 6 3 6 6
+cat animal N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+purse handbag N syn 5.58 9.3 0.95 6 6 6 6 6 6 4 3 6 6 6 6
+organization foundation N r-hyp-3 2.54 4.23 1.39 4 3 4 3 1 0 3 1 1 2 3 5 3
+guilt innocence N ant 0.45 0.75 0.89 0 0 1 0 0 0 1 0 3 0 0
+drawer dresser N mero 2.08 3.47 1.64 3 1 1 0 4 2 5 1 2 1 5 2 0
+nomad person N hyp-3 5.18 8.63 1.19 3 6 5 6 4 6 3 6 6 6 6
+couple pair N hyp-1 5.45 9.08 0.66 5 6 4 5 5 5 6 6 6 6 6
+winter summer N cohyp 0.55 0.92 0.50 0 1 1 0 1 1 0 1 1 0 0
+cake food N hyp-3 5.82 9.7 0.57 6 6 6 6 6 6 6 6 4 6 6
+sidewalk walkway N hyp-1 5.08 8.47 1.14 3 4 6 6 6 4 6 5 6 6 5 6 3
+elect select V hyp-1 4.75 7.92 1.23 4 3 5 6 5 6 2 5 4 6 6 5
+feeling empathy N r-hyp-2 1.45 2.42 2.43 6 0 0 0 0 0 6 0 4 0 0
+fig date N cohyp 2.50 4.17 1.94 4 6 0 3 3 5 4 2 1 0 0 2
+cannon gun N hyp-1 3.91 6.52 1.88 6 5 5 5 5 1 1 4 4 6 1
+recommend tell V hyp-3 3.92 6.53 1.44 6 3 3 4 4 6 2 1 4 5 4 5
+publisher person N hyp-3 3.62 6.03 1.21 2 4 3 3 6 3 4 4 4 6 3 2 3
+parent child N ant 1.40 2.33 1.62 0 2 0 0 1 3 0 4 4 0
+superstition belief N hyp-1 4.15 6.92 2.14 2 6 4 5 6 0 5 3 6 5 0 6 6
+water substance N hyp-4 4.55 7.58 1.83 6 6 4 6 1 5 1 4 6 6 5
+jury court N mero 1.80 3.0 1.47 0 5 3 2 2 3 1 1 1 0
+decade era N cohyp 4.71 7.85 1.16 6 5 5 3 5 6 4 5 5 2 4 4 6 6
+jesus god N hyp-4 3.50 5.83 2.14 6 6 1 1 1 5 4 0 3 4 5 6
+shrub bush N syn 4.92 8.2 1.26 6 6 5 3 3 4 6 6 3 6 5 6
+seafood mussel N r-hyp-2 0.60 1.0 1.20 4 1 0 0 0 0 1 0 0 0
+fear tenor N no-rel 0.17 0.28 0.37 0 0 0 0 1 0 0 0 1 0 0 0
+crowd group N hyp-3 5.14 8.57 1.41 6 6 4 6 6 6 6 6 4 5 4 6 1 6
+gallon pint N cohyp 1.17 1.95 1.52 1 0 3 0 0 4 3 3 0 0 0 0
+person proprietor N r-hyp-4 2.23 3.72 2.01 6 0 0 1 4 2 3 4 0 3 0 1 5
+squad group N hyp-4 5.00 8.33 1.63 6 6 5 1 6 6 6 2 5 5 6 6
+beg sip V no-rel 0.45 0.75 1.16 0 0 0 1 0 0 0 0 4 0 0
+tool shovel N r-hyp-2 1.54 2.57 1.91 5 0 0 0 1 1 1 6 0 2 3 1 0
+tissue skin N r-hyp-3 2.62 4.37 1.94 0 5 4 1 4 4 4 3 1 6 0 1 1
+saber sword N hyp-2 5.40 9.0 1.02 4 6 5 6 6 6 6 6 6 3
+cactus plant N hyp-3 5.75 9.58 0.43 5 6 6 6 6 6 6 5 6 6 6 5
+cattle herd N mero 3.64 6.07 1.77 6 3 4 6 2 3 6 4 1 1 4
+poetry prose N cohyp 3.64 6.07 1.77 5 5 5 6 1 3 3 1 3 2 6
+pinch touch V hyp-3 4.85 8.08 1.23 4 6 6 3 6 5 3 4 6 6 3 5 6
+sword weapon N hyp-1 5.69 9.48 0.82 6 6 3 6 6 6 6 6 6 6 6 5 6
+tornado storm N hyp-3 4.50 7.5 1.91 6 1 6 6 6 4 1 4 6 5
+destroy taste V no-rel 0.20 0.33 0.40 0 0 0 1 1 0 0 0 0 0
+wealth poverty N ant 0.43 0.72 0.62 0 1 2 0 0 1 0 0 0 0 0 0 1 1
+sardine food N hyp-3 5.70 9.5 0.64 5 6 6 6 6 6 6 6 6 4
+necklace bracelet N cohyp 0.57 0.95 0.90 0 0 0 2 1 0 3 0 0 0 1 0 0 1
+fade diminish V hyp-2 5.00 8.33 1.08 5 6 6 3 6 6 6 4 5 5 5 3
+sincerity honesty N hyp-2 4.79 7.98 1.47 6 6 5 5 4 6 5 3 1 6 5 3 6 6
+mushroom food N hyp-3 5.44 9.07 0.96 5 3 6 5 6 6 6 6 6
+blush tan V cohyp 0.42 0.7 0.86 0 3 0 0 0 0 0 1 0 0 1 0
+collect obtain V cohyp 5.00 8.33 1.29 6 5 6 6 6 5 4 2 6 3 6 5
+fluid keyboard N no-rel 0.00 0.0 0.00 0 0 0 0 0 0 0 0 0
+cone shape N hyp-2 5.83 9.72 0.55 6 6 6 6 6 6 6 4 6 6 6 6
+servant slave N cohyp 3.00 5.0 1.41 2 3 3 0 3 6 3 3 4 3
+cougar cat N hyp-2 5.38 8.97 1.15 5 6 6 6 2 6 5 6 6 4 6 6 6
+build break V ant 0.64 1.07 0.89 0 0 0 2 1 0 1 0 1 0 3 0 0 1
+destiny fate N syn 4.29 7.15 1.53 6 5 0 3 5 4 4 5 4 4 3 6 6 5
+circumstance situation N hyp-2 3.85 6.42 1.83 4 5 1 2 6 4 6 4 0 5 3 6 4
+hat cap N cohyp 4.00 6.67 1.80 6 3 6 6 4 3 3 3 6 5 0 2 5
+run control V hyp-3 2.91 4.85 2.02 5 2 5 0 3 5 0 0 4 5 3
+shell husk N hyp-2 2.69 4.48 2.16 1 0 6 5 5 0 3 4 1 0 5 1 4
+head foot N ant 0.33 0.55 0.62 1 0 0 0 2 0 1 0 0 0 0 0
+vacation holiday N syn 5.10 8.5 1.45 4 2 6 6 6 6 6 6 6 3
+walnut tree N hyp-3 3.85 6.42 2.21 2 5 6 0 6 5 5 6 0 4 6 4 1
+brand type N cohyp 3.43 5.72 2.50 5 5 0 4 4 6 0 6 0 6 1 5 0 6
+dungeon cell N hyp-1 3.92 6.53 2.09 4 2 4 0 3 4 0 4 6 6 6 6 6
+tree forest N mero 0.50 0.83 1.12 0 0 0 3 0 0 0 3 0 0 0 0
+paper material N hyp-1 5.58 9.3 0.49 5 6 5 5 6 5 6 6 6 6 6 5
+happiness emotion N hyp-2 5.90 9.83 0.30 6 6 6 6 6 5 6 6 6 6
+picture painting N syn 2.27 3.78 2.14 2 0 1 2 6 0 1 4 6 3 0
+kitchen bedroom N cohyp 0.79 1.32 1.08 0 1 0 0 0 1 0 1 3 0 2 3 0 0
+chest trunk N mero 3.45 5.75 2.39 6 6 4 6 5 5 0 0 0 2 4
+boy child N hyp-2 5.77 9.62 0.42 6 6 6 6 5 6 6 6 6 6 5 6 5
+vest shirt N cohyp 3.60 6.0 1.50 5 3 4 5 2 2 5 2 6 2
+capture seize V hyp-1 5.50 9.17 0.65 5 6 6 6 5 5 6 4 6 6 6 5
+chalk crayon N cohyp 0.77 1.28 0.97 0 0 2 0 1 0 0 0 1 3 0 1 2
+lady castle N no-rel 0.50 0.83 0.65 1 1 1 0 0 0 1 0 0 0 0 2
+protein egg N mero 0.46 0.77 0.84 3 0 0 0 1 0 0 0 1 0 1 0 0
+travel hitchhike V r-hyp-3 1.38 2.3 1.33 2 4 3 0 2 0 0 0 1 1 3 2 0
+opponent chorus N no-rel 0.17 0.28 0.37 0 0 0 0 1 0 0 0 0 1 0 0
+building cathedral N r-hyp-3 0.38 0.63 0.62 0 1 1 0 0 0 0 0 1 0 0 2 0
+grab touch V hyp-3 4.30 7.17 1.68 1 6 3 3 6 6 5 3 4 6
+glow shine V hyp-1 4.67 7.78 1.70 6 6 1 6 6 5 6 3 5 4 2 6
+club organization N hyp-4 5.46 9.1 1.15 6 6 6 6 6 6 4 2 6 6 5 6 6
+medication saxophone N no-rel 0.00 0.0 0.00 0 0 0 0 0 0 0 0 0 0
+nucleus atom N mero 1.15 1.92 1.56 0 0 0 0 3 0 5 2 0 1 1 3 0
+princess status N no-rel 4.64 7.73 1.43 6 1 5 4 4 5 6 6 4 6 4
+plaything toy N syn 3.40 5.67 2.24 4 5 1 5 6 6 5 1 1 0
+chance opportunity N syn 3.77 6.28 1.72 4 4 5 5 3 5 6 0 3 6 3 1 4
+farmer worker N hyp-3 5.64 9.4 0.48 6 6 6 6 5 6 5 5 6 5 6
+deception fraud N r-hyp-2 4.90 8.17 1.37 3 5 6 5 4 6 6 6 2 6
+butcher baker N cohyp 0.50 0.83 0.92 1 0 3 0 0 0 0 1 0 0
+remove unload V r-hyp-2 4.17 6.95 1.34 5 5 6 6 3 4 3 3 6 3 2 4
+era time N hyp-2 5.31 8.85 1.07 3 5 5 6 5 6 3 6 6 6 6 6 6
+integrity honesty N hyp-1 4.58 7.63 1.75 5 1 4 5 6 6 4 1 5 6 6 6
+painting art N hyp-2 5.75 9.58 0.43 6 5 6 6 5 5 6 6 6 6 6 6
+street way N hyp-3 3.29 5.48 2.02 3 3 0 1 6 5 0 6 4 4 1 3 5 5
+protect defend V hyp-1 4.70 7.83 1.27 5 5 2 5 6 3 6 5 6 4
+appliance refrigerator N r-hyp-3 1.50 2.5 2.14 0 0 6 0 4 0 0 2 1 0 0 5
+count evaluate V hyp-4 3.67 6.12 2.13 2 5 6 6 3 5 2 6 0 2 1 6
+nitrogen hydrogen N cohyp 0.20 0.33 0.40 0 0 0 1 1 0 0 0 0 0
+share stock N mero 3.14 5.23 2.36 4 5 0 5 6 3 4 6 0 0 1 0 4 6
+week beginning N no-rel 1.36 2.27 1.91 0 0 0 2 1 3 1 5 0 6 1 0 0 0
+flower orchid N r-hyp-1 2.15 3.58 2.38 6 0 0 1 6 0 2 4 2 6 1 0 0
+timber lumber N syn 3.83 6.38 1.91 2 5 6 4 4 6 5 3 1 4 0 6
+contract agreement N hyp-2 5.91 9.85 0.29 6 6 6 6 5 6 6 6 6 6 6
+foot plant N no-rel 0.42 0.7 0.86 3 0 0 0 1 0 0 0 0 1 0 0
+hockey sentence N no-rel 0.71 1.18 1.03 1 0 3 0 0 1 0
+haystack pile N hyp-2 5.08 8.47 1.64 6 6 5 0 6 4 6 6 6 5 4 6 6
+galosh rubber N syn 1.92 3.2 2.06 0 0 2 0 2 4 4 1 0 6 5 0 1
+performance seat N no-rel 0.09 0.15 0.29 0 1 0 0 0 0 0 0 0 0 0
+west direction N hyp-3 5.85 9.75 0.36 6 6 6 5 6 5 6 6 6 6 6 6 6
+ounce measure N hyp-4 5.67 9.45 0.62 6 6 6 5 6 4 6 5 6 6 6 6
+backpack purse N cohyp 1.54 2.57 1.28 0 1 2 2 1 4 1 0 1 4 0 2 2
+creation beginning N hyp-1 4.00 6.67 1.41 3 4 6 2 4 5 6 4 5 1 5 3 4
+airplane aircraft N hyp-2 5.75 9.58 0.83 6 6 6 6 6 3 6 6 6 6 6 6
+caravan group N hyp-3 3.00 5.0 2.29 0 0 1 4 5 5 2 0 6 5 4 1 6
+refuse stop V no-rel 4.00 6.67 2.28 0 0 3 5 6 6 3 6 6 5
+dismiss repress V no-rel 2.83 4.72 2.03 1 6 0 4 6 3 0 3 3 5 2 1
+technician worker N hyp-2 5.29 8.82 1.53 6 5 6 5 6 6 6 0 6 6 5 6 5 6
+develop learn V hyp-1 3.17 5.28 1.52 6 0 3 4 2 2 4 4 5 3 3 2
+incense odor N hyp-2 4.40 7.33 1.85 6 5 2 1 6 5 2 5 6 6
+mouse animal N hyp-4 5.71 9.52 0.59 6 5 6 6 6 6 5 6 4 6 6 6 6 6
+bug insect N hyp-1 5.36 8.93 0.88 5 6 6 6 5 3 6 6 5 5 6
+pal buddy N syn 5.00 8.33 1.71 6 6 5 6 1 6 6 2 5 6 6
+gender sex N syn 3.45 5.75 2.50 0 6 1 6 5 5 0 6 4 5 0
+desert oasis N cohyp 1.55 2.58 1.83 6 1 0 1 0 1 4 0 2 2 0
+portion percentage N syn 4.50 7.5 1.36 5 3 2 3 5 4 6 5 6 6
+cook burn V cohyp 2.29 3.82 1.75 4 0 4 1 0 3 4
+spot mark N hyp-1 4.89 8.15 1.29 5 4 6 4 6 2 5 6 6
+model example N syn 3.00 5.0 2.45 4 6 6 0 0 5 2 5 1 6 1 0
+hypothesis theory N mero 3.60 6.0 2.37 4 3 6 0 4 0 6 6 1 6
+bouillon food N hyp-4 4.85 8.08 1.41 6 6 6 6 6 6 4 3 3 5 2 6 4
+treasure possession N hyp-4 4.46 7.43 1.65 5 3 6 1 5 3 6 2 6 5 4 6 6
+sheep herd N mero 1.67 2.78 1.70 2 1 0 0 4 2 0 0 5 3 0 3
+ask recall V r-hyp-4 1.50 2.5 1.80 2 6 0 1 3 1 0 0 2 0
+knuckle finger N mero 1.69 2.82 2.13 0 1 6 0 4 1 0 0 5 0 4 1 0
+land region N hyp-1 2.71 4.52 2.12 4 1 2 0 1 6 5
+tow tell V no-rel 0.15 0.25 0.36 0 0 0 0 0 0 1 0 0 0 0 0 1
+observe stop V no-rel 0.50 0.83 0.92 0 0 0 0 0 0 0 3 1 1
+retain keep V hyp-3 5.33 8.88 1.03 5 6 6 6 4 6 3 4 6 6 6 6
+fleet navy N mero 2.42 4.03 2.36 3 0 5 1 6 5 0 0 4 0 0 5
+chuck toss V syn 4.77 7.95 1.53 2 4 6 5 5 1 6 6 6 6 5 5 5
+beer liquid N hyp-4 5.38 8.97 0.74 6 6 5 4 4 6 6 6 6 5 5 6 5
+bandanna cloth N hyp-3 4.75 7.92 1.53 2 6 6 6 6 4 3 5 6 5 2 6
+keep reserve V r-hyp-3 4.83 8.05 1.34 4 4 6 6 6 6 4 2 6 3 5 6
+crevice space N hyp-2 4.09 6.82 1.50 5 6 4 4 3 4 0 5 5 4 5
+humiliate hurt V hyp-1 5.07 8.45 0.59 5 6 5 4 6 5 4 5 5 5 5 5 6 5
+myth fiction N hyp-2 5.15 8.58 1.35 6 5 6 6 5 5 6 6 6 6 5 1 4
+animal beast N syn 3.40 5.67 1.85 4 3 1 0 6 5 5 3 5 2
+hamburger bird N no-rel 0.09 0.15 0.29 0 1 0 0 0 0 0 0 0 0 0
+credit blackberry N no-rel 0.09 0.15 0.29 0 1 0 0 0 0 0 0 0 0 0
+wrestling sport N hyp-2 5.31 8.85 0.99 5 5 6 6 6 6 6 3 6 6 4 4 6
+stove floor N no-rel 0.23 0.38 0.58 0 0 0 0 0 0 2 0 0 0 0 0 1
+cliff drop N syn 2.92 4.87 1.44 4 3 4 1 2 4 1 4 1 4 4 1 5
+green blue N cohyp 0.73 1.22 0.96 3 2 1 0 0 0 0 0 1 0 1
+perfume deodorant N cohyp 2.64 4.4 2.19 0 4 4 0 0 5 6 3 1 5 1
+tail water N no-rel 0.31 0.52 0.82 0 0 1 0 0 0 0 0 0 0 0 0 3
+crew group N hyp-3 5.64 9.4 0.89 6 6 4 6 6 6 6 6 3 6 6 6 6 6
+purse waiter N no-rel 0.23 0.38 0.58 0 0 0 0 0 2 0 0 0 0 0 0 1
+dunk dip V syn 4.38 7.3 1.44 2 5 5 1 5 4 6 5 6 5 5 5 3
+sit lie V ant 1.21 2.02 1.47 2 4 2 0 0 3 4 0 0 1 0 0 0 1
+arm extremity N hyp-2 4.36 7.27 2.22 0 6 5 6 3 3 6 6 2 0 6 6 6 6
+criticize remark V hyp-2 5.00 8.33 1.13 6 6 5 3 5 3 6 5 6 6 4
+cathedral injury N no-rel 0.08 0.13 0.28 1 0 0 0 0 0 0 0 0 0 0 0
+pepper salt N cohyp 0.79 1.32 1.01 0 0 0 1 1 1 0 1 3 0 1 3 0 0
+surgeon doctor N hyp-1 5.18 8.63 1.70 6 6 5 5 6 6 5 6 6 6 0
+barrel gun N mero 1.46 2.43 1.60 0 0 2 0 1 4 0 1 1 3 2 0 5
+mouse rat N cohyp 1.33 2.22 1.11 2 1 1 1 1 2 2 0 0 0 2 4
+suggest tell V hyp-2 4.11 6.85 1.73 5 3 5 5 5 0 3 6 5
+section part N hyp-2 3.08 5.13 2.13 0 4 3 4 2 6 0 6 0 6 4 3 2
+green yellow N cohyp 1.25 2.08 1.69 1 3 6 0 1 0 0 1 1 0 2 0
+paddle oar N hyp-1 3.15 5.25 2.14 2 0 4 5 6 0 5 3 5 6 3 0 2
+show unite V no-rel 0.33 0.55 0.67 0 1 0 2 0 0 0 0 0
+omelet food N hyp-3 5.85 9.75 0.53 6 6 6 6 6 6 6 6 6 6 4 6 6
+painting washer N no-rel 0.40 0.67 0.49 1 1 0 0 1 0 1 0 0 0
+film sun N no-rel 0.31 0.52 0.61 0 0 0 1 0 0 0 0 0 0 2 0 1
+meaning nonsense N cohyp 0.73 1.22 0.96 2 0 0 1 3 0 0 0 1 1 0
+recommend advise V hyp-1 4.00 6.67 1.63 6 0 3 6 4 3 5 4 6 3 4 4
+charity kindness N hyp-2 5.10 8.5 1.04 5 6 6 4 3 6 5 4 6 6
+shape sphere N r-hyp-2 1.54 2.57 1.69 6 0 0 0 1 2 3 0 2 2 3 1 0
+glare reflect V hyp-1 3.62 6.03 2.02 5 1 6 0 4 5 3 3 6 4 5 0 5
+change swap V r-hyp-1 5.50 9.17 0.96 6 6 6 6 6 5 6 3 6 6 6 4
+detach attach V ant 1.00 1.67 1.90 3 0 0 0 0 6 1 0 0 0
+erupt burst V hyp-1 4.00 6.67 1.80 6 3 3 5 3 6 5 6 0 6 3 4 2
+marry unite V hyp-1 4.92 8.2 1.59 0 6 6 6 5 6 4 5 5 6 5 6 4
+refrigerator appliance N hyp-3 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6
+bucket barrel N cohyp 2.14 3.57 1.64 5 0 2 0 3 3 2
+apex point N hyp-2 4.67 7.78 1.89 6 3 6 5 5 0 5 6 6
+smog pollution N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+pistol gun N hyp-2 5.92 9.87 0.27 6 6 5 6 6 6 6 6 6 6 6 6 6
+crossing turtle N no-rel 0.18 0.3 0.39 0 0 0 1 0 0 0 0 1 0 0
+pastry dough N hyp-1 3.00 5.0 2.24 6 5 6 2 1 0 5 2 3 0
+car vehicle N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6
+vision perception N hyp-2 2.29 3.82 2.05 4 0 0 0 5 3 4
+sister sorority N mero 1.07 1.78 1.39 0 1 3 0 0 4 2 0 0 2 0 3 0 0
+marriage ritual N hyp-1 4.31 7.18 1.94 4 3 2 2 6 5 6 0 4 6 6 6 6
+elephant lecture N no-rel 0.17 0.28 0.37 0 0 0 0 1 0 0 0 1 0 0 0
+pat touch V hyp-2 5.36 8.93 0.88 6 5 6 6 6 6 6 4 4 6 4
+pause break V hyp-2 4.90 8.17 0.94 4 5 5 5 6 6 5 6 3 4
+put give V hyp-4 1.80 3.0 1.08 2 3 1 3 0 2 3 2 0 2
+feature face N mero 1.18 1.97 1.11 3 1 1 0 1 0 2 0 2 3 0
+flip defend V no-rel 0.23 0.38 0.42 0 0 1 0 1 0 0 0 0 0 0 0 1
+tennis recreation N hyp-4 4.69 7.82 1.77 6 4 3 3 4 5 6 6 0 6 6 6 6
+receive obtain V syn 5.27 8.78 1.05 6 3 5 6 6 6 6 4 6 4 6
+reader person N hyp-2 4.46 7.43 1.91 5 1 6 2 6 6 5 1 5 6 3 6 6
+silver gold N cohyp 0.67 1.12 1.55 3 0 0 0 0 0 0 0 5 0 0 0
+strawberry food N hyp-4 5.46 9.1 0.84 5 6 3 6 6 6 6 6 5 6 6 5 5
+tip point N hyp-2 3.55 5.92 1.78 5 2 3 6 2 6 3 3 0 5 4
+suede leather N hyp-1 4.36 7.27 1.76 6 5 6 6 4 1 4 5 5 4 5 6 0 4
+math science N hyp-1 3.62 6.03 1.50 6 1 4 4 5 3 3 6 5 3 2 2 3
+lipstick class N no-rel 0.21 0.35 0.41 0 0 0 1 1 0 0 0 0 0 1 0 0 0
+duty task N r-hyp-1 3.00 5.0 2.05 5 4 5 2 3 0 0 6 2
+thumb finger N hyp-1 4.77 7.95 1.67 6 1 6 4 6 5 6 3 6 2 6 5 6
+fire water N cohyp 0.20 0.33 0.40 0 0 0 1 1 0 0 0 0 0
+chili food N hyp-3 5.89 9.82 0.31 6 6 6 5 6 6 6 6 6
+answer question N ant 0.82 1.37 1.19 0 1 1 0 2 4 0 0 1 0 0
+hurricane storm N hyp-3 5.64 9.4 0.64 6 4 5 6 6 6 6 5 6 6 6
+breast chest N mero 3.20 5.33 2.40 1 6 3 1 6 6 0 0 4 5
+puff wind N hyp-2 2.73 4.55 2.42 0 6 3 0 4 3 0 2 6 6 0
+symptom pain N r-hyp-1 1.27 2.12 1.66 3 5 0 0 0 0 0 1 2 0 3
+leadership ability N hyp-1 5.08 8.47 1.33 5 1 6 6 6 5 6 6 5 5 6 4 5
+address stand V no-rel 1.42 2.37 1.19 0 2 0 0 1 1 4 2 1 2 3 1
+bone tissue N hyp-3 1.23 2.05 1.25 0 0 1 1 2 2 0 3 0 0 4 1 2
+gun rifle N r-hyp-2 2.27 3.78 2.53 6 0 0 6 0 5 0 0 5 1 2
+failure success N ant 1.46 2.43 1.60 0 4 0 3 1 4 0 0 0 3 0 3 1
+shape triangle N r-hyp-4 0.77 1.28 1.19 0 0 0 0 2 2 1 0 0 4 0 0 1
+acknowledge admit V syn 4.23 7.05 1.80 6 2 0 3 6 5 6 5 2 5 5 5 5
+musk scent N hyp-1 5.62 9.37 1.08 6 6 6 2 6 5 6 6 6 6 6 6 6
+wife husband N ant 0.77 1.28 1.42 0 0 1 0 4 4 0 0 0 0 0 1 0
+officer law N mero 3.08 5.13 1.86 2 1 3 0 6 1 5 5 5 1 4 4 3
+weed venom N no-rel 0.22 0.37 0.42 0 0 0 1 0 0 0 0 1
+wolf creature N hyp-4 5.36 8.93 1.43 6 6 5 6 6 1 6 5 6 6 6
+hypothesis pool N no-rel 0.36 0.6 0.61 0 0 0 0 2 1 0 1 1 0 0 0 0 0
+ring jewelry N hyp-1 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+radish vegetable N hyp-2 5.75 9.58 0.43 6 5 6 6 6 6 5 6 6 6 5 6
+quotient amount N hyp-3 4.42 7.37 1.32 3 6 3 6 6 5 6 3 3 4 5 3
+shape prism N r-hyp-3 1.62 2.7 1.69 4 0 0 0 1 3 3 0 5 1 3 1 0
+shiver shake V hyp-2 4.60 7.67 1.43 4 6 4 5 5 6 5 6 4 1
+squash game N hyp-3 5.45 9.08 1.44 5 6 6 6 6 6 6 6 6 1 6
+whale cave N no-rel 0.10 0.17 0.30 0 0 0 0 0 0 0 0 0 1
+herd group N hyp-3 5.54 9.23 0.75 6 6 6 4 6 6 6 5 6 5 4 6 6
+mattress bed N mero 2.42 4.03 2.36 1 0 0 5 6 6 0 1 5 0 3 2
+delay hurry V ant 0.27 0.45 0.62 0 1 0 2 0 0 0 0 0 0 0
+diamond pearl N cohyp 0.45 0.75 0.99 0 0 2 0 0 0 0 0 3 0 0
+way path N syn 4.67 7.78 1.49 6 6 6 6 6 3 3 6 5 2 4 3
+look evaluate V hyp-4 4.50 7.5 1.20 4 6 5 3 6 3 6 3 4 5
+amateur expert N cohyp 0.85 1.42 0.95 1 1 2 0 3 1 0 0 0 0 1 0 2
+zipper pants N mero 0.09 0.15 0.29 0 0 0 0 0 0 0 0 1 0 0
+cuff sleeve N mero 2.64 4.4 2.35 0 6 2 0 5 2 0 4 4 6 0
+lane road N cohyp 3.25 5.42 1.59 4 6 4 2 3 3 3 0 1 5 4 4
+ant insect N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+county country N cohyp 1.15 1.92 1.51 0 0 2 1 3 2 0 0 0 5 0 0 2
+daughter female N hyp-2 4.80 8.0 1.54 6 4 6 5 6 6 4 6 4 1
+eyeball eye N mero 2.17 3.62 2.41 5 5 6 0 0 1 1 0 6 0 1 1
+dictator ruler N hyp-1 5.92 9.87 0.28 6 6 6 5 6 6 6 6 6 6 6 6
+seagull bird N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6 6
+toaster appliance N hyp-3 5.64 9.4 0.64 6 6 6 4 5 6 6 6 6 5 6
+get recruit V r-hyp-4 3.18 5.3 1.34 5 3 4 4 4 0 3 2 2 4 4
+son daughter N ant 0.91 1.52 1.08 0 1 1 0 1 3 3 0 1 0 0
+restroom communication N no-rel 0.14 0.23 0.35 0 0 0 0 1 0 0 0 0 0 1 0 0 0
+tortoise animal N hyp-4 5.92 9.87 0.27 6 6 6 6 6 6 6 6 6 6 6 6 5
+help add V no-rel 0.78 1.3 1.47 0 3 0 4 0 0 0 0 0
+taxi cab N syn 3.75 6.25 2.49 6 6 6 0 6 2 5 0 6 0 3 5
+kite bird N hyp-3 2.92 4.87 2.67 0 6 0 0 3 5 0 6 1 6 0 5 6
+garlic onion N cohyp 1.64 2.73 2.01 1 2 4 1 0 4 0 6 0 0 0
+insect mosquito N r-hyp-2 1.08 1.8 1.73 0 0 2 0 3 1 6 0 0 0 0 0 2
+technology knowledge N hyp-4 4.27 7.12 2.00 6 0 6 6 1 6 5 5 3 4 5
+beef cow N cohyp 1.31 2.18 1.64 2 0 0 0 1 0 3 5 0 1 4 1 0
+light aura N r-hyp-1 2.67 4.45 2.17 2 4 1 6 1 0 6 2 2 0 6 2
+limousine car N hyp-1 5.93 9.88 0.26 6 5 6 6 6 6 6 6 6 6 6 6 6 6
+walrus mammal N hyp-4 5.90 9.83 0.30 6 6 6 6 6 6 5 6 6 6
+give let V hyp-1 2.54 4.23 1.60 2 1 6 5 4 3 2 2 2 3 1 2 0
+fabric silk N r-hyp-1 1.23 2.05 1.97 1 5 0 2 0 0 0 0 6 0 0 0 2
+do be V hyp-4 1.75 2.92 2.05 3 6 4 1 0 4 0 0 0 0 0 3
+hit run V cohyp 1.14 1.9 1.51 0 5 0 0 1 1 0 1 3 0 2 3 0 0
+siren signal N hyp-2 4.92 8.2 1.38 6 5 6 3 6 6 5 2 6 5 6 3
+medicine profession N hyp-2 4.15 6.92 1.56 6 2 3 6 4 3 3 3 6 6 4 2 6
+broth soup N hyp-1 4.70 7.83 1.62 2 5 6 6 3 6 6 6 5 2
+rectangle shape N hyp-4 5.85 9.75 0.36 6 5 6 6 6 5 6 6 6 6 6 6 6
+group legion N r-hyp-4 2.00 3.33 2.00 1 6 1 1 3 4 0 0 4 0
+dove bird N hyp-4 5.92 9.87 0.28 6 6 6 5 6 6 6 6 6 6 6 6
+person citizen N r-hyp-2 3.10 5.17 2.59 0 0 6 6 0 1 6 3 3 6
+human man N syn 1.85 3.08 1.87 0 3 5 0 1 5 3 1 4 0 0 0 2
+empire state N cohyp 2.50 4.17 2.25 1 4 6 0 2 0 6 2 0 4
+science math N r-hyp-1 1.10 1.83 1.37 0 1 4 0 0 1 0 3 2 0
+six number N hyp-3 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+data information N syn 5.18 8.63 1.75 6 6 6 6 1 6 6 6 6 6 2
+retreat descend V cohyp 2.55 4.25 1.72 6 4 1 2 1 1 2 4 3 4 0
+pill medication N hyp-2 4.70 7.83 1.79 5 5 6 6 6 5 3 6 0 5
+banana fruit N hyp-2 5.83 9.72 0.37 5 6 6 6 6 6 6 6 6 6 6 5
+pork hog N mero 2.15 3.58 1.66 3 1 5 2 3 5 2 0 0 0 3 1 3
+present future N cohyp 0.62 1.03 0.84 0 0 1 3 1 1 0 0 1 0 0 1 0
+cup container N hyp-1 5.15 8.58 1.17 5 2 6 6 4 6 6 5 6 6 4 5 6
+ballerina dancer N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6
+leather material N hyp-4 5.54 9.23 0.93 6 6 6 6 6 3 4 6 6 6 6 6 5
+squid octopus N cohyp 2.27 3.78 2.26 5 5 1 3 0 0 1 0 0 4 6
+trunk tree N mero 1.00 1.67 1.78 1 6 0 0 0 0 3 0 0 0 0 2
+shell turtle N mero 0.90 1.5 1.14 1 0 0 1 0 1 0 4 1 1
+swan animal N hyp-4 5.85 9.75 0.53 6 6 6 6 6 6 4 6 6 6 6 6 6
+plant turnip N r-hyp-4 0.46 0.77 0.63 0 0 2 0 1 1 0 0 0 0 1 1 0
+effect reaction N r-hyp-2 2.08 3.47 2.30 6 0 0 3 3 1 0 0 0 6 0 3 5
+deny repress V hyp-4 3.73 6.22 1.76 5 2 5 5 3 6 6 3 3 0 3
+price worth N hyp-2 4.20 7.0 1.40 5 4 3 3 3 2 6 4 6 6
+leg arm N cohyp 0.57 0.95 1.05 0 0 0 1 1 0 4 0 0 0 1 0 0 1
+comma punctuation N hyp-1 5.67 9.45 0.75 4 4 6 6 6 6 6 6 6 6 6 6
+ruby jewel N hyp-1 5.92 9.87 0.28 6 5 6 6 6 6 6 6 6 6 6 6
+shelf counter N mero 1.91 3.18 1.62 3 0 1 4 0 0 5 3 2 1 2
+pastry food N hyp-4 5.30 8.83 1.55 6 6 6 6 1 4 6 6 6 6
+kangaroo animal N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+swing set V hyp-3 0.62 1.03 1.39 0 0 5 0 0 1 0 0 0 0 0 2 0
+skin tissue N hyp-3 4.70 7.83 1.62 5 3 6 6 1 6 4 6 6 4
+antidote drug N hyp-3 4.75 7.92 1.09 6 6 5 4 3 6 5 4 4 3 5 6
+brown green N cohyp 0.77 1.28 1.12 0 0 3 0 0 0 3 0 1 0 2 0 1
+frustration anger N hyp-2 5.15 8.58 0.86 6 4 6 5 6 6 5 5 6 6 4 4 4
+violin viola N cohyp 1.83 3.05 1.91 2 6 3 0 4 0 3 3 0 0 0 1
+hurt insult V r-hyp-1 3.92 6.53 1.54 0 3 5 5 4 5 4 2 4 6 5 5 3
+trunk oasis N no-rel 0.21 0.35 0.41 0 0 0 1 1 0 0 0 0 0 1 0 0 0
+instrument scalpel N r-hyp-4 1.50 2.5 2.18 1 0 3 0 1 0 0 0 6 6 1 0
+pavement road N mero 3.44 5.73 2.31 1 5 0 2 6 1 6 6 4
+damage harm N syn 4.38 7.3 1.60 5 6 4 4 4 3 6 4 6 6 4 5 0
+strawberry fruit N hyp-3 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6 6
+pint amount N hyp-4 5.60 9.33 0.49 6 6 5 5 6 6 6 6 5 5
+profit loss N ant 0.11 0.18 0.31 0 0 0 0 1 0 0 0 0
+take kidnap V r-hyp-2 4.40 7.33 1.91 5 6 6 6 1 6 5 3 1 5
+symbol letter N r-hyp-3 1.54 2.57 1.95 0 0 2 6 0 1 0 5 0 1 2 3 0
+look glance V r-hyp-1 4.54 7.57 1.91 6 6 5 6 2 6 6 4 2 5 5 6 0
+popcorn food N hyp-4 5.85 9.75 0.36 6 6 6 6 6 6 6 6 6 6 6 5 5
+update inform V hyp-1 3.64 6.07 1.55 5 4 4 6 2 5 4 2 1 2 5
+gull bird N hyp-4 5.43 9.05 0.73 5 6 4 6 5 6 6
+recall remember V syn 5.23 8.72 1.62 0 6 6 4 6 6 5 6 6 6 6 5 6
+hammer cancer N no-rel 0.31 0.52 0.61 1 0 0 0 0 2 0 0 0 0 0 1 0
+lunch food N hyp-3 3.69 6.15 2.20 0 2 6 3 0 6 5 6 5 4 6 4 1
+agreement bench N no-rel 0.15 0.25 0.36 0 0 1 0 0 0 0 0 0 0 0 0 1
+education empire N no-rel 1.00 1.67 0.95 2 1 1 0 0 0 3 2 0 1 1
+buzz fly V hyp-1 1.92 3.2 1.89 1 0 0 1 3 6 2 0 4 2 0 4
+pleasure herd N no-rel 0.00 0.0 0.00 0 0 0 0 0 0 0 0 0 0 0
+skyscraper building N hyp-1 5.92 9.87 0.28 6 6 6 6 6 6 6 6 6 6 6 5
+chew grind V hyp-1 2.46 4.1 2.06 6 2 1 3 0 5 2 5 0 0 5 2 1
+wing bat N mero 0.23 0.38 0.42 0 0 0 0 0 1 1 0 0 0 0 1 0
+fault mistake N syn 3.86 6.43 2.03 0 5 4 4 5 6 4 6 5 6 1 5 0 3
+worker farmer N r-hyp-3 1.30 2.17 1.49 5 0 1 1 3 0 1 1 0 1
+lot quantity N hyp-3 5.00 8.33 1.30 4 6 6 5 6 6 2 4 5 6 3 6 6
+faculty school N mero 2.27 3.78 1.91 3 0 3 6 3 0 1 0 2 5 2
+disperse separate V hyp-1 4.27 7.12 1.48 5 1 4 4 3 3 6 6 4 6 5
+pronoun word N hyp-2 5.64 9.4 0.88 6 6 6 3 6 6 6 6 6 6 5
+toll fee N hyp-1 5.60 9.33 0.49 5 6 5 6 6 5 6 6 6 5
+waterfall tennis N no-rel 0.42 0.7 0.95 3 0 0 0 0 0 0 0 2 0 0 0
+take keep V hyp-3 2.57 4.28 1.80 3 2 1 1 1 5 0 2 3 0 5 3 5 5
+pardon persuade V no-rel 1.00 1.67 1.41 1 0 0 1 4 0 0 1 0 1 0 4
+forest jungle N r-hyp-1 3.20 5.33 1.94 0 1 6 4 3 1 4 4 3 6
+carpenter worker N hyp-4 5.73 9.55 0.45 6 5 5 6 6 5 6 6 6 6 6
+point pencil N mero 0.58 0.97 0.86 0 0 0 1 1 0 0 1 0 1 0 3
+jog run V hyp-1 4.31 7.18 1.90 2 5 4 6 5 2 0 3 6 5 6 6 6
+pavement street N mero 2.69 4.48 2.01 1 0 5 3 3 5 6 4 0 1 0 3 4
+house structure N hyp-2 4.82 8.03 1.59 6 1 4 6 5 3 6 6 4 6 6
+accelerate increase V hyp-2 5.00 8.33 1.11 4 3 4 6 6 6 6 6 6 6 4 4 4
+educate teach V hyp-1 5.50 9.17 0.92 6 6 6 6 5 6 6 5 3 6
+poet writer N hyp-1 5.70 9.5 0.64 4 6 6 5 6 6 6 6 6 6
+bend turn V hyp-1 4.25 7.08 1.69 4 6 5 2 6 4 6 4 0 5 5 4
+custard building N no-rel 0.00 0.0 0.00 0 0 0 0 0 0 0 0 0 0 0 0 0
+screwdriver hammer N cohyp 0.82 1.37 1.11 1 3 0 0 0 0 1 0 0 3 1
+blame drink V no-rel 0.08 0.13 0.27 0 0 0 0 0 0 0 0 0 0 0 1 0
+olympics event N hyp-4 5.80 9.67 0.40 5 5 6 6 6 6 6 6 6 6
+blame put V no-rel 0.58 0.97 0.86 1 1 1 0 0 0 3 0 0 0 1 0
+mussel seafood N hyp-2 5.33 8.88 1.11 6 6 5 5 3 3 6 6 6 6 6 6
+idol sword N no-rel 0.29 0.48 0.45 0 0 0 0 1 1 0 1 1 0 0 0 0 0
+trunk elephant N mero 0.77 1.28 1.58 0 0 1 0 6 0 1 1 0 1 0 0 0
+rubber material N hyp-4 5.62 9.37 0.74 6 6 6 4 6 6 6 6 6 5 4 6 6
+ozone atmosphere N cohyp 4.46 7.43 1.50 2 5 4 6 5 2 4 2 5 6 5 6 6
+person publisher N r-hyp-3 2.23 3.72 1.85 2 4 3 3 0 5 5 0 0 0 4 1 2
+worker carpenter N r-hyp-4 1.36 2.27 1.87 0 5 1 4 4 0 0 0 0 1 0
+activity hobby N r-hyp-3 4.10 6.83 1.70 2 2 6 3 6 2 6 4 4 6
+plant animal N cohyp 0.08 0.13 0.27 0 0 0 0 0 0 0 0 0 0 0 0 1
+haven shelter N hyp-1 2.64 4.4 2.14 0 6 2 3 0 0 2 3 6 2 5
+dusk evening N mero 4.67 7.78 1.15 6 5 5 4 5 2 5 6 4
+zucchini squash N hyp-3 4.38 7.3 2.17 6 6 0 6 0 5 6 3 3 6 6 4 6
+biscuit cookie N syn 3.08 5.13 1.98 1 0 3 3 5 4 4 6 1 0 4 6 3
+sit lounge V r-hyp-1 3.92 6.53 1.44 2 2 4 5 6 4 4 1 5 6 4 4 4
+saturn venus N cohyp 0.77 1.28 1.37 2 5 1 0 0 0 0 0 1 0 0 1 0
+marrow bone N cohyp 2.30 3.83 2.05 4 4 0 0 1 4 3 6 1 0
+intellect knowledge N hyp-3 3.64 6.07 1.91 3 6 5 6 2 4 4 3 0 4 0 6 3 5
+caption technique N no-rel 1.00 1.67 1.79 1 2 0 6 0 0 1 0 0 0
+shovel tool N hyp-2 5.82 9.7 0.39 6 6 6 6 5 6 6 6 6 6 5
+eight number N hyp-3 5.77 9.62 0.58 5 6 6 4 6 6 6 6 6 6 6 6 6
+meal snack N r-hyp-1 1.69 2.82 1.68 0 1 3 1 1 4 0 0 1 0 4 5 2
+bug creature N hyp-4 5.38 8.97 1.64 6 6 6 6 6 0 6 6 6 6 6 4 6
+staff school N mero 0.45 0.75 0.66 1 0 0 1 0 0 1 0 2 0 0
+pleasure pain N ant 1.40 2.33 1.85 2 5 0 0 0 0 3 4 0 0
+haze fog N syn 4.70 7.83 1.19 6 4 3 4 4 3 6 5 6 6
+physiology study N hyp-4 5.14 8.57 1.73 5 1 6 6 6 6 6
+mole animal N hyp-4 5.80 9.67 0.60 6 6 6 6 6 6 6 6 6 4
+gold metal N hyp-2 5.83 9.72 0.37 6 6 6 6 6 5 6 6 6 6 6 5
+decline descend V hyp-2 2.50 4.17 2.33 1 6 0 1 1 5 0 1 4 6
+sum amount N syn 3.64 6.07 2.10 3 5 3 6 5 0 1 1 6 4 6
+loft attic N syn 3.15 5.25 2.11 4 6 4 2 6 0 3 3 0 6 3 0 4
+essay paragraph N cohyp 1.43 2.38 1.40 3 0 3 0 0 3 1
+dismiss go V hyp-4 2.38 3.97 1.73 0 4 6 4 1 2 1 4 1 1 4 1 2
+foot measure N hyp-4 5.08 8.47 1.66 6 5 6 6 5 5 6 4 6 0 6 6
+tablet medicine N hyp-2 4.75 7.92 1.96 6 5 5 0 6 1 5 6 6 6 5 6
+restroom alligator N no-rel 0.25 0.42 0.43 0 1 1 0 0 0 1 0 0 0 0 0
+view perception N hyp-2 4.64 7.73 0.88 4 5 3 6 5 5 4 4 6 5 4
+navigator explorer N hyp-1 4.08 6.8 1.69 6 2 3 5 1 4 4 3 5 6 6 2 6
+wit humor N syn 5.07 8.45 1.22 3 6 5 5 5 6 6 6 2 6 6 5 6 4
+hesitate wait V hyp-2 4.85 8.08 1.61 5 6 4 6 6 6 5 4 6 5 6 0 4
+trench ditch N hyp-1 5.21 8.68 0.94 6 6 5 6 6 6 6 5 4 5 3 5 6 4
+star shell N no-rel 1.08 1.8 2.02 1 0 0 0 6 0 0 0 0 0 5 1
+helium gas N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6
+activity movement N r-hyp-4 3.75 6.25 2.24 0 0 6 6 6 5 6 5 4 3 1 3
+puberty period N hyp-2 3.30 5.5 1.95 2 4 3 4 4 5 5 0 6 0
+bedroom home N mero 0.70 1.17 1.27 0 0 4 0 0 0 2 1 0 0
+fruit cherry N r-hyp-2 0.69 1.15 0.91 0 3 1 0 0 2 1 0 1 0 0 0 1
+stack pile N hyp-1 3.58 5.97 1.93 4 6 4 3 1 4 2 0 5 6 2 6
+helmet protection N hyp-4 5.18 8.63 1.70 6 6 5 5 6 6 6 6 0 5 6
+stink dismiss V no-rel 0.62 1.03 1.15 0 0 0 0 1 0 0 0 1 2 0 4 0
+pedal bike N mero 0.54 0.9 0.84 0 0 2 0 1 2 0 0 2 0 0 0 0
+get increase V no-rel 2.60 4.33 2.11 5 4 0 4 6 3 1 0 3 0
+allow accept V hyp-1 4.00 6.67 1.77 3 5 6 1 5 5 0 3 5 3 6 4 4 6
+horn bull N mero 0.67 1.12 0.94 0 3 0 1 1 0 0 0 1
+horn instrument N hyp-3 5.15 8.58 1.10 6 5 2 5 6 6 6 6 5 5 6 4 5
+lunch supper N cohyp 0.45 0.75 0.66 0 0 0 1 1 0 0 0 1 0 2
+flea insect N hyp-1 5.69 9.48 0.61 6 6 6 6 5 6 6 6 6 6 4 5 6
+weapon sword N r-hyp-1 1.64 2.73 1.91 3 0 0 1 5 3 0 1 2 0 2 6 0 0
+video television N mero 1.45 2.42 1.37 1 1 0 2 4 0 1 1 2 4 0
+lesson instruction N hyp-1 5.50 9.17 0.76 4 6 5 6 6 5 6 4 6 6 6 6
+fail operate V no-rel 0.73 1.22 1.42 5 0 0 1 0 0 1 0 1 0 0
+give take V ant 0.93 1.55 1.03 0 2 0 1 1 1 0 1 3 0 1 3 0 0
+restriction rule N hyp-1 5.18 8.63 0.94 5 6 6 5 4 3 6 6 5 6 5
+haystack winner N no-rel 0.15 0.25 0.36 0 0 0 0 0 0 1 0 0 0 0 0 1
+back body N mero 2.08 3.47 1.82 1 5 6 1 3 2 3 0 0 2 3 1 0
+race competition N hyp-1 5.14 8.57 0.99 6 5 3 5 5 6 6
+field stadium N mero 2.90 4.83 1.58 3 5 3 1 1 3 5 2 5 1
+carpet rug N syn 3.27 5.45 2.34 0 1 2 6 6 6 3 4 2 6 0
+scene movie N mero 2.00 3.33 2.12 3 5 5 0 2 1 0 0 6 0 1 1
+speaker hell N no-rel 0.23 0.38 0.58 0 0 1 0 2 0 0 0 0 0 0 0 0
+hamper hold V hyp-2 2.00 3.33 1.80 6 3 0 3 1 2 4 0 3 0 0 3 1
+leader king N r-hyp-3 2.73 4.55 1.71 0 1 2 4 5 5 1 4 4 1 3
+heel shoe N mero 2.15 3.58 2.18 3 0 3 5 6 5 0 0 1 0 0 4 1
+torch light N hyp-1 4.75 7.92 1.74 4 5 6 6 6 6 4 6 5 0 3 6
+dagger weapon N hyp-2 5.91 9.85 0.29 6 6 6 6 6 6 6 5 6 6 6
+unemployment employment N ant 0.46 0.77 0.84 3 1 0 0 0 0 1 0 0 0 0 0 1
+smash destroy V hyp-1 5.25 8.75 0.92 3 5 6 6 5 6 5 6 4 6 6 5
+society people N hyp-4 2.00 3.33 1.88 3 2 0 0 3 5 6 1 0 2 0 3 1
+kid parent N ant 0.31 0.52 0.61 2 0 1 0 0 0 0 0 0 0 0 0 1
+princess royalty N mero 5.38 8.97 1.00 6 3 6 6 6 4 6 5 6 6 6 6 4
+fraternity club N hyp-1 5.46 9.1 0.63 5 6 6 6 6 4 6 6 5 5 6 5 5
+silk fabric N hyp-1 5.69 9.48 0.46 6 5 6 5 6 6 6 6 5 6 6 5 6
+bowl plate N cohyp 2.00 3.33 2.45 6 0 0 2 6 0 2 2 6 0 0 0
+disintegrate burn V cohyp 3.25 5.42 2.17 6 0 5 5 1 5 4 3 1 3 6 0
+weapon dagger N r-hyp-2 1.14 1.9 1.68 0 0 0 1 1 0 3 6 0 0 1 0 3 1
+lunch violin N no-rel 0.15 0.25 0.36 1 0 0 0 0 0 0 0 0 0 0 1 0
+heel foot N mero 1.31 2.18 1.59 4 0 0 0 0 0 1 3 0 2 4 3 0
+suitcase bag N syn 5.67 9.45 0.62 6 6 5 6 6 6 6 6 4 5 6 6
+bouillon broth N hyp-1 4.27 7.12 2.22 3 6 6 5 5 6 0 0 4 6 6
+knee joint N hyp-3 5.33 8.88 1.03 6 4 6 6 6 3 6 6 6 4 6 5
+murderer killer N hyp-1 5.90 9.83 0.30 5 6 6 6 6 6 6 6 6 6
+appliance washer N r-hyp-3 0.69 1.15 0.82 0 1 1 0 1 1 3 0 1 0 0 0 1
+climb descend V ant 0.70 1.17 1.27 0 0 0 1 4 0 0 0 2 0
+peace truce N r-hyp-1 3.83 6.38 1.72 5 1 5 3 5 4 5 0 5 6 3 4
+lunch breakfast N cohyp 0.09 0.15 0.29 0 0 0 0 0 0 0 0 1 0 0
+head body N mero 1.69 2.82 1.98 6 2 1 0 1 0 5 0 4 0 2 0 1
+pull tug V r-hyp-1 4.00 6.67 1.62 3 3 5 1 6 4 6 6 4 3 3 6 2
+beer alcohol N hyp-2 5.85 9.75 0.36 6 6 5 5 6 6 6 6 6 6 6 6 6
+statue art N hyp-3 5.69 9.48 0.61 6 5 6 4 6 6 6 6 6 6 5 6 6
+daughter child N hyp-2 5.62 9.37 0.62 6 6 6 6 5 5 6 6 6 6 6 4 5
+athlete runner N r-hyp-1 2.20 3.67 1.60 5 1 0 4 3 1 3 3 2 0
+oboe instrument N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+maid servant N hyp-2 5.29 8.82 0.88 5 4 6 6 4 6 6
+joke humor N hyp-1 4.17 6.95 2.44 5 6 6 6 5 0 6 5 0 0 6 5
+lollipop candy N hyp-1 5.91 9.85 0.29 5 6 6 6 6 6 6 6 6 6 6
+hold wait V hyp-3 3.67 6.12 1.60 5 0 4 3 6 4 5 4 1 4 4 4
+claim say V hyp-3 2.71 4.52 2.25 1 0 0 6 4 3 5
+legislature government N mero 3.58 5.97 1.61 6 3 4 1 6 5 3 3 1 3 3 5
+atom mythology N no-rel 0.21 0.35 0.41 0 0 0 0 0 1 0 1 1 0 0 0 0 0
+television medium N hyp-3 5.29 8.82 0.80 6 6 5 6 6 4 5 5 4 6 6 5 4 6
+maximum extremity N hyp-2 3.56 5.93 2.63 6 4 6 4 0 0 0 6 6
+letter character N hyp-1 4.54 7.57 1.95 5 6 4 6 5 0 6 6 6 6 5 3 1
+leg chair N mero 0.45 0.75 0.89 1 1 0 0 0 0 0 0 0 3 0
+price value N hyp-1 4.55 7.58 0.99 4 5 3 6 5 5 5 3 6 4 4
+stone rock N syn 4.46 7.43 1.39 3 2 4 6 6 3 6 4 6 6 4 3 5
+shutter camera N mero 0.20 0.33 0.60 0 0 0 0 0 0 0 2 0 0
+crave desire V hyp-1 4.85 8.08 1.17 4 6 6 5 5 4 6 6 5 6 4 2 4
+hint suggestion N hyp-1 5.25 8.75 1.09 6 5 6 6 6 5 6 3 6 5 6 3
+door entrance N hyp-1 5.15 8.58 1.70 6 6 6 5 6 6 5 3 6 6 6 0 6
+beaver animal N hyp-4 5.85 9.75 0.53 6 6 6 6 6 4 6 6 6 6 6 6 6
+gravy food N hyp-3 5.27 8.78 0.86 5 6 6 5 6 4 6 4 6 4 6
+extension addition N hyp-1 3.25 5.42 2.17 0 6 4 0 5 3 6 5 1 3 5 1
+chimpanzee gorilla N cohyp 2.08 3.47 2.06 0 0 3 0 5 5 1 0 5 4 1 3 0
+flee run V hyp-1 4.75 7.92 1.48 6 5 6 6 3 4 4 1 6 5 6 5
+skin hair N cohyp 1.17 1.95 1.72 2 6 0 0 3 0 0 1 1 0 0 1
+hornet wasp N hyp-2 3.00 5.0 1.96 3 4 5 1 1 2 6 4 0 5 0 3 5
+fingernail finger N mero 0.90 1.5 0.94 1 2 0 1 1 0 3 1 0 0
+microscope telescope N cohyp 1.70 2.83 2.15 6 0 1 0 5 0 2 3 0 0
+bridge cross N cohyp 0.77 1.28 1.31 0 1 0 0 0 2 0 0 4 3 0 0 0
+nitrogen element N hyp-1 5.75 9.58 0.60 6 6 6 6 4 6 6 6 6 6 6 5
+weed grass N syn 2.86 4.77 1.36 3 0 3 5 3 3 3
+refuse deny V r-hyp-2 4.54 7.57 1.91 0 5 5 3 6 1 6 6 5 6 6 5 5
+keyboard computer N mero 1.54 2.57 1.28 3 2 3 0 1 3 4 0 1 1 1 0 1
+hate reflect V no-rel 2.50 4.17 1.80 1 3 4 0 5 3 0 4 3 2 0 5
+recall ask V hyp-4 2.40 4.0 2.24 1 0 6 1 5 0 2 1 2 6
+back front N ant 0.46 0.77 0.93 0 0 3 1 0 0 0 0 0 0 0 0 2
+billboard sign N hyp-1 5.20 8.67 1.78 6 6 6 6 6 0 5 6 6 5
+move hustle V r-hyp-1 2.70 4.5 2.37 6 0 1 6 1 3 0 3 6 1
+give send V hyp-3 3.92 6.53 1.50 4 4 4 6 6 4 3 2 6 4 3 1
+kidney organ N hyp-3 5.92 9.87 0.27 6 6 6 6 6 6 6 6 6 6 6 6 5
+snack meal N hyp-1 5.30 8.83 0.90 5 6 6 6 4 6 4 6 4 6
+return send V hyp-3 3.00 5.0 2.17 3 6 5 1 0 5 0 3 1 6 3
+headache pain N hyp-2 5.92 9.87 0.27 6 6 6 6 6 6 6 6 5 6 6 6 6
+duck bird N hyp-4 5.75 9.58 0.60 4 6 6 6 6 5 6 6 6 6 6 6
+spatula utensil N hyp-4 5.85 9.75 0.36 6 5 6 6 5 6 6 6 6 6 6 6 6
+water liquid N hyp-1 5.85 9.75 0.36 6 6 6 6 6 6 6 6 5 6 6 5 6
+twilight dusk N syn 4.09 6.82 1.31 6 4 5 4 1 5 3 3 4 5 5
+tissue meal N no-rel 0.40 0.67 0.66 0 1 0 0 1 2 0 0 0 0
+pier bridge N mero 1.58 2.63 2.40 1 0 0 5 0 0 6 1 0 0 6 0
+handbag bowl N no-rel 0.00 0.0 0.00 0 0 0 0 0 0 0 0 0
+dog animal N hyp-2 5.77 9.62 0.58 6 6 6 6 6 6 6 6 5 4 6 6 6
+aroma scent N syn 4.30 7.17 1.62 3 4 6 6 6 3 5 2 2 6
+invent make V hyp-2 4.29 7.15 1.91 6 4 2 1 5 6 6
+biologist chemist N cohyp 1.69 2.82 1.90 0 5 0 2 0 3 0 4 1 0 0 5 2
+principle idea N hyp-2 3.25 5.42 1.74 2 4 6 3 5 3 4 2 0 2 2 6
+camel animal N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6 6
+sickness illness N syn 4.15 6.92 1.83 6 2 3 2 2 1 5 5 6 6 6 6 4
+haul carry V hyp-1 5.10 8.5 1.22 4 6 6 6 6 5 2 6 5 5
+foundation organization N hyp-3 4.00 6.67 1.80 5 1 4 6 5 3 6 0 4 6 4 5 3
+flake snow N mero 2.20 3.67 1.78 6 4 0 2 1 0 3 3 1 2
+insult hurt V hyp-1 5.50 9.17 0.65 6 6 6 6 6 5 6 5 5 4 6 5
+notion idea N hyp-1 4.54 7.57 1.91 0 5 6 6 6 5 5 3 6 6 5 1 5
+chorus song N mero 2.42 4.03 1.80 3 0 4 5 2 0 0 2 3 1 4 5
+chisel tool N hyp-4 5.85 9.75 0.53 6 6 6 6 6 6 6 6 6 6 4 6 6
+repentance sorrow N hyp-2 3.42 5.7 1.98 5 6 4 0 0 4 2 2 3 6 5 4
+strike blow V cohyp 4.45 7.42 2.19 6 0 6 6 6 6 5 0 5 5 4
+princess fortune N no-rel 1.15 1.92 1.79 0 0 0 0 0 3 6 0 2 0 1 0 3
+warn advise V hyp-1 5.75 9.58 0.43 6 6 6 6 6 6 6 5 5 5 6 6
+hell inferno N syn 3.17 5.28 2.30 5 0 0 2 6 6 5 1 4 4 0 5
+contract document N hyp-3 5.83 9.72 0.37 6 6 6 6 6 6 6 5 6 5 6 6
+think suspect V r-hyp-4 2.50 4.17 2.25 4 4 5 0 6 0 2 0 4 0
+almond peanut N cohyp 1.20 2.0 1.99 4 1 0 0 0 6 1 0 0 0
+wall room N mero 0.50 0.83 0.91 0 1 1 0 0 3 0 0 0 2 0 0 0 0
+explain express V hyp-2 3.92 6.53 1.49 3 6 2 2 3 6 4 3 5 4 2 6 5
+weakness strength N ant 2.00 3.33 2.37 2 6 0 4 0 0 5 0 5 0 0
+grape extremity N no-rel 0.36 0.6 0.88 0 1 3 0 0 0 0 0 0 0 0
+crook sickness N no-rel 1.17 1.95 1.95 0 6 0 0 1 0 0 0 4 0 3 0
+lamb animal N hyp-3 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6
+land domain N hyp-1 3.54 5.9 1.50 2 1 5 5 1 4 5 3 4 6 3 3 4
+sliver piece N hyp-3 2.85 4.75 1.96 0 1 3 4 4 4 2 0 4 0 4 5 6
+north south N cohyp 0.54 0.9 0.84 0 1 0 0 0 1 0 1 0 0 0 3 1
+admit deny V ant 0.79 1.32 1.57 0 0 0 2 1 0 0 6 0 0 1 0 0 1
+triangle shape N hyp-4 5.70 9.5 0.90 6 6 6 3 6 6 6 6 6 6
+asia africa N cohyp 0.42 0.7 0.86 1 0 1 0 0 0 3 0 0 0 0 0
+silver metal N hyp-2 5.83 9.72 0.37 5 6 6 6 6 6 6 6 6 6 5 6
+brook stream N hyp-1 3.42 5.7 1.89 6 6 5 3 1 3 1 0 3 4 5 4
+empathy feeling N hyp-2 5.31 8.85 0.99 6 6 6 6 6 4 5 3 6 5 6 4 6
+ask beg V cohyp 2.69 4.48 1.38 6 4 2 1 3 1 2 1 3 3 2 4 3
+blow annihilate V no-rel 2.23 3.72 1.12 1 2 1 2 2 2 3 5 3 3 1 1 3
+snake serpent N syn 5.31 8.85 1.59 6 6 5 6 6 6 6 6 6 6 0 5 5
+touch grab V r-hyp-3 2.77 4.62 1.62 2 3 2 2 4 2 4 0 0 4 3 6 4
+medication medicine N syn 5.00 8.33 1.21 6 6 6 6 2 5 5 6 4 4 5
+lizard creature N hyp-4 5.83 9.72 0.37 6 6 6 6 6 6 6 5 6 6 6 5
+story writing N hyp-3 5.00 8.33 1.63 5 1 5 6 6 6 6 5 2 6 6 6
+motion action N hyp-2 4.64 7.73 1.49 3 6 6 4 5 1 6 6 4 5 5
+beaker cup N hyp-1 3.77 6.28 1.76 2 5 4 5 6 4 3 2 0 6 3 3 6
+biology study N hyp-4 5.54 9.23 0.84 6 5 6 6 6 6 6 5 3 6 5 6 6
+prohibit disallow V syn 5.00 8.33 1.18 4 6 6 6 5 5 2 6 5 5
+portion amount N hyp-3 5.25 8.75 0.72 5 5 4 5 6 6 4 5 5 6 6 6
+bowl bowling N mero 2.31 3.85 2.16 0 5 2 0 5 2 3 1 6 0 5 0 1
+gangster gang N mero 1.42 2.37 1.61 1 0 4 0 4 3 0 2 0 3 0 0
+governor politician N hyp-1 4.85 8.08 1.41 5 6 3 5 5 6 6 1 5 6 6 4 5
+vehicle utensil N no-rel 0.57 0.95 0.73 1 0 0 0 1 2 0
+threshold edge N hyp-1 3.38 5.63 2.43 6 0 2 0 1 4 6 6 0 6 6 3 4
+king monarch N hyp-1 5.46 9.1 0.93 6 6 6 4 6 5 6 5 6 6 6 6 3
+ride walk V ant 0.85 1.42 1.03 0 0 3 0 1 1 3 0 1 0 1 0 1
+tractor truck N hyp-1 3.67 6.12 1.43 4 3 2 3 5 4 6 2 5 1 5 4
+conflict war N r-hyp-1 3.67 6.12 2.09 6 5 5 4 6 5 2 1 6 0 3 1
+curve superstition N no-rel 0.36 0.6 0.88 0 0 0 1 3 0 0 0 0 0 0
+onion food N hyp-3 5.92 9.87 0.27 6 6 6 6 6 5 6 6 6 6 6 6 6
+impression avenue N no-rel 0.08 0.13 0.28 0 1 0 0 0 0 0 0 0 0 0 0
+abuse mistreat V syn 5.30 8.83 0.90 3 6 6 5 5 5 6 6 5 6
+trauma condition N hyp-2 4.50 7.5 1.71 3 5 6 4 4 4 6 0 6 6 6 4
+remorse repentance N r-hyp-1 2.10 3.5 1.45 1 4 1 1 1 2 4 4 3 0
+ankle leg N mero 1.00 1.67 1.26 4 2 0 0 1 2 1 0 0 0
+fiddle instrument N hyp-3 5.70 9.5 0.90 6 6 6 6 6 3 6 6 6 6
+baseball football N cohyp 0.40 0.67 0.66 0 0 0 1 2 1 0 0 0 0
+creature wolf N r-hyp-4 0.83 1.38 1.67 1 0 0 0 5 0 0 4 0 0 0 0
+adult child N cohyp 0.36 0.6 0.61 0 0 0 0 1 0 1 0 0 0 1 0 0 2
+squash meaning N no-rel 0.15 0.25 0.36 0 0 1 0 1 0 0 0 0 0 0 0 0
+horse team N no-rel 0.36 0.6 0.88 0 0 0 0 0 0 0 3 1 0 0
+calculator computer N syn 5.60 9.33 0.49 6 6 6 5 6 6 5 6 5 5
+creation event N hyp-3 2.85 4.75 2.38 6 0 0 6 5 0 0 5 4 0 4 3 4
+tissue bridge N no-rel 0.40 0.67 0.66 0 0 2 0 0 0 0 1 0 1
+climax story N mero 1.54 2.57 1.65 0 1 0 0 0 2 3 3 3 0 0 3 5
+ascend leave V cohyp 1.08 1.8 1.61 1 0 1 0 6 0 0 2 1 0 1 1
+neck stream N no-rel 0.18 0.3 0.57 0 0 0 0 0 0 0 0 2 0 0
+paddy rice N hyp-1 1.54 2.57 1.78 4 0 0 2 3 1 0 0 0 1 4 5 0
+keg container N hyp-3 5.80 9.67 0.60 6 6 6 4 6 6 6 6 6 6
+mosquito insect N hyp-2 5.36 8.93 1.72 6 6 5 6 6 6 0 6 6 6 6
+twine string N syn 4.60 7.67 2.06 6 5 6 6 6 3 6 2 6 0
+aim direct V r-hyp-1 5.00 8.33 1.15 6 5 6 6 6 4 3 4 6 5 6 3
+adverb noun N cohyp 1.00 1.67 1.25 0 2 0 0 4 1 0 1 2 0 1 3 0 0
+oak pine N cohyp 0.83 1.38 1.34 4 0 0 0 1 0 0 0 2 0 0 3
+sell buy V ant 0.92 1.53 1.69 2 0 0 0 0 2 0 0 0 0 0 6 2
+perception vision N r-hyp-2 3.75 6.25 1.59 6 2 6 4 4 5 1 4 1 4 4 4
+munch chew V hyp-1 4.18 6.97 1.99 6 2 6 5 3 6 0 6 5 5 2
+bride wedding N mero 0.80 1.33 1.17 0 0 0 1 0 1 0 4 1 1
+primate animal N hyp-4 5.00 8.33 1.48 6 3 6 5 6 2 6 6 3 6 6
+date appointment N mero 4.67 7.78 1.60 6 5 6 3 6 5 5 5 5 5 0 5
+example instance N syn 2.42 4.03 1.89 5 4 3 3 0 4 2 0 0 0 5 3
+hen chicken N hyp-1 5.67 9.45 0.85 6 6 6 6 6 6 5 3 6 6 6 6
+stump tree N mero 2.73 4.55 1.81 0 0 3 3 6 5 3 1 3 4 2
+flesh human N mero 1.00 1.67 1.41 4 3 0 0 0 2 1 0 0 0
+alley road N hyp-3 4.58 7.63 1.50 3 5 6 6 5 6 5 3 1 4 5 6
+knock rap V hyp-1 4.00 6.67 1.91 3 4 6 5 0 6 4 1 6 4 3 6
+twig branch N hyp-1 4.46 7.43 1.69 6 4 6 0 6 5 6 5 2 4 4 5 5
+antler horn N hyp-1 5.30 8.83 1.00 5 6 4 6 6 3 6 5 6 6
+observe watch V hyp-1 5.15 8.58 1.29 6 6 6 6 3 6 6 4 5 5 6 6 2
+pan dish N cohyp 3.91 6.52 1.98 6 6 5 5 0 3 6 3 3 5 1
+fade vanish V hyp-1 4.46 7.43 1.74 1 6 6 3 6 4 4 5 6 5 5 1 6
+renounce shake V no-rel 1.10 1.83 1.64 0 3 0 0 2 5 1 0 0 0
+embrace hold V hyp-3 5.10 8.5 1.14 4 6 6 6 4 3 6 6 4 6
+philosophy study N hyp-2 4.83 8.05 1.21 5 6 5 3 6 5 6 5 2 6 4 5
+detergent cleaner N hyp-1 5.42 9.03 1.04 6 4 6 6 6 6 6 6 6 3 4 6
+position location N hyp-2 4.38 7.3 1.27 1 6 4 3 5 5 5 6 4 4 4 5 5
+cricket sport N hyp-4 5.62 9.37 1.33 6 6 6 6 6 1 6 6 6 6 6 6 6
+rain shower N r-hyp-1 3.44 5.73 1.89 4 3 0 3 6 4 1 6 4
+flour wedding N no-rel 0.15 0.25 0.36 0 0 1 0 1 0 0 0 0 0 0 0 0
+blueberry berry N hyp-1 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+bury cover V cohyp 3.54 5.9 2.13 0 4 5 3 5 6 5 0 0 4 3 6 5
+hitchhike call V no-rel 0.92 1.53 1.44 0 0 1 1 3 0 0 0 0 1 1 5 0
+quiz test N hyp-1 5.23 8.72 0.97 6 5 6 4 6 5 3 5 6 6 4 6 6
+cabbage vegetable N hyp-2 5.91 9.85 0.29 6 5 6 6 6 6 6 6 6 6 6
+education school N r-hyp-1 2.00 3.33 1.83 5 0 0 3 4 0 3 4 2 0 0 3
+advise teach V cohyp 4.50 7.5 1.26 5 6 3 6 3 4 6 5 2 5 4 5
+cleaner soap N r-hyp-1 1.73 2.88 1.81 3 0 1 4 1 4 0 0 1 5 0
+horn car N mero 0.85 1.42 0.95 0 0 3 0 0 2 0 1 1 0 1 1 2
+erode decay V hyp-1 5.08 8.47 1.04 6 3 6 6 6 6 5 4 4 4 6 5
+add multiply V cohyp 0.73 1.22 1.21 0 0 1 1 2 0 0 4 0 0 0
+plum tree N hyp-3 3.75 6.25 1.96 6 4 6 2 4 6 5 2 5 0 1 4
+rainbow sky N mero 0.82 1.37 1.19 2 0 1 1 0 0 4 0 1 0 0
+stop begin V ant 0.23 0.38 0.58 0 0 0 0 0 0 0 0 0 0 0 2 1
+foundation base N syn 4.62 7.7 1.33 4 6 6 4 4 4 5 6 6 5 1 4 5
+lobby building N mero 1.15 1.92 2.03 0 0 0 0 3 0 5 0 6 1 0 0 0
+seal mammal N hyp-4 5.15 8.58 1.41 6 4 6 6 6 4 6 5 5 6 6 6 1
+meatball food N hyp-3 5.93 9.88 0.26 6 6 6 6 6 6 6 5 6 6 6 6 6 6
+reserve hold V hyp-4 4.73 7.88 1.29 6 6 3 6 6 3 5 3 4 6 4
+lean lay V hyp-1 1.50 2.5 1.57 0 4 0 0 4 1 0 2 3 1
+butterfly insect N hyp-2 5.46 9.1 1.01 6 6 6 6 6 6 6 3 6 6 4 4 6
+rifle pistol N cohyp 2.23 3.72 1.76 6 2 2 0 1 3 4 1 2 2 5 0 1
+speak knock V no-rel 0.58 0.97 1.38 0 0 0 0 1 0 0 0 5 1 0 0
+boulevard road N hyp-3 4.93 8.22 1.16 6 2 6 4 6 5 4 6 5 4 5 4 6 6
+inspect search V cohyp 3.80 6.33 1.83 2 5 5 4 6 1 5 3 6 1
+sunset sunrise N ant 0.31 0.52 0.61 0 0 0 1 0 0 0 0 0 0 2 0 1
+meaning liberty N no-rel 0.67 1.12 0.62 1 1 1 0 0 1 1 0 0 0 1 2
+power clay N no-rel 0.33 0.55 0.47 1 1 1 0 0 0 1 0 0 0 0 0
+disorder order N ant 1.92 3.2 1.59 0 2 2 0 1 5 1 2 4 3 4 0 1
+pitchfork mixture N no-rel 0.60 1.0 1.50 0 1 0 0 0 0 0 0 5 0
+runner athlete N hyp-1 5.14 8.57 1.36 5 6 2 6 5 6 6
+migraine headache N hyp-1 5.15 8.58 1.66 6 4 6 5 4 6 6 6 0 6 6 6 6
+bother tease V r-hyp-3 1.91 3.18 1.62 3 0 1 1 0 4 3 4 4 1 0
+football ball N hyp-1 5.62 9.37 0.84 6 6 5 6 3 5 6 6 6 6 6 6 6
+louse bug N cohyp 4.80 8.0 1.78 5 0 4 6 6 4 6 5 6 6
+elk deer N hyp-1 3.54 5.9 1.82 5 3 6 2 1 2 6 1 6 4 5 3 2
+strike miss V ant 1.57 2.62 2.06 0 1 2 6 0 6 2 3 0 0 0 0 2 0
+shake shiver V r-hyp-2 3.27 5.45 1.71 3 6 4 2 6 2 3 4 4 2 0
+courage bravery N syn 4.31 7.18 1.68 6 4 5 5 6 0 4 3 5 3 3 6 6
+motorcycle vehicle N hyp-4 5.91 9.85 0.29 6 6 6 6 6 6 6 6 5 6 6
+selection process N hyp-3 4.30 7.17 2.15 4 6 0 6 6 6 3 6 5 1
+bottle container N hyp-2 5.85 9.75 0.36 6 6 6 6 5 6 6 6 6 6 6 5 6
+direct aim V hyp-1 3.40 5.67 1.96 1 3 6 5 0 6 2 3 5 3
+intestine liver N cohyp 0.85 1.42 1.29 0 1 0 0 0 2 0 1 0 0 0 3 4
+foresight knowledge N hyp-4 3.90 6.5 1.92 6 4 3 5 1 5 4 5 6 0
+love feeling N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6
+recreation sport N r-hyp-1 2.46 4.1 2.24 0 0 0 3 3 5 4 0 0 6 6 2 3
+thief crook N hyp-1 5.43 9.05 0.73 6 6 5 6 5 4 6 5 5 6 6 6 6 4
+tissue bone N r-hyp-3 1.20 2.0 1.83 0 3 1 0 1 0 6 0 0 1
+abdomen body N mero 1.79 2.98 1.57 3 6 0 1 2 1 0 3 2 0 1 3 1 2
+party event N hyp-3 5.60 9.33 0.66 6 6 6 6 6 4 5 6 6 5
+female bracelet N no-rel 0.08 0.13 0.28 1 0 0 0 0 0 0 0 0 0 0 0
+erode deteriorate V cohyp 4.42 7.37 1.93 4 6 6 6 2 3 6 0 6 5 6 3
+instrument tuba N r-hyp-2 0.33 0.55 0.47 0 0 0 0 1 0 0 1 0 1 0 1
+trigonometry algebra N cohyp 1.85 3.08 1.66 0 0 0 0 2 4 3 5 2 2 1 1 4
+louse flea N cohyp 2.77 4.62 2.39 0 0 4 4 6 0 6 4 5 5 2 0 0
+algebra math N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+tomato vegetable N hyp-2 1.58 2.63 2.02 3 0 0 0 6 0 0 3 4 0 0 3
+silk cotton N cohyp 1.30 2.17 2.15 5 1 0 0 0 6 1 0 0 0
+jewelry earring N r-hyp-1 1.31 2.18 1.94 0 0 0 0 2 5 1 0 0 2 0 6 1
+brother sister N ant 0.91 1.52 1.08 0 1 1 0 1 3 3 0 1 0 0
+slide move V hyp-1 5.08 8.47 1.32 6 6 6 4 5 3 6 6 5 6 6 2
+tote carry V hyp-1 2.55 4.25 2.68 6 0 0 6 0 6 0 4 1 0 5
+vanity conceit N syn 2.92 4.87 2.23 6 1 0 1 5 1 0 4 2 2 4 6 6
+whale cricket N no-rel 0.08 0.13 0.27 0 0 0 0 0 0 0 0 0 0 0 1 0
+clerk person N hyp-3 5.38 8.97 1.00 6 6 5 6 6 6 4 3 6 6 4 6 6
+announce say V hyp-1 4.55 7.58 1.83 6 2 5 6 6 5 0 5 4 5 6
+parsley food N hyp-4 5.25 8.75 1.01 5 6 6 6 6 5 4 3 6 4 6 6
+rub wipe V r-hyp-1 5.17 8.62 0.99 5 6 6 3 6 5 6 4 5 6 6 4
+novice beginner N syn 4.23 7.05 1.76 3 6 5 4 6 5 3 4 6 6 5 0 2
+dandruff flake N hyp-2 4.67 7.78 1.43 5 6 5 3 4 5 6 4 6 6 5 1
+fairytale story N hyp-1 5.92 9.87 0.27 6 6 6 6 6 6 5 6 6 6 6 6 6
+keyboard organ N mero 3.23 5.38 2.19 3 6 5 6 0 4 0 5 5 3 0 4 1
+magazine newspaper N cohyp 2.38 3.97 2.31 3 6 2 0 0 5 0 2 6 0 0 2 5
+movement motion N syn 4.92 8.2 1.59 6 4 5 6 6 5 6 4 5 6 5 6 0
+disagreement conflict N hyp-1 5.27 8.78 1.05 5 6 4 6 6 4 6 3 6 6 6
+horn goat N mero 0.60 1.0 0.66 1 0 1 0 1 0 1 2 0 0
+goat kid N r-hyp-1 2.85 4.75 2.32 0 0 0 1 6 4 3 4 0 4 6 6 3
+island land N hyp-1 5.43 9.05 1.18 6 6 6 6 6 6 2 6 4 6 4 6 6 6
+starboard port N ant 1.92 3.2 2.27 0 0 0 3 0 5 4 5 0 0 0 2 6
+commander lieutenant N cohyp 2.50 4.17 2.18 6 0 6 0 1 0 3 3 4 3 4 0
+force power N hyp-2 3.18 5.3 2.41 0 6 1 6 6 2 3 4 1 0 6
+machine computer N r-hyp-1 1.46 2.43 1.45 0 1 1 1 2 0 1 3 0 3 5 2 0
+move unload V r-hyp-4 2.17 3.62 1.82 5 0 2 1 1 3 5 0 1 2 5 1
+chicken food N hyp-4 5.31 8.85 1.14 6 4 6 6 5 6 6 5 6 6 5 2 6
+hostage captive N hyp-1 5.58 9.3 0.64 6 6 5 6 6 5 6 4 6 6 6 5
+diamond gem N hyp-1 5.67 9.45 0.62 5 6 6 6 6 6 6 6 6 4 5 6
+berry cherry N cohyp 1.25 2.08 1.59 5 1 1 0 0 1 2 0 0 0 1 4
+cape cloak N hyp-1 5.00 8.33 0.85 5 5 5 6 5 6 4 3 5 5 6
+movement activity N hyp-4 4.69 7.82 1.49 5 5 5 4 6 5 5 4 6 5 5 6 0
+pine tree N hyp-3 5.85 9.75 0.36 6 6 6 5 5 6 6 6 6 6 6 6 6
+storm typhoon N r-hyp-3 2.00 3.33 2.00 0 0 2 5 5 4 0 4 0 0 4 1 1
+sport volleyball N r-hyp-3 0.38 0.63 0.62 0 1 1 0 0 0 0 0 1 0 0 2 0
+scalpel instrument N hyp-4 4.55 7.58 1.62 5 4 3 6 6 6 6 3 6 4 1
+boulevard street N hyp-1 5.17 8.62 1.67 5 6 6 6 6 4 6 6 6 6 5 0
+death birth N ant 0.46 0.77 0.75 0 0 0 0 1 1 0 0 0 0 0 2 2
+myth legend N cohyp 3.77 6.28 2.22 5 3 4 4 5 5 0 0 0 6 6 6 5
+oak necklace N no-rel 0.15 0.25 0.53 0 0 0 0 0 2 0 0 0 0 0 0 0
+peanut cashew N cohyp 1.00 1.67 1.41 2 0 1 0 0 4 0
+calculate deliver V no-rel 0.70 1.17 1.00 3 0 1 0 0 0 0 1 0 2
+nicotine tobacco N mero 2.00 3.33 1.83 1 0 4 3 2 4 1 2 0 6 0 1
+otter animal N hyp-4 5.90 9.83 0.30 5 6 6 6 6 6 6 6 6 6
+stomach abdomen N syn 2.38 3.97 1.44 0 1 3 1 2 5 3 3 1 1 4 3 4
+cathedral building N hyp-3 5.69 9.48 0.46 5 5 6 6 6 6 6 6 5 6 5 6 6
+destiny sailor N no-rel 0.08 0.13 0.27 0 0 0 0 0 0 0 0 0 0 0 1 0
+raisin fruit N hyp-3 5.42 9.03 1.19 4 6 6 6 6 6 6 5 6 6 6 2
+pudding dessert N hyp-1 5.23 8.72 1.62 6 4 6 6 6 6 5 6 6 0 6 6 5
+horse stud N r-hyp-3 2.00 3.33 2.10 1 0 0 2 5 2 5 0 5 0
+bugle instrument N hyp-3 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6
+reflection thought N hyp-2 5.80 9.67 0.40 6 6 5 6 6 5 6 6 6 6
+letter alphabet N mero 2.45 4.08 2.43 3 6 0 1 0 6 6 2 3 0 0
+deny refuse V hyp-2 5.15 8.58 1.56 0 5 6 6 5 6 6 5 6 6 5 5 6
+inform update V r-hyp-1 3.80 6.33 1.54 6 4 2 5 5 2 3 3 6 2
+peach fruit N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6 6
+crater volcano N mero 1.00 1.67 1.00 2 0 3 2 1 1 0 1 0 0
+chest breast N syn 2.75 4.58 2.13 1 0 6 6 6 2 3 2 1 3 0 3
+pea food N hyp-4 5.69 9.48 0.72 6 6 6 6 6 4 6 6 6 6 6 6 4
+amateur possession N no-rel 0.42 0.7 0.49 1 1 1 0 0 0 1 0 0 0 0 1
+girl woman N hyp-1 4.70 7.83 1.49 4 3 3 5 6 2 6 6 6 6
+faith loyalty N hyp-1 3.85 6.42 1.46 2 3 4 5 6 6 3 5 3 3 4 1 5
+road highway N r-hyp-1 2.58 4.3 2.06 1 1 6 4 6 1 3 2 1 1 0 5
+director conductor N syn 4.70 7.83 0.90 5 5 5 6 4 6 4 3 4 5
+seal animal N hyp-4 5.82 9.7 0.39 6 5 6 6 6 6 6 6 5 6 6
+army defense N mero 4.00 6.67 1.76 5 5 6 4 1 2 2 6 5
+gorilla primate N hyp-4 5.92 9.87 0.28 6 6 6 6 5 6 6 6 6 6 6 6
+granite stone N hyp-3 5.90 9.83 0.30 6 6 6 6 6 6 6 5 6 6
+three six N cohyp 1.80 3.0 2.40 0 0 6 0 4 0 1 1 6 0
+ability leadership N r-hyp-1 2.17 3.62 1.72 5 0 2 2 1 4 4 0 1 3 4 0
+shrub plant N hyp-3 5.54 9.23 0.84 5 6 3 6 6 6 6 6 5 6 6 5 6
+pork pig N mero 2.00 3.33 2.14 4 3 3 0 0 6 3 0 1 0 0 2 0 6
+appliance spine N no-rel 0.08 0.13 0.28 0 0 0 0 0 0 0 0 1 0 0 0
+service mistake N no-rel 0.33 0.55 0.62 1 0 0 0 0 0 0 1 0 0 0 2
+mistake ruler N no-rel 0.15 0.25 0.36 0 0 1 1 0 0 0 0 0 0 0 0 0
+animal mammal N r-hyp-3 0.75 1.25 1.01 0 0 0 0 2 0 2 3 0 1 0 1
+annihilate kill V hyp-1 5.00 8.33 1.04 4 6 5 6 4 4 6 3 6 5 6
+cat mammal N hyp-4 5.10 8.5 1.64 3 6 6 6 1 6 6 5 6 6
+gun weapon N hyp-1 5.92 9.87 0.28 6 5 6 6 6 6 6 6 6 6 6 6
+sea water N hyp-1 4.70 7.83 1.35 4 6 4 5 3 2 5 6 6 6
+collect spin V no-rel 0.09 0.15 0.29 0 0 0 0 0 0 0 0 1 0 0
+salmon fish N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6 6
+book atlas N r-hyp-2 0.82 1.37 1.34 0 0 1 1 0 0 3 0 4 0 0
+virtue quality N hyp-2 5.17 8.62 1.14 5 6 6 3 6 3 6 6 6 6 5 4
+praise approval N hyp-1 5.23 8.72 0.89 6 5 4 6 6 6 6 4 4 6 5 6 4
+casket box N hyp-1 5.00 8.33 1.11 4 5 6 6 4 6 6 3 3 6 5 5 6
+satan god N cohyp 1.91 3.18 1.62 5 3 3 2 0 3 2 0 3 0 0
+wood forest N syn 1.91 3.18 2.19 0 6 1 5 5 2 0 1 1 0 0
+dolphin mammal N hyp-4 5.38 8.97 1.39 6 6 4 1 6 5 6 6 6 6 6 6 6
+publication magazine N r-hyp-1 3.67 6.12 2.29 2 6 1 6 6 0 4 5 0 3 6 5
+letter mail N mero 4.91 8.18 1.68 6 6 5 5 5 6 6 6 4 5 0
+pray communicate V hyp-2 2.90 4.83 2.12 3 4 1 5 0 6 1 2 6 1
+welfare benefit N syn 5.43 9.05 0.62 6 6 6 4 6 5 5 5 5 5 5 6 6 6
+constitution document N hyp-3 4.60 7.67 1.56 6 6 5 4 6 5 4 1 6 3
+control hold V r-hyp-3 2.67 4.45 1.76 3 3 0 3 2 3 0 6 4
+street shrimp N no-rel 0.08 0.13 0.27 0 0 0 0 0 1 0 0 0 0 0 0 0
+delay show V no-rel 0.09 0.15 0.29 0 0 0 0 0 0 0 0 0 1 0
+accept deny V ant 0.55 0.92 1.16 1 1 0 0 0 0 0 0 0 4 0
+gathering feast N r-hyp-4 1.27 2.12 1.29 0 1 1 0 4 2 2 3 1 0 0
+term period N hyp-1 4.27 7.12 1.60 5 6 2 5 2 2 5 5 3 6 6
+vegetable tomato N r-hyp-2 1.00 1.67 1.76 0 2 0 0 0 0 0 0 6 2 1
+drum instrument N hyp-2 5.70 9.5 0.90 3 6 6 6 6 6 6 6 6 6
+boyfriend lover N hyp-1 5.38 8.97 1.15 6 5 2 6 6 6 6 5 4 6 6 6 6
+argue rationalize V r-hyp-2 2.67 4.45 1.84 3 4 3 6 3 1 2 1 6 1 2 0
+bassinet cradle N cohyp 3.58 5.97 2.25 4 3 6 6 5 0 4 5 4 6 0 0
+fish bass N r-hyp-4 0.50 0.83 0.92 3 1 0 0 0 0 1 0 0 0
+scalpel canary N no-rel 0.36 0.6 0.48 0 0 1 0 0 1 1 0 1 0 0
+tissue organ N cohyp 2.77 4.62 2.08 1 1 0 3 5 3 3 6 5 0 0 4 5
+magnify increase V hyp-3 4.17 6.95 1.46 6 1 5 6 5 2 5 4 4 3 5 4
+moth butterfly N cohyp 2.57 4.28 1.80 3 6 0 1 6 1 1 1 4 3 3 3 3 1
+bulletin message N hyp-4 5.33 8.88 0.85 5 6 6 3 6 5 5 6 5 6 6 5
+competence war N no-rel 0.46 0.77 0.63 2 0 0 0 0 0 0 1 0 0 1 1 1
+absence medicine N no-rel 0.38 0.63 0.92 0 0 2 3 0 0 0 0 0 0 0 0 0
+capacity limit N cohyp 4.77 7.95 1.31 6 3 6 5 6 4 5 3 6 5 6 2 5
+star symbol N hyp-3 4.91 8.18 1.83 6 6 3 6 6 5 0 4 6 6 6
+blackberry food N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+hatchet tool N hyp-4 5.20 8.67 0.98 6 4 4 4 6 4 6 6 6 6
+celery lettuce N cohyp 1.14 1.9 2.03 1 0 6 0 0 1 0
+assignment task N hyp-1 5.60 9.33 0.66 6 5 5 6 6 6 6 6 6 4
+split tear V hyp-1 3.70 6.17 2.53 6 5 6 4 6 0 6 0 4 0
+breeze wind N hyp-1 4.92 8.2 1.59 6 2 6 4 5 5 5 6 6 6 6 6 1
+elephant mammal N hyp-3 5.83 9.72 0.55 6 6 6 6 6 4 6 6 6 6 6 6
+laugh cry V ant 0.62 1.03 1.39 0 0 0 0 2 0 0 0 0 0 0 5 1
+vocabulary speech N mero 4.15 6.92 1.75 6 6 6 4 4 3 6 6 3 3 4 3 0
+beginning end N ant 1.54 2.57 1.82 6 0 4 0 1 1 3 1 0 0 3 0 1
+spin turn V hyp-2 5.00 8.33 1.34 6 3 5 6 5 2 6 6 6 5
+octopus creature N hyp-4 5.67 9.45 0.85 6 6 6 6 3 5 6 6 6 6 6 6
+life existence N hyp-1 5.18 8.63 1.40 5 6 1 5 5 6 6 6 6 6 5
+lime fruit N hyp-3 5.82 9.7 0.39 6 6 5 6 5 6 6 6 6 6 6
+pike spike N cohyp 3.42 5.7 1.89 5 4 2 3 4 4 6 4 6 3 0 0
+rabbit animal N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+break shatter V r-hyp-2 3.33 5.55 2.13 6 6 2 5 2 5 2 6 0 0 3 3
+violin fiddle N syn 3.17 5.28 2.07 3 6 2 6 5 2 4 5 4 0 1 0
+mammal dolphin N r-hyp-4 0.64 1.07 0.88 0 1 0 0 0 1 1 0 0 3 1
+poem sonnet N r-hyp-1 1.82 3.03 1.75 0 1 1 3 6 3 3 2 1 0 0
+fraternity group N hyp-3 5.23 8.72 0.97 6 5 6 4 3 6 6 6 5 4 6 5 6
+guitar instrument N hyp-2 5.92 9.87 0.27 6 6 5 6 6 6 6 6 6 6 6 6 6
+man primate N hyp-2 5.67 9.45 0.62 5 6 6 6 4 6 6 6 6 6 6 5
+alley street N hyp-1 5.36 8.93 1.23 6 6 6 2 6 6 5 6 4 6 6
+headache symptom N hyp-3 5.27 8.78 1.21 6 5 4 6 2 6 6 5 6 6 6
+coleslaw salad N hyp-1 3.31 5.52 2.49 6 3 3 0 0 4 6 6 0 6 0 3 6
+shrimp seafood N hyp-1 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6
+bicycle vehicle N hyp-2 4.80 8.0 1.47 5 6 5 3 6 6 6 3 6 2
+scrap piece N hyp-1 4.30 7.17 1.55 1 6 5 6 6 5 4 3 4 3
+nun softball N no-rel 0.08 0.13 0.27 0 0 0 0 0 0 0 0 1 0 0 0 0
+egg architecture N no-rel 0.33 0.55 0.62 1 0 0 0 1 0 0 0 0 2 0 0
+son child N hyp-2 5.36 8.93 1.15 6 3 6 6 3 6 5 6 6 6 6
+division group N hyp-2 4.10 6.83 1.97 1 6 6 4 5 6 6 1 2 4
+stream line N hyp-1 1.23 2.05 1.12 3 1 3 1 0 3 1 0 1 2 0 0 1
+signal stoplight N r-hyp-2 1.77 2.95 1.67 2 1 1 4 2 1 0 0 3 2 1 0 6
+person nomad N r-hyp-3 1.54 2.57 1.55 4 0 3 0 1 1 5 1 2 2 0 0 1
+penguin animal N hyp-4 5.75 9.58 0.83 6 6 6 6 6 6 6 6 6 6 6 3
+transplant move V hyp-2 5.08 8.47 0.86 5 6 6 5 6 4 4 4 6 6 5 4
+scalpel tool N hyp-4 5.75 9.58 0.60 5 4 6 6 6 6 6 6 6 6 6 6
+strawberry blueberry N cohyp 0.85 1.42 0.95 0 0 0 2 0 0 0 1 1 3 2 1 1
+architecture water N no-rel 0.00 0.0 0.00 0 0 0 0 0 0 0 0 0 0 0 0
+cigarette tobacco N hyp-2 3.92 6.53 2.34 0 6 6 2 6 6 4 6 6 3 1 0 5
+boy kid N hyp-2 5.42 9.03 0.86 6 6 6 6 6 5 5 5 6 5 3 6
+pyramid shape N hyp-3 5.62 9.37 0.49 5 6 5 6 5 6 6 6 6 6 5 6 5
+defense offense N ant 2.15 3.58 1.61 3 1 1 0 5 0 0 2 3 2 4 4 3
+digit number N hyp-2 4.17 6.95 2.11 4 0 6 6 0 6 6 4 4 5 6 3
+cheese butter N cohyp 0.85 1.42 1.29 0 0 0 0 3 0 4 2 0 0 1 0 1
+arrow wound N no-rel 0.30 0.5 0.46 1 0 0 0 1 0 1 0 0 0
+furniture chair N r-hyp-2 1.00 1.67 1.57 0 1 1 2 1 6 0 0 1 0 0 1 0
+beam support N hyp-2 5.57 9.28 0.73 5 4 6 6 6 6 6
+kid goat N hyp-1 3.91 6.52 2.31 0 5 4 0 6 6 6 4 5 6 1
+lieutenant courage N no-rel 0.54 0.9 1.08 0 0 0 0 3 0 0 0 0 0 0 1 3
+tablet pill N syn 3.92 6.53 1.73 2 4 0 3 5 4 6 6 4 4 2 6 5
+allow return V no-rel 1.08 1.8 1.26 1 0 3 3 0 0 1 0 0 0 3 2
+airplane cannon N no-rel 0.46 0.77 1.34 0 0 0 0 0 0 0 0 1 0 0 5 0
+worker labor N mero 1.82 3.03 2.08 0 1 1 0 6 5 0 4 1 2 0
+disease cancer N r-hyp-3 0.85 1.42 0.95 0 1 1 0 0 2 3 1 2 0 0 0 1
+fluid water N r-hyp-2 1.67 2.78 1.84 1 0 6 0 1 0 3 4 1 1 0 3
+quill porcupine N mero 1.46 2.43 1.28 2 3 0 0 3 1 0 0 2 2 3 3 0
+salesman person N hyp-4 5.25 8.75 1.48 2 6 6 6 6 6 5 6 6 2 6 6
+mother woman N hyp-2 4.93 8.22 1.33 6 6 6 1 6 5 5 4 5 6 5 4 6 4
+relationship relation N hyp-1 2.77 4.62 2.26 0 4 0 6 3 2 0 2 6 0 4 3 6
+antler deer N mero 0.77 1.28 1.31 0 0 1 0 4 3 0 0 0 0 0 2 0
+leave control V no-rel 1.07 1.78 1.58 0 0 0 1 1 0 1 6 0 2 2 0 2 0
+oven appliance N hyp-3 5.90 9.83 0.30 6 6 6 6 6 6 6 5 6 6
+hamburger sandwich N hyp-1 4.50 7.5 1.75 5 6 3 6 6 6 2 1 5 5
+monkey humor N no-rel 0.50 0.83 0.50 1 1 0 0 1 0 1 1 0 0
+recliner seat N hyp-3 4.73 7.88 1.60 6 6 4 6 6 2 3 5 2 6 6
+pretend dunk V no-rel 0.18 0.3 0.39 1 1 0 0 0 0 0 0 0 0 0
+clam seafood N hyp-2 5.60 9.33 1.20 6 6 6 6 6 6 2 6 6 6
+freckle spot N hyp-2 4.83 8.05 1.40 6 6 5 4 3 6 3 2 5 6 6 6
+cat appearance N no-rel 0.60 1.0 1.28 4 0 0 0 0 0 2 0 0 0
+animal elephant N r-hyp-4 1.00 1.67 1.90 0 0 0 6 1 0 0 3 0 0
+barley herb N hyp-4 1.30 2.17 1.95 3 3 0 0 6 0 1 0 0 0
+symptom disease N mero 0.85 1.42 1.10 0 1 0 1 0 3 0 2 0 0 0 3 1
+understand accept V hyp-2 2.45 4.08 1.37 1 3 3 4 4 3 3 1 0 1 4
+noon day N mero 2.55 4.25 2.57 0 5 1 0 1 6 0 3 6 6 0
+universe world N syn 1.54 2.57 1.34 0 5 2 2 3 1 1 0 0 2 1 1 2
+starboard toilet N no-rel 0.15 0.25 0.53 0 0 0 0 0 2 0 0 0 0 0 0 0
+hundred number N hyp-3 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+salary wage N syn 4.86 8.1 1.73 3 6 4 5 5 3 6 6 6 6 0 6 6 6
+week month N mero 0.62 1.03 0.62 2 0 0 0 1 1 0 1 0 1 1 1 0
+antidote cure N hyp-1 5.46 9.1 0.75 4 6 4 6 5 5 6 6 5 6 6 6 6
+professor faculty N mero 3.77 6.28 2.64 0 6 6 6 6 0 0 3 5 5 0 6 6
+lobby silk N no-rel 0.60 1.0 1.50 0 0 0 0 1 0 5 0 0 0
+cashew nut N hyp-2 4.80 8.0 2.18 1 6 6 5 6 0 6 6 6 6
+music sound N hyp-1 5.64 9.4 0.48 6 6 5 5 6 6 5 6 6 6 5
+husband snake N no-rel 0.33 0.55 0.47 1 1 1 0 1 0 0 0 0 0 0 0
+robber darkness N no-rel 0.86 1.43 1.25 0 0 0 0 1 1 0 3 2 4 1 0 0 0
+sculpture drawing N cohyp 0.69 1.15 1.14 1 0 4 0 2 1 0 0 1 0 0 0 0
+glance stare V cohyp 2.10 3.5 1.58 2 1 1 3 1 6 2 3 2 0
+figure statue N r-hyp-3 2.91 4.85 2.47 6 0 0 6 0 0 6 4 4 4 2
+comment answer N cohyp 4.00 6.67 1.62 2 5 5 4 1 6 4 4 5 6 4 5 1
+biology science N hyp-3 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+suspect think V hyp-4 2.80 4.67 1.94 1 4 6 3 0 0 2 3 4 5
+athlete jock N syn 4.22 7.03 1.81 6 3 6 6 4 0 4 4 5
+crayon marker N cohyp 3.43 5.72 1.59 2 3 3 6 1 4 5
+sickness health N ant 2.46 4.1 1.82 2 5 5 1 3 2 2 0 1 3 0 2 6
+professor professional N hyp-3 5.15 8.58 1.56 5 5 6 6 6 6 5 5 6 6 0 5 6
+peanut nut N hyp-2 5.73 9.55 0.62 6 6 6 6 6 4 5 6 6 6 6
+parent ancestor N hyp-3 4.20 7.0 2.23 4 5 6 0 6 6 4 5 6 0
+chair furniture N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6 6
+ewe sheep N hyp-1 4.58 7.63 2.14 6 1 6 6 6 0 6 6 6 3 6 3
+hitchhike travel V hyp-3 4.00 6.67 2.04 6 6 5 6 4 4 4 2 6 1 0
+evaluate reflect V no-rel 4.08 6.8 1.54 0 5 6 3 5 6 3 4 4 3 5 5 4
+chapel temple N cohyp 4.36 7.27 1.82 6 6 4 4 2 2 1 5 6 6 6
+swear promise V hyp-3 4.85 8.08 1.29 5 6 4 6 2 4 6 5 6 3 4 6 6
+subtract multiply V cohyp 0.69 1.15 0.82 0 1 0 0 0 2 0 2 1 0 0 2 1
+mansion home N hyp-2 5.42 9.03 1.19 6 6 6 6 2 6 6 5 4 6 6 6
+lieutenant captain N cohyp 1.50 2.5 1.50 0 5 2 1 1 3 0 0 0 3 0 1 3 2
+armor attic N no-rel 0.08 0.13 0.28 1 0 0 0 0 0 0 0 0 0 0 0
+army democracy N no-rel 0.92 1.53 1.00 1 2 3 0 0 0 0 0 1 2 2 1 0
+gander bird N hyp-4 4.00 6.67 2.68 4 6 6 0 6 6 0 0 6 6
+smog achievement N no-rel 0.50 0.83 0.92 0 0 0 1 1 0 0 0 3 0
+sympathy feeling N hyp-1 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6 6
+rape crime N hyp-3 5.90 9.83 0.30 6 6 6 5 6 6 6 6 6 6
+seafood fish N cohyp 1.67 2.78 1.89 0 0 1 0 4 0 5 1 1 4 4 0
+glass cup N cohyp 4.43 7.38 1.88 6 6 3 5 5 5 5 1 5 6 6 0 6 3
+swim run V cohyp 0.55 0.92 0.99 0 0 0 1 0 0 0 0 2 0 3
+trance state N hyp-3 5.46 9.1 1.34 6 5 6 1 6 5 6 6 6 6 6 6 6
+author creator N hyp-2 5.50 9.17 0.76 5 4 6 6 6 6 5 6 6 6 4 6
+operate control V hyp-3 5.50 9.17 1.12 6 6 6 5 6 6 6 5 6 6 6 2
+lease contract N hyp-1 4.92 8.2 1.04 6 6 3 4 3 5 6 5 5 6 5 5
+biscuit food N hyp-4 5.77 9.62 0.58 6 6 6 6 6 6 6 6 6 6 4 6 5
+existence life N r-hyp-1 4.00 6.67 1.57 5 5 3 6 1 4 3 6 3 5 3 6 2
+outside inside N ant 0.23 0.38 0.80 0 0 0 0 0 3 0 0 0 0 0 0 0
+grace goodness N hyp-2 3.55 5.92 1.72 5 1 4 1 1 5 3 5 6 4 4
+cord line N hyp-1 3.29 5.48 2.25 3 0 1 5 2 6 6
+director supervisor N hyp-1 5.08 8.47 1.44 5 1 6 6 6 6 4 6 6 4 5 6
+ankle joint N hyp-3 5.08 8.47 1.77 6 6 6 5 6 6 6 1 1 5 6 6 6
+teacher professional N hyp-2 5.69 9.48 0.46 6 6 6 6 5 6 5 6 6 5 6 6 5
+pitcher catcher N cohyp 1.20 2.0 1.33 4 0 1 1 1 2 0 0 3 0
+lemon tree N hyp-4 3.45 5.75 2.27 0 6 1 6 3 4 0 5 2 5 6
+stretch pull V hyp-1 4.07 6.78 1.10 4 5 3 2 3 4 4 6 5 3 5 3 5 5
+guilt feeling N hyp-4 5.60 9.33 0.92 6 6 6 6 6 5 3 6 6 6
+fault failure N hyp-2 2.67 4.45 1.89 1 1 5 3 6 3 2 3 3 0 5 0
+strength ability N hyp-2 4.90 8.17 1.14 4 6 3 6 6 3 5 5 6 5
+gossip rumor N hyp-1 3.00 5.0 1.95 5 4 4 1 0 1 4 4 1 6
+jealousy feeling N hyp-4 5.58 9.3 1.11 6 6 6 6 5 6 6 6 6 6 6 2
+reject deny V r-hyp-2 4.40 7.33 1.62 5 6 3 6 6 2 2 6 5 3
+orchid flower N hyp-1 5.92 9.87 0.28 6 5 6 6 6 6 6 6 6 6 6 6
+concert performance N hyp-1 5.69 9.48 0.61 5 6 6 6 6 6 6 6 6 6 4 5 6
+fraud deception N hyp-2 5.71 9.52 0.70 6 6 4 6 6 6 6
+brother relation N hyp-3 5.69 9.48 0.61 6 6 5 6 4 6 6 6 6 5 6 6 6
+pun humor N hyp-2 4.83 8.05 1.46 1 5 6 4 5 3 6 6 6 6 5 5
+stocking pantyhose N mero 4.54 7.57 1.39 4 3 5 6 6 5 4 4 5 6 6 4 1
+appliance dishwasher N r-hyp-3 0.90 1.5 1.14 3 2 0 0 0 2 2 0 0 0
+instrument guitar N r-hyp-2 0.18 0.3 0.39 0 0 0 1 0 0 0 0 1 0 0
+automobile vehicle N hyp-4 5.75 9.58 0.43 5 6 6 5 6 5 6 6 6 6 6 6
+soil earth N hyp-1 4.10 6.83 2.07 6 4 3 1 0 4 6 5 6 6
+father son N cohyp 1.58 2.63 1.71 1 0 0 6 2 2 3 1 3 0 0 1
+nose face N cohyp 1.00 1.67 1.30 0 3 1 0 2 4 0 0 1 0 0 2 0
+jack card N hyp-3 5.20 8.67 1.47 6 6 6 5 6 1 5 6 6 5
+liver organ N hyp-2 5.92 9.87 0.27 6 6 6 6 5 6 6 6 6 6 6 6 6
+attendance appearance N r-hyp-1 3.22 5.37 2.10 5 1 5 2 1 0 5 6 4
+pluto planet N hyp-2 5.00 8.33 1.73 6 3 6 6 6 5 6 5 6 0 5 6
+anatomy human N mero 1.83 3.05 1.99 6 0 1 0 4 0 3 3 1 0 0 4
+occupation job N syn 3.73 6.22 2.22 6 0 2 6 3 6 6 0 5 3 4
+sonnet poem N hyp-1 5.38 8.97 0.92 6 5 6 5 5 6 4 6 6 3 6 6 6
+puddle water N hyp-1 3.42 5.7 2.29 4 6 2 1 0 5 6 0 2 6 3 6
+build create V hyp-1 5.21 8.68 0.94 6 6 5 4 3 6 4 6 6 6 5 5 5 6
+point score N mero 5.00 8.33 1.22 6 5 6 6 6 5 5 2 6 5 3 5
+copper brass N mero 2.38 3.97 2.10 0 3 0 2 4 3 0 6 0 6 1 2 4
+payment rent N r-hyp-4 2.42 4.03 2.25 6 0 6 3 6 0 2 2 1 0 1 2
+property possession N hyp-1 4.46 7.43 1.95 6 1 4 5 4 5 0 6 6 3 6 6 6
+head arrow N mero 1.00 1.67 1.36 0 0 0 0 3 1 1 1 4 0 3 0 0
+communication language N r-hyp-1 3.23 5.38 2.19 0 0 4 2 4 6 2 2 3 6 6 1 6
+ham food N hyp-4 5.93 9.88 0.26 6 6 6 6 6 6 6 6 5 6 6 6 6 6
+umbrella protection N hyp-3 4.40 7.33 0.92 4 5 4 4 3 6 4 6 4 4
+intestine stomach N mero 1.23 2.05 1.80 0 0 0 1 1 0 0 2 0 0 2 4 6
+sand beach N mero 2.85 4.75 1.99 6 1 4 0 0 3 4 6 3 3 0 3 4
+tell testify V r-hyp-2 4.09 6.82 2.02 6 6 3 5 1 3 0 6 6 4 5
+snooze nap V hyp-1 4.69 7.82 1.07 4 5 6 6 6 4 3 4 5 5 6 4 3
+cut injury N hyp-2 4.80 8.0 1.54 6 6 5 6 5 5 1 5 3 6
+pancake waffle N cohyp 1.69 2.82 1.54 4 1 0 0 0 3 0 2 4 2 4 1 1
+flush rinse V hyp-1 3.64 6.07 1.92 6 6 4 5 5 3 2 1 5 3 0
+shoulder elbow N cohyp 0.92 1.53 1.61 1 1 6 0 1 0 0 1 1 0 0 0
+admit buy V no-rel 0.27 0.45 0.62 0 2 0 0 0 0 0 0 0 1 0
+grit courage N hyp-2 4.08 6.8 1.61 5 5 4 6 4 1 5 5 1 6 4 3
+crunch break V hyp-4 4.75 7.92 1.36 6 5 6 6 3 6 4 2 6 3 5 5
+ape primate N hyp-1 5.83 9.72 0.37 6 6 6 5 6 6 6 5 6 6 6 6
+exercise activity N hyp-4 5.64 9.4 0.48 6 6 5 5 5 6 5 6 6 6 6
+harp instrument N hyp-3 5.92 9.87 0.27 6 6 6 6 6 6 6 6 6 6 6 6 5
+ground land N syn 4.73 7.88 1.86 6 6 0 6 6 6 3 3 5 6 5
+vault chamber N hyp-2 5.15 8.58 1.10 6 6 6 3 6 4 5 5 6 5 6 3 6
+bone jaw N r-hyp-1 1.09 1.82 1.16 1 1 0 2 0 3 0 0 3 2 0
+choir group N hyp-3 5.23 8.72 1.12 6 5 6 6 3 3 4 6 6 5 6 6 6
+reserve keep V hyp-3 4.09 6.82 1.98 5 6 4 5 2 6 6 6 2 3 0
+autumn season N hyp-1 5.86 9.77 0.35 6 6 6 6 5 6 6
+flower offense N no-rel 0.38 0.63 1.08 0 0 0 1 0 0 0 0 0 0 4 0 0
+chamber fairytale N no-rel 0.54 0.9 0.93 0 0 1 0 2 3 0 0 1 0 0 0 0
+pizza food N hyp-3 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6
+canary bird N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6
+container flask N r-hyp-3 1.10 1.83 1.22 0 2 0 1 2 3 0 0 3 0
+basketball sport N hyp-3 6.00 10.0 0.00 6 6 6 6 6 6 6
+look squint V r-hyp-1 2.17 3.62 2.23 0 4 3 6 0 3 6 0 0 0 1 3
+pink purple N cohyp 0.92 1.53 1.00 1 3 2 2 1 1 0 0 0 0 0 0 2
+fireplace chimney N mero 1.64 2.73 1.30 3 1 1 3 0 0 1 1 3 4 1
+rearrange move V hyp-3 4.83 8.05 1.21 5 6 5 2 5 4 6 6 5 6 5 3
+kill smother V r-hyp-1 1.42 2.37 1.66 6 1 1 2 0 1 2 0 0 0 1 3
+jaw bone N hyp-1 4.91 8.18 1.24 5 6 6 5 3 3 5 6 3 6 6
+shower rain N hyp-1 3.62 6.03 1.86 4 4 2 3 4 0 6 4 1 6 6 5 2
+tenor singer N hyp-1 5.45 9.08 0.99 3 5 6 6 6 6 6 6 6 6 4
+testify tell V hyp-2 4.58 7.63 1.26 5 5 5 4 5 4 6 5 1 6 5 4
+group gang N r-hyp-4 3.40 5.67 2.65 6 0 0 5 0 1 6 6 6 4
+typhoon storm N hyp-3 5.92 9.87 0.27 6 6 6 6 6 6 6 6 6 6 5 6 6
+talk debate V r-hyp-2 4.00 6.67 1.65 1 2 5 3 5 4 4 6 6 6 4 4 1 5
+math domain N hyp-3 1.00 1.67 1.52 0 0 0 4 3 1 0 0 0 4 0 1 0
+bristle brush N mero 2.31 3.85 1.98 4 3 4 1 1 3 0 0 4 0 4 0 6
+rung ladder N mero 1.46 2.43 1.91 0 6 0 0 3 2 0 1 0 0 0 3 4
+clay brick N mero 3.20 5.33 2.04 6 4 5 6 2 4 3 1 1 0
+dirt grime N syn 4.62 7.7 1.73 3 6 6 6 5 6 4 3 6 6 0 5 4
+parade march N cohyp 4.62 7.7 1.50 5 5 4 5 6 0 6 5 4 6 4 5 5
+ape beast N hyp-4 5.09 8.48 1.08 6 6 6 5 6 6 3 6 4 4 4
+acid shell N no-rel 0.00 0.0 0.00 0 0 0 0 0 0 0 0 0 0 0 0
+flashlight lamp N hyp-2 3.55 5.92 1.83 3 3 5 2 5 6 1 6 5 2 1
+princess prince N cohyp 1.70 2.83 1.95 0 1 0 3 5 0 0 4 4 0
+country region N hyp-3 2.40 4.0 2.54 0 5 0 6 6 3 0 0 4 0
+knowledge instinct N r-hyp-3 2.00 3.33 2.04 0 4 3 1 5 4 0 0 1 1 0 1 6
+parent family N mero 4.00 6.67 1.83 1 3 6 6 6 4 2 3 6 3 6 2
+desire separate V no-rel 0.17 0.28 0.37 1 0 0 0 1 0 0 0 0 0 0 0
+sip drink V hyp-1 4.92 8.2 1.38 6 4 5 6 6 6 1 5 6 4 5 5
+jewel gem N syn 4.08 6.8 1.38 6 3 6 6 5 3 5 3 3 3 2 4
+dilemma confusion N hyp-2 3.54 5.9 1.95 6 5 5 1 5 5 5 5 2 2 0 4 1
+jewel ring N cohyp 2.42 4.03 1.93 1 3 6 3 5 0 3 4 1 0 0 3
+herb food N hyp-4 4.00 6.67 1.71 4 5 5 4 1 6 5 6 4 1 3 6 2
+commander leader N hyp-1 5.23 8.72 0.97 4 6 6 6 6 6 5 3 5 6 4 6 5
+squad team N syn 5.64 9.4 0.64 6 6 5 6 5 6 6 6 4 6 6
+release hold V ant 1.38 2.3 1.82 1 3 2 3 3 0 0 0 0 0 6 0 0
+server waitress N r-hyp-1 3.85 6.42 2.21 4 0 6 1 5 6 5 6 1 6 6 2 2
+foe enemy N syn 5.83 9.72 0.37 5 6 6 5 6 6 6 6 6 6 6 6
+castle home N hyp-3 5.20 8.67 1.66 6 6 6 6 6 6 3 6 6 1
+honey sugar N cohyp 3.40 5.67 1.36 5 5 2 3 5 4 1 2 3 4
+politician senator N r-hyp-2 1.78 2.97 2.44 0 6 0 3 1 0 0 6 0
+ceremony graduation N r-hyp-2 1.80 3.0 2.23 0 0 1 0 6 1 2 2 0 6
+noun word N hyp-2 5.64 9.4 0.64 5 6 6 4 5 6 6 6 6 6 6
+understanding knowledge N hyp-3 4.36 7.27 1.43 6 6 3 5 6 4 6 4 3 3 2
+broth food N hyp-4 5.92 9.87 0.28 6 6 6 6 6 6 6 6 6 6 6 5
+courage grit N r-hyp-2 3.00 5.0 2.10 4 4 6 5 4 0 4 0 3 0
+flour dough N mero 0.18 0.3 0.39 0 0 0 0 0 0 1 0 1 0 0
+eagle bird N hyp-2 5.90 9.83 0.30 5 6 6 6 6 6 6 6 6 6
+walkway sidewalk N r-hyp-1 5.08 8.47 1.32 4 6 6 6 5 5 6 2 6 6 6 3
+sandal shoe N hyp-1 5.80 9.67 0.40 5 6 6 5 6 6 6 6 6 6
+street boulevard N r-hyp-1 2.31 3.85 2.16 0 2 6 0 4 4 4 6 1 0 1 2 0
+wrist arm N mero 0.09 0.15 0.29 0 0 0 0 0 0 0 0 1 0 0
+chimney swan N no-rel 0.29 0.48 0.45 1 0 0 0 0 1 0
+president leader N hyp-4 5.42 9.03 1.11 6 6 5 6 6 6 6 3 6 6 6 3
+wall department N no-rel 0.40 0.67 0.49 0 1 0 0 1 0 1 1 0 0
+value amount N hyp-1 3.58 5.97 2.06 1 1 6 5 4 3 4 2 0 5 6 6
+swap change V hyp-1 4.17 6.95 1.46 5 6 4 4 1 3 6 3 3 6 5 4
+corpse body N hyp-1 4.38 7.3 1.60 4 5 4 1 6 5 4 1 6 5 5 5 6
+igloo hut N hyp-1 4.77 7.95 1.67 3 6 5 6 2 1 6 5 6 6 6 6 4
+tool screwdriver N r-hyp-2 1.08 1.8 1.04 3 1 1 1 0 1 2 0 0 0 1 3
+structure architecture N r-hyp-2 3.20 5.33 2.18 1 5 1 6 4 3 0 1 5 6
+rhyme poem N mero 4.33 7.22 1.75 6 6 6 6 6 4 1 4 4 2 2 5
+peace war N ant 0.08 0.13 0.27 0 0 0 1 0 0 0 0 0 0 0 0 0
+graft piece N hyp-4 2.30 3.83 2.15 3 5 6 2 0 0 4 3 0 0
+tongue throat N mero 0.27 0.45 0.62 0 0 0 2 0 0 0 0 1 0 0
+ray beam N syn 4.91 8.18 1.00 6 5 5 6 4 6 4 5 6 4 3
+pull tow V r-hyp-3 3.36 5.6 2.19 6 0 3 6 2 5 1 0 5 5 4
+follower leader N ant 0.33 0.55 0.85 1 3 0 0 0 0 0 0 0 0 0 0
+letter sign N hyp-4 1.09 1.82 1.38 2 2 1 0 0 0 0 0 3 4 0
+cavity tooth N cohyp 1.36 2.27 1.43 2 3 1 2 0 0 0 0 3 4 0
+doorway entrance N hyp-1 5.58 9.3 0.64 6 6 6 6 4 5 6 5 6 6 6 5
+jesus lord N hyp-3 4.08 6.8 2.06 6 0 3 4 5 1 5 6 5 6 5 6 1
+mate partner N syn 4.91 8.18 1.08 5 5 2 4 5 6 5 6 5 6 5
+poverty discipline N no-rel 0.45 0.75 0.66 2 1 0 0 1 0 0 0 0 1 0
+cotton material N hyp-4 5.77 9.62 0.80 6 6 6 3 6 6 6 6 6 6 6 6 6
+renounce defeat V r-hyp-4 2.46 4.1 1.87 4 3 0 2 1 2 4 3 0 2 0 6 5
+saturn planet N hyp-2 5.36 8.93 1.43 6 6 5 6 6 6 1 6 5 6 6
+pint measure N hyp-4 5.82 9.7 0.39 5 6 6 5 6 6 6 6 6 6 6
+joint elbow N r-hyp-3 0.64 1.07 0.88 0 0 1 3 1 1 0 1 0 0 0
+missile rocket N hyp-1 4.00 6.67 2.00 6 3 4 4 3 6 5 6 6 1 0
+ritual event N hyp-4 4.64 7.73 1.80 6 6 4 0 4 3 5 6 6 2 6 6 5 6
+supper meal N hyp-1 5.14 8.57 1.73 6 6 1 6 5 6 6
+tow move V hyp-4 4.42 7.37 1.04 6 4 5 6 3 3 4 3 5 4 5 5
+glove mitten N r-hyp-1 1.85 3.08 1.79 0 3 5 3 0 2 0 1 2 0 0 3 5
+unite divide V ant 1.00 1.67 1.61 0 0 0 0 0 1 5 3 0 1
+grove group N hyp-4 2.15 3.58 2.35 0 1 3 3 0 0 0 6 4 5 0 0 6
+heel boot N mero 0.80 1.33 1.08 3 2 0 0 0 2 1 0 0 0
+proprietor person N hyp-4 5.08 8.47 1.44 6 6 6 3 1 6 6 5 6 6 5 5 5
+veal food N hyp-2 5.38 8.97 1.39 6 5 6 6 6 1 6 6 6 6 4 6 6
+impression act N hyp-4 3.60 6.0 2.54 6 2 6 6 6 1 3 6 0 0
+stage platform N hyp-1 5.64 9.4 0.64 6 6 6 5 4 6 6 6 6 5 6
+stick stalk N hyp-3 1.80 3.0 1.47 1 3 1 1 0 3 4 1 0 4
+sister relation N hyp-3 5.45 9.08 0.99 5 6 6 6 6 6 6 4 6 3 6
+state region N hyp-3 5.00 8.33 1.04 3 5 6 5 5 6 6 5 6 6 4 5 3
+remedy cause N hyp-4 0.62 1.03 0.62 0 1 1 1 0 1 0 0 1 0 1 0 2
+bump grind V cohyp 1.00 1.67 1.18 0 1 3 0 2 2 0 0 0 0 3 0 2
+person cashier N r-hyp-1 1.00 1.67 1.00 2 2 1 0 3 1 1 0 0 0
+creek brook N syn 2.67 4.45 2.01 6 0 0 4 5 2 4 4 4 0 2 1
+poison venom N r-hyp-3 2.75 4.58 2.17 6 4 1 4 0 4 6 0 1 0 3 4
+kingdom territory N hyp-3 5.56 9.27 0.96 6 5 6 3 6 6 6 6 6
+assume judge V hyp-2 3.69 6.15 1.73 0 2 6 5 5 4 4 2 5 6 2 4 3
+assignment homework N r-hyp-2 5.00 8.33 1.68 6 6 2 6 6 6 6 4 1 6 6 5
+descend create V no-rel 1.10 1.83 1.87 0 0 1 0 3 0 0 1 0 6
+lieutenant officer N hyp-3 4.38 7.3 1.69 5 5 2 0 6 4 6 6 4 6 4 5 4
+pain symptom N hyp-1 5.31 8.85 0.91 6 4 6 6 6 6 5 5 5 6 5 3 6
+hold control V hyp-3 2.45 4.08 1.97 5 2 4 5 2 5 3 0 0 1 0
+veer turn V hyp-1 4.38 7.3 1.90 0 6 4 6 3 5 6 5 4 6 6 5 1
+department organization N hyp-4 2.90 4.83 2.30 3 6 5 1 6 2 0 0 5 1
+cabbage food N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+competence capability N cohyp 3.40 5.67 2.42 5 3 6 4 6 6 4 0 0 0
+mom parent N hyp-2 5.83 9.72 0.55 6 6 6 6 4 6 6 6 6 6 6 6
+shelf closet N mero 1.31 2.18 0.91 1 1 3 2 0 1 3 1 1 2 1 0 1
+nylon material N hyp-3 5.85 9.75 0.36 6 6 6 6 6 5 6 6 6 6 6 5 6
+task duty N hyp-1 3.92 6.53 1.50 4 2 3 5 1 3 6 5 5 6 4 3
+father fiddle N no-rel 0.31 0.52 1.07 0 0 0 0 0 0 0 4 0 0 0 0 0
+dive swim V hyp-1 4.15 6.92 1.29 6 4 6 4 3 3 4 5 6 3 3 5 2
+home palace N r-hyp-3 1.77 2.95 1.76 0 2 1 1 4 4 1 6 2 1 1 0 0
+borrow bother V no-rel 0.77 1.28 0.80 1 1 0 0 1 1 0 0 1 1 1 3 0
+number eight N r-hyp-3 0.64 1.07 0.77 0 2 0 0 0 1 1 0 0 2 1
+perch roost N mero 3.60 6.0 2.46 6 6 6 2 6 1 4 0 5 0
+politician governor N r-hyp-1 2.21 3.68 1.97 3 0 5 1 1 3 4 6 0 0 3 0 1 4
+meeting conference N r-hyp-1 2.90 4.83 2.17 1 6 0 1 4 4 0 4 3 6
+selection choice N syn 4.82 8.03 1.03 3 5 4 6 5 6 3 5 6 5 5
+poet person N hyp-3 4.67 7.78 1.37 4 6 6 3 6 2 5 4 5 6 6 3
+atmosphere killer N no-rel 1.08 1.8 1.54 1 0 0 1 6 1 0 0 0 1 2 1 1
+appear happen V hyp-2 1.46 2.43 1.60 4 1 0 0 1 0 1 0 1 3 4 4 0
+caption heading N hyp-3 3.00 5.0 2.32 0 1 4 6 5 0 0 4 5 5
+diary journal N syn 5.00 8.33 1.47 6 4 5 1 6 6 5 6 3 6 6 6 5
+wait seize V no-rel 0.23 0.38 0.42 1 0 1 0 0 0 0 0 0 0 0 0 1
+piano instrument N hyp-2 5.92 9.87 0.28 5 6 6 6 6 6 6 6 6 6 6 6
+coach carriage N syn 3.86 6.43 2.07 6 6 2 6 4 4 6 0 0 4 6 4 2 4
+caffeine coffee N mero 1.46 2.43 1.69 0 0 2 0 0 4 0 1 3 3 5 0 1
+feeling ecstasy N r-hyp-3 1.20 2.0 1.47 4 1 0 4 1 0 1 1 0 0
+cavern cave N hyp-1 5.08 8.47 0.95 3 6 6 4 5 6 6 4 6 5 5 5
+scallop food N hyp-3 5.89 9.82 0.31 6 6 6 5 6 6 6 6 6
+frustrate irritate V hyp-2 4.62 7.7 1.73 0 4 6 6 6 4 5 5 6 3 6 3 6
+circle shape N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6
+plant flower N r-hyp-4 2.54 4.23 1.55 4 0 5 5 3 1 1 2 1 3 4 2 2
+ceremony blade N no-rel 0.55 0.92 0.78 1 0 0 2 0 0 2 0 1 0 0
+catastrophe tragedy N syn 4.71 7.85 1.48 5 6 5 6 4 6 6 1 5 4 3 6 3 6
+reason intellect N syn 4.62 7.7 0.84 5 4 5 5 4 5 6 4 4 6 3 4 5
+restroom toilet N hyp-1 3.46 5.77 2.41 5 3 1 6 5 6 1 6 1 0 5 6 0
+blade mower N mero 1.38 2.3 1.90 0 2 0 0 0 3 0 0 5 0 5 0 3
+explorer scientist N cohyp 3.33 5.55 1.93 3 6 0 3 3 4 6 3 0 5 5 2
+craft knitting N r-hyp-2 1.82 3.03 2.44 2 0 0 1 0 0 6 0 5 6 0
+keyboard typewriter N mero 2.86 4.77 1.73 3 4 2 4 6 4 0 2 5 4 2 3 1 0
+committee group N hyp-4 5.10 8.5 1.92 0 6 6 6 6 6 6 6 3 6
+repentance remorse N hyp-1 4.58 7.63 1.11 4 6 4 3 6 5 3 5 5 3 5 6
+morning intelligence N no-rel 0.17 0.28 0.37 1 0 0 0 1 0 0 0 0 0 0 0
+hinge gate N mero 1.79 2.98 1.86 0 0 0 4 3 4 2 0 1 6 1 0 1 3
+tangerine nucleus N no-rel 0.31 0.52 0.61 0 0 0 0 0 1 0 0 0 0 0 1 2
+filth dirt N syn 4.33 7.22 2.09 6 6 4 6 2 6 5 4 6 0 6 1
+agency group N hyp-4 3.69 6.15 1.94 6 3 1 1 3 6 6 5 4 4 0 4 5
+prank joke N syn 4.77 7.95 1.42 6 4 6 6 6 3 6 6 4 2 4 6 3
+sausage food N hyp-2 5.80 9.67 0.40 6 5 6 5 6 6 6 6 6 6
+ivy plant N hyp-3 5.40 9.0 1.20 6 6 3 6 6 3 6 6 6 6
+corporation business N hyp-2 5.38 8.97 1.27 6 6 6 6 6 6 2 3 6 6 6 6 5
+editorial newspaper N mero 2.00 3.33 1.51 4 4 0 1 1 1 3
+safety insurance N r-hyp-3 2.73 4.55 1.71 3 2 0 5 4 1 3 0 5 3 4
+limit boundary N syn 4.46 7.43 1.60 4 6 5 3 6 5 6 6 5 4 0 4 4
+procedure operation N syn 3.67 6.12 2.36 0 5 0 6 4 6 5 3 6 3 0 6
+unit group N hyp-3 4.15 6.92 2.18 1 5 6 4 5 5 6 6 0 6 0 5 5
+valve heart N mero 1.30 2.17 1.85 2 3 0 0 1 6 1 0 0 0
+acknowledge ignore V ant 0.50 0.83 0.92 0 0 3 0 0 0 1 1 0 0
+component element N syn 2.31 3.85 1.43 4 1 3 3 1 3 3 0 2 2 3 5 0
+bench seat N hyp-1 5.82 9.7 0.39 6 5 5 6 6 6 6 6 6 6 6
+beverage beer N r-hyp-3 0.40 0.67 0.49 0 0 0 1 1 1 0 0 1 0
+boat ship N cohyp 4.20 7.0 2.27 1 6 6 6 1 6 3 1 6 6
+tongue mouth N mero 0.45 0.75 0.99 0 0 2 0 0 0 0 0 3 0 0
+accept restore V no-rel 0.69 1.15 1.14 2 1 1 0 4 0 0 0 0 0 0 0 1
+persuade change V hyp-3 4.44 7.4 1.26 4 3 6 5 4 2 5 6 5
+absence presence N ant 2.38 3.97 2.24 5 1 2 0 4 0 0 4 1 0 2 6 6
+hydrogen helium N cohyp 0.50 0.83 0.67 0 0 0 1 0 1 0 1 0 2
+amount quantity N syn 4.70 7.83 1.49 3 6 6 2 6 4 6 6 3 5
+oxygen gas N hyp-1 5.69 9.48 0.61 5 6 6 5 6 6 6 6 6 6 6 6 4
+trauma injury N syn 5.00 8.33 1.00 5 4 5 6 5 6 6 4 6 4 3 6 4 6
+urge suggest V hyp-1 3.77 6.28 1.48 6 2 4 5 4 2 3 6 6 3 3 2 3
+waterfall river N mero 1.73 2.88 1.29 0 0 0 1 3 3 3 3 1 3 2
+exercise work V hyp-3 3.00 5.0 1.86 0 1 2 6 2 3 3 2 3 6 5
+shadow light N ant 1.69 2.82 1.26 0 0 1 2 4 3 0 3 2 3 1 1 2
+pea vegetable N hyp-2 4.71 7.85 2.05 5 0 4 6 6 6 6
+scent fragrance N syn 3.55 5.92 2.64 6 6 0 5 0 6 6 0 3 6 1
+crew gang N syn 3.46 5.77 1.60 0 4 6 3 5 3 2 4 6 3 2 4 3
+front rear N ant 0.30 0.5 0.64 0 0 0 0 0 0 2 1 0 0
+crab animal N hyp-4 4.36 7.27 2.06 6 6 5 1 5 6 4 6 0 3 6
+furniture bed N r-hyp-2 1.58 2.63 1.85 3 0 0 1 0 6 0 0 2 2 1 4
+wick candle N mero 1.10 1.83 1.51 2 5 0 0 0 0 2 1 0 1
+catch capture V syn 3.91 6.52 2.23 6 6 0 5 0 3 6 6 4 2 5
+adjective verb N cohyp 0.55 0.92 0.99 0 0 1 0 0 0 0 2 3 0 0
+illness health N ant 1.92 3.2 2.22 1 0 6 0 6 2 4 3 1 0 0 0
+alligator animal N hyp-4 5.85 9.75 0.36 6 6 6 6 5 5 6 6 6 6 6 6 6
+casket coffin N syn 4.46 7.43 1.65 3 6 5 6 4 6 5 3 5 6 0 5 4
+building construction N syn 5.58 9.3 0.76 5 4 6 6 6 6 4 6 6 6 6 6
+monk adversary N no-rel 0.36 0.6 0.64 2 1 0 0 0 0 0 0 0 1 0
+violin instrument N hyp-3 5.92 9.87 0.27 6 6 6 6 6 6 6 6 6 6 6 6 5
+clam food N hyp-3 4.92 8.2 1.14 4 3 6 4 6 6 6 5 5 6 3 4 6
+mother adult N hyp-3 5.00 8.33 1.47 6 6 3 5 6 1 5 6 6 6 4 6 5
+plane craft N hyp-3 5.44 9.07 0.83 6 4 6 4 6 5 6 6 6
+squint look V hyp-1 4.69 7.82 1.07 4 3 6 4 5 4 3 5 6 6 4 6 5
+tuxedo dress N hyp-2 2.20 3.67 1.89 4 1 1 4 4 0 0 3 0 5
+crow bird N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6
+safety danger N ant 0.25 0.42 0.60 2 0 0 0 0 0 0 1 0 0 0 0
+note sorority N no-rel 0.27 0.45 0.62 0 0 0 2 0 0 0 0 1 0 0
+lingerie underwear N hyp-1 5.70 9.5 0.46 5 6 6 6 6 6 5 5 6 6
+tomorrow yesterday N cohyp 1.33 2.22 1.70 3 1 1 0 0 1 2 0 0 0 2 6
+mushroom monster N no-rel 0.09 0.15 0.29 0 1 0 0 0 0 0 0 0 0 0
+passage grasshopper N no-rel 0.00 0.0 0.00 0 0 0 0 0 0 0 0 0 0 0
+canary feather N no-rel 0.42 0.7 0.86 1 0 0 0 0 0 3 0 0 0 1 0
+shrimp lobster N cohyp 2.09 3.48 1.83 6 2 1 0 0 3 3 1 0 4 3
+beef cattle N hyp-1 4.00 6.67 1.96 5 6 5 5 6 0 3 2 5 4 6 1
+employment work N syn 4.85 8.08 1.56 6 6 3 5 6 1 3 5 6 6 6 6 4
+geometry math N hyp-2 5.46 9.1 0.93 6 5 6 6 6 3 4 6 6 5 6 6 6
+soil ground N hyp-1 4.62 7.7 1.21 3 3 3 6 5 6 6 6 5 5 4 5 3
+ceremony funeral N r-hyp-1 1.75 2.92 1.42 1 0 5 3 2 1 1 3 1 3 1 0
+milk liquid N hyp-2 5.92 9.87 0.27 6 6 6 6 6 6 6 6 6 6 6 5 6
+clay pottery N mero 4.00 6.67 2.24 1 4 6 6 5 5 6 4 0 0 6 5
+bet wager N syn 4.25 7.08 2.24 6 6 6 6 3 1 6 5 1 0 5 6
+blossom kangaroo N no-rel 0.15 0.25 0.36 0 0 0 0 0 1 0 0 0 0 0 0 1
+ruby emerald N cohyp 1.00 1.67 1.55 0 0 0 1 1 0 0 4 0 4
+limb extremity N hyp-1 4.38 7.3 2.13 0 6 5 6 6 1 6 5 6 6 4 5 1
+corpse throne N no-rel 0.08 0.13 0.27 0 0 0 0 0 1 0 0 0 0 0 0 0
+bathtub bathroom N mero 1.23 2.05 1.48 4 0 0 0 1 0 1 3 0 2 4 1 0
+leather suede N r-hyp-1 2.17 3.62 2.41 2 0 6 2 6 0 6 1 0 3 0 0
+describe explain V hyp-4 4.30 7.17 2.28 4 5 6 6 6 6 4 0 6 0
+urge tell V hyp-3 2.60 4.33 1.62 2 4 4 0 3 5 2 4 0 2
+unload remove V hyp-2 4.45 7.42 1.16 5 3 3 6 6 4 5 4 6 4 3
+professor staff N mero 4.55 7.58 1.56 6 4 6 2 3 5 6 6 4 6 2
+develop make V hyp-2 4.46 7.43 1.45 4 5 5 4 5 6 2 4 6 6 5 1 5
+gas car N mero 0.62 1.03 1.00 2 0 0 0 0 0 0 0 2 1 0 3 0
+dominate control V hyp-1 4.46 7.43 1.45 4 5 1 2 5 4 6 6 5 4 6 5 5
+cop officer N hyp-1 5.20 8.67 0.98 5 6 6 6 5 4 5 3 6 6
+flower plant N hyp-4 5.67 9.45 0.62 6 6 6 6 6 6 6 5 4 6 5 6
+bang noise N hyp-1 5.46 9.1 0.84 6 4 6 4 4 6 6 6 5 6 6 6 6
+vinegar acid N hyp-3 4.75 7.92 2.28 6 6 3 6 0 6 0 6 6 6 6 6
+show tell V hyp-3 2.64 4.4 1.92 4 4 0 3 0 4 6 2 4 0 2
+material nylon N r-hyp-3 0.85 1.42 1.61 0 0 1 6 1 1 0 0 0 0 0 0 2
+hedge fence N hyp-1 3.92 6.53 1.33 3 5 4 3 2 5 5 2 5 6 5 2 4
+four two N cohyp 0.27 0.45 0.45 0 0 1 0 0 0 1 0 1 0 0
+blockade barrier N cohyp 5.90 9.83 0.30 5 6 6 6 6 6 6 6 6 6
+aardvark animal N hyp-4 5.92 9.87 0.27 6 6 6 6 6 6 6 6 6 6 6 6 5
+astronomy science N hyp-3 5.92 9.87 0.27 6 6 6 6 6 6 6 6 6 6 6 6 5
+prince royalty N mero 5.91 9.85 0.29 6 6 6 6 6 6 6 6 6 6 5
+celery vegetable N hyp-1 5.83 9.72 0.37 6 6 6 6 6 5 6 6 5 6 6 6
+geyser fountain N hyp-1 4.60 7.67 1.43 2 5 6 2 5 6 5 6 5 4
+hammer tool N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+vanish fade V r-hyp-1 4.15 6.92 1.10 5 5 5 4 6 4 5 4 5 3 2 3 3
+break explain V no-rel 0.54 0.9 1.34 0 0 0 5 0 1 0 0 0 0 0 0 1
+adjective word N hyp-3 5.77 9.62 0.58 6 6 6 6 6 4 6 6 6 6 6 5 6
+earring ring N cohyp 1.70 2.83 2.45 0 0 0 6 4 1 0 0 6 0
+dolphin fish N hyp-4 2.54 4.23 1.95 3 1 6 0 0 4 2 1 4 3 2 6 1
+softball sport N hyp-4 5.73 9.55 0.86 6 6 6 6 6 6 3 6 6 6 6
+turkey meat N hyp-3 5.80 9.67 0.40 6 6 6 5 6 5 6 6 6 6
+parsley sage N cohyp 0.43 0.72 0.62 0 0 0 1 1 0 2 0 0 0 1 0 0 1
+youth group N hyp-3 4.46 7.43 1.69 4 4 3 2 3 6 6 1 5 6 6 6 6
+squash vegetable N hyp-1 5.77 9.62 0.58 6 6 6 6 6 6 4 6 6 5 6 6 6
+hatchet ax N hyp-1 4.73 7.88 1.42 6 6 5 5 3 3 4 6 6 2 6
+wisdom knowledge N hyp-2 4.85 8.08 1.61 0 5 3 5 6 6 5 6 5 5 5 6 6
+package box N cohyp 3.18 5.3 2.04 3 0 2 2 4 5 1 6 6 5 1
+water ice N mero 2.08 3.47 1.94 2 6 2 5 0 3 0 0 3 0 3 0 3
+opening entrance N hyp-1 3.69 6.15 2.05 0 6 6 2 3 6 4 2 5 4 5 0 5
+yogurt food N hyp-3 5.77 9.62 0.80 6 6 3 6 6 6 6 6 6 6 6 6 6
+supermarket grocery N hyp-1 2.36 3.93 2.67 6 0 6 4 0 0 4 0 6 0 0
+axon neuron N mero 2.82 4.7 2.41 0 1 5 2 0 3 0 6 2 6 6
+loft house N mero 2.46 4.1 2.17 0 6 1 0 2 0 1 2 5 6 2 5 2
+fury anger N hyp-1 4.80 8.0 1.60 3 5 1 6 6 4 6 6 6 5
+club group N hyp-4 4.92 8.2 1.69 6 6 5 3 6 5 6 5 4 6 0 6 6
+peach pear N cohyp 0.43 0.72 0.62 0 0 0 0 1 1 0 1 2 0 1 0 0 0
+slime goo N syn 4.20 7.0 1.94 2 5 6 6 3 4 4 6 6 0
+worker mechanic N r-hyp-3 1.31 2.18 1.43 0 2 3 3 1 3 0 0 0 1 0 0 4
+width height N cohyp 1.14 1.9 1.51 0 1 2 0 5 4 1 0 0 0 0 1 1 1
+knife sword N cohyp 3.10 5.17 1.30 3 4 5 2 1 2 4 3 2 5
+stethoscope instrument N hyp-2 5.60 9.33 0.92 6 6 6 6 6 6 5 6 6 3
+university school N cohyp 5.77 9.62 0.58 6 6 6 6 5 4 6 6 6 6 6 6 6
+ghost spirit N hyp-2 5.00 8.33 1.24 6 5 5 6 3 5 6 2 6 6 4 5 6
+clove plant N hyp-4 5.08 8.47 1.00 6 5 5 6 6 4 4 4 6 3 6 5 6
+talent ability N hyp-3 3.40 5.67 2.50 6 3 6 3 6 6 4 0 0 0
+language communication N hyp-1 5.36 8.93 1.72 6 6 6 5 6 6 6 6 6 6 0
+mammal animal N hyp-3 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+explorer navigator N r-hyp-1 4.58 7.63 1.26 6 6 2 6 6 5 4 4 5 4 3 4
+beverage soda N r-hyp-2 0.62 1.03 0.84 0 0 1 0 2 2 1 0 0 0 0 0 2
+fin fish N mero 0.33 0.55 0.47 0 0 0 1 1 0 0 0 0 1 0 1
+diner restaurant N hyp-1 5.55 9.25 0.99 6 6 6 4 3 6 6 6 6 6 6
+flask bottle N hyp-1 5.30 8.83 0.90 5 6 6 6 5 6 5 3 6 5
+talk advise V r-hyp-3 3.54 5.9 1.74 2 3 4 4 6 6 5 1 3 1 2 6 3
+design draw V cohyp 3.38 5.63 1.60 3 4 6 3 4 0 4 3 3 1 6 3 4
+aroma sleeve N no-rel 0.10 0.17 0.30 0 0 0 0 0 0 0 0 0 1
+deteriorate forget V no-rel 2.31 3.85 1.59 4 0 0 0 3 1 3 4 4 1 3 4 3
+gulp swallow V cohyp 5.43 9.05 1.05 6 6 6 6 5 3 6
+dawn day N cohyp 2.70 4.5 2.05 3 6 0 1 5 3 3 0 1 5
+mud religion N no-rel 0.08 0.13 0.27 0 0 0 0 0 0 0 0 0 1 0 0 0
+fish shark N r-hyp-3 0.80 1.33 1.25 0 1 0 1 2 4 0 0 0 0
+police authority N hyp-2 5.00 8.33 1.07 5 3 4 6 5 6 6
+learn judge V no-rel 0.77 1.28 1.12 1 0 3 1 0 0 0 0 0 0 2 0 3
+scramble mix V cohyp 4.46 7.43 1.45 6 6 5 4 3 6 5 3 4 4 5 6 1
+jewelry ring N r-hyp-1 1.67 2.78 2.29 0 0 6 0 6 0 0 2 2 0 0 4
+dinner food N hyp-3 2.91 4.85 2.19 5 3 3 1 1 5 2 6 6 0 0
+chess game N hyp-3 5.62 9.37 0.84 6 6 3 5 6 6 6 6 6 6 5 6 6
+joker card N hyp-2 5.55 9.25 0.89 6 6 6 6 6 5 3 5 6 6 6
+plum pear N cohyp 0.18 0.3 0.39 0 0 0 1 0 0 0 0 1 0 0
+dinosaur creature N hyp-4 5.00 8.33 1.11 5 5 2 6 6 6 6 6 5 5 4 4 5
+add subtract V ant 0.46 0.77 0.63 1 0 1 0 1 0 2 0 0 0 0 0 1
+spike shoe N mero 2.17 3.62 2.30 1 0 6 0 4 0 0 1 0 4 5 5
+lip mouth N syn 1.85 3.08 1.96 0 3 3 5 2 1 0 3 0 1 0 6 0
+appliance microwave N r-hyp-3 2.00 3.33 2.00 6 0 3 0 1 1 3
+computer machine N hyp-1 5.90 9.83 0.30 6 6 6 6 6 6 5 6 6 6
+detach separate V hyp-2 4.91 8.18 1.88 6 6 1 6 1 5 6 6 6 6 5
+child daughter N r-hyp-2 1.67 2.78 1.84 1 0 6 3 1 0 4 1 1 0 0 3
+shift change V hyp-1 5.09 8.48 0.90 4 5 5 6 5 6 6 3 5 5 6
+clue evidence N hyp-1 4.77 7.95 1.25 6 4 5 6 6 5 4 4 2 5 6 6 3
+giggle laugh V hyp-1 5.18 8.63 1.19 6 6 2 5 5 6 4 6 5 6 6
+hockey sport N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+product sum N cohyp 3.23 5.38 2.52 4 4 6 6 4 1 0 0 5 0 6 6 0
+floor ground N hyp-1 4.69 7.82 1.64 6 6 6 4 5 6 6 5 4 3 0 5 5
+lung organ N hyp-3 5.75 9.58 0.60 6 6 6 6 6 6 6 5 6 6 6 4
+human encyclopedia N no-rel 0.90 1.5 0.94 0 1 0 0 2 0 1 1 1 3
+possum animal N hyp-4 5.93 9.88 0.26 6 5 6 6 6 6 6 6 6 6 6 6 6 6
+art sculpture N r-hyp-2 1.77 2.95 1.97 2 1 6 1 2 0 0 1 2 2 0 6 0
+invent create V hyp-2 5.64 9.4 0.64 5 6 6 6 6 6 6 4 5 6 6
+nine number N hyp-3 5.45 9.08 1.23 6 6 2 6 6 6 6 6 4 6 6
+flashlight agency N no-rel 0.31 0.52 0.82 0 0 0 0 0 0 0 0 0 0 3 0 1
+ape mammal N hyp-3 5.92 9.87 0.28 5 6 6 6 6 6 6 6 6 6 6 6
+calculus math N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6
+game event N hyp-3 3.54 5.9 1.60 1 5 0 4 4 3 5 5 3 5 4 2 5
+catcher player N hyp-4 4.64 7.73 1.87 5 4 5 6 6 6 6 2 0 5 6
+cure treatment N mero 3.58 5.97 1.75 3 3 3 1 5 6 4 3 0 4 6 5
+succeed fail V ant 0.46 0.77 0.75 2 0 0 0 0 2 0 0 0 1 0 1 0
+restore break V cohyp 0.38 0.63 0.74 2 0 0 0 0 2 0 0 0 0 0 1 0
+gauge measure N hyp-3 3.69 6.15 1.90 6 3 5 1 3 3 6 3 0 2 5 5 6
+mother father N ant 0.69 1.15 1.26 4 0 1 0 0 0 3 0 0 0 0 0 1
+employee employer N ant 0.54 0.9 0.93 0 1 0 1 0 0 0 0 0 0 3 0 2
+raccoon animal N hyp-4 5.73 9.55 0.62 6 6 5 6 6 6 6 6 4 6 6
+prestige status N hyp-2 3.64 6.07 2.19 6 1 1 4 0 6 6 6 4 2 4
+happening linen N no-rel 0.09 0.15 0.29 0 1 0 0 0 0 0 0 0 0 0
+jigsaw tool N hyp-3 4.67 7.78 2.05 6 3 6 3 6 0 6 6 6
+pickle food N hyp-4 5.27 8.78 1.35 6 6 5 6 3 6 6 6 6 6 2
+puberty youth N cohyp 3.58 5.97 2.36 1 6 6 6 0 4 6 5 0 5 1 3
+bass fish N hyp-4 5.77 9.62 0.58 6 6 6 4 5 6 6 6 6 6 6 6 6
+freeway road N hyp-2 5.55 9.25 0.99 6 6 6 4 3 6 6 6 6 6 6
+girl boy N ant 0.10 0.17 0.30 0 0 0 0 0 0 0 1 0 0
+suitcase luggage N hyp-1 5.92 9.87 0.28 6 5 6 6 6 6 6 6 6 6 6 6
+star galaxy N mero 1.00 1.67 1.41 0 2 4 0 0 1 0 0 1 0 0 1 4
+unload move V hyp-4 3.73 6.22 1.86 5 2 1 3 2 6 5 6 5 1 5
+homework work N hyp-4 4.92 8.2 1.54 5 5 6 5 6 5 5 4 6 6 0 5 6
+horse mammal N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6
+truck vehicle N hyp-4 5.54 9.23 1.60 6 6 6 6 0 6 6 6 6 6 6 6 6
+gauge sidewalk N no-rel 0.67 1.12 0.75 1 1 1 0 0 0 2 0 0 0 1 2
+wipe catch V no-rel 0.45 0.75 0.66 1 0 0 1 0 0 2 0 1 0 0
+sway move V hyp-2 4.77 7.95 1.89 3 5 4 2 6 0 6 6 6 6 6 6 6
+excise tax N hyp-2 3.90 6.5 1.97 6 3 6 2 3 3 4 6 0 6
+sample example N hyp-1 3.86 6.43 1.64 6 6 4 3 4 0 3 6 3 2 3 5 4 5
+magazine publication N hyp-1 4.82 8.03 1.85 6 6 6 4 3 0 4 6 6 6 6
+foot inch N cohyp 2.08 3.47 1.94 5 3 4 5 1 2 0 0 0 0 4 0 3
+elephant officer N no-rel 0.23 0.38 0.58 0 0 0 2 0 0 0 0 0 0 0 0 1
+feeling anxiety N r-hyp-2 1.20 2.0 1.25 1 0 1 1 0 1 0 4 1 3
+bagel food N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6 6 6 6
+erupt explode V hyp-1 4.69 7.82 1.26 5 6 5 5 2 6 5 4 5 5 5 6 2
+sunrise sunset N ant 0.45 0.75 0.66 0 1 1 1 2 0 0 0 0 0 0
+staff group N hyp-3 3.77 6.28 1.31 3 5 1 4 4 4 5 5 5 4 4 1 4
+silk material N hyp-1 5.92 9.87 0.27 6 6 6 6 6 5 6 6 6 6 6 6 6
+mammal elephant N r-hyp-3 0.33 0.55 0.47 0 0 0 0 1 0 0 1 0 1 0 1
+inability ability N ant 1.73 2.88 1.96 0 2 0 1 2 0 0 0 4 5 5
+leg extremity N hyp-2 3.36 5.6 2.46 1 1 2 6 6 0 0 5 6 4 6
+chime bell N syn 3.10 5.17 2.12 4 4 6 2 2 0 5 6 2 0
+pecan nut N hyp-2 5.93 9.88 0.26 6 6 5 6 6 6 6 6 6 6 6 6 6 6
+compute calculate V syn 5.00 8.33 1.57 0 6 5 5 6 6 6 5 5 6 4 6 5
+allow attach V no-rel 1.00 1.67 0.91 3 0 0 1 2 0 1 1 0 1 1 2
+microwave appliance N hyp-3 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+south north N cohyp 0.20 0.33 0.40 0 0 0 0 1 0 1 0 0 0
+grasshopper cricket N cohyp 1.73 2.88 2.26 0 0 6 1 0 1 0 0 1 5 5
+diameter length N hyp-1 4.00 6.67 1.84 1 4 6 0 6 3 4 4 6 6 4 5 3
+ruler dictator N r-hyp-1 3.73 6.22 2.49 6 6 6 6 0 3 0 0 4 6 4
+swallow sell V no-rel 0.09 0.15 0.29 0 0 0 0 0 0 0 0 1 0 0
+grape food N hyp-3 5.90 9.83 0.30 6 6 6 6 6 6 5 6 6 6
+task chore N syn 4.30 7.17 1.55 3 5 6 1 4 4 6 6 3 5
+device phone N r-hyp-4 1.38 2.3 2.10 1 0 2 0 6 0 6 0 0 2 0 0 1
+reap gain V hyp-1 3.92 6.53 1.89 5 0 5 6 6 0 4 4 5 4 4 4
+driver antler N no-rel 0.15 0.25 0.36 0 0 1 0 0 0 0 0 0 0 0 0 1
+rose wine N hyp-1 4.50 7.5 2.29 6 6 1 6 6 0 6 6 1 6 4 6
+sentence judgment N hyp-2 4.33 7.22 1.84 5 4 6 6 6 6 4 4 6 2 0 3
+corn food N hyp-3 5.62 9.37 0.92 6 6 6 6 6 6 4 3 6 6 6 6 6
+monster beast N hyp-4 5.20 8.67 0.75 5 6 6 6 4 5 4 5 5 6
+glass crystal N cohyp 2.83 4.72 1.91 6 4 3 2 0 0 4 0 3 3 4 5
+mix compound V hyp-1 3.00 5.0 2.20 0 5 0 1 5 0 3 6 2 6 1 5 4 4
+cure remedy N syn 4.69 7.82 1.90 0 5 6 5 6 6 6 4 6 6 5 1 5
+banjo guitar N cohyp 4.00 6.67 1.83 4 6 2 6 5 3 4 5 6 0 2 5
+mayonnaise food N hyp-4 5.54 9.23 0.84 6 6 6 5 6 6 5 3 6 6 6 6 5
+sport ax N no-rel 0.09 0.15 0.29 0 0 0 0 0 0 0 0 1 0 0
+corporal officer N hyp-2 4.80 8.0 1.33 5 6 3 3 6 6 6 6 4 3
+lid eye N mero 1.08 1.8 1.90 0 4 3 0 0 0 0 0 6 0 0 1 0
+hug hold V hyp-3 5.23 8.72 1.31 5 6 6 2 6 6 3 4 6 6 6 6 6
+throw toss V r-hyp-2 4.70 7.83 1.85 6 1 6 6 2 3 6 5 6 6
+separate divide V syn 5.15 8.58 1.29 4 2 6 5 6 6 6 6 5 6 6 3 6
+touch pinch V r-hyp-3 1.31 2.18 1.59 0 1 2 0 0 4 0 4 0 0 0 3 3
+wolf animal N hyp-4 5.92 9.87 0.28 6 6 5 6 6 6 6 6 6 6 6 6
+educate inform V hyp-2 4.77 7.95 1.31 4 6 2 6 6 6 6 4 4 5 6 4 3
+sculpture art N hyp-2 5.62 9.37 0.92 3 6 6 4 6 6 6 6 6 6 6 6 6
+caravan vehicle N hyp-4 5.00 8.33 0.91 4 5 5 5 6 6 4 6 6 3 5 5
+producer maker N hyp-1 4.56 7.6 1.95 6 4 6 3 6 0 4 6 6
+sport activity N hyp-2 5.60 9.33 0.66 6 6 5 6 6 4 6 5 6 6
+ice glacier N mero 2.15 3.58 1.75 1 4 4 4 3 5 0 0 0 0 2 2 3
+drawer chest N mero 1.30 2.17 1.10 0 1 0 1 0 1 2 3 3 2
+feather bird N mero 0.27 0.45 0.62 0 0 0 1 0 0 0 0 2 0 0
+leg knee N cohyp 1.23 2.05 1.25 3 1 3 2 0 3 0 0 0 0 2 0 2
+pull push V ant 0.54 0.9 0.93 3 0 1 0 0 0 2 0 0 0 0 0 1
+set swing V r-hyp-3 0.83 1.38 1.21 0 0 3 0 3 0 0 2 2 0 0 0
+response answer N syn 5.33 8.88 0.85 6 6 6 6 4 5 6 4 6 5 6 4
+tin aluminum N cohyp 1.57 2.62 2.03 0 6 4 5 0 2 1 0 0 1 0 0 0 3
+cricket animal N hyp-4 3.91 6.52 2.31 6 6 2 6 0 2 0 5 5 5 6
+bother affect V hyp-1 4.17 6.95 1.82 5 5 3 6 6 3 6 1 6 3 5 1
+violin cello N cohyp 1.55 2.58 1.62 4 0 3 2 0 0 1 0 3 0 4
+tug pull V hyp-1 4.77 7.95 1.37 6 5 6 6 3 2 3 4 6 6 5 6 4
+console comfort V syn 5.71 9.52 0.70 6 4 6 6 6 6 6
+doughnut food N hyp-4 5.82 9.7 0.39 5 6 6 5 6 6 6 6 6 6 6
+water air N cohyp 0.50 0.83 0.96 0 0 0 0 0 0 0 1 2 0 0 3
+society group N hyp-2 4.36 7.27 1.84 6 5 6 0 5 6 4 4 4 1 5 6 3 6
+kill destroy V hyp-1 5.17 8.62 0.99 5 6 6 6 6 6 4 5 4 3 5 6
+hide develop V no-rel 0.20 0.33 0.40 0 0 0 0 1 0 1 0 0 0
+hold hug V r-hyp-3 3.75 6.25 1.59 4 0 5 2 3 3 4 5 5 5 6 3
+flu sickness N hyp-3 5.55 9.25 0.50 6 5 5 6 5 6 5 6 6 6 5
+prism shape N hyp-3 4.50 7.5 1.44 6 6 4 4 3 5 6 6 3 6 2 3
+knowledge foresight N r-hyp-4 2.60 4.33 1.96 4 0 1 5 0 3 1 3 6 3
+umbrella ice N no-rel 0.08 0.13 0.28 0 0 0 0 0 0 0 0 1 0 0 0
+lecture speech N hyp-1 5.18 8.63 1.47 6 6 1 6 6 5 4 6 5 6 6
+food barley N r-hyp-3 1.23 2.05 1.93 2 0 1 0 1 0 6 0 0 5 0 0 1
+leg thigh N cohyp 0.69 1.15 1.07 0 3 0 1 0 3 0 0 1 0 0 0 1
+hammer pound N syn 2.54 4.23 1.60 0 3 4 3 3 4 4 4 0 3 4 1 0
+nephew niece N ant 0.50 0.83 0.87 0 0 0 1 3 0 0 0 0 1 0 1
+throat neck N cohyp 2.00 3.33 1.87 1 1 0 2 1 6 1 0 2 1 4 5
+tell recommend V r-hyp-3 2.83 4.72 1.91 4 2 6 3 6 0 2 2 1 2 1 5
+suggestion hint N r-hyp-1 4.22 7.03 1.31 3 3 5 5 6 4 2 6 4
+wheat cereal N hyp-1 4.58 7.63 1.66 4 0 6 6 4 6 4 4 6 4 6 5
+heel thigh N no-rel 0.09 0.15 0.29 0 0 0 0 0 0 0 0 1 0 0
+hold hamper V r-hyp-2 1.46 2.43 2.06 0 1 2 0 0 4 0 5 0 6 0 1 0
+crocodile animal N hyp-4 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6
+psychology science N hyp-1 5.27 8.78 1.42 5 6 6 5 5 6 6 6 1 6 6
+flip jump V cohyp 3.60 6.0 2.15 4 6 6 4 0 6 2 0 4 4
+luggage suitcase N r-hyp-1 2.27 3.78 2.22 0 0 1 6 1 6 1 0 4 2 4
+witch woman N hyp-2 3.25 5.42 1.96 3 5 3 0 6 5 2 0 6 4 3 2
+judgment verdict N r-hyp-2 4.54 7.57 1.82 5 6 0 5 6 1 4 5 5 6 5 6 5
+screwdriver tool N hyp-2 6.00 10.0 0.00 6 6 6 6 6 6 6 6 6 6
+creek water N hyp-2 2.83 4.72 1.99 4 2 1 5 0 2 6 4 0 5 1 4
+lion tiger N cohyp 1.27 2.12 1.35 1 3 1 0 0 0 3 0 0 3 3
+tombstone grave N mero 4.50 7.5 1.80 6 6 5 6 5 6 5 6 3 2 6 0 4 3
+wool cloth N hyp-1 4.80 8.0 1.89 6 6 3 6 6 6 6 1 2 6
+speaker person N hyp-3 4.25 7.08 1.88 4 4 6 6 3 3 6 2 6 0 6 5
+lord lady N ant 1.30 2.17 1.90 0 0 6 0 2 0 3 2 0 0
+tell suggest V r-hyp-2 3.29 5.48 1.79 1 4 5 1 5 5 0 3 2 2 4 3 5 6
+rifle gun N hyp-2 5.90 9.83 0.30 6 6 6 5 6 6 6 6 6 6
+yolk egg N mero 1.20 2.0 1.60 2 0 0 3 1 0 1 5 0 0
+earring jewelry N hyp-1 5.82 9.7 0.39 6 6 5 6 5 6 6 6 6 6 6
+clue hint N syn 4.46 7.43 2.06 5 5 6 6 6 5 5 0 6 6 0 5 3
+submarine ship N hyp-3 3.54 5.9 1.55 5 2 3 2 1 4 5 6 3 6 4 3 2
+night day N ant 1.42 2.37 1.85 3 6 1 0 0 0 3 0 3 0 0 1
+person climber N r-hyp-3 1.80 3.0 1.54 0 1 0 0 2 4 3 1 3 4
+newspaper medium N hyp-3 4.08 6.8 1.59 3 3 4 3 5 4 4 5 6 6 0 4 6
+concert event N hyp-4 5.73 9.55 0.45 6 6 5 6 5 6 6 5 6 6 6
+food pie N r-hyp-3 0.92 1.53 1.49 0 1 0 0 0 2 0 1 0 0 0 3 5
+ledge shelf N syn 4.30 7.17 1.00 5 4 6 4 4 6 4 3 4 3
+avenue road N hyp-3 4.83 8.05 1.99 6 5 6 5 6 5 6 6 1 6 6 0

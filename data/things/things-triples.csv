@@ -1,0 +1,2356 @@
+hypernym,hypernym-sense,anchor,anchor-sense,hyponym
+organism,organism.n.01,animal,animal.n.01,aardvark
+organism,organism.n.01,animal,animal.n.01,alligator
+organism,organism.n.01,animal,animal.n.01,alpaca
+organism,organism.n.01,animal,animal.n.01,ant
+organism,organism.n.01,animal,animal.n.01,anteater
+organism,organism.n.01,animal,animal.n.01,antelope
+organism,organism.n.01,animal,animal.n.01,badger
+organism,organism.n.01,animal,animal.n.01,barnacle
+organism,organism.n.01,animal,animal.n.01,bat
+organism,organism.n.01,animal,animal.n.01,bear
+organism,organism.n.01,animal,animal.n.01,beaver
+organism,organism.n.01,animal,animal.n.01,bee
+organism,organism.n.01,animal,animal.n.01,beetle
+organism,organism.n.01,animal,animal.n.01,bird
+organism,organism.n.01,animal,animal.n.01,bison
+organism,organism.n.01,animal,animal.n.01,blowfish
+organism,organism.n.01,animal,animal.n.01,boar
+organism,organism.n.01,animal,animal.n.01,bug
+organism,organism.n.01,animal,animal.n.01,bull
+organism,organism.n.01,animal,animal.n.01,butterfly
+organism,organism.n.01,animal,animal.n.01,calf
+organism,organism.n.01,animal,animal.n.01,camel
+organism,organism.n.01,animal,animal.n.01,cardinal
+organism,organism.n.01,animal,animal.n.01,cat
+organism,organism.n.01,animal,animal.n.01,caterpillar
+organism,organism.n.01,animal,animal.n.01,catfish
+organism,organism.n.01,animal,animal.n.01,cheetah
+organism,organism.n.01,animal,animal.n.01,chick
+organism,organism.n.01,animal,animal.n.01,chicken
+organism,organism.n.01,animal,animal.n.01,chihuahua
+organism,organism.n.01,animal,animal.n.01,chinchilla
+organism,organism.n.01,animal,animal.n.01,chipmunk
+organism,organism.n.01,animal,animal.n.01,clam
+organism,organism.n.01,animal,animal.n.01,cobra
+organism,organism.n.01,animal,animal.n.01,cockatoo
+organism,organism.n.01,animal,animal.n.01,cockroach
+organism,organism.n.01,animal,animal.n.01,coral
+organism,organism.n.01,animal,animal.n.01,cougar
+organism,organism.n.01,animal,animal.n.01,cow
+organism,organism.n.01,animal,animal.n.01,coyote
+organism,organism.n.01,animal,animal.n.01,crab
+organism,organism.n.01,animal,animal.n.01,crayfish
+organism,organism.n.01,animal,animal.n.01,crow
+organism,organism.n.01,animal,animal.n.01,dalmatian
+organism,organism.n.01,animal,animal.n.01,deer
+organism,organism.n.01,animal,animal.n.01,dog
+organism,organism.n.01,animal,animal.n.01,dolphin
+organism,organism.n.01,animal,animal.n.01,donkey
+organism,organism.n.01,animal,animal.n.01,dragonfly
+organism,organism.n.01,animal,animal.n.01,duck
+organism,organism.n.01,animal,animal.n.01,duckling
+organism,organism.n.01,animal,animal.n.01,eagle
+organism,organism.n.01,animal,animal.n.01,earwig
+organism,organism.n.01,animal,animal.n.01,eel
+organism,organism.n.01,animal,animal.n.01,elephant
+organism,organism.n.01,animal,animal.n.01,ferret
+organism,organism.n.01,animal,animal.n.01,fish
+organism,organism.n.01,animal,animal.n.01,flamingo
+organism,organism.n.01,animal,animal.n.01,fly
+organism,organism.n.01,animal,animal.n.01,fox
+organism,organism.n.01,animal,animal.n.01,frog
+organism,organism.n.01,animal,animal.n.01,gazelle
+organism,organism.n.01,animal,animal.n.01,giraffe
+organism,organism.n.01,animal,animal.n.01,goat
+organism,organism.n.01,animal,animal.n.01,goldfish
+organism,organism.n.01,animal,animal.n.01,goose
+organism,organism.n.01,animal,animal.n.01,gopher
+organism,organism.n.01,animal,animal.n.01,gorilla
+organism,organism.n.01,animal,animal.n.01,grasshopper
+organism,organism.n.01,animal,animal.n.01,groundhog
+organism,organism.n.01,animal,animal.n.01,guinea pig
+organism,organism.n.01,animal,animal.n.01,hamster
+organism,organism.n.01,animal,animal.n.01,hawk
+organism,organism.n.01,animal,animal.n.01,hedgehog
+organism,organism.n.01,animal,animal.n.01,hippopotamus
+organism,organism.n.01,animal,animal.n.01,horse
+organism,organism.n.01,animal,animal.n.01,hummingbird
+organism,organism.n.01,animal,animal.n.01,hyena
+organism,organism.n.01,animal,animal.n.01,iguana
+organism,organism.n.01,animal,animal.n.01,jellyfish
+organism,organism.n.01,animal,animal.n.01,kangaroo
+organism,organism.n.01,animal,animal.n.01,kitten
+organism,organism.n.01,animal,animal.n.01,koala
+organism,organism.n.01,animal,animal.n.01,ladybug
+organism,organism.n.01,animal,animal.n.01,lamb
+organism,organism.n.01,animal,animal.n.01,leech
+organism,organism.n.01,animal,animal.n.01,leopard
+organism,organism.n.01,animal,animal.n.01,lightning bug
+organism,organism.n.01,animal,animal.n.01,lion
+organism,organism.n.01,animal,animal.n.01,lizard
+organism,organism.n.01,animal,animal.n.01,llama
+organism,organism.n.01,animal,animal.n.01,lobster
+organism,organism.n.01,animal,animal.n.01,maggot
+organism,organism.n.01,animal,animal.n.01,manatee
+organism,organism.n.01,animal,animal.n.01,meerkat
+organism,organism.n.01,animal,animal.n.01,mole
+organism,organism.n.01,animal,animal.n.01,mongoose
+organism,organism.n.01,animal,animal.n.01,monkey
+organism,organism.n.01,animal,animal.n.01,moose
+organism,organism.n.01,animal,animal.n.01,mosquito
+organism,organism.n.01,animal,animal.n.01,moth
+organism,organism.n.01,animal,animal.n.01,mouse
+organism,organism.n.01,animal,animal.n.01,mussel
+organism,organism.n.01,animal,animal.n.01,octopus
+organism,organism.n.01,animal,animal.n.01,orangutan
+organism,organism.n.01,animal,animal.n.01,ostrich
+organism,organism.n.01,animal,animal.n.01,otter
+organism,organism.n.01,animal,animal.n.01,owl
+organism,organism.n.01,animal,animal.n.01,oyster
+organism,organism.n.01,animal,animal.n.01,panda
+organism,organism.n.01,animal,animal.n.01,panther
+organism,organism.n.01,animal,animal.n.01,parrot
+organism,organism.n.01,animal,animal.n.01,peacock
+organism,organism.n.01,animal,animal.n.01,pelican
+organism,organism.n.01,animal,animal.n.01,penguin
+organism,organism.n.01,animal,animal.n.01,pheasant
+organism,organism.n.01,animal,animal.n.01,pig
+organism,organism.n.01,animal,animal.n.01,pigeon
+organism,organism.n.01,animal,animal.n.01,piglet
+organism,organism.n.01,animal,animal.n.01,platypus
+organism,organism.n.01,animal,animal.n.01,polar bear
+organism,organism.n.01,animal,animal.n.01,pony
+organism,organism.n.01,animal,animal.n.01,poodle
+organism,organism.n.01,animal,animal.n.01,porcupine
+organism,organism.n.01,animal,animal.n.01,possum
+organism,organism.n.01,animal,animal.n.01,praying mantis
+organism,organism.n.01,animal,animal.n.01,puffin
+organism,organism.n.01,animal,animal.n.01,pug
+organism,organism.n.01,animal,animal.n.01,puppy
+organism,organism.n.01,animal,animal.n.01,rabbit
+organism,organism.n.01,animal,animal.n.01,raccoon
+organism,organism.n.01,animal,animal.n.01,ram
+organism,organism.n.01,animal,animal.n.01,rat
+organism,organism.n.01,animal,animal.n.01,rattlesnake
+organism,organism.n.01,animal,animal.n.01,reindeer
+organism,organism.n.01,animal,animal.n.01,rhinoceros
+organism,organism.n.01,animal,animal.n.01,rooster
+organism,organism.n.01,animal,animal.n.01,sardine
+organism,organism.n.01,animal,animal.n.01,scallop
+organism,organism.n.01,animal,animal.n.01,scorpion
+organism,organism.n.01,animal,animal.n.01,sea urchin
+organism,organism.n.01,animal,animal.n.01,seagull
+organism,organism.n.01,animal,animal.n.01,seahorse
+organism,organism.n.01,animal,animal.n.01,seal
+organism,organism.n.01,animal,animal.n.01,shark
+organism,organism.n.01,animal,animal.n.01,sheep
+organism,organism.n.01,animal,animal.n.01,shrimp
+organism,organism.n.01,animal,animal.n.01,skunk
+organism,organism.n.01,animal,animal.n.01,sloth
+organism,organism.n.01,animal,animal.n.01,slug
+organism,organism.n.01,animal,animal.n.01,snail
+organism,organism.n.01,animal,animal.n.01,snake
+organism,organism.n.01,animal,animal.n.01,spider
+organism,organism.n.01,animal,animal.n.01,squid
+organism,organism.n.01,animal,animal.n.01,squirrel
+organism,organism.n.01,animal,animal.n.01,starfish
+organism,organism.n.01,animal,animal.n.01,stingray
+organism,organism.n.01,animal,animal.n.01,swan
+organism,organism.n.01,animal,animal.n.01,swordfish
+organism,organism.n.01,animal,animal.n.01,tadpole
+organism,organism.n.01,animal,animal.n.01,tarantula
+organism,organism.n.01,animal,animal.n.01,tick
+organism,organism.n.01,animal,animal.n.01,tiger
+organism,organism.n.01,animal,animal.n.01,toad
+organism,organism.n.01,animal,animal.n.01,toucan
+organism,organism.n.01,animal,animal.n.01,turkey
+organism,organism.n.01,animal,animal.n.01,turtle
+organism,organism.n.01,animal,animal.n.01,vulture
+organism,organism.n.01,animal,animal.n.01,walrus
+organism,organism.n.01,animal,animal.n.01,warthog
+organism,organism.n.01,animal,animal.n.01,wasp
+organism,organism.n.01,animal,animal.n.01,weasel
+organism,organism.n.01,animal,animal.n.01,whale
+organism,organism.n.01,animal,animal.n.01,wolf
+organism,organism.n.01,animal,animal.n.01,worm
+organism,organism.n.01,animal,animal.n.01,yak
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+organism,organism.n.01,animal,animal.n.01,zebra
+vertebrate,vertebrate.n.01,bird,bird.n.01,bird
+vertebrate,vertebrate.n.01,bird,bird.n.01,cardinal
+vertebrate,vertebrate.n.01,bird,bird.n.01,chick
+vertebrate,vertebrate.n.01,bird,bird.n.01,cockatoo
+vertebrate,vertebrate.n.01,bird,bird.n.01,crow
+vertebrate,vertebrate.n.01,bird,bird.n.01,duck
+vertebrate,vertebrate.n.01,bird,bird.n.01,duckling
+vertebrate,vertebrate.n.01,bird,bird.n.01,eagle
+vertebrate,vertebrate.n.01,bird,bird.n.01,flamingo
+vertebrate,vertebrate.n.01,bird,bird.n.01,goose
+vertebrate,vertebrate.n.01,bird,bird.n.01,hawk
+vertebrate,vertebrate.n.01,bird,bird.n.01,hummingbird
+vertebrate,vertebrate.n.01,bird,bird.n.01,ostrich
+vertebrate,vertebrate.n.01,bird,bird.n.01,owl
+vertebrate,vertebrate.n.01,bird,bird.n.01,parrot
+vertebrate,vertebrate.n.01,bird,bird.n.01,peacock
+vertebrate,vertebrate.n.01,bird,bird.n.01,pelican
+vertebrate,vertebrate.n.01,bird,bird.n.01,penguin
+vertebrate,vertebrate.n.01,bird,bird.n.01,pheasant
+vertebrate,vertebrate.n.01,bird,bird.n.01,pigeon
+vertebrate,vertebrate.n.01,bird,bird.n.01,puffin
+vertebrate,vertebrate.n.01,bird,bird.n.01,rooster
+vertebrate,vertebrate.n.01,bird,bird.n.01,seagull
+vertebrate,vertebrate.n.01,bird,bird.n.01,swan
+vertebrate,vertebrate.n.01,bird,bird.n.01,toucan
+vertebrate,vertebrate.n.01,bird,bird.n.01,turkey
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+vertebrate,vertebrate.n.01,bird,bird.n.01,vulture
+food,food.n.01,breakfast item,none,bacon
+food,food.n.01,breakfast item,none,bagel
+food,food.n.01,breakfast item,none,bread
+food,food.n.01,breakfast item,none,breakfast
+food,food.n.01,breakfast item,none,cereal
+food,food.n.01,breakfast item,none,cream cheese
+food,food.n.01,breakfast item,none,crepe
+food,food.n.01,breakfast item,none,croissant
+food,food.n.01,breakfast item,none,donut
+food,food.n.01,breakfast item,none,egg
+food,food.n.01,breakfast item,none,french fries
+food,food.n.01,breakfast item,none,granola
+food,food.n.01,breakfast item,none,grits
+food,food.n.01,breakfast item,none,ham
+food,food.n.01,breakfast item,none,hamburger
+food,food.n.01,breakfast item,none,hash
+food,food.n.01,breakfast item,none,honey
+food,food.n.01,breakfast item,none,jam
+food,food.n.01,breakfast item,none,maple syrup
+food,food.n.01,breakfast item,none,marmalade
+food,food.n.01,breakfast item,none,muffin
+food,food.n.01,breakfast item,none,oatmeal
+food,food.n.01,breakfast item,none,omelet
+food,food.n.01,breakfast item,none,pancake
+food,food.n.01,breakfast item,none,pastry
+food,food.n.01,breakfast item,none,peanut butter
+food,food.n.01,breakfast item,none,roll
+food,food.n.01,breakfast item,none,sandwich
+food,food.n.01,breakfast item,none,sausage
+food,food.n.01,breakfast item,none,scone
+food,food.n.01,breakfast item,none,scrambled egg
+food,food.n.01,breakfast item,none,syrup
+food,food.n.01,breakfast item,none,toast
+food,food.n.01,breakfast item,none,waffle
+food,food.n.01,breakfast item,none,yogurt
+sweet,sweet.n.03,candy,candy.n.01,candy
+sweet,sweet.n.03,candy,candy.n.01,candy bar
+sweet,sweet.n.03,candy,candy.n.01,candy cane
+sweet,sweet.n.03,candy,candy.n.01,caramel
+sweet,sweet.n.03,candy,candy.n.01,chocolate
+sweet,sweet.n.03,candy,candy.n.01,cotton candy
+sweet,sweet.n.03,candy,candy.n.01,fudge
+sweet,sweet.n.03,candy,candy.n.01,gum
+sweet,sweet.n.03,candy,candy.n.01,gumball
+sweet,sweet.n.03,candy,candy.n.01,gumdrop
+sweet,sweet.n.03,candy,candy.n.01,jelly bean
+sweet,sweet.n.03,candy,candy.n.01,licorice
+sweet,sweet.n.03,candy,candy.n.01,lollipop
+sweet,sweet.n.03,candy,candy.n.01,marshmallow
+sweet,sweet.n.03,candy,candy.n.01,peppermint
+sweet,sweet.n.03,candy,candy.n.01,taffy
+covering,covering.n.02,clothing,clothing.n.01,apron
+covering,covering.n.02,clothing,clothing.n.01,armor
+covering,covering.n.02,clothing,clothing.n.01,bandanna
+covering,covering.n.02,clothing,clothing.n.01,bathrobe
+covering,covering.n.02,clothing,clothing.n.01,beanie
+covering,covering.n.02,clothing,clothing.n.01,belt
+covering,covering.n.02,clothing,clothing.n.01,bikini
+covering,covering.n.02,clothing,clothing.n.01,blazer
+covering,covering.n.02,clothing,clothing.n.01,blouse
+covering,covering.n.02,clothing,clothing.n.01,boa
+covering,covering.n.02,clothing,clothing.n.01,bolo tie
+covering,covering.n.02,clothing,clothing.n.01,bonnet
+covering,covering.n.02,clothing,clothing.n.01,boot
+covering,covering.n.02,clothing,clothing.n.01,bow
+covering,covering.n.02,clothing,clothing.n.01,bowler hat
+covering,covering.n.02,clothing,clothing.n.01,bowtie
+covering,covering.n.02,clothing,clothing.n.01,boxer shorts
+covering,covering.n.02,clothing,clothing.n.01,bra
+covering,covering.n.02,clothing,clothing.n.01,bracelet
+covering,covering.n.02,clothing,clothing.n.01,bulletproof vest
+covering,covering.n.02,clothing,clothing.n.01,cape
+covering,covering.n.02,clothing,clothing.n.01,cardigan
+covering,covering.n.02,clothing,clothing.n.01,chaps
+covering,covering.n.02,clothing,clothing.n.01,cloak
+covering,covering.n.02,clothing,clothing.n.01,clothes
+covering,covering.n.02,clothing,clothing.n.01,coat
+covering,covering.n.02,clothing,clothing.n.01,corset
+covering,covering.n.02,clothing,clothing.n.01,costume
+covering,covering.n.02,clothing,clothing.n.01,coverall
+covering,covering.n.02,clothing,clothing.n.01,crown
+covering,covering.n.02,clothing,clothing.n.01,cummerbund
+covering,covering.n.02,clothing,clothing.n.01,diaper
+covering,covering.n.02,clothing,clothing.n.01,dress
+covering,covering.n.02,clothing,clothing.n.01,eye patch
+covering,covering.n.02,clothing,clothing.n.01,fishnet stockings
+covering,covering.n.02,clothing,clothing.n.01,flip-flop
+covering,covering.n.02,clothing,clothing.n.01,fur coat
+covering,covering.n.02,clothing,clothing.n.01,garter
+covering,covering.n.02,clothing,clothing.n.01,glove
+covering,covering.n.02,clothing,clothing.n.01,hat
+covering,covering.n.02,clothing,clothing.n.01,headband
+covering,covering.n.02,clothing,clothing.n.01,headdress
+covering,covering.n.02,clothing,clothing.n.01,headscarf
+covering,covering.n.02,clothing,clothing.n.01,hoodie
+covering,covering.n.02,clothing,clothing.n.01,jacket
+covering,covering.n.02,clothing,clothing.n.01,jeans
+covering,covering.n.02,clothing,clothing.n.01,jersey
+covering,covering.n.02,clothing,clothing.n.01,jumpsuit
+covering,covering.n.02,clothing,clothing.n.01,kilt
+covering,covering.n.02,clothing,clothing.n.01,kimono
+covering,covering.n.02,clothing,clothing.n.01,lab coat
+covering,covering.n.02,clothing,clothing.n.01,leggings
+covering,covering.n.02,clothing,clothing.n.01,leotard
+covering,covering.n.02,clothing,clothing.n.01,life jacket
+covering,covering.n.02,clothing,clothing.n.01,lingerie
+covering,covering.n.02,clothing,clothing.n.01,loincloth
+covering,covering.n.02,clothing,clothing.n.01,mitten
+covering,covering.n.02,clothing,clothing.n.01,moccasin
+covering,covering.n.02,clothing,clothing.n.01,muff
+covering,covering.n.02,clothing,clothing.n.01,nightshirt
+covering,covering.n.02,clothing,clothing.n.01,outfit
+covering,covering.n.02,clothing,clothing.n.01,overalls
+covering,covering.n.02,clothing,clothing.n.01,pajamas
+covering,covering.n.02,clothing,clothing.n.01,panties
+covering,covering.n.02,clothing,clothing.n.01,pants
+covering,covering.n.02,clothing,clothing.n.01,pantsuit
+covering,covering.n.02,clothing,clothing.n.01,pantyhose
+covering,covering.n.02,clothing,clothing.n.01,polo shirt
+covering,covering.n.02,clothing,clothing.n.01,raincoat
+covering,covering.n.02,clothing,clothing.n.01,robe
+covering,covering.n.02,clothing,clothing.n.01,sandal
+covering,covering.n.02,clothing,clothing.n.01,scarf
+covering,covering.n.02,clothing,clothing.n.01,shawl
+covering,covering.n.02,clothing,clothing.n.01,shirt
+covering,covering.n.02,clothing,clothing.n.01,shoe
+covering,covering.n.02,clothing,clothing.n.01,shorts
+covering,covering.n.02,clothing,clothing.n.01,ski boots
+covering,covering.n.02,clothing,clothing.n.01,skirt
+covering,covering.n.02,clothing,clothing.n.01,slipper
+covering,covering.n.02,clothing,clothing.n.01,snowshoe
+covering,covering.n.02,clothing,clothing.n.01,snowsuit
+covering,covering.n.02,clothing,clothing.n.01,sock
+covering,covering.n.02,clothing,clothing.n.01,sombrero
+covering,covering.n.02,clothing,clothing.n.01,spacesuit
+covering,covering.n.02,clothing,clothing.n.01,stiletto
+covering,covering.n.02,clothing,clothing.n.01,stockings
+covering,covering.n.02,clothing,clothing.n.01,straightjacket
+covering,covering.n.02,clothing,clothing.n.01,suit
+covering,covering.n.02,clothing,clothing.n.01,suspenders
+covering,covering.n.02,clothing,clothing.n.01,sweater
+covering,covering.n.02,clothing,clothing.n.01,sweatsuit
+covering,covering.n.02,clothing,clothing.n.01,swimsuit
+covering,covering.n.02,clothing,clothing.n.01,t-shirt
+covering,covering.n.02,clothing,clothing.n.01,tiara
+covering,covering.n.02,clothing,clothing.n.01,tie
+covering,covering.n.02,clothing,clothing.n.01,toga
+covering,covering.n.02,clothing,clothing.n.01,top hat
+covering,covering.n.02,clothing,clothing.n.01,tube top
+covering,covering.n.02,clothing,clothing.n.01,turban
+covering,covering.n.02,clothing,clothing.n.01,turtleneck
+covering,covering.n.02,clothing,clothing.n.01,tuxedo
+covering,covering.n.02,clothing,clothing.n.01,undershirt
+covering,covering.n.02,clothing,clothing.n.01,underwear
+covering,covering.n.02,clothing,clothing.n.01,uniform
+covering,covering.n.02,clothing,clothing.n.01,veil
+covering,covering.n.02,clothing,clothing.n.01,vest
+covering,covering.n.02,clothing,clothing.n.01,visor
+covering,covering.n.02,clothing,clothing.n.01,wetsuit
+clothing,clothing.n.01,accessory,accessory.n.01,bandanna
+clothing,clothing.n.01,accessory,accessory.n.01,belt
+clothing,clothing.n.01,accessory,accessory.n.01,belt buckle
+clothing,clothing.n.01,accessory,accessory.n.01,boa
+clothing,clothing.n.01,accessory,accessory.n.01,bolo tie
+clothing,clothing.n.01,accessory,accessory.n.01,bonnet
+clothing,clothing.n.01,accessory,accessory.n.01,bow
+clothing,clothing.n.01,accessory,accessory.n.01,bowtie
+clothing,clothing.n.01,accessory,accessory.n.01,bracelet
+clothing,clothing.n.01,accessory,accessory.n.01,bracelet
+clothing,clothing.n.01,accessory,accessory.n.01,brooch
+clothing,clothing.n.01,accessory,accessory.n.01,buckle
+clothing,clothing.n.01,accessory,accessory.n.01,button
+clothing,clothing.n.01,accessory,accessory.n.01,corsage
+clothing,clothing.n.01,accessory,accessory.n.01,cufflink
+clothing,clothing.n.01,accessory,accessory.n.01,cummerbund
+clothing,clothing.n.01,accessory,accessory.n.01,earring
+clothing,clothing.n.01,accessory,accessory.n.01,eye patch
+clothing,clothing.n.01,accessory,accessory.n.01,glasses
+clothing,clothing.n.01,accessory,accessory.n.01,glove
+clothing,clothing.n.01,accessory,accessory.n.01,handkerchief
+clothing,clothing.n.01,accessory,accessory.n.01,hat
+clothing,clothing.n.01,accessory,accessory.n.01,headband
+clothing,clothing.n.01,accessory,accessory.n.01,headdress
+clothing,clothing.n.01,accessory,accessory.n.01,insole
+clothing,clothing.n.01,accessory,accessory.n.01,lanyard
+clothing,clothing.n.01,accessory,accessory.n.01,mitten
+clothing,clothing.n.01,accessory,accessory.n.01,muff
+clothing,clothing.n.01,accessory,accessory.n.01,patch
+clothing,clothing.n.01,accessory,accessory.n.01,purse
+clothing,clothing.n.01,accessory,accessory.n.01,scarf
+clothing,clothing.n.01,accessory,accessory.n.01,shawl
+clothing,clothing.n.01,accessory,accessory.n.01,sombrero
+clothing,clothing.n.01,accessory,accessory.n.01,suspenders
+clothing,clothing.n.01,accessory,accessory.n.01,tie
+clothing,clothing.n.01,accessory,accessory.n.01,top hat
+clothing,clothing.n.01,accessory,accessory.n.01,visor
+clothing,clothing.n.01,accessory,accessory.n.01,watch
+food product,foodstuff.n.02,condiment,condiment.n.01,applesauce
+food product,foodstuff.n.02,condiment,condiment.n.01,butter
+food product,foodstuff.n.02,condiment,condiment.n.01,cream cheese
+food product,foodstuff.n.02,condiment,condiment.n.01,ginger
+food product,foodstuff.n.02,condiment,condiment.n.01,gravy
+food product,foodstuff.n.02,condiment,condiment.n.01,jam
+food product,foodstuff.n.02,condiment,condiment.n.01,ketchup
+food product,foodstuff.n.02,condiment,condiment.n.01,maple syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,marmalade
+food product,foodstuff.n.02,condiment,condiment.n.01,mustard
+food product,foodstuff.n.02,condiment,condiment.n.01,peanut butter
+food product,foodstuff.n.02,condiment,condiment.n.01,pesto
+food product,foodstuff.n.02,condiment,condiment.n.01,sauce
+food product,foodstuff.n.02,condiment,condiment.n.01,soy sauce
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+food product,foodstuff.n.02,condiment,condiment.n.01,syrup
+artifact,artifact.n.01,container,container.n.01,aquarium
+artifact,artifact.n.01,container,container.n.01,ashtray
+artifact,artifact.n.01,container,container.n.01,backpack
+artifact,artifact.n.01,container,container.n.01,bag
+artifact,artifact.n.01,container,container.n.01,ballot box
+artifact,artifact.n.01,container,container.n.01,bank
+artifact,artifact.n.01,container,container.n.01,barrel
+artifact,artifact.n.01,container,container.n.01,basket
+artifact,artifact.n.01,container,container.n.01,bathtub
+artifact,artifact.n.01,container,container.n.01,beaker
+artifact,artifact.n.01,container,container.n.01,bedpan
+artifact,artifact.n.01,container,container.n.01,bin
+artifact,artifact.n.01,container,container.n.01,birdbath
+artifact,artifact.n.01,container,container.n.01,birdcage
+artifact,artifact.n.01,container,container.n.01,bottle
+artifact,artifact.n.01,container,container.n.01,bowl
+artifact,artifact.n.01,container,container.n.01,box
+artifact,artifact.n.01,container,container.n.01,breadbox
+artifact,artifact.n.01,container,container.n.01,briefcase
+artifact,artifact.n.01,container,container.n.01,bucket
+artifact,artifact.n.01,container,container.n.01,cabinet
+artifact,artifact.n.01,container,container.n.01,cage
+artifact,artifact.n.01,container,container.n.01,can
+artifact,artifact.n.01,container,container.n.01,canister
+artifact,artifact.n.01,container,container.n.01,chest
+artifact,artifact.n.01,container,container.n.01,closet
+artifact,artifact.n.01,container,container.n.01,coffee pot
+artifact,artifact.n.01,container,container.n.01,coffin
+artifact,artifact.n.01,container,container.n.01,container
+artifact,artifact.n.01,container,container.n.01,cooker
+artifact,artifact.n.01,container,container.n.01,coop
+artifact,artifact.n.01,container,container.n.01,crate
+artifact,artifact.n.01,container,container.n.01,cup
+artifact,artifact.n.01,container,container.n.01,doghouse
+artifact,artifact.n.01,container,container.n.01,drawer
+artifact,artifact.n.01,container,container.n.01,dresser
+artifact,artifact.n.01,container,container.n.01,duffel bag
+artifact,artifact.n.01,container,container.n.01,dumpster
+artifact,artifact.n.01,container,container.n.01,dustpan
+artifact,artifact.n.01,container,container.n.01,filing cabinet
+artifact,artifact.n.01,container,container.n.01,fishbowl
+artifact,artifact.n.01,container,container.n.01,flask
+artifact,artifact.n.01,container,container.n.01,footbath
+artifact,artifact.n.01,container,container.n.01,glass
+artifact,artifact.n.01,container,container.n.01,goblet
+artifact,artifact.n.01,container,container.n.01,hatbox
+artifact,artifact.n.01,container,container.n.01,honeypot
+artifact,artifact.n.01,container,container.n.01,hot-water bottle
+artifact,artifact.n.01,container,container.n.01,hot tub
+artifact,artifact.n.01,container,container.n.01,inkwell
+artifact,artifact.n.01,container,container.n.01,jar
+artifact,artifact.n.01,container,container.n.01,jug
+artifact,artifact.n.01,container,container.n.01,keg
+artifact,artifact.n.01,container,container.n.01,kettle
+artifact,artifact.n.01,container,container.n.01,locker
+artifact,artifact.n.01,container,container.n.01,luggage
+artifact,artifact.n.01,container,container.n.01,lunchbox
+artifact,artifact.n.01,container,container.n.01,mailbox
+artifact,artifact.n.01,container,container.n.01,matchbox
+artifact,artifact.n.01,container,container.n.01,measuring cup
+artifact,artifact.n.01,container,container.n.01,mold
+artifact,artifact.n.01,container,container.n.01,mug
+artifact,artifact.n.01,container,container.n.01,nightstand
+artifact,artifact.n.01,container,container.n.01,oilcan
+artifact,artifact.n.01,container,container.n.01,pan
+artifact,artifact.n.01,container,container.n.01,paper bag
+artifact,artifact.n.01,container,container.n.01,petri dish
+artifact,artifact.n.01,container,container.n.01,piggy bank
+artifact,artifact.n.01,container,container.n.01,pillbox
+artifact,artifact.n.01,container,container.n.01,pitcher
+artifact,artifact.n.01,container,container.n.01,pocket
+artifact,artifact.n.01,container,container.n.01,pot
+artifact,artifact.n.01,container,container.n.01,purse
+artifact,artifact.n.01,container,container.n.01,saltshaker
+artifact,artifact.n.01,container,container.n.01,sandbag
+artifact,artifact.n.01,container,container.n.01,sarcophagus
+artifact,artifact.n.01,container,container.n.01,shaker
+artifact,artifact.n.01,container,container.n.01,shopping basket
+artifact,artifact.n.01,container,container.n.01,shopping cart
+artifact,artifact.n.01,container,container.n.01,suitcase
+artifact,artifact.n.01,container,container.n.01,swimming pool
+artifact,artifact.n.01,container,container.n.01,syringe
+artifact,artifact.n.01,container,container.n.01,tank
+artifact,artifact.n.01,container,container.n.01,teacup
+artifact,artifact.n.01,container,container.n.01,teapot
+artifact,artifact.n.01,container,container.n.01,tent
+artifact,artifact.n.01,container,container.n.01,terrarium
+artifact,artifact.n.01,container,container.n.01,test tube
+artifact,artifact.n.01,container,container.n.01,thermos
+artifact,artifact.n.01,container,container.n.01,toolbox
+artifact,artifact.n.01,container,container.n.01,trashcan
+artifact,artifact.n.01,container,container.n.01,trunk
+artifact,artifact.n.01,container,container.n.01,tupperware
+artifact,artifact.n.01,container,container.n.01,urn
+artifact,artifact.n.01,container,container.n.01,vase
+artifact,artifact.n.01,container,container.n.01,vial
+artifact,artifact.n.01,container,container.n.01,wallet
+artifact,artifact.n.01,container,container.n.01,water bottle
+artifact,artifact.n.01,container,container.n.01,water heater
+artifact,artifact.n.01,container,container.n.01,watering can
+artifact,artifact.n.01,container,container.n.01,wheelbarrow
+artifact,artifact.n.01,container,container.n.01,wine bottle
+artifact,artifact.n.01,container,container.n.01,wine cooler
+artifact,artifact.n.01,container,container.n.01,wineglass
+artifact,artifact.n.01,container,container.n.01,wok
+food,food.n.01,dessert,dessert.n.01,baklava
+food,food.n.01,dessert,dessert.n.01,banana split
+food,food.n.01,dessert,dessert.n.01,birthday cake
+food,food.n.01,dessert,dessert.n.01,brownie
+food,food.n.01,dessert,dessert.n.01,cake
+food,food.n.01,dessert,dessert.n.01,cake mix
+food,food.n.01,dessert,dessert.n.01,caramel
+food,food.n.01,dessert,dessert.n.01,cheese
+food,food.n.01,dessert,dessert.n.01,cheesecake
+food,food.n.01,dessert,dessert.n.01,chocolate
+food,food.n.01,dessert,dessert.n.01,cookie
+food,food.n.01,dessert,dessert.n.01,creme brulee
+food,food.n.01,dessert,dessert.n.01,crepe
+food,food.n.01,dessert,dessert.n.01,cupcake
+food,food.n.01,dessert,dessert.n.01,dessert
+food,food.n.01,dessert,dessert.n.01,donut
+food,food.n.01,dessert,dessert.n.01,eclair
+food,food.n.01,dessert,dessert.n.01,flan
+food,food.n.01,dessert,dessert.n.01,fruitcake
+food,food.n.01,dessert,dessert.n.01,fudge
+food,food.n.01,dessert,dessert.n.01,ice-cream cone
+food,food.n.01,dessert,dessert.n.01,ice cream
+food,food.n.01,dessert,dessert.n.01,milkshake
+food,food.n.01,dessert,dessert.n.01,mousse
+food,food.n.01,dessert,dessert.n.01,muffin
+food,food.n.01,dessert,dessert.n.01,parfait
+food,food.n.01,dessert,dessert.n.01,pastry
+food,food.n.01,dessert,dessert.n.01,pie
+food,food.n.01,dessert,dessert.n.01,popsicle
+food,food.n.01,dessert,dessert.n.01,pudding
+food,food.n.01,dessert,dessert.n.01,shortbread
+food,food.n.01,dessert,dessert.n.01,sorbet
+food,food.n.01,dessert,dessert.n.01,souffle
+food,food.n.01,dessert,dessert.n.01,sundae
+food,food.n.01,dessert,dessert.n.01,tiramisu
+food,food.n.01,dessert,dessert.n.01,wedding cake
+food,food.n.01,dessert,dessert.n.01,whipped cream
+food,food.n.01,drink,drink.n.03,beer
+food,food.n.01,drink,drink.n.03,champagne
+food,food.n.01,drink,drink.n.03,cocktail
+food,food.n.01,drink,drink.n.03,coffee
+food,food.n.01,drink,drink.n.03,drink
+food,food.n.01,drink,drink.n.03,eggnog
+food,food.n.01,drink,drink.n.03,espresso
+food,food.n.01,drink,drink.n.03,hot chocolate
+food,food.n.01,drink,drink.n.03,juice
+food,food.n.01,drink,drink.n.03,latte
+food,food.n.01,drink,drink.n.03,lemonade
+food,food.n.01,drink,drink.n.03,margarita
+food,food.n.01,drink,drink.n.03,milk
+food,food.n.01,drink,drink.n.03,milkshake
+food,food.n.01,drink,drink.n.03,punch
+food,food.n.01,drink,drink.n.03,smoothie
+food,food.n.01,drink,drink.n.03,soda
+food,food.n.01,drink,drink.n.03,tea
+food,food.n.01,drink,drink.n.03,wine
+device,device.n.01,electronic device,electronic_device.n.01,air conditioner
+device,device.n.01,electronic device,electronic_device.n.01,amplifier
+device,device.n.01,electronic device,electronic_device.n.01,blender
+device,device.n.01,electronic device,electronic_device.n.01,blower
+device,device.n.01,electronic device,electronic_device.n.01,camcorder
+device,device.n.01,electronic device,electronic_device.n.01,camera
+device,device.n.01,electronic device,electronic_device.n.01,cash machine
+device,device.n.01,electronic device,electronic_device.n.01,cd player
+device,device.n.01,electronic device,electronic_device.n.01,cellphone
+device,device.n.01,electronic device,electronic_device.n.01,centrifuge
+device,device.n.01,electronic device,electronic_device.n.01,chainsaw
+device,device.n.01,electronic device,electronic_device.n.01,coffeemaker
+device,device.n.01,electronic device,electronic_device.n.01,computer
+device,device.n.01,electronic device,electronic_device.n.01,computer screen
+device,device.n.01,electronic device,electronic_device.n.01,cooker
+device,device.n.01,electronic device,electronic_device.n.01,copier
+device,device.n.01,electronic device,electronic_device.n.01,curling iron
+device,device.n.01,electronic device,electronic_device.n.01,defibrillator
+device,device.n.01,electronic device,electronic_device.n.01,dishwasher
+device,device.n.01,electronic device,electronic_device.n.01,drill
+device,device.n.01,electronic device,electronic_device.n.01,dryer
+device,device.n.01,electronic device,electronic_device.n.01,electric chair
+device,device.n.01,electronic device,electronic_device.n.01,fan
+device,device.n.01,electronic device,electronic_device.n.01,food processor
+device,device.n.01,electronic device,electronic_device.n.01,freezer
+device,device.n.01,electronic device,electronic_device.n.01,generator
+device,device.n.01,electronic device,electronic_device.n.01,hairdryer
+device,device.n.01,electronic device,electronic_device.n.01,hotplate
+device,device.n.01,electronic device,electronic_device.n.01,icemaker
+device,device.n.01,electronic device,electronic_device.n.01,incubator
+device,device.n.01,electronic device,electronic_device.n.01,iron
+device,device.n.01,electronic device,electronic_device.n.01,jackhammer
+device,device.n.01,electronic device,electronic_device.n.01,joystick
+device,device.n.01,electronic device,electronic_device.n.01,juicer
+device,device.n.01,electronic device,electronic_device.n.01,jukebox
+device,device.n.01,electronic device,electronic_device.n.01,lamp
+device,device.n.01,electronic device,electronic_device.n.01,laptop
+device,device.n.01,electronic device,electronic_device.n.01,metal detector
+device,device.n.01,electronic device,electronic_device.n.01,microphone
+device,device.n.01,electronic device,electronic_device.n.01,microwave
+device,device.n.01,electronic device,electronic_device.n.01,mixer
+device,device.n.01,electronic device,electronic_device.n.01,modem
+device,device.n.01,electronic device,electronic_device.n.01,mouse
+device,device.n.01,electronic device,electronic_device.n.01,music box
+device,device.n.01,electronic device,electronic_device.n.01,pinball
+device,device.n.01,electronic device,electronic_device.n.01,polygraph
+device,device.n.01,electronic device,electronic_device.n.01,printer
+device,device.n.01,electronic device,electronic_device.n.01,projector
+device,device.n.01,electronic device,electronic_device.n.01,radio
+device,device.n.01,electronic device,electronic_device.n.01,record player
+device,device.n.01,electronic device,electronic_device.n.01,refrigerator
+device,device.n.01,electronic device,electronic_device.n.01,remote control
+device,device.n.01,electronic device,electronic_device.n.01,router
+device,device.n.01,electronic device,electronic_device.n.01,scanner
+device,device.n.01,electronic device,electronic_device.n.01,screen
+device,device.n.01,electronic device,electronic_device.n.01,sewing machine
+device,device.n.01,electronic device,electronic_device.n.01,shredder
+device,device.n.01,electronic device,electronic_device.n.01,slicer
+device,device.n.01,electronic device,electronic_device.n.01,slot machine
+device,device.n.01,electronic device,electronic_device.n.01,smoke alarm
+device,device.n.01,electronic device,electronic_device.n.01,stereo
+device,device.n.01,electronic device,electronic_device.n.01,tablet
+device,device.n.01,electronic device,electronic_device.n.01,tape recorder
+device,device.n.01,electronic device,electronic_device.n.01,television
+device,device.n.01,electronic device,electronic_device.n.01,toaster
+device,device.n.01,electronic device,electronic_device.n.01,toaster oven
+device,device.n.01,electronic device,electronic_device.n.01,treadmill
+device,device.n.01,electronic device,electronic_device.n.01,turntable
+device,device.n.01,electronic device,electronic_device.n.01,vacuum
+device,device.n.01,electronic device,electronic_device.n.01,vending machine
+device,device.n.01,electronic device,electronic_device.n.01,waffle iron
+device,device.n.01,electronic device,electronic_device.n.01,washing machine
+device,device.n.01,electronic device,electronic_device.n.01,water heater
+device,device.n.01,electronic device,electronic_device.n.01,webcam
+mammal,mammal.n.01,livestock,livestock.n.01,bison
+mammal,mammal.n.01,livestock,livestock.n.01,bull
+mammal,mammal.n.01,livestock,livestock.n.01,calf
+mammal,mammal.n.01,livestock,livestock.n.01,chicken
+mammal,mammal.n.01,livestock,livestock.n.01,cow
+mammal,mammal.n.01,livestock,livestock.n.01,donkey
+mammal,mammal.n.01,livestock,livestock.n.01,duck
+mammal,mammal.n.01,livestock,livestock.n.01,goat
+mammal,mammal.n.01,livestock,livestock.n.01,goose
+mammal,mammal.n.01,livestock,livestock.n.01,horse
+mammal,mammal.n.01,livestock,livestock.n.01,lamb
+mammal,mammal.n.01,livestock,livestock.n.01,pig
+mammal,mammal.n.01,livestock,livestock.n.01,piglet
+mammal,mammal.n.01,livestock,livestock.n.01,rabbit
+mammal,mammal.n.01,livestock,livestock.n.01,ram
+mammal,mammal.n.01,livestock,livestock.n.01,rooster
+mammal,mammal.n.01,livestock,livestock.n.01,sheep
+mammal,mammal.n.01,livestock,livestock.n.01,turkey
+connector,connector.n.01,fastener,fastener.n.01,barrette
+connector,connector.n.01,fastener,fastener.n.01,belt buckle
+connector,connector.n.01,fastener,fastener.n.01,bolt
+connector,connector.n.01,fastener,fastener.n.01,bow
+connector,connector.n.01,fastener,fastener.n.01,buckle
+connector,connector.n.01,fastener,fastener.n.01,button
+connector,connector.n.01,fastener,fastener.n.01,chain
+connector,connector.n.01,fastener,fastener.n.01,clasp
+connector,connector.n.01,fastener,fastener.n.01,clothespin
+connector,connector.n.01,fastener,fastener.n.01,combination lock
+connector,connector.n.01,fastener,fastener.n.01,cufflink
+connector,connector.n.01,fastener,fastener.n.01,gasket
+connector,connector.n.01,fastener,fastener.n.01,hairpin
+connector,connector.n.01,fastener,fastener.n.01,hook
+connector,connector.n.01,fastener,fastener.n.01,knot
+connector,connector.n.01,fastener,fastener.n.01,latch
+connector,connector.n.01,fastener,fastener.n.01,lock
+connector,connector.n.01,fastener,fastener.n.01,nail
+connector,connector.n.01,fastener,fastener.n.01,padlock
+connector,connector.n.01,fastener,fastener.n.01,paperclip
+connector,connector.n.01,fastener,fastener.n.01,peg
+connector,connector.n.01,fastener,fastener.n.01,pin
+connector,connector.n.01,fastener,fastener.n.01,rubber band
+connector,connector.n.01,fastener,fastener.n.01,safety pin
+connector,connector.n.01,fastener,fastener.n.01,screw
+connector,connector.n.01,fastener,fastener.n.01,staple
+connector,connector.n.01,fastener,fastener.n.01,strap
+connector,connector.n.01,fastener,fastener.n.01,tack
+connector,connector.n.01,fastener,fastener.n.01,tape
+connector,connector.n.01,fastener,fastener.n.01,thumbtack
+connector,connector.n.01,fastener,fastener.n.01,velcro
+connector,connector.n.01,fastener,fastener.n.01,zipper
+substance,substance.n.08,food,food.n.01,almond
+substance,substance.n.08,food,food.n.01,appetizer
+substance,substance.n.08,food,food.n.01,apple
+substance,substance.n.08,food,food.n.01,applesauce
+substance,substance.n.08,food,food.n.01,artichoke
+substance,substance.n.08,food,food.n.01,arugula
+substance,substance.n.08,food,food.n.01,asparagus
+substance,substance.n.08,food,food.n.01,avocado
+substance,substance.n.08,food,food.n.01,bacon
+substance,substance.n.08,food,food.n.01,bagel
+substance,substance.n.08,food,food.n.01,baklava
+substance,substance.n.08,food,food.n.01,banana
+substance,substance.n.08,food,food.n.01,banana split
+substance,substance.n.08,food,food.n.01,basil
+substance,substance.n.08,food,food.n.01,batter
+substance,substance.n.08,food,food.n.01,bean
+substance,substance.n.08,food,food.n.01,beet
+substance,substance.n.08,food,food.n.01,bell pepper
+substance,substance.n.08,food,food.n.01,berry
+substance,substance.n.08,food,food.n.01,birthday cake
+substance,substance.n.08,food,food.n.01,biscuit
+substance,substance.n.08,food,food.n.01,blackberry
+substance,substance.n.08,food,food.n.01,blueberry
+substance,substance.n.08,food,food.n.01,bok choy
+substance,substance.n.08,food,food.n.01,bologna
+substance,substance.n.08,food,food.n.01,bread
+substance,substance.n.08,food,food.n.01,breadstick
+substance,substance.n.08,food,food.n.01,breakfast
+substance,substance.n.08,food,food.n.01,broccoli
+substance,substance.n.08,food,food.n.01,brownie
+substance,substance.n.08,food,food.n.01,brussels sprouts
+substance,substance.n.08,food,food.n.01,buffet
+substance,substance.n.08,food,food.n.01,bun
+substance,substance.n.08,food,food.n.01,burrito
+substance,substance.n.08,food,food.n.01,butter
+substance,substance.n.08,food,food.n.01,cabbage
+substance,substance.n.08,food,food.n.01,cake
+substance,substance.n.08,food,food.n.01,cake mix
+substance,substance.n.08,food,food.n.01,calamari
+substance,substance.n.08,food,food.n.01,calzone
+substance,substance.n.08,food,food.n.01,candy
+substance,substance.n.08,food,food.n.01,candy bar
+substance,substance.n.08,food,food.n.01,candy cane
+substance,substance.n.08,food,food.n.01,cantaloupe
+substance,substance.n.08,food,food.n.01,caramel
+substance,substance.n.08,food,food.n.01,carrot
+substance,substance.n.08,food,food.n.01,cashew
+substance,substance.n.08,food,food.n.01,casserole
+substance,substance.n.08,food,food.n.01,catfish
+substance,substance.n.08,food,food.n.01,cauliflower
+substance,substance.n.08,food,food.n.01,caviar
+substance,substance.n.08,food,food.n.01,celery
+substance,substance.n.08,food,food.n.01,cereal
+substance,substance.n.08,food,food.n.01,cheese
+substance,substance.n.08,food,food.n.01,cheeseburger
+substance,substance.n.08,food,food.n.01,cheesecake
+substance,substance.n.08,food,food.n.01,cherry
+substance,substance.n.08,food,food.n.01,chicken
+substance,substance.n.08,food,food.n.01,chickpea
+substance,substance.n.08,food,food.n.01,chili
+substance,substance.n.08,food,food.n.01,chips
+substance,substance.n.08,food,food.n.01,chive
+substance,substance.n.08,food,food.n.01,chocolate
+substance,substance.n.08,food,food.n.01,cilantro
+substance,substance.n.08,food,food.n.01,cinnamon
+substance,substance.n.08,food,food.n.01,clam
+substance,substance.n.08,food,food.n.01,clove
+substance,substance.n.08,food,food.n.01,coconut
+substance,substance.n.08,food,food.n.01,coffee bean
+substance,substance.n.08,food,food.n.01,coleslaw
+substance,substance.n.08,food,food.n.01,cookie
+substance,substance.n.08,food,food.n.01,cordon bleu
+substance,substance.n.08,food,food.n.01,corn
+substance,substance.n.08,food,food.n.01,cornbread
+substance,substance.n.08,food,food.n.01,cornmeal
+substance,substance.n.08,food,food.n.01,cotton candy
+substance,substance.n.08,food,food.n.01,crab
+substance,substance.n.08,food,food.n.01,cracker
+substance,substance.n.08,food,food.n.01,cranberry
+substance,substance.n.08,food,food.n.01,crayfish
+substance,substance.n.08,food,food.n.01,cream cheese
+substance,substance.n.08,food,food.n.01,creme brulee
+substance,substance.n.08,food,food.n.01,crepe
+substance,substance.n.08,food,food.n.01,croissant
+substance,substance.n.08,food,food.n.01,crouton
+substance,substance.n.08,food,food.n.01,crumb
+substance,substance.n.08,food,food.n.01,cucumber
+substance,substance.n.08,food,food.n.01,cupcake
+substance,substance.n.08,food,food.n.01,curry
+substance,substance.n.08,food,food.n.01,dessert
+substance,substance.n.08,food,food.n.01,dip
+substance,substance.n.08,food,food.n.01,donut
+substance,substance.n.08,food,food.n.01,dough
+substance,substance.n.08,food,food.n.01,dumpling
+substance,substance.n.08,food,food.n.01,easter egg
+substance,substance.n.08,food,food.n.01,eclair
+substance,substance.n.08,food,food.n.01,eel
+substance,substance.n.08,food,food.n.01,egg
+substance,substance.n.08,food,food.n.01,egg roll
+substance,substance.n.08,food,food.n.01,eggplant
+substance,substance.n.08,food,food.n.01,enchilada
+substance,substance.n.08,food,food.n.01,fast food
+substance,substance.n.08,food,food.n.01,fig
+substance,substance.n.08,food,food.n.01,fish
+substance,substance.n.08,food,food.n.01,flan
+substance,substance.n.08,food,food.n.01,flour
+substance,substance.n.08,food,food.n.01,fondue
+substance,substance.n.08,food,food.n.01,french fries
+substance,substance.n.08,food,food.n.01,fruit
+substance,substance.n.08,food,food.n.01,fruitcake
+substance,substance.n.08,food,food.n.01,fudge
+substance,substance.n.08,food,food.n.01,garlic
+substance,substance.n.08,food,food.n.01,ginger
+substance,substance.n.08,food,food.n.01,gingerbread man
+substance,substance.n.08,food,food.n.01,goat
+substance,substance.n.08,food,food.n.01,goose
+substance,substance.n.08,food,food.n.01,grain
+substance,substance.n.08,food,food.n.01,granola
+substance,substance.n.08,food,food.n.01,grape
+substance,substance.n.08,food,food.n.01,grapefruit
+substance,substance.n.08,food,food.n.01,gravy
+substance,substance.n.08,food,food.n.01,green beans
+substance,substance.n.08,food,food.n.01,grits
+substance,substance.n.08,food,food.n.01,guacamole
+substance,substance.n.08,food,food.n.01,gum
+substance,substance.n.08,food,food.n.01,gumball
+substance,substance.n.08,food,food.n.01,gumdrop
+substance,substance.n.08,food,food.n.01,gyro
+substance,substance.n.08,food,food.n.01,ham
+substance,substance.n.08,food,food.n.01,hamburger
+substance,substance.n.08,food,food.n.01,hash
+substance,substance.n.08,food,food.n.01,honey
+substance,substance.n.08,food,food.n.01,hotdog
+substance,substance.n.08,food,food.n.01,hummus
+substance,substance.n.08,food,food.n.01,ice cream
+substance,substance.n.08,food,food.n.01,ice-cream cone
+substance,substance.n.08,food,food.n.01,jalapeno
+substance,substance.n.08,food,food.n.01,jam
+substance,substance.n.08,food,food.n.01,jelly bean
+substance,substance.n.08,food,food.n.01,kale
+substance,substance.n.08,food,food.n.01,kebab
+substance,substance.n.08,food,food.n.01,ketchup
+substance,substance.n.08,food,food.n.01,kiwi
+substance,substance.n.08,food,food.n.01,lamb
+substance,substance.n.08,food,food.n.01,lamb chop
+substance,substance.n.08,food,food.n.01,lasagna
+substance,substance.n.08,food,food.n.01,leek
+substance,substance.n.08,food,food.n.01,lemon
+substance,substance.n.08,food,food.n.01,lettuce
+substance,substance.n.08,food,food.n.01,licorice
+substance,substance.n.08,food,food.n.01,lime
+substance,substance.n.08,food,food.n.01,lobster
+substance,substance.n.08,food,food.n.01,lollipop
+substance,substance.n.08,food,food.n.01,macadamia
+substance,substance.n.08,food,food.n.01,macaroni
+substance,substance.n.08,food,food.n.01,mango
+substance,substance.n.08,food,food.n.01,maple syrup
+substance,substance.n.08,food,food.n.01,marmalade
+substance,substance.n.08,food,food.n.01,marshmallow
+substance,substance.n.08,food,food.n.01,mashed potato
+substance,substance.n.08,food,food.n.01,meat
+substance,substance.n.08,food,food.n.01,meatball
+substance,substance.n.08,food,food.n.01,meatloaf
+substance,substance.n.08,food,food.n.01,melon
+substance,substance.n.08,food,food.n.01,mint
+substance,substance.n.08,food,food.n.01,mousse
+substance,substance.n.08,food,food.n.01,muffin
+substance,substance.n.08,food,food.n.01,mulberry
+substance,substance.n.08,food,food.n.01,mushroom
+substance,substance.n.08,food,food.n.01,mussel
+substance,substance.n.08,food,food.n.01,mustard
+substance,substance.n.08,food,food.n.01,nacho
+substance,substance.n.08,food,food.n.01,noodle
+substance,substance.n.08,food,food.n.01,nut
+substance,substance.n.08,food,food.n.01,oatmeal
+substance,substance.n.08,food,food.n.01,octopus
+substance,substance.n.08,food,food.n.01,okra
+substance,substance.n.08,food,food.n.01,olive
+substance,substance.n.08,food,food.n.01,omelet
+substance,substance.n.08,food,food.n.01,onion
+substance,substance.n.08,food,food.n.01,orange
+substance,substance.n.08,food,food.n.01,oyster
+substance,substance.n.08,food,food.n.01,pancake
+substance,substance.n.08,food,food.n.01,papaya
+substance,substance.n.08,food,food.n.01,parfait
+substance,substance.n.08,food,food.n.01,parsley
+substance,substance.n.08,food,food.n.01,pasta
+substance,substance.n.08,food,food.n.01,pastry
+substance,substance.n.08,food,food.n.01,patty
+substance,substance.n.08,food,food.n.01,pea
+substance,substance.n.08,food,food.n.01,peach
+substance,substance.n.08,food,food.n.01,peanut
+substance,substance.n.08,food,food.n.01,peanut butter
+substance,substance.n.08,food,food.n.01,pear
+substance,substance.n.08,food,food.n.01,pecan
+substance,substance.n.08,food,food.n.01,pepper
+substance,substance.n.08,food,food.n.01,pepper
+substance,substance.n.08,food,food.n.01,peppermint
+substance,substance.n.08,food,food.n.01,pepperoni
+substance,substance.n.08,food,food.n.01,pesto
+substance,substance.n.08,food,food.n.01,pickle
+substance,substance.n.08,food,food.n.01,pie
+substance,substance.n.08,food,food.n.01,piecrust
+substance,substance.n.08,food,food.n.01,pig
+substance,substance.n.08,food,food.n.01,pineapple
+substance,substance.n.08,food,food.n.01,pistachio
+substance,substance.n.08,food,food.n.01,pita
+substance,substance.n.08,food,food.n.01,pizza
+substance,substance.n.08,food,food.n.01,plum
+substance,substance.n.08,food,food.n.01,pomegranate
+substance,substance.n.08,food,food.n.01,popcorn
+substance,substance.n.08,food,food.n.01,poppy
+substance,substance.n.08,food,food.n.01,popsicle
+substance,substance.n.08,food,food.n.01,potato
+substance,substance.n.08,food,food.n.01,potpie
+substance,substance.n.08,food,food.n.01,pretzel
+substance,substance.n.08,food,food.n.01,prune
+substance,substance.n.08,food,food.n.01,pudding
+substance,substance.n.08,food,food.n.01,pumpkin
+substance,substance.n.08,food,food.n.01,quesadilla
+substance,substance.n.08,food,food.n.01,quiche
+substance,substance.n.08,food,food.n.01,rabbit
+substance,substance.n.08,food,food.n.01,radish
+substance,substance.n.08,food,food.n.01,raisin
+substance,substance.n.08,food,food.n.01,raspberry
+substance,substance.n.08,food,food.n.01,ravioli
+substance,substance.n.08,food,food.n.01,ready meal
+substance,substance.n.08,food,food.n.01,rhubarb
+substance,substance.n.08,food,food.n.01,rice
+substance,substance.n.08,food,food.n.01,roll
+substance,substance.n.08,food,food.n.01,saffron
+substance,substance.n.08,food,food.n.01,salad
+substance,substance.n.08,food,food.n.01,salami
+substance,substance.n.08,food,food.n.01,sandwich
+substance,substance.n.08,food,food.n.01,sardine
+substance,substance.n.08,food,food.n.01,sauce
+substance,substance.n.08,food,food.n.01,sauerkraut
+substance,substance.n.08,food,food.n.01,sausage
+substance,substance.n.08,food,food.n.01,scallion
+substance,substance.n.08,food,food.n.01,scallop
+substance,substance.n.08,food,food.n.01,scone
+substance,substance.n.08,food,food.n.01,scrambled egg
+substance,substance.n.08,food,food.n.01,seafood
+substance,substance.n.08,food,food.n.01,seaweed
+substance,substance.n.08,food,food.n.01,shortbread
+substance,substance.n.08,food,food.n.01,shrimp
+substance,substance.n.08,food,food.n.01,snack
+substance,substance.n.08,food,food.n.01,sorbet
+substance,substance.n.08,food,food.n.01,souffle
+substance,substance.n.08,food,food.n.01,soup
+substance,substance.n.08,food,food.n.01,soy sauce
+substance,substance.n.08,food,food.n.01,spaghetti
+substance,substance.n.08,food,food.n.01,spam
+substance,substance.n.08,food,food.n.01,spareribs
+substance,substance.n.08,food,food.n.01,spinach
+substance,substance.n.08,food,food.n.01,spring roll
+substance,substance.n.08,food,food.n.01,sprouts
+substance,substance.n.08,food,food.n.01,squash
+substance,substance.n.08,food,food.n.01,squid
+substance,substance.n.08,food,food.n.01,star fruit
+substance,substance.n.08,food,food.n.01,steak
+substance,substance.n.08,food,food.n.01,stew
+substance,substance.n.08,food,food.n.01,stir fry
+substance,substance.n.08,food,food.n.01,strawberry
+substance,substance.n.08,food,food.n.01,string cheese
+substance,substance.n.08,food,food.n.01,stuffing
+substance,substance.n.08,food,food.n.01,sugar cube
+substance,substance.n.08,food,food.n.01,sundae
+substance,substance.n.08,food,food.n.01,sushi
+substance,substance.n.08,food,food.n.01,sweet potato
+substance,substance.n.08,food,food.n.01,swordfish
+substance,substance.n.08,food,food.n.01,syrup
+substance,substance.n.08,food,food.n.01,taco
+substance,substance.n.08,food,food.n.01,taffy
+substance,substance.n.08,food,food.n.01,tamale
+substance,substance.n.08,food,food.n.01,tiramisu
+substance,substance.n.08,food,food.n.01,toast
+substance,substance.n.08,food,food.n.01,tomato
+substance,substance.n.08,food,food.n.01,tomato sauce
+substance,substance.n.08,food,food.n.01,tortellini
+substance,substance.n.08,food,food.n.01,tortilla
+substance,substance.n.08,food,food.n.01,tostada
+substance,substance.n.08,food,food.n.01,turkey
+substance,substance.n.08,food,food.n.01,vegetable
+substance,substance.n.08,food,food.n.01,wafer
+substance,substance.n.08,food,food.n.01,waffle
+substance,substance.n.08,food,food.n.01,walnut
+substance,substance.n.08,food,food.n.01,watermelon
+substance,substance.n.08,food,food.n.01,wedding cake
+substance,substance.n.08,food,food.n.01,wheat
+substance,substance.n.08,food,food.n.01,whipped cream
+substance,substance.n.08,food,food.n.01,wrap
+substance,substance.n.08,food,food.n.01,yogurt
+substance,substance.n.08,food,food.n.01,yolk
+substance,substance.n.08,food,food.n.01,zucchini
+covering,covering.n.02,footwear,footwear.n.01,boot
+covering,covering.n.02,footwear,footwear.n.01,flip-flop
+covering,covering.n.02,footwear,footwear.n.01,flipper
+covering,covering.n.02,footwear,footwear.n.01,iceskate
+covering,covering.n.02,footwear,footwear.n.01,moccasin
+covering,covering.n.02,footwear,footwear.n.01,rollerblade
+covering,covering.n.02,footwear,footwear.n.01,rollerskate
+covering,covering.n.02,footwear,footwear.n.01,sandal
+covering,covering.n.02,footwear,footwear.n.01,shoe
+covering,covering.n.02,footwear,footwear.n.01,ski boots
+covering,covering.n.02,footwear,footwear.n.01,slipper
+covering,covering.n.02,footwear,footwear.n.01,snowshoe
+covering,covering.n.02,footwear,footwear.n.01,sock
+covering,covering.n.02,footwear,footwear.n.01,stiletto
+covering,covering.n.02,footwear,footwear.n.01,stockings
+produce,produce.n.01,fruit,edible_fruit.n.01,apple
+produce,produce.n.01,fruit,edible_fruit.n.01,avocado
+produce,produce.n.01,fruit,edible_fruit.n.01,banana
+produce,produce.n.01,fruit,edible_fruit.n.01,berry
+produce,produce.n.01,fruit,edible_fruit.n.01,blackberry
+produce,produce.n.01,fruit,edible_fruit.n.01,blueberry
+produce,produce.n.01,fruit,edible_fruit.n.01,cantaloupe
+produce,produce.n.01,fruit,edible_fruit.n.01,cherry
+produce,produce.n.01,fruit,edible_fruit.n.01,coconut
+produce,produce.n.01,fruit,edible_fruit.n.01,cranberry
+produce,produce.n.01,fruit,edible_fruit.n.01,fig
+produce,produce.n.01,fruit,edible_fruit.n.01,fruit
+produce,produce.n.01,fruit,edible_fruit.n.01,grape
+produce,produce.n.01,fruit,edible_fruit.n.01,grapefruit
+produce,produce.n.01,fruit,edible_fruit.n.01,kiwi
+produce,produce.n.01,fruit,edible_fruit.n.01,lemon
+produce,produce.n.01,fruit,edible_fruit.n.01,lime
+produce,produce.n.01,fruit,edible_fruit.n.01,mango
+produce,produce.n.01,fruit,edible_fruit.n.01,melon
+produce,produce.n.01,fruit,edible_fruit.n.01,mulberry
+produce,produce.n.01,fruit,edible_fruit.n.01,orange
+produce,produce.n.01,fruit,edible_fruit.n.01,papaya
+produce,produce.n.01,fruit,edible_fruit.n.01,peach
+produce,produce.n.01,fruit,edible_fruit.n.01,pear
+produce,produce.n.01,fruit,edible_fruit.n.01,pineapple
+produce,produce.n.01,fruit,edible_fruit.n.01,plum
+produce,produce.n.01,fruit,edible_fruit.n.01,pomegranate
+produce,produce.n.01,fruit,edible_fruit.n.01,prune
+produce,produce.n.01,fruit,edible_fruit.n.01,raisin
+produce,produce.n.01,fruit,edible_fruit.n.01,raspberry
+produce,produce.n.01,fruit,edible_fruit.n.01,star fruit
+produce,produce.n.01,fruit,edible_fruit.n.01,strawberry
+produce,produce.n.01,fruit,edible_fruit.n.01,tomato
+produce,produce.n.01,fruit,edible_fruit.n.01,watermelon
+artifact,artifact.n.01,furniture,furniture.n.01,air mattress
+artifact,artifact.n.01,furniture,furniture.n.01,bassinet
+artifact,artifact.n.01,furniture,furniture.n.01,beanbag
+artifact,artifact.n.01,furniture,furniture.n.01,bed
+artifact,artifact.n.01,furniture,furniture.n.01,bench
+artifact,artifact.n.01,furniture,furniture.n.01,bookshelf
+artifact,artifact.n.01,furniture,furniture.n.01,bunkbed
+artifact,artifact.n.01,furniture,furniture.n.01,cabinet
+artifact,artifact.n.01,furniture,furniture.n.01,chair
+artifact,artifact.n.01,furniture,furniture.n.01,chest
+artifact,artifact.n.01,furniture,furniture.n.01,closet
+artifact,artifact.n.01,furniture,furniture.n.01,coat rack
+artifact,artifact.n.01,furniture,furniture.n.01,coffee table
+artifact,artifact.n.01,furniture,furniture.n.01,cot
+artifact,artifact.n.01,furniture,furniture.n.01,couch
+artifact,artifact.n.01,furniture,furniture.n.01,counter
+artifact,artifact.n.01,furniture,furniture.n.01,crib
+artifact,artifact.n.01,furniture,furniture.n.01,desk
+artifact,artifact.n.01,furniture,furniture.n.01,dresser
+artifact,artifact.n.01,furniture,furniture.n.01,filing cabinet
+artifact,artifact.n.01,furniture,furniture.n.01,footrest
+artifact,artifact.n.01,furniture,furniture.n.01,hammock
+artifact,artifact.n.01,furniture,furniture.n.01,highchair
+artifact,artifact.n.01,furniture,furniture.n.01,lectern
+artifact,artifact.n.01,furniture,furniture.n.01,loveseat
+artifact,artifact.n.01,furniture,furniture.n.01,mattress
+artifact,artifact.n.01,furniture,furniture.n.01,nightstand
+artifact,artifact.n.01,furniture,furniture.n.01,ottoman
+artifact,artifact.n.01,furniture,furniture.n.01,rack
+artifact,artifact.n.01,furniture,furniture.n.01,rack
+artifact,artifact.n.01,furniture,furniture.n.01,recliner
+artifact,artifact.n.01,furniture,furniture.n.01,rocking chair
+artifact,artifact.n.01,furniture,furniture.n.01,shelf
+artifact,artifact.n.01,furniture,furniture.n.01,sofa bed
+artifact,artifact.n.01,furniture,furniture.n.01,step stool
+artifact,artifact.n.01,furniture,furniture.n.01,stool
+artifact,artifact.n.01,furniture,furniture.n.01,table
+artifact,artifact.n.01,furniture,furniture.n.01,throne
+artifact,artifact.n.01,furniture,furniture.n.01,workbench
+activity,activity.n.01,game,game.n.01,backgammon
+activity,activity.n.01,game,game.n.01,board game
+activity,activity.n.01,game,game.n.01,checkers
+activity,activity.n.01,game,game.n.01,chessboard
+activity,activity.n.01,game,game.n.01,computer
+activity,activity.n.01,game,game.n.01,dice
+activity,activity.n.01,game,game.n.01,domino
+activity,activity.n.01,game,game.n.01,game
+activity,activity.n.01,game,game.n.01,hopscotch
+activity,activity.n.01,game,game.n.01,jigsaw puzzle
+activity,activity.n.01,game,game.n.01,jump rope
+activity,activity.n.01,game,game.n.01,pinball
+activity,activity.n.01,game,game.n.01,playing card
+activity,activity.n.01,game,game.n.01,scrabble
+activity,activity.n.01,game,game.n.01,shuffleboard
+activity,activity.n.01,game,game.n.01,slot machine
+activity,activity.n.01,game,game.n.01,ticktacktoe
+activity,activity.n.01,game,game.n.01,videogame
+activity,activity.n.01,game,game.n.01,yo-yo
+tool,tool.n.01,garden tool,garden_tool.n.01,axe
+tool,tool.n.01,garden tool,garden_tool.n.01,chainsaw
+tool,tool.n.01,garden tool,garden_tool.n.01,clipper
+tool,tool.n.01,garden tool,garden_tool.n.01,hatchet
+tool,tool.n.01,garden tool,garden_tool.n.01,hoe
+tool,tool.n.01,garden tool,garden_tool.n.01,hose
+tool,tool.n.01,garden tool,garden_tool.n.01,lawnmower
+tool,tool.n.01,garden tool,garden_tool.n.01,pickax
+tool,tool.n.01,garden tool,garden_tool.n.01,pitchfork
+tool,tool.n.01,garden tool,garden_tool.n.01,rake
+tool,tool.n.01,garden tool,garden_tool.n.01,saw
+tool,tool.n.01,garden tool,garden_tool.n.01,scissors
+tool,tool.n.01,garden tool,garden_tool.n.01,shears
+tool,tool.n.01,garden tool,garden_tool.n.01,shovel
+tool,tool.n.01,garden tool,garden_tool.n.01,sickle
+tool,tool.n.01,garden tool,garden_tool.n.01,trowel
+tool,tool.n.01,garden tool,garden_tool.n.01,watering can
+instrument,implement.n.01,tool,tool.n.01,axe
+instrument,implement.n.01,tool,tool.n.01,blowtorch
+instrument,implement.n.01,tool,tool.n.01,bolt
+instrument,implement.n.01,tool,tool.n.01,bracket
+instrument,implement.n.01,tool,tool.n.01,button
+instrument,implement.n.01,tool,tool.n.01,cable
+instrument,implement.n.01,tool,tool.n.01,can opener
+instrument,implement.n.01,tool,tool.n.01,chain
+instrument,implement.n.01,tool,tool.n.01,chainsaw
+instrument,implement.n.01,tool,tool.n.01,charger
+instrument,implement.n.01,tool,tool.n.01,chicken wire
+instrument,implement.n.01,tool,tool.n.01,chisel
+instrument,implement.n.01,tool,tool.n.01,clasp
+instrument,implement.n.01,tool,tool.n.01,cleaver
+instrument,implement.n.01,tool,tool.n.01,clipper
+instrument,implement.n.01,tool,tool.n.01,coil
+instrument,implement.n.01,tool,tool.n.01,combination lock
+instrument,implement.n.01,tool,tool.n.01,cord
+instrument,implement.n.01,tool,tool.n.01,corkscrew
+instrument,implement.n.01,tool,tool.n.01,crank
+instrument,implement.n.01,tool,tool.n.01,crowbar
+instrument,implement.n.01,tool,tool.n.01,doorhandle
+instrument,implement.n.01,tool,tool.n.01,doorknob
+instrument,implement.n.01,tool,tool.n.01,doorknocker
+instrument,implement.n.01,tool,tool.n.01,drill
+instrument,implement.n.01,tool,tool.n.01,duct
+instrument,implement.n.01,tool,tool.n.01,faucet
+instrument,implement.n.01,tool,tool.n.01,file
+instrument,implement.n.01,tool,tool.n.01,gear
+instrument,implement.n.01,tool,tool.n.01,hammer
+instrument,implement.n.01,tool,tool.n.01,handle
+instrument,implement.n.01,tool,tool.n.01,hinge
+instrument,implement.n.01,tool,tool.n.01,hook
+instrument,implement.n.01,tool,tool.n.01,hook
+instrument,implement.n.01,tool,tool.n.01,hose
+instrument,implement.n.01,tool,tool.n.01,jackhammer
+instrument,implement.n.01,tool,tool.n.01,key
+instrument,implement.n.01,tool,tool.n.01,knob
+instrument,implement.n.01,tool,tool.n.01,ladder
+instrument,implement.n.01,tool,tool.n.01,latch
+instrument,implement.n.01,tool,tool.n.01,light switch
+instrument,implement.n.01,tool,tool.n.01,lightbulb
+instrument,implement.n.01,tool,tool.n.01,lock
+instrument,implement.n.01,tool,tool.n.01,mallet
+instrument,implement.n.01,tool,tool.n.01,nail
+instrument,implement.n.01,tool,tool.n.01,padlock
+instrument,implement.n.01,tool,tool.n.01,peg
+instrument,implement.n.01,tool,tool.n.01,pickax
+instrument,implement.n.01,tool,tool.n.01,pipe
+instrument,implement.n.01,tool,tool.n.01,pliers
+instrument,implement.n.01,tool,tool.n.01,plug
+instrument,implement.n.01,tool,tool.n.01,plunger
+instrument,implement.n.01,tool,tool.n.01,rake
+instrument,implement.n.01,tool,tool.n.01,ratchet
+instrument,implement.n.01,tool,tool.n.01,saw
+instrument,implement.n.01,tool,tool.n.01,sawhorse
+instrument,implement.n.01,tool,tool.n.01,scraper
+instrument,implement.n.01,tool,tool.n.01,screw
+instrument,implement.n.01,tool,tool.n.01,screwdriver
+instrument,implement.n.01,tool,tool.n.01,shears
+instrument,implement.n.01,tool,tool.n.01,shovel
+instrument,implement.n.01,tool,tool.n.01,sledgehammer
+instrument,implement.n.01,tool,tool.n.01,soldering iron
+instrument,implement.n.01,tool,tool.n.01,spark plug
+instrument,implement.n.01,tool,tool.n.01,staple gun
+instrument,implement.n.01,tool,tool.n.01,strainer
+instrument,implement.n.01,tool,tool.n.01,switch
+instrument,implement.n.01,tool,tool.n.01,tack
+instrument,implement.n.01,tool,tool.n.01,tank
+instrument,implement.n.01,tool,tool.n.01,thermometer
+instrument,implement.n.01,tool,tool.n.01,tool
+instrument,implement.n.01,tool,tool.n.01,trowel
+instrument,implement.n.01,tool,tool.n.01,tweezers
+instrument,implement.n.01,tool,tool.n.01,valve
+instrument,implement.n.01,tool,tool.n.01,vise
+instrument,implement.n.01,tool,tool.n.01,wedge
+instrument,implement.n.01,tool,tool.n.01,wire
+instrument,implement.n.01,tool,tool.n.01,wire cutters
+instrument,implement.n.01,tool,tool.n.01,wrench
+clothing,clothing.n.01,headwear,headgear.n.01,bandanna
+clothing,clothing.n.01,headwear,headgear.n.01,beanie
+clothing,clothing.n.01,headwear,headgear.n.01,bonnet
+clothing,clothing.n.01,headwear,headgear.n.01,bowler hat
+clothing,clothing.n.01,headwear,headgear.n.01,crown
+clothing,clothing.n.01,headwear,headgear.n.01,football helmet
+clothing,clothing.n.01,headwear,headgear.n.01,hairnet
+clothing,clothing.n.01,headwear,headgear.n.01,hat
+clothing,clothing.n.01,headwear,headgear.n.01,headband
+clothing,clothing.n.01,headwear,headgear.n.01,headdress
+clothing,clothing.n.01,headwear,headgear.n.01,headscarf
+clothing,clothing.n.01,headwear,headgear.n.01,helmet
+clothing,clothing.n.01,headwear,headgear.n.01,hood
+clothing,clothing.n.01,headwear,headgear.n.01,sombrero
+clothing,clothing.n.01,headwear,headgear.n.01,tiara
+clothing,clothing.n.01,headwear,headgear.n.01,top hat
+clothing,clothing.n.01,headwear,headgear.n.01,turban
+clothing,clothing.n.01,headwear,headgear.n.01,veil
+clothing,clothing.n.01,headwear,headgear.n.01,wig
+appliance,appliance.n.01,home appliance,home_appliance.n.01,air conditioner
+appliance,appliance.n.01,home appliance,home_appliance.n.01,blender
+appliance,appliance.n.01,home appliance,home_appliance.n.01,blower
+appliance,appliance.n.01,home appliance,home_appliance.n.01,coffeemaker
+appliance,appliance.n.01,home appliance,home_appliance.n.01,cooker
+appliance,appliance.n.01,home appliance,home_appliance.n.01,cooler
+appliance,appliance.n.01,home appliance,home_appliance.n.01,curling iron
+appliance,appliance.n.01,home appliance,home_appliance.n.01,dishwasher
+appliance,appliance.n.01,home appliance,home_appliance.n.01,dryer
+appliance,appliance.n.01,home appliance,home_appliance.n.01,fan
+appliance,appliance.n.01,home appliance,home_appliance.n.01,flatiron
+appliance,appliance.n.01,home appliance,home_appliance.n.01,food processor
+appliance,appliance.n.01,home appliance,home_appliance.n.01,freezer
+appliance,appliance.n.01,home appliance,home_appliance.n.01,hairdryer
+appliance,appliance.n.01,home appliance,home_appliance.n.01,heater
+appliance,appliance.n.01,home appliance,home_appliance.n.01,hotplate
+appliance,appliance.n.01,home appliance,home_appliance.n.01,icemaker
+appliance,appliance.n.01,home appliance,home_appliance.n.01,iron
+appliance,appliance.n.01,home appliance,home_appliance.n.01,juicer
+appliance,appliance.n.01,home appliance,home_appliance.n.01,lawnmower
+appliance,appliance.n.01,home appliance,home_appliance.n.01,meat grinder
+appliance,appliance.n.01,home appliance,home_appliance.n.01,microwave
+appliance,appliance.n.01,home appliance,home_appliance.n.01,mixer
+appliance,appliance.n.01,home appliance,home_appliance.n.01,oven
+appliance,appliance.n.01,home appliance,home_appliance.n.01,refrigerator
+appliance,appliance.n.01,home appliance,home_appliance.n.01,sewing machine
+appliance,appliance.n.01,home appliance,home_appliance.n.01,soda fountain
+appliance,appliance.n.01,home appliance,home_appliance.n.01,stove
+appliance,appliance.n.01,home appliance,home_appliance.n.01,television
+appliance,appliance.n.01,home appliance,home_appliance.n.01,thermostat
+appliance,appliance.n.01,home appliance,home_appliance.n.01,toaster
+appliance,appliance.n.01,home appliance,home_appliance.n.01,toaster oven
+appliance,appliance.n.01,home appliance,home_appliance.n.01,vacuum
+appliance,appliance.n.01,home appliance,home_appliance.n.01,waffle iron
+appliance,appliance.n.01,home appliance,home_appliance.n.01,washing machine
+appliance,appliance.n.01,home appliance,home_appliance.n.01,water cooler
+appliance,appliance.n.01,home appliance,home_appliance.n.01,water heater
+appliance,appliance.n.01,home appliance,home_appliance.n.01,wine cooler
+decoration,decoration.n.01,home decor,decor.n.01,abacus
+decoration,decoration.n.01,home decor,decor.n.01,album
+decoration,decoration.n.01,home decor,decor.n.01,aquarium
+decoration,decoration.n.01,home decor,decor.n.01,birdbath
+decoration,decoration.n.01,home decor,decor.n.01,birdcage
+decoration,decoration.n.01,home decor,decor.n.01,birdhouse
+decoration,decoration.n.01,home decor,decor.n.01,bonsai
+decoration,decoration.n.01,home decor,decor.n.01,candelabra
+decoration,decoration.n.01,home decor,decor.n.01,candle
+decoration,decoration.n.01,home decor,decor.n.01,candlestick
+decoration,decoration.n.01,home decor,decor.n.01,centerpiece
+decoration,decoration.n.01,home decor,decor.n.01,chandelier
+decoration,decoration.n.01,home decor,decor.n.01,christmas tree
+decoration,decoration.n.01,home decor,decor.n.01,coaster
+decoration,decoration.n.01,home decor,decor.n.01,cornucopia
+decoration,decoration.n.01,home decor,decor.n.01,crystal ball
+decoration,decoration.n.01,home decor,decor.n.01,cuckoo clock
+decoration,decoration.n.01,home decor,decor.n.01,curtain
+decoration,decoration.n.01,home decor,decor.n.01,doily
+decoration,decoration.n.01,home decor,decor.n.01,doorknocker
+decoration,decoration.n.01,home decor,decor.n.01,figurine
+decoration,decoration.n.01,home decor,decor.n.01,frame
+decoration,decoration.n.01,home decor,decor.n.01,globe
+decoration,decoration.n.01,home decor,decor.n.01,gourd
+decoration,decoration.n.01,home decor,decor.n.01,hourglass
+decoration,decoration.n.01,home decor,decor.n.01,lamp
+decoration,decoration.n.01,home decor,decor.n.01,lampshade
+decoration,decoration.n.01,home decor,decor.n.01,mirror
+decoration,decoration.n.01,home decor,decor.n.01,pillow
+decoration,decoration.n.01,home decor,decor.n.01,pinecone
+decoration,decoration.n.01,home decor,decor.n.01,pinwheel
+decoration,decoration.n.01,home decor,decor.n.01,place mat
+decoration,decoration.n.01,home decor,decor.n.01,poster
+decoration,decoration.n.01,home decor,decor.n.01,potpourri
+decoration,decoration.n.01,home decor,decor.n.01,rug
+decoration,decoration.n.01,home decor,decor.n.01,scarecrow
+decoration,decoration.n.01,home decor,decor.n.01,stained glass
+decoration,decoration.n.01,home decor,decor.n.01,statue
+decoration,decoration.n.01,home decor,decor.n.01,tapestry
+decoration,decoration.n.01,home decor,decor.n.01,terrarium
+decoration,decoration.n.01,home decor,decor.n.01,vase
+decoration,decoration.n.01,home decor,decor.n.01,wallpaper
+decoration,decoration.n.01,home decor,decor.n.01,weather vane
+decoration,decoration.n.01,home decor,decor.n.01,wind chimes
+decoration,decoration.n.01,home decor,decor.n.01,wreath
+animal,animal.n.01,insect,insect.n.01,ant
+animal,animal.n.01,insect,insect.n.01,bee
+animal,animal.n.01,insect,insect.n.01,beetle
+animal,animal.n.01,insect,insect.n.01,bug
+animal,animal.n.01,insect,insect.n.01,butterfly
+animal,animal.n.01,insect,insect.n.01,caterpillar
+animal,animal.n.01,insect,insect.n.01,cockroach
+animal,animal.n.01,insect,insect.n.01,dragonfly
+animal,animal.n.01,insect,insect.n.01,earwig
+animal,animal.n.01,insect,insect.n.01,fly
+animal,animal.n.01,insect,insect.n.01,grasshopper
+animal,animal.n.01,insect,insect.n.01,ladybug
+animal,animal.n.01,insect,insect.n.01,lightning bug
+animal,animal.n.01,insect,insect.n.01,mosquito
+animal,animal.n.01,insect,insect.n.01,moth
+animal,animal.n.01,insect,insect.n.01,praying mantis
+animal,animal.n.01,insect,insect.n.01,wasp
+decoration,decoration.n.01,jewelry,jewelry.n.01,anklet
+decoration,decoration.n.01,jewelry,jewelry.n.01,barrette
+decoration,decoration.n.01,jewelry,jewelry.n.01,bracelet
+decoration,decoration.n.01,jewelry,jewelry.n.01,brooch
+decoration,decoration.n.01,jewelry,jewelry.n.01,crown
+decoration,decoration.n.01,jewelry,jewelry.n.01,cufflink
+decoration,decoration.n.01,jewelry,jewelry.n.01,earring
+decoration,decoration.n.01,jewelry,jewelry.n.01,hairpin
+decoration,decoration.n.01,jewelry,jewelry.n.01,jewelry
+decoration,decoration.n.01,jewelry,jewelry.n.01,locket
+decoration,decoration.n.01,jewelry,jewelry.n.01,necklace
+decoration,decoration.n.01,jewelry,jewelry.n.01,pocket watch
+decoration,decoration.n.01,jewelry,jewelry.n.01,ring
+decoration,decoration.n.01,jewelry,jewelry.n.01,tiara
+decoration,decoration.n.01,jewelry,jewelry.n.01,watch
+home appliance,home_appliance.n.01,kitchen appliance,kitchen_appliance.n.01,blender
+home appliance,home_appliance.n.01,kitchen appliance,kitchen_appliance.n.01,burner
+home appliance,home_appliance.n.01,kitchen appliance,kitchen_appliance.n.01,coffeemaker
+home appliance,home_appliance.n.01,kitchen appliance,kitchen_appliance.n.01,cooker
+home appliance,home_appliance.n.01,kitchen appliance,kitchen_appliance.n.01,dishwasher
+home appliance,home_appliance.n.01,kitchen appliance,kitchen_appliance.n.01,food processor
+home appliance,home_appliance.n.01,kitchen appliance,kitchen_appliance.n.01,freezer
+home appliance,home_appliance.n.01,kitchen appliance,kitchen_appliance.n.01,hotplate
+home appliance,home_appliance.n.01,kitchen appliance,kitchen_appliance.n.01,icemaker
+home appliance,home_appliance.n.01,kitchen appliance,kitchen_appliance.n.01,juicer
+home appliance,home_appliance.n.01,kitchen appliance,kitchen_appliance.n.01,microwave
+home appliance,home_appliance.n.01,kitchen appliance,kitchen_appliance.n.01,mixer
+home appliance,home_appliance.n.01,kitchen appliance,kitchen_appliance.n.01,oven
+home appliance,home_appliance.n.01,kitchen appliance,kitchen_appliance.n.01,refrigerator
+home appliance,home_appliance.n.01,kitchen appliance,kitchen_appliance.n.01,slicer
+home appliance,home_appliance.n.01,kitchen appliance,kitchen_appliance.n.01,stove
+home appliance,home_appliance.n.01,kitchen appliance,kitchen_appliance.n.01,toaster
+home appliance,home_appliance.n.01,kitchen appliance,kitchen_appliance.n.01,toaster oven
+home appliance,home_appliance.n.01,kitchen appliance,kitchen_appliance.n.01,waffle iron
+home appliance,home_appliance.n.01,kitchen appliance,kitchen_appliance.n.01,water filter
+tool,tool.n.01,kitchen tool,-,bottle opener
+tool,tool.n.01,kitchen tool,-,can opener
+tool,tool.n.01,kitchen tool,-,cleaver
+tool,tool.n.01,kitchen tool,-,corkscrew
+tool,tool.n.01,kitchen tool,-,eggbeater
+tool,tool.n.01,kitchen tool,-,funnel
+tool,tool.n.01,kitchen tool,-,grater
+tool,tool.n.01,kitchen tool,-,grinder
+tool,tool.n.01,kitchen tool,-,icepick
+tool,tool.n.01,kitchen tool,-,juicer
+tool,tool.n.01,kitchen tool,-,kettle
+tool,tool.n.01,kitchen tool,-,knife
+tool,tool.n.01,kitchen tool,-,ladle
+tool,tool.n.01,kitchen tool,-,measuring cup
+tool,tool.n.01,kitchen tool,-,nutcracker
+tool,tool.n.01,kitchen tool,-,peeler
+tool,tool.n.01,kitchen tool,-,pepper mill
+tool,tool.n.01,kitchen tool,-,rolling pin
+tool,tool.n.01,kitchen tool,-,scoop
+tool,tool.n.01,kitchen tool,-,sifter
+tool,tool.n.01,kitchen tool,-,skewer
+tool,tool.n.01,kitchen tool,-,spatula
+tool,tool.n.01,kitchen tool,-,spoon
+tool,tool.n.01,kitchen tool,-,strainer
+tool,tool.n.01,kitchen tool,-,timer
+tool,tool.n.01,kitchen tool,-,tongs
+tool,tool.n.01,kitchen tool,-,whisk
+equipment,equipment.n.01,lighting,lighting.n.02,candelabra
+equipment,equipment.n.01,lighting,lighting.n.02,candle
+equipment,equipment.n.01,lighting,lighting.n.02,chandelier
+equipment,equipment.n.01,lighting,lighting.n.02,flashbulb
+equipment,equipment.n.01,lighting,lighting.n.02,flashlight
+equipment,equipment.n.01,lighting,lighting.n.02,headlamp
+equipment,equipment.n.01,lighting,lighting.n.02,headlight
+equipment,equipment.n.01,lighting,lighting.n.02,lamp
+equipment,equipment.n.01,lighting,lighting.n.02,lantern
+equipment,equipment.n.01,lighting,lighting.n.02,lightbulb
+equipment,equipment.n.01,lighting,lighting.n.02,lighter
+equipment,equipment.n.01,lighting,lighting.n.02,match
+equipment,equipment.n.01,lighting,lighting.n.02,penlight
+equipment,equipment.n.01,lighting,lighting.n.02,streetlight
+equipment,equipment.n.01,lighting,lighting.n.02,taillight
+equipment,equipment.n.01,lighting,lighting.n.02,torch
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,aardvark
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,alpaca
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,anteater
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,antelope
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,badger
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,bat
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,bear
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,beaver
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,bison
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,boar
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,bull
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,calf
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,camel
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,cat
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,cheetah
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,chihuahua
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,chinchilla
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,chipmunk
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,cougar
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,cow
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,coyote
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,dalmatian
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,deer
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,dog
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,dolphin
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,donkey
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,elephant
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,ferret
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,fox
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,gazelle
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,giraffe
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,goat
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,gopher
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,gorilla
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,groundhog
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,guinea pig
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,hamster
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,hedgehog
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,hippopotamus
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,horse
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,hyena
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,kangaroo
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,kitten
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,koala
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,lamb
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,leopard
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,lion
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,llama
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,manatee
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,meerkat
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,mole
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,mongoose
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,monkey
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,moose
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,mouse
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,orangutan
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,otter
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,panda
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,panther
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,pig
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,piglet
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,platypus
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,polar bear
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,pony
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,poodle
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,porcupine
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,possum
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,pug
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,puppy
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,rabbit
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,raccoon
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,ram
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,rat
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,reindeer
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,rhinoceros
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,seal
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,sheep
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,skunk
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,sloth
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,squirrel
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,tiger
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,walrus
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,warthog
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,weasel
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,whale
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,wolf
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,yak
+vertebrate,vertebrate.n.01,mammal,mammal.n.01,zebra
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,bandage
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,bedpan
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,brace
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,cane
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,crutch
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,defibrillator
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,eye patch
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,eyedropper
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,first-aid kit
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,gauze
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,gurney
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,hearing aid
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,ice pack
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,inhaler
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,penlight
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,pillbox
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,plaster cast
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,scalpel
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,sling
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,stethoscope
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,stretcher
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,swab
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,syringe
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,tweezers
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,vial
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,walker
+instrument,instrument.n.01,medical equipment,medical_instrument.n.01,wheelchair
+device,device.n.01,musical instrument,musical_instrument.n.01,accordion
+device,device.n.01,musical instrument,musical_instrument.n.01,bagpipe
+device,device.n.01,musical instrument,musical_instrument.n.01,banjo
+device,device.n.01,musical instrument,musical_instrument.n.01,bassoon
+device,device.n.01,musical instrument,musical_instrument.n.01,bell
+device,device.n.01,musical instrument,musical_instrument.n.01,bongo
+device,device.n.01,musical instrument,musical_instrument.n.01,cello
+device,device.n.01,musical instrument,musical_instrument.n.01,chime
+device,device.n.01,musical instrument,musical_instrument.n.01,clarinet
+device,device.n.01,musical instrument,musical_instrument.n.01,cymbal
+device,device.n.01,musical instrument,musical_instrument.n.01,drum
+device,device.n.01,musical instrument,musical_instrument.n.01,flute
+device,device.n.01,musical instrument,musical_instrument.n.01,french horn
+device,device.n.01,musical instrument,musical_instrument.n.01,gong
+device,device.n.01,musical instrument,musical_instrument.n.01,guitar
+device,device.n.01,musical instrument,musical_instrument.n.01,harmonica
+device,device.n.01,musical instrument,musical_instrument.n.01,harp
+device,device.n.01,musical instrument,musical_instrument.n.01,horn
+device,device.n.01,musical instrument,musical_instrument.n.01,kazoo
+device,device.n.01,musical instrument,musical_instrument.n.01,keyboard
+device,device.n.01,musical instrument,musical_instrument.n.01,mandolin
+device,device.n.01,musical instrument,musical_instrument.n.01,organ
+device,device.n.01,musical instrument,musical_instrument.n.01,piano
+device,device.n.01,musical instrument,musical_instrument.n.01,recorder
+device,device.n.01,musical instrument,musical_instrument.n.01,saxophone
+device,device.n.01,musical instrument,musical_instrument.n.01,tambourine
+device,device.n.01,musical instrument,musical_instrument.n.01,triangle
+device,device.n.01,musical instrument,musical_instrument.n.01,trombone
+device,device.n.01,musical instrument,musical_instrument.n.01,trumpet
+device,device.n.01,musical instrument,musical_instrument.n.01,tuba
+device,device.n.01,musical instrument,musical_instrument.n.01,ukulele
+device,device.n.01,musical instrument,musical_instrument.n.01,violin
+device,device.n.01,musical instrument,musical_instrument.n.01,xylophone
+artifact,artifact.n.01,office supply,-,binder
+artifact,artifact.n.01,office supply,-,clipboard
+artifact,artifact.n.01,office supply,-,envelope
+artifact,artifact.n.01,office supply,-,eraser
+artifact,artifact.n.01,office supply,-,file
+artifact,artifact.n.01,office supply,-,folder
+artifact,artifact.n.01,office supply,-,fountain pen
+artifact,artifact.n.01,office supply,-,glue
+artifact,artifact.n.01,office supply,-,highlighter
+artifact,artifact.n.01,office supply,-,ink
+artifact,artifact.n.01,office supply,-,notebook
+artifact,artifact.n.01,office supply,-,notepad
+artifact,artifact.n.01,office supply,-,paper
+artifact,artifact.n.01,office supply,-,paperclip
+artifact,artifact.n.01,office supply,-,pen
+artifact,artifact.n.01,office supply,-,pencil
+artifact,artifact.n.01,office supply,-,pencil sharpener
+artifact,artifact.n.01,office supply,-,punch
+artifact,artifact.n.01,office supply,-,rubber band
+artifact,artifact.n.01,office supply,-,scissors
+artifact,artifact.n.01,office supply,-,staple
+artifact,artifact.n.01,office supply,-,stapler
+artifact,artifact.n.01,office supply,-,tack
+artifact,artifact.n.01,office supply,-,tape
+artifact,artifact.n.01,office supply,-,thumbtack
+clothing,clothing.n.01,outerwear,outerwear.n.01,apron
+clothing,clothing.n.01,outerwear,outerwear.n.01,blazer
+clothing,clothing.n.01,outerwear,outerwear.n.01,cape
+clothing,clothing.n.01,outerwear,outerwear.n.01,cloak
+clothing,clothing.n.01,outerwear,outerwear.n.01,coat
+clothing,clothing.n.01,outerwear,outerwear.n.01,coverall
+clothing,clothing.n.01,outerwear,outerwear.n.01,fur coat
+clothing,clothing.n.01,outerwear,outerwear.n.01,glove
+clothing,clothing.n.01,outerwear,outerwear.n.01,jacket
+clothing,clothing.n.01,outerwear,outerwear.n.01,jumpsuit
+clothing,clothing.n.01,outerwear,outerwear.n.01,lab coat
+clothing,clothing.n.01,outerwear,outerwear.n.01,overalls
+clothing,clothing.n.01,outerwear,outerwear.n.01,raincoat
+clothing,clothing.n.01,outerwear,outerwear.n.01,scarf
+clothing,clothing.n.01,outerwear,outerwear.n.01,shawl
+clothing,clothing.n.01,outerwear,outerwear.n.01,snowsuit
+component,component.n.01,auto part,auto_part.n.01,airbag
+component,component.n.01,auto part,auto_part.n.01,brake
+component,component.n.01,auto part,auto_part.n.01,bumper
+component,component.n.01,auto part,auto_part.n.01,car door
+component,component.n.01,auto part,auto_part.n.01,car seat
+component,component.n.01,auto part,auto_part.n.01,dashboard
+component,component.n.01,auto part,auto_part.n.01,engine
+component,component.n.01,auto part,auto_part.n.01,exhaust pipe
+component,component.n.01,auto part,auto_part.n.01,gasket
+component,component.n.01,auto part,auto_part.n.01,gearshift
+component,component.n.01,auto part,auto_part.n.01,grille
+component,component.n.01,auto part,auto_part.n.01,handbrake
+component,component.n.01,auto part,auto_part.n.01,headlight
+component,component.n.01,auto part,auto_part.n.01,headrest
+component,component.n.01,auto part,auto_part.n.01,hubcap
+component,component.n.01,auto part,auto_part.n.01,license plate
+component,component.n.01,auto part,auto_part.n.01,odometer
+component,component.n.01,auto part,auto_part.n.01,pedal
+component,component.n.01,auto part,auto_part.n.01,rearview mirror
+component,component.n.01,auto part,auto_part.n.01,rim
+component,component.n.01,auto part,auto_part.n.01,roof rack
+component,component.n.01,auto part,auto_part.n.01,seatbelt
+component,component.n.01,auto part,auto_part.n.01,spark plug
+component,component.n.01,auto part,auto_part.n.01,speedometer
+component,component.n.01,auto part,auto_part.n.01,steering wheel
+component,component.n.01,auto part,auto_part.n.01,sunroof
+component,component.n.01,auto part,auto_part.n.01,taillight
+component,component.n.01,auto part,auto_part.n.01,wheel
+component,component.n.01,auto part,auto_part.n.01,windshield
+component,component.n.01,auto part,auto_part.n.01,windshield wiper
+utilities,-,toiletry,toiletry.n.01,clipper
+utilities,-,toiletry,toiletry.n.01,comb
+utilities,-,toiletry,toiletry.n.01,curling iron
+utilities,-,toiletry,toiletry.n.01,deodorant
+utilities,-,toiletry,toiletry.n.01,diaper
+utilities,-,toiletry,toiletry.n.01,eyeliner
+utilities,-,toiletry,toiletry.n.01,flatiron
+utilities,-,toiletry,toiletry.n.01,floss
+utilities,-,toiletry,toiletry.n.01,hairbrush
+utilities,-,toiletry,toiletry.n.01,hairdryer
+utilities,-,toiletry,toiletry.n.01,hairspray
+utilities,-,toiletry,toiletry.n.01,lip balm
+utilities,-,toiletry,toiletry.n.01,lip gloss
+utilities,-,toiletry,toiletry.n.01,lipstick
+utilities,-,toiletry,toiletry.n.01,makeup
+utilities,-,toiletry,toiletry.n.01,mascara
+utilities,-,toiletry,toiletry.n.01,nail clippers
+utilities,-,toiletry,toiletry.n.01,nail file
+utilities,-,toiletry,toiletry.n.01,nail polish
+utilities,-,toiletry,toiletry.n.01,perfume
+utilities,-,toiletry,toiletry.n.01,razor
+utilities,-,toiletry,toiletry.n.01,shaving cream
+utilities,-,toiletry,toiletry.n.01,shower cap
+utilities,-,toiletry,toiletry.n.01,soap
+utilities,-,toiletry,toiletry.n.01,swab
+utilities,-,toiletry,toiletry.n.01,toilet paper
+utilities,-,toiletry,toiletry.n.01,toothbrush
+utilities,-,toiletry,toiletry.n.01,toothpaste
+utilities,-,toiletry,toiletry.n.01,toothpick
+utilities,-,toiletry,toiletry.n.01,tweezers
+utilities,-,toiletry,toiletry.n.01,washcloth
+organism,organism.n.01,plant,plant.n.02,aloe
+organism,organism.n.01,plant,plant.n.02,apple tree
+organism,organism.n.01,plant,plant.n.02,artichoke
+organism,organism.n.01,plant,plant.n.02,arugula
+organism,organism.n.01,plant,plant.n.02,asparagus
+organism,organism.n.01,plant,plant.n.02,bamboo
+organism,organism.n.01,plant,plant.n.02,basil
+organism,organism.n.01,plant,plant.n.02,bok choy
+organism,organism.n.01,plant,plant.n.02,bonsai
+organism,organism.n.01,plant,plant.n.02,broccoli
+organism,organism.n.01,plant,plant.n.02,bush
+organism,organism.n.01,plant,plant.n.02,cabbage
+organism,organism.n.01,plant,plant.n.02,cactus
+organism,organism.n.01,plant,plant.n.02,chive
+organism,organism.n.01,plant,plant.n.02,cilantro
+organism,organism.n.01,plant,plant.n.02,clover
+organism,organism.n.01,plant,plant.n.02,corn
+organism,organism.n.01,plant,plant.n.02,daisy
+organism,organism.n.01,plant,plant.n.02,dandelion
+organism,organism.n.01,plant,plant.n.02,fern
+organism,organism.n.01,plant,plant.n.02,flower
+organism,organism.n.01,plant,plant.n.02,grapevine
+organism,organism.n.01,plant,plant.n.02,grass
+organism,organism.n.01,plant,plant.n.02,hedge
+organism,organism.n.01,plant,plant.n.02,ivy
+organism,organism.n.01,plant,plant.n.02,kale
+organism,organism.n.01,plant,plant.n.02,lavender
+organism,organism.n.01,plant,plant.n.02,leek
+organism,organism.n.01,plant,plant.n.02,lettuce
+organism,organism.n.01,plant,plant.n.02,marijuana
+organism,organism.n.01,plant,plant.n.02,mint
+organism,organism.n.01,plant,plant.n.02,moss
+organism,organism.n.01,plant,plant.n.02,orchid
+organism,organism.n.01,plant,plant.n.02,palm tree
+organism,organism.n.01,plant,plant.n.02,parsley
+organism,organism.n.01,plant,plant.n.02,pine tree
+organism,organism.n.01,plant,plant.n.02,plant
+organism,organism.n.01,plant,plant.n.02,poinsettia
+organism,organism.n.01,plant,plant.n.02,poppy
+organism,organism.n.01,plant,plant.n.02,rose
+organism,organism.n.01,plant,plant.n.02,seaweed
+organism,organism.n.01,plant,plant.n.02,spinach
+organism,organism.n.01,plant,plant.n.02,sunflower
+organism,organism.n.01,plant,plant.n.02,tree
+organism,organism.n.01,plant,plant.n.02,tulip
+organism,organism.n.01,plant,plant.n.02,tumbleweed
+organism,organism.n.01,plant,plant.n.02,weed
+clothing,clothing.n.01,protective clothing,-,apron
+clothing,clothing.n.01,protective clothing,-,armor
+clothing,clothing.n.01,protective clothing,-,bulletproof vest
+clothing,clothing.n.01,protective clothing,-,coverall
+clothing,clothing.n.01,protective clothing,-,face mask
+clothing,clothing.n.01,protective clothing,-,football helmet
+clothing,clothing.n.01,protective clothing,-,glove
+clothing,clothing.n.01,protective clothing,-,helmet
+clothing,clothing.n.01,protective clothing,-,kneepad
+clothing,clothing.n.01,protective clothing,-,lab coat
+clothing,clothing.n.01,protective clothing,-,life jacket
+clothing,clothing.n.01,protective clothing,-,overalls
+clothing,clothing.n.01,protective clothing,-,raincoat
+clothing,clothing.n.01,protective clothing,-,spacesuit
+clothing,clothing.n.01,protective clothing,-,visor
+clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,-,wetsuit
+artifact,artifact.n.01,school supply,-,backpack
+artifact,artifact.n.01,school supply,-,binder
+artifact,artifact.n.01,school supply,-,book
+artifact,artifact.n.01,school supply,-,calculator
+artifact,artifact.n.01,school supply,-,chalk
+artifact,artifact.n.01,school supply,-,chalkboard
+artifact,artifact.n.01,school supply,-,crayon
+artifact,artifact.n.01,school supply,-,eraser
+artifact,artifact.n.01,school supply,-,folder
+artifact,artifact.n.01,school supply,-,fountain pen
+artifact,artifact.n.01,school supply,-,glue
+artifact,artifact.n.01,school supply,-,highlighter
+artifact,artifact.n.01,school supply,-,ink
+artifact,artifact.n.01,school supply,-,inkwell
+artifact,artifact.n.01,school supply,-,lunchbox
+artifact,artifact.n.01,school supply,-,marker
+artifact,artifact.n.01,school supply,-,notebook
+artifact,artifact.n.01,school supply,-,notepad
+artifact,artifact.n.01,school supply,-,paper
+artifact,artifact.n.01,school supply,-,paperclip
+artifact,artifact.n.01,school supply,-,pen
+artifact,artifact.n.01,school supply,-,pencil
+artifact,artifact.n.01,school supply,-,pencil sharpener
+artifact,artifact.n.01,school supply,-,ruler
+artifact,artifact.n.01,school supply,-,stapler
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+artifact,artifact.n.01,school supply,-,whiteboard
+animal,animal.n.01,sea animal,sea_animal.n.01,barnacle
+animal,animal.n.01,sea animal,sea_animal.n.01,blowfish
+animal,animal.n.01,sea animal,sea_animal.n.01,catfish
+animal,animal.n.01,sea animal,sea_animal.n.01,clam
+animal,animal.n.01,sea animal,sea_animal.n.01,coral
+animal,animal.n.01,sea animal,sea_animal.n.01,crab
+animal,animal.n.01,sea animal,sea_animal.n.01,dolphin
+animal,animal.n.01,sea animal,sea_animal.n.01,eel
+animal,animal.n.01,sea animal,sea_animal.n.01,fish
+animal,animal.n.01,sea animal,sea_animal.n.01,jellyfish
+animal,animal.n.01,sea animal,sea_animal.n.01,lobster
+animal,animal.n.01,sea animal,sea_animal.n.01,manatee
+animal,animal.n.01,sea animal,sea_animal.n.01,mussel
+animal,animal.n.01,sea animal,sea_animal.n.01,octopus
+animal,animal.n.01,sea animal,sea_animal.n.01,oyster
+animal,animal.n.01,sea animal,sea_animal.n.01,sardine
+animal,animal.n.01,sea animal,sea_animal.n.01,scallop
+animal,animal.n.01,sea animal,sea_animal.n.01,sea urchin
+animal,animal.n.01,sea animal,sea_animal.n.01,seahorse
+animal,animal.n.01,sea animal,sea_animal.n.01,seal
+animal,animal.n.01,sea animal,sea_animal.n.01,shark
+animal,animal.n.01,sea animal,sea_animal.n.01,shrimp
+animal,animal.n.01,sea animal,sea_animal.n.01,snail
+animal,animal.n.01,sea animal,sea_animal.n.01,squid
+animal,animal.n.01,sea animal,sea_animal.n.01,starfish
+animal,animal.n.01,sea animal,sea_animal.n.01,stingray
+animal,animal.n.01,sea animal,sea_animal.n.01,swordfish
+animal,animal.n.01,sea animal,sea_animal.n.01,turtle
+animal,animal.n.01,sea animal,sea_animal.n.01,walrus
+animal,animal.n.01,sea animal,sea_animal.n.01,whale
+food,food.n.01,seafood,seafood.n.01,blowfish
+food,food.n.01,seafood,seafood.n.01,calamari
+food,food.n.01,seafood,seafood.n.01,catfish
+food,food.n.01,seafood,seafood.n.01,caviar
+food,food.n.01,seafood,seafood.n.01,clam
+food,food.n.01,seafood,seafood.n.01,crab
+food,food.n.01,seafood,seafood.n.01,crayfish
+food,food.n.01,seafood,seafood.n.01,eel
+food,food.n.01,seafood,seafood.n.01,fish
+food,food.n.01,seafood,seafood.n.01,jellyfish
+food,food.n.01,seafood,seafood.n.01,lobster
+food,food.n.01,seafood,seafood.n.01,mussel
+food,food.n.01,seafood,seafood.n.01,octopus
+food,food.n.01,seafood,seafood.n.01,oyster
+food,food.n.01,seafood,seafood.n.01,sardine
+food,food.n.01,seafood,seafood.n.01,scallop
+food,food.n.01,seafood,seafood.n.01,sea urchin
+food,food.n.01,seafood,seafood.n.01,seafood
+food,food.n.01,seafood,seafood.n.01,seaweed
+food,food.n.01,seafood,seafood.n.01,shark
+food,food.n.01,seafood,seafood.n.01,shrimp
+food,food.n.01,seafood,seafood.n.01,snail
+food,food.n.01,seafood,seafood.n.01,squid
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+food,food.n.01,seafood,seafood.n.01,swordfish
+instrument,instrument.n.01,tool,tool.n.01,air pump
+instrument,instrument.n.01,tool,tool.n.01,anvil
+instrument,instrument.n.01,tool,tool.n.01,axe
+instrument,instrument.n.01,tool,tool.n.01,backscratcher
+instrument,instrument.n.01,tool,tool.n.01,blower
+instrument,instrument.n.01,tool,tool.n.01,blowtorch
+instrument,instrument.n.01,tool,tool.n.01,bottle opener
+instrument,instrument.n.01,tool,tool.n.01,broom
+instrument,instrument.n.01,tool,tool.n.01,brush
+instrument,instrument.n.01,tool,tool.n.01,can opener
+instrument,instrument.n.01,tool,tool.n.01,chain
+instrument,instrument.n.01,tool,tool.n.01,chainsaw
+instrument,instrument.n.01,tool,tool.n.01,chisel
+instrument,instrument.n.01,tool,tool.n.01,chopsticks
+instrument,instrument.n.01,tool,tool.n.01,cleaver
+instrument,instrument.n.01,tool,tool.n.01,clipper
+instrument,instrument.n.01,tool,tool.n.01,corkscrew
+instrument,instrument.n.01,tool,tool.n.01,crank
+instrument,instrument.n.01,tool,tool.n.01,crowbar
+instrument,instrument.n.01,tool,tool.n.01,curling iron
+instrument,instrument.n.01,tool,tool.n.01,drill
+instrument,instrument.n.01,tool,tool.n.01,duster
+instrument,instrument.n.01,tool,tool.n.01,dustpan
+instrument,instrument.n.01,tool,tool.n.01,eggbeater
+instrument,instrument.n.01,tool,tool.n.01,file
+instrument,instrument.n.01,tool,tool.n.01,flyswatter
+instrument,instrument.n.01,tool,tool.n.01,fork
+instrument,instrument.n.01,tool,tool.n.01,fountain pen
+instrument,instrument.n.01,tool,tool.n.01,funnel
+instrument,instrument.n.01,tool,tool.n.01,gavel
+instrument,instrument.n.01,tool,tool.n.01,grater
+instrument,instrument.n.01,tool,tool.n.01,grinder
+instrument,instrument.n.01,tool,tool.n.01,hammer
+instrument,instrument.n.01,tool,tool.n.01,hoe
+instrument,instrument.n.01,tool,tool.n.01,hose
+instrument,instrument.n.01,tool,tool.n.01,icepick
+instrument,instrument.n.01,tool,tool.n.01,jack
+instrument,instrument.n.01,tool,tool.n.01,jackhammer
+instrument,instrument.n.01,tool,tool.n.01,knife
+instrument,instrument.n.01,tool,tool.n.01,ladder
+instrument,instrument.n.01,tool,tool.n.01,ladle
+instrument,instrument.n.01,tool,tool.n.01,letter opener
+instrument,instrument.n.01,tool,tool.n.01,lighter
+instrument,instrument.n.01,tool,tool.n.01,magnifier
+instrument,instrument.n.01,tool,tool.n.01,magnifying glass
+instrument,instrument.n.01,tool,tool.n.01,mallet
+instrument,instrument.n.01,tool,tool.n.01,marker
+instrument,instrument.n.01,tool,tool.n.01,match
+instrument,instrument.n.01,tool,tool.n.01,metal detector
+instrument,instrument.n.01,tool,tool.n.01,mop
+instrument,instrument.n.01,tool,tool.n.01,nail clippers
+instrument,instrument.n.01,tool,tool.n.01,nail file
+instrument,instrument.n.01,tool,tool.n.01,needle
+instrument,instrument.n.01,tool,tool.n.01,nutcracker
+instrument,instrument.n.01,tool,tool.n.01,paintbrush
+instrument,instrument.n.01,tool,tool.n.01,peeler
+instrument,instrument.n.01,tool,tool.n.01,pen
+instrument,instrument.n.01,tool,tool.n.01,pencil
+instrument,instrument.n.01,tool,tool.n.01,pencil sharpener
+instrument,instrument.n.01,tool,tool.n.01,penlight
+instrument,instrument.n.01,tool,tool.n.01,pickax
+instrument,instrument.n.01,tool,tool.n.01,pin
+instrument,instrument.n.01,tool,tool.n.01,pitchfork
+instrument,instrument.n.01,tool,tool.n.01,pliers
+instrument,instrument.n.01,tool,tool.n.01,plunger
+instrument,instrument.n.01,tool,tool.n.01,pocketknife
+instrument,instrument.n.01,tool,tool.n.01,poker
+instrument,instrument.n.01,tool,tool.n.01,polisher
+instrument,instrument.n.01,tool,tool.n.01,punch
+instrument,instrument.n.01,tool,tool.n.01,quill
+instrument,instrument.n.01,tool,tool.n.01,rake
+instrument,instrument.n.01,tool,tool.n.01,ratchet
+instrument,instrument.n.01,tool,tool.n.01,razor
+instrument,instrument.n.01,tool,tool.n.01,rolling pin
+instrument,instrument.n.01,tool,tool.n.01,rope
+instrument,instrument.n.01,tool,tool.n.01,ruler
+instrument,instrument.n.01,tool,tool.n.01,sandpaper
+instrument,instrument.n.01,tool,tool.n.01,saw
+instrument,instrument.n.01,tool,tool.n.01,sawhorse
+instrument,instrument.n.01,tool,tool.n.01,scalpel
+instrument,instrument.n.01,tool,tool.n.01,scissors
+instrument,instrument.n.01,tool,tool.n.01,scoop
+instrument,instrument.n.01,tool,tool.n.01,scraper
+instrument,instrument.n.01,tool,tool.n.01,screwdriver
+instrument,instrument.n.01,tool,tool.n.01,shears
+instrument,instrument.n.01,tool,tool.n.01,shovel
+instrument,instrument.n.01,tool,tool.n.01,sickle
+instrument,instrument.n.01,tool,tool.n.01,sledgehammer
+instrument,instrument.n.01,tool,tool.n.01,soldering iron
+instrument,instrument.n.01,tool,tool.n.01,spatula
+instrument,instrument.n.01,tool,tool.n.01,spoon
+instrument,instrument.n.01,tool,tool.n.01,squeegee
+instrument,instrument.n.01,tool,tool.n.01,stamp
+instrument,instrument.n.01,tool,tool.n.01,staple gun
+instrument,instrument.n.01,tool,tool.n.01,sweeper
+instrument,instrument.n.01,tool,tool.n.01,tape measure
+instrument,instrument.n.01,tool,tool.n.01,tongs
+instrument,instrument.n.01,tool,tool.n.01,tool
+instrument,instrument.n.01,tool,tool.n.01,trident
+instrument,instrument.n.01,tool,tool.n.01,trowel
+instrument,instrument.n.01,tool,tool.n.01,tweezers
+instrument,instrument.n.01,tool,tool.n.01,vacuum
+instrument,instrument.n.01,tool,tool.n.01,vise
+instrument,instrument.n.01,tool,tool.n.01,watering can
+instrument,instrument.n.01,tool,tool.n.01,wedge
+instrument,instrument.n.01,tool,tool.n.01,wire cutters
+instrument,instrument.n.01,tool,tool.n.01,wrench
+artifact,artifact.n.01,toy,toy.n.01,ball
+artifact,artifact.n.01,toy,toy.n.01,balloon
+artifact,artifact.n.01,toy,toy.n.01,beachball
+artifact,artifact.n.01,toy,toy.n.01,boomerang
+artifact,artifact.n.01,toy,toy.n.01,crayon
+artifact,artifact.n.01,toy,toy.n.01,doll
+artifact,artifact.n.01,toy,toy.n.01,dollhouse
+artifact,artifact.n.01,toy,toy.n.01,dreidel
+artifact,artifact.n.01,toy,toy.n.01,frisbee
+artifact,artifact.n.01,toy,toy.n.01,gyroscope
+artifact,artifact.n.01,toy,toy.n.01,hobbyhorse
+artifact,artifact.n.01,toy,toy.n.01,hula hoop
+artifact,artifact.n.01,toy,toy.n.01,kaleidoscope
+artifact,artifact.n.01,toy,toy.n.01,kite
+artifact,artifact.n.01,toy,toy.n.01,lego
+artifact,artifact.n.01,toy,toy.n.01,marble
+artifact,artifact.n.01,toy,toy.n.01,music box
+artifact,artifact.n.01,toy,toy.n.01,noisemaker
+artifact,artifact.n.01,toy,toy.n.01,pinwheel
+artifact,artifact.n.01,toy,toy.n.01,pogo stick
+artifact,artifact.n.01,toy,toy.n.01,puppet
+artifact,artifact.n.01,toy,toy.n.01,rattle
+artifact,artifact.n.01,toy,toy.n.01,robot
+artifact,artifact.n.01,toy,toy.n.01,rocking horse
+artifact,artifact.n.01,toy,toy.n.01,scooter
+artifact,artifact.n.01,toy,toy.n.01,skateboard
+artifact,artifact.n.01,toy,toy.n.01,slingshot
+artifact,artifact.n.01,toy,toy.n.01,squirt gun
+artifact,artifact.n.01,toy,toy.n.01,stilt
+artifact,artifact.n.01,toy,toy.n.01,teddy bear
+artifact,artifact.n.01,toy,toy.n.01,toy
+artifact,artifact.n.01,toy,toy.n.01,train set
+artifact,artifact.n.01,toy,toy.n.01,whoopee cushion
+artifact,artifact.n.01,toy,toy.n.01,yo-yo
+produce,produce.n.01,vegetable,vegetable.n.01,artichoke
+produce,produce.n.01,vegetable,vegetable.n.01,arugula
+produce,produce.n.01,vegetable,vegetable.n.01,asparagus
+produce,produce.n.01,vegetable,vegetable.n.01,beet
+produce,produce.n.01,vegetable,vegetable.n.01,bell pepper
+produce,produce.n.01,vegetable,vegetable.n.01,bok choy
+produce,produce.n.01,vegetable,vegetable.n.01,broccoli
+produce,produce.n.01,vegetable,vegetable.n.01,brussels sprouts
+produce,produce.n.01,vegetable,vegetable.n.01,cabbage
+produce,produce.n.01,vegetable,vegetable.n.01,carrot
+produce,produce.n.01,vegetable,vegetable.n.01,cauliflower
+produce,produce.n.01,vegetable,vegetable.n.01,celery
+produce,produce.n.01,vegetable,vegetable.n.01,chickpea
+produce,produce.n.01,vegetable,vegetable.n.01,chive
+produce,produce.n.01,vegetable,vegetable.n.01,cilantro
+produce,produce.n.01,vegetable,vegetable.n.01,corn
+produce,produce.n.01,vegetable,vegetable.n.01,cucumber
+produce,produce.n.01,vegetable,vegetable.n.01,eggplant
+produce,produce.n.01,vegetable,vegetable.n.01,garlic
+produce,produce.n.01,vegetable,vegetable.n.01,gourd
+produce,produce.n.01,vegetable,vegetable.n.01,green beans
+produce,produce.n.01,vegetable,vegetable.n.01,jalapeno
+produce,produce.n.01,vegetable,vegetable.n.01,kale
+produce,produce.n.01,vegetable,vegetable.n.01,leek
+produce,produce.n.01,vegetable,vegetable.n.01,lettuce
+produce,produce.n.01,vegetable,vegetable.n.01,okra
+produce,produce.n.01,vegetable,vegetable.n.01,onion
+produce,produce.n.01,vegetable,vegetable.n.01,parsley
+produce,produce.n.01,vegetable,vegetable.n.01,pea
+produce,produce.n.01,vegetable,vegetable.n.01,pepper
+produce,produce.n.01,vegetable,vegetable.n.01,potato
+produce,produce.n.01,vegetable,vegetable.n.01,pumpkin
+produce,produce.n.01,vegetable,vegetable.n.01,radish
+produce,produce.n.01,vegetable,vegetable.n.01,rhubarb
+produce,produce.n.01,vegetable,vegetable.n.01,scallion
+produce,produce.n.01,vegetable,vegetable.n.01,spinach
+produce,produce.n.01,vegetable,vegetable.n.01,sprouts
+produce,produce.n.01,vegetable,vegetable.n.01,squash
+produce,produce.n.01,vegetable,vegetable.n.01,sweet potato
+produce,produce.n.01,vegetable,vegetable.n.01,tomato
+produce,produce.n.01,vegetable,vegetable.n.01,vegetable
+produce,produce.n.01,vegetable,vegetable.n.01,zucchini
+transportation,transport.n.01,vehicle,vehicle.n.01,airboat
+transportation,transport.n.01,vehicle,vehicle.n.01,aircraft carrier
+transportation,transport.n.01,vehicle,vehicle.n.01,airplane
+transportation,transport.n.01,vehicle,vehicle.n.01,ambulance
+transportation,transport.n.01,vehicle,vehicle.n.01,bike
+transportation,transport.n.01,vehicle,vehicle.n.01,boat
+transportation,transport.n.01,vehicle,vehicle.n.01,buggy
+transportation,transport.n.01,vehicle,vehicle.n.01,bulldozer
+transportation,transport.n.01,vehicle,vehicle.n.01,bus
+transportation,transport.n.01,vehicle,vehicle.n.01,camper
+transportation,transport.n.01,vehicle,vehicle.n.01,canoe
+transportation,transport.n.01,vehicle,vehicle.n.01,car
+transportation,transport.n.01,vehicle,vehicle.n.01,carriage
+transportation,transport.n.01,vehicle,vehicle.n.01,cart
+transportation,transport.n.01,vehicle,vehicle.n.01,chariot
+transportation,transport.n.01,vehicle,vehicle.n.01,cruise ship
+transportation,transport.n.01,vehicle,vehicle.n.01,dirt bike
+transportation,transport.n.01,vehicle,vehicle.n.01,ferry
+transportation,transport.n.01,vehicle,vehicle.n.01,firetruck
+transportation,transport.n.01,vehicle,vehicle.n.01,forklift
+transportation,transport.n.01,vehicle,vehicle.n.01,garbage truck
+transportation,transport.n.01,vehicle,vehicle.n.01,go-kart
+transportation,transport.n.01,vehicle,vehicle.n.01,golf cart
+transportation,transport.n.01,vehicle,vehicle.n.01,gondola
+transportation,transport.n.01,vehicle,vehicle.n.01,hearse
+transportation,transport.n.01,vehicle,vehicle.n.01,helicopter
+transportation,transport.n.01,vehicle,vehicle.n.01,hot-air balloon
+transportation,transport.n.01,vehicle,vehicle.n.01,hovercraft
+transportation,transport.n.01,vehicle,vehicle.n.01,humvee
+transportation,transport.n.01,vehicle,vehicle.n.01,jeep
+transportation,transport.n.01,vehicle,vehicle.n.01,jet
+transportation,transport.n.01,vehicle,vehicle.n.01,jetski
+transportation,transport.n.01,vehicle,vehicle.n.01,kayak
+transportation,transport.n.01,vehicle,vehicle.n.01,limousine
+transportation,transport.n.01,vehicle,vehicle.n.01,minivan
+transportation,transport.n.01,vehicle,vehicle.n.01,motorcycle
+transportation,transport.n.01,vehicle,vehicle.n.01,police car
+transportation,transport.n.01,vehicle,vehicle.n.01,quad
+transportation,transport.n.01,vehicle,vehicle.n.01,raft
+transportation,transport.n.01,vehicle,vehicle.n.01,rickshaw
+transportation,transport.n.01,vehicle,vehicle.n.01,roadsweeper
+transportation,transport.n.01,vehicle,vehicle.n.01,rocket
+transportation,transport.n.01,vehicle,vehicle.n.01,sailboat
+transportation,transport.n.01,vehicle,vehicle.n.01,school bus
+transportation,transport.n.01,vehicle,vehicle.n.01,scooter
+transportation,transport.n.01,vehicle,vehicle.n.01,seaplane
+transportation,transport.n.01,vehicle,vehicle.n.01,ship
+transportation,transport.n.01,vehicle,vehicle.n.01,skateboard
+transportation,transport.n.01,vehicle,vehicle.n.01,sled
+transportation,transport.n.01,vehicle,vehicle.n.01,snowmobile
+transportation,transport.n.01,vehicle,vehicle.n.01,snowplow
+transportation,transport.n.01,vehicle,vehicle.n.01,space shuttle
+transportation,transport.n.01,vehicle,vehicle.n.01,speedboat
+transportation,transport.n.01,vehicle,vehicle.n.01,station wagon
+transportation,transport.n.01,vehicle,vehicle.n.01,steamroller
+transportation,transport.n.01,vehicle,vehicle.n.01,stroller
+transportation,transport.n.01,vehicle,vehicle.n.01,submarine
+transportation,transport.n.01,vehicle,vehicle.n.01,subway
+transportation,transport.n.01,vehicle,vehicle.n.01,taxi
+transportation,transport.n.01,vehicle,vehicle.n.01,tractor
+transportation,transport.n.01,vehicle,vehicle.n.01,train
+transportation,transport.n.01,vehicle,vehicle.n.01,tricycle
+transportation,transport.n.01,vehicle,vehicle.n.01,trolley
+transportation,transport.n.01,vehicle,vehicle.n.01,truck
+transportation,transport.n.01,vehicle,vehicle.n.01,tugboat
+transportation,transport.n.01,vehicle,vehicle.n.01,unicycle
+transportation,transport.n.01,vehicle,vehicle.n.01,van
+transportation,transport.n.01,vehicle,vehicle.n.01,wagon
+transportation,transport.n.01,vehicle,vehicle.n.01,wheelchair
+transportation,transport.n.01,vehicle,vehicle.n.01,yacht
+vehicle,vehicle.n.01,water vehicle,watercraft.n.01,airboat
+vehicle,vehicle.n.01,water vehicle,watercraft.n.01,aircraft carrier
+vehicle,vehicle.n.01,water vehicle,watercraft.n.01,boat
+vehicle,vehicle.n.01,water vehicle,watercraft.n.01,canoe
+vehicle,vehicle.n.01,water vehicle,watercraft.n.01,cruise ship
+vehicle,vehicle.n.01,water vehicle,watercraft.n.01,ferry
+vehicle,vehicle.n.01,water vehicle,watercraft.n.01,gondola
+vehicle,vehicle.n.01,water vehicle,watercraft.n.01,hovercraft
+vehicle,vehicle.n.01,water vehicle,watercraft.n.01,jetski
+vehicle,vehicle.n.01,water vehicle,watercraft.n.01,kayak
+vehicle,vehicle.n.01,water vehicle,watercraft.n.01,raft
+vehicle,vehicle.n.01,water vehicle,watercraft.n.01,sailboat
+vehicle,vehicle.n.01,water vehicle,watercraft.n.01,seaplane
+vehicle,vehicle.n.01,water vehicle,watercraft.n.01,ship
+vehicle,vehicle.n.01,water vehicle,watercraft.n.01,speedboat
+vehicle,vehicle.n.01,water vehicle,watercraft.n.01,submarine
+vehicle,vehicle.n.01,water vehicle,watercraft.n.01,torpedo
+vehicle,vehicle.n.01,water vehicle,watercraft.n.01,tugboat
+vehicle,vehicle.n.01,water vehicle,watercraft.n.01,yacht
+instrument,instrument.n.01,weapon,weapon.n.01,arrow
+instrument,instrument.n.01,weapon,weapon.n.01,axe
+instrument,instrument.n.01,weapon,weapon.n.01,baseball bat
+instrument,instrument.n.01,weapon,weapon.n.01,bat
+instrument,instrument.n.01,weapon,weapon.n.01,baton
+instrument,instrument.n.01,weapon,weapon.n.01,bazooka
+instrument,instrument.n.01,weapon,weapon.n.01,blowgun
+instrument,instrument.n.01,weapon,weapon.n.01,blowtorch
+instrument,instrument.n.01,weapon,weapon.n.01,bomb
+instrument,instrument.n.01,weapon,weapon.n.01,boomerang
+instrument,instrument.n.01,weapon,weapon.n.01,bow
+instrument,instrument.n.01,weapon,weapon.n.01,brass knuckles
+instrument,instrument.n.01,weapon,weapon.n.01,bullet
+instrument,instrument.n.01,weapon,weapon.n.01,cannon
+instrument,instrument.n.01,weapon,weapon.n.01,cannonball
+instrument,instrument.n.01,weapon,weapon.n.01,catapult
+instrument,instrument.n.01,weapon,weapon.n.01,chainsaw
+instrument,instrument.n.01,weapon,weapon.n.01,cleaver
+instrument,instrument.n.01,weapon,weapon.n.01,crossbow
+instrument,instrument.n.01,weapon,weapon.n.01,crowbar
+instrument,instrument.n.01,weapon,weapon.n.01,dagger
+instrument,instrument.n.01,weapon,weapon.n.01,dart
+instrument,instrument.n.01,weapon,weapon.n.01,dynamite
+instrument,instrument.n.01,weapon,weapon.n.01,flamethrower
+instrument,instrument.n.01,weapon,weapon.n.01,grenade
+instrument,instrument.n.01,weapon,weapon.n.01,gun
+instrument,instrument.n.01,weapon,weapon.n.01,hammer
+instrument,instrument.n.01,weapon,weapon.n.01,icepick
+instrument,instrument.n.01,weapon,weapon.n.01,knife
+instrument,instrument.n.01,weapon,weapon.n.01,landmine
+instrument,instrument.n.01,weapon,weapon.n.01,machete
+instrument,instrument.n.01,weapon,weapon.n.01,machine gun
+instrument,instrument.n.01,weapon,weapon.n.01,missile
+instrument,instrument.n.01,weapon,weapon.n.01,pickax
+instrument,instrument.n.01,weapon,weapon.n.01,pitchfork
+instrument,instrument.n.01,weapon,weapon.n.01,pocketknife
+instrument,instrument.n.01,weapon,weapon.n.01,razor blade
+instrument,instrument.n.01,weapon,weapon.n.01,revolver
+instrument,instrument.n.01,weapon,weapon.n.01,rifle
+instrument,instrument.n.01,weapon,weapon.n.01,scalpel
+instrument,instrument.n.01,weapon,weapon.n.01,scissors
+instrument,instrument.n.01,weapon,weapon.n.01,slingshot
+instrument,instrument.n.01,weapon,weapon.n.01,spear
+instrument,instrument.n.01,weapon,weapon.n.01,sword
+instrument,instrument.n.01,weapon,weapon.n.01,tank
+instrument,instrument.n.01,weapon,weapon.n.01,torpedo
+instrument,instrument.n.01,weapon,weapon.n.01,trident
+instrument,instrument.n.01,weapon,weapon.n.01,whip
+clothing,clothing.n.01,women's clothing,-,bikini
+clothing,clothing.n.01,women's clothing,-,blouse
+clothing,clothing.n.01,women's clothing,-,boa
+clothing,clothing.n.01,women's clothing,-,bra
+clothing,clothing.n.01,women's clothing,-,corset
+clothing,clothing.n.01,women's clothing,-,dress
+clothing,clothing.n.01,women's clothing,-,fishnet stockings
+clothing,clothing.n.01,women's clothing,-,garter
+clothing,clothing.n.01,women's clothing,-,headscarf
+clothing,clothing.n.01,women's clothing,-,kimono
+clothing,clothing.n.01,women's clothing,-,leggings
+clothing,clothing.n.01,women's clothing,-,lingerie
+clothing,clothing.n.01,women's clothing,-,pantsuit
+clothing,clothing.n.01,women's clothing,-,pantyhose
+clothing,clothing.n.01,women's clothing,-,skirt
+clothing,clothing.n.01,women's clothing,-,stiletto
+clothing,clothing.n.01,women's clothing,-,stockings
+clothing,clothing.n.01,women's clothing,-,tiara
+clothing,clothing.n.01,women's clothing,-,tube top
+clothing,clothing.n.01,women's clothing,-,veil
