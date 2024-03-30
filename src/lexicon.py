@@ -25,7 +25,7 @@ class Concept:
 
         # hypernym is an instance of Concept.
         # hypernym is always singular
-        return f"{n1} {self.taxonomic_phrase} {hypernym.singular}."
+        return f"{n1} {self.taxonomic_phrase} {hypernym.singular}"
 
     def property_sentence(self, prop: Property):
         if self.generic == "p":
@@ -35,4 +35,4 @@ class Concept:
             n1 = self.article
             prop = prop.singular
 
-        return f"{n1} {prop}."
+        return f"{n1} {prop}"

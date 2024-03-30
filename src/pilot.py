@@ -1,0 +1,122 @@
+import argparse
+import csv
+import json
+
+import config
+import lexicon
+import utils
+
+from collections import defaultdict
+
+
+def lemma2concept(entry):
+    return lexicon.Concept(
+        lemma=entry["lemma"],
+        singular=entry["singular"],
+        plural=entry["plural"],
+        article=entry["article"],
+        generic=entry["generic"],
+        taxonomic_phrase=entry["taxonomic_phrase"],
+    )
+
+
+def create_sample(
+    parent: lexicon.Concept,
+    child: lexicon.Concept,
+    prop: lexicon.Property,
+    prompt: str,
+    control_sentence: str = "this is a sentence.",
+    induction: bool = False,
+) -> tuple:
+    """Returns a triple with the following format:
+    (child property sentence,
+    child property sentence given some control sentence,
+    child property sentence given parent property sentence embedded in a prompt)
+
+    if induction=True, child and parent positions are reversed
+    """
+    parent_property = parent.property_sentence(prop)
+    child_property = child.property_sentence(prop)
+
+    if induction:
+        conclusion = parent_property
+        premise = child_property
+    else:
+        premise = parent_property
+        conclusion = child_property
+
+    control_prompt = prompt.format(control_sentence, conclusion)
+    reasoning_prompt = prompt.format(premise, conclusion)
+
+    return conclusion, control_prompt, reasoning_prompt
+
+
+def main(args):
+    triple_path = args.triple_path
+    lemma_path = args.lemma_path
+
+    PROMPT = "Given a premise, produce a conclusion that is true.\nPremise: {}\nConclusion: {}"
+    QA_PROMPT = "Given that {}, is it true that {}? Answer with yes/no:"
+
+    # read in concepts
+    concepts = defaultdict(lexicon.Concept)
+    with open(lemma_path, "r") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            # concepts.append(lemma2concept(row))
+            if row["remove"] != "1":
+                concepts[row["lemma"]] = lemma2concept(row)
+
+    # construct fake property (can also refer to config.py)
+    fake_property = lexicon.Property("daxable", "is daxable", "are daxable")
+
+    # read triples
+    triples = utils.read_csv_dict(triple_path)
+    for triple in triples:
+        # print concept(hyponym) is a concept(anchor)
+        hyponym = triple["hyponym"]
+        anchor = triple["anchor"]
+        try:
+            child = concepts[hyponym]
+            parent = concepts[anchor]
+            declarative_triple = create_sample(
+                parent, child, fake_property, PROMPT, control_sentence="water is wet"
+            )
+            qa_triple = create_sample(
+                parent, child, fake_property, QA_PROMPT, control_sentence="water is wet"
+            )
+
+            # prints out the declarative triple's stimuli
+            for t in declarative_triple:
+                print(t + "\n")
+            print("\n")
+        except:
+            pass
+
+
+#    '''
+#    TODO: function that returns the property, a control sentence (empty for now), property given some prompt
+#    Given a premise, produce a conclusion that is true.
+#    premise: {anchor} are daxable.
+#    conclusion: {hyponym} are daxable.
+
+#    Yes/No format
+#    '''
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--triple_path",
+        type=str,
+        default="data/things/things-triples.csv",
+        help="path to the triples csv",
+    )
+    parser.add_argument(
+        "--lemma_path",
+        type=str,
+        default="data/things/things-lemmas-annotated.csv",
+        help="path to the lemma csv",
+    )
+    args = parser.parse_args()
+    main(args)

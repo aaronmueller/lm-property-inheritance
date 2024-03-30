@@ -13,4 +13,8 @@ PROPERTIES = {
         'singular': 'has daxes',
         'plural': 'have daxes'
     },
+    'is fepish': {
+        'singular': 'is fepish',
+        'plural': 'are fepish'
+    },
 }
