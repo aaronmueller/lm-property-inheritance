@@ -2,9 +2,9 @@ import argparse
 import csv
 import json
 
-import config
-import lexicon
-import utils
+# import src.config
+from src import lexicon, config, utils
+# import src.utils
 
 from collections import defaultdict
 
@@ -48,15 +48,14 @@ def create_sample(
     control_prompt = prompt.format(control_sentence, conclusion)
     reasoning_prompt = prompt.format(premise, conclusion)
 
-    return conclusion, control_prompt, reasoning_prompt
+    return (conclusion, control_prompt, reasoning_prompt)
 
 
-def main(args):
-    triple_path = args.triple_path
-    lemma_path = args.lemma_path
-
+def get_triples(triple_path, lemma_path, induction=False, qa_format=False):
     PROMPT = "Given a premise, produce a conclusion that is true.\nPremise: {}\nConclusion: {}"
     QA_PROMPT = "Given that {}, is it true that {}? Answer with yes/no:"
+
+    triples_prompts = []
 
     # read in concepts
     concepts = defaultdict(lexicon.Concept)
@@ -79,19 +78,22 @@ def main(args):
         try:
             child = concepts[hyponym]
             parent = concepts[anchor]
-            declarative_triple = create_sample(
-                parent, child, fake_property, PROMPT, control_sentence="water is wet"
-            )
-            qa_triple = create_sample(
-                parent, child, fake_property, QA_PROMPT, control_sentence="water is wet"
-            )
+            if qa_format:
+                triple = create_sample(
+                    parent, child, fake_property, QA_PROMPT, control_sentence="water is wet",
+                    induction=induction
+                )
+            else:
+                triple = create_sample(
+                    parent, child, fake_property, PROMPT, control_sentence="water is wet",
+                    induction=induction
+                )
 
-            # prints out the declarative triple's stimuli
-            for t in declarative_triple:
-                print(t + "\n")
-            print("\n")
+            triples_prompts.append(triple)
         except:
             pass
+    
+    return triples_prompts
 
 
 #    '''
@@ -119,4 +121,4 @@ if __name__ == "__main__":
         help="path to the lemma csv",
     )
     args = parser.parse_args()
-    main(args)
+    get_triples(args.triple_path, args.lemma_path)
