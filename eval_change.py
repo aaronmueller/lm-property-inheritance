@@ -46,7 +46,11 @@ def eval_change(model, num_examples, triples_path, lemmas_path,
             ]
             queries = ["Yes"] * 3
         else:
-            prefixes = ["", triple[1].split("Conclusion:")[0], triple[2].split("Conclusion:")[0]]
+            prefixes = [
+                "",
+                triple[1].split("Conclusion:")[0] + "Conclusion: ",
+                triple[2].split("Conclusion:")[0] + "Conclusion: "
+            ]
             queries = [triple[0]] * 3
         scores = model.conditional_score(prefixes, queries)
         prompt_minus_control.append(scores[2] - scores[1])
