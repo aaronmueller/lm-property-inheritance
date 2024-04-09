@@ -41,8 +41,8 @@ def eval_change(model, num_examples, triples_path, lemmas_path,
         if qa_format:
             prefixes = [
                 f"Is it true that {triple[0]}? Answer with yes/no: ",
-                triple[1] + " ",
-                triple[2] + " "
+                triple[1],
+                triple[2]
             ]
             queries = ["Yes"] * 3
         else:
@@ -52,7 +52,10 @@ def eval_change(model, num_examples, triples_path, lemmas_path,
                 triple[2].split("Conclusion:")[0] + "Conclusion: "
             ]
             queries = [triple[0]] * 3
-        scores = model.conditional_score(prefixes, queries)
+        scores = model.conditional_score(prefixes, queries, separator="")
+        print(prefixes)
+        print(queries)
+        print(scores)
         prompt_minus_control.append(scores[2] - scores[1])
         control_minus_empty.append(scores[1] - scores[0])
 

@@ -50,9 +50,9 @@ def eval_change(
     for triple in tqdm(triples, desc="Examples", total=num_examples):
         if qa_format:
             prefixes = [
-                f"Is it true that {triple[0]}? Answer with Yes/No: ",
-                triple[1] + " ",
-                triple[2] + " ",
+                f"Is it true that {triple[0]}? Answer with Yes/No:",
+                triple[1],
+                triple[2]
             ]
             queries = ["Yes"] * 3
         else:
@@ -86,9 +86,9 @@ def eval_change(
             control_scores_no = model.conditional_score(control_prefixes, ["No"] * len(control_queries))
             prompt_scores_no = model.conditional_score(prompt_prefixes, ["No"] * len(prompt_queries))
 
-            empty_scores = np.array(empty_scores_yes)/(np.array(empty_scores_no) + np.array(empty_scores_yes))
-            control_scores = np.array(control_scores_yes)/(np.array(control_scores_no) + np.array(control_scores_yes))
-            prompt_scores = np.array(prompt_scores_yes)/(np.array(prompt_scores_no) + np.array(prompt_scores_yes))
+            empty_scores = np.array(empty_scores_yes) - np.array(empty_scores_no)
+            control_scores = np.array(control_scores_yes) - np.array(control_scores_no)
+            prompt_scores = np.array(prompt_scores_yes) - np.array(prompt_scores_no)
         else:
             empty_scores = model.sequence_score(empty_queries)
             control_scores = model.conditional_score(control_prefixes, control_queries)
@@ -136,7 +136,7 @@ if __name__ == "__main__":
         "--batch_size", type=int, default=32, help="Batch size for evaluation."
     )
     parser.add_argument(
-        "--device", type=str, default="cuda:1", help="Device for running inference."
+        "--device", type=str, default="cuda", help="Device for running inference."
     )
     args = parser.parse_args()
 
