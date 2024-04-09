@@ -5,6 +5,9 @@ import json
 # import src.config
 from src import lexicon, config, utils
 # import src.utils
+# import lexicon
+# import config
+# import utils
 
 from collections import defaultdict
 
@@ -26,6 +29,7 @@ def create_sample(
     prop: lexicon.Property,
     prompt: str,
     control_sentence: str = "this is a sentence.",
+    qa=False,
     induction: bool = False,
 ) -> tuple:
     """Returns a triple with the following format:
@@ -45,15 +49,22 @@ def create_sample(
         premise = parent_property
         conclusion = child_property
 
-    control_prompt = prompt.format(control_sentence, conclusion)
-    reasoning_prompt = prompt.format(premise, conclusion)
+    if not qa:
+        control_prompt = prompt.format(control_sentence, "").strip()
+        reasoning_prompt = prompt.format(premise, "").strip()
+    else:
+        control_prompt = prompt.format(control_sentence, conclusion)
+        reasoning_prompt = prompt.format(premise, conclusion)
 
     return (conclusion, control_prompt, reasoning_prompt)
 
 
 def get_triples(triple_path, lemma_path, induction=False, qa_format=False):
     PROMPT = "Given a premise, produce a conclusion that is true.\nPremise: {}\nConclusion: {}"
-    QA_PROMPT = "Given that {}, is it true that {}? Answer with yes/no:"
+    QA_PROMPT = "Given that {}, is it true that {}? Answer with Yes/No:"
+    CONTROL = "nothing is daxable"
+    # PROMPT = "Given a premise, produce a conclusion that is true.\nPremise: a man was dancing\nConclusion: someone was moving\n\nPremise: {}\nConclusion: {}"
+    # QA_PROMPT = "Given that a man was dancing, is it true that someone was moving? Answer with yes/no: Yes\nGiven that {}, is it true that {}? Answer with Yes/No:"
 
     triples_prompts = []
 
@@ -80,12 +91,11 @@ def get_triples(triple_path, lemma_path, induction=False, qa_format=False):
             parent = concepts[anchor]
             if qa_format:
                 triple = create_sample(
-                    parent, child, fake_property, QA_PROMPT, control_sentence="water is wet",
-                    induction=induction
+                    parent, child, fake_property, QA_PROMPT, control_sentence=CONTROL, qa=True, induction=induction
                 )
             else:
                 triple = create_sample(
-                    parent, child, fake_property, PROMPT, control_sentence="water is wet",
+                    parent, child, fake_property, PROMPT, control_sentence=CONTROL,
                     induction=induction
                 )
 
@@ -93,6 +103,7 @@ def get_triples(triple_path, lemma_path, induction=False, qa_format=False):
         except:
             pass
     
+    # print(triples_prompts[0])
     return triples_prompts
 
 

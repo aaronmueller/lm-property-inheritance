@@ -18,6 +18,8 @@ def eval_change(
     quantize=False,
     induction=False,
     qa_format=False,
+    batch_size=8,
+    device="cuda",
 ):
     triples = get_triples(
         triples_path, lemmas_path, qa_format=qa_format, induction=induction
@@ -34,12 +36,12 @@ def eval_change(
             model, quantization_config=bnb_config, device="auto"
         )
     else:
-        model = scorer.IncrementalLMScorer(model, device="cpu")
+        model = scorer.IncrementalLMScorer(model, device=args.device)
 
     # uniform subsample
     random.seed(12)
     random.shuffle(triples)
-    
+
     if num_examples == -1:
         num_examples = len(triples)
     triples = triples[:num_examples]
@@ -48,39 +50,75 @@ def eval_change(
     for triple in tqdm(triples, desc="Examples", total=num_examples):
         if qa_format:
             prefixes = [
-                f"Is it true that {triple[0]}? Answer with yes/no: ",
+                f"Is it true that {triple[0]}? Answer with Yes/No: ",
                 triple[1] + " ",
                 triple[2] + " ",
             ]
             queries = ["Yes"] * 3
         else:
-            prefixes = [
-                "",
-                triple[1].split("Conclusion:")[0] + "Conclusion: ",
-                triple[2].split("Conclusion:")[0] + "Conclusion: ",
-            ]
+            prefixes = ["", triple[1], triple[2]]
             queries = [triple[0]] * 3
 
         formatted_triples.append((prefixes, queries))
 
+    print(formatted_triples[:4])
+
     control_minus_empty = []
     prompt_minus_control = []
+
+    empty_scores_all = []
+    control_scores_all = []
+    prompt_scores_all = []
     triples_dl = DataLoader(formatted_triples, batch_size=args.batch_size)
     for batch in tqdm(triples_dl, desc="Batches", total=len(triples_dl)):
         prefixes, queries = batch
-        scores = model.conditional_score(prefixes, queries)
-        for i in range(len(scores[0])):
-            prompt_minus_control.append(scores[2][i] - scores[1][i])
-            control_minus_empty.append(scores[1][i] - scores[0][i])
+        empty_prefixes, control_prefixes, prompt_prefixes = prefixes
+        empty_queries, control_queries, prompt_queries = queries
+        prefixes = empty_prefixes + control_prefixes + prompt_prefixes
+        queries = empty_queries + control_queries + prompt_queries
+       
+        if qa_format:
+            empty_scores_yes = model.conditional_score(empty_prefixes, empty_queries)
+            control_scores_yes = model.conditional_score(control_prefixes, control_queries)
+            prompt_scores_yes = model.conditional_score(prompt_prefixes, prompt_queries)
+            
+            empty_scores_no = model.conditional_score(empty_prefixes, ["No"] * len(empty_queries))
+            control_scores_no = model.conditional_score(control_prefixes, ["No"] * len(control_queries))
+            prompt_scores_no = model.conditional_score(prompt_prefixes, ["No"] * len(prompt_queries))
 
-    print(f"control - empty: {np.mean(control_minus_empty)} ({np.std(control_minus_empty)})")
-    print(f"prompt - control: {np.mean(prompt_minus_control)} ({np.std(prompt_minus_control)})")
+            empty_scores = np.array(empty_scores_yes)/(np.array(empty_scores_no) + np.array(empty_scores_yes))
+            control_scores = np.array(control_scores_yes)/(np.array(control_scores_no) + np.array(control_scores_yes))
+            prompt_scores = np.array(prompt_scores_yes)/(np.array(prompt_scores_no) + np.array(prompt_scores_yes))
+        else:
+            empty_scores = model.sequence_score(empty_queries)
+            control_scores = model.conditional_score(control_prefixes, control_queries)
+            prompt_scores = model.conditional_score(prompt_prefixes, prompt_queries)
+
+        empty_scores_all.extend(empty_scores)
+        control_scores_all.extend(control_scores)
+        prompt_scores_all.extend(prompt_scores)
+        
+       
+    control_minus_empty = np.array(control_scores_all) - np.array(empty_scores_all)
+    prompt_minus_control = np.array(prompt_scores_all) - np.array(control_scores_all)
+
+    # avg scores
+    print(f"Empty: {np.mean(empty_scores_all)} ({np.std(empty_scores_all)})")
+    print(f"Control: {np.mean(control_scores_all)} ({np.std(control_scores_all)})")
+    print(f"Prompt: {np.mean(prompt_scores_all)} ({np.std(prompt_scores_all)})")
+    print("\n\n")
+    print(
+        f"control - empty: {np.mean(control_minus_empty)} ({np.std(control_minus_empty)})"
+    )
+    print(
+        f"prompt - control: {np.mean(prompt_minus_control)} ({np.std(prompt_minus_control)})"
+    )
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--model", type=str, default="mistralai/Mistral-7b-v0.1")
-    parser.add_argument("--num_examples", type=int, default=100)
+    parser.add_argument("--num_examples", type=int, default=-1)
     parser.add_argument(
         "--induction",
         action="store_true",
@@ -95,7 +133,10 @@ if __name__ == "__main__":
         "--quantize", action="store_true", help="If true, use 4-bit quantization."
     )
     parser.add_argument(
-        "--batch_size", type=int, default=8, help="Batch size for evaluation."
+        "--batch_size", type=int, default=32, help="Batch size for evaluation."
+    )
+    parser.add_argument(
+        "--device", type=str, default="cuda:1", help="Device for running inference."
     )
     args = parser.parse_args()
 
@@ -109,4 +150,6 @@ if __name__ == "__main__":
         quantize=args.quantize,
         induction=args.induction,
         qa_format=args.qa_format,
+        batch_size=args.batch_size,
+        device=args.device,
     )
