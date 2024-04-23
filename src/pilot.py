@@ -3,11 +3,11 @@ import csv
 import json
 
 # import src.config
-from src import lexicon, config, utils
+# from src import lexicon, config, utils
 # import src.utils
-# import lexicon
-# import config
-# import utils
+import lexicon
+import config
+import utils
 
 from collections import defaultdict
 
@@ -58,6 +58,27 @@ def create_sample(
 
     return (conclusion, control_prompt, reasoning_prompt)
 
+def save_triples(triple_path, lemma_path):
+    concepts = defaultdict(lexicon.Concept)
+    with open(lemma_path, "r") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            # concepts.append(lemma2concept(row))
+            if row["remove"] != "1":
+                concepts[row["lemma"]] = lemma2concept(row)
+
+    final_triples = []
+    triples = utils.read_csv_dict(triple_path)
+    for triple in triples:
+        # print concept(hyponym) is a concept(anchor)
+        hyponym = triple["hyponym"]
+        anchor = triple["anchor"]
+        if hyponym in concepts.keys() and anchor in concepts.keys():
+                final_triples.append((triple['hypernym'], anchor, hyponym))
+
+    return final_triples
+
+
 
 def get_triples(triple_path, lemma_path, induction=False, qa_format=False):
     PROMPT = "Given a premise, produce a conclusion that is true.\nPremise: {}\nConclusion: {}"
@@ -86,7 +107,7 @@ def get_triples(triple_path, lemma_path, induction=False, qa_format=False):
         # print concept(hyponym) is a concept(anchor)
         hyponym = triple["hyponym"]
         anchor = triple["anchor"]
-        try:
+        if hyponym in concepts.keys() and anchor in concepts.keys():
             child = concepts[hyponym]
             parent = concepts[anchor]
             if qa_format:
@@ -100,9 +121,8 @@ def get_triples(triple_path, lemma_path, induction=False, qa_format=False):
                 )
 
             triples_prompts.append(triple)
-        except:
-            pass
-    
+        else:
+            print(triple, hyponym in concepts.keys(), anchor in concepts.keys())
     # print(triples_prompts[0])
     return triples_prompts
 
@@ -131,5 +151,19 @@ if __name__ == "__main__":
         default="data/things/things-lemmas-annotated.csv",
         help="path to the lemma csv",
     )
+    parser.add_argument(
+        "--save",
+        action="store_true",
+        help="If true, save the triples to a json file",
+    )
     args = parser.parse_args()
-    get_triples(args.triple_path, args.lemma_path)
+    triple_prompts = get_triples(args.triple_path, args.lemma_path)
+    # print(triple_prompts[:10])
+    print(f"{len(triple_prompts)} total instances")
+    
+    if args.save:
+        triples = save_triples(args.triple_path, args.lemma_path)
+        with open("data/things/things-triples-actual.csv", "w") as f:
+            writer = csv.writer(f)
+            writer.writerow(["hypernym", "anchor", "hyponym"])
+            writer.writerows(triples)

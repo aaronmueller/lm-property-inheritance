@@ -1,5 +1,5 @@
 hypernym,hypernym-sense,anchor,anchor-sense,hyponym
-decoration,decoration.n.01,home decor,decor.n.01,birdbath
+decoration,decoration.n.01,home decor,interior_decoration.n.01,birdbath
 animal,animal.n.01,insect,insect.n.01,fly
 produce,produce.n.01,fruit,edible_fruit.n.01,banana
 organism,organism.n.01,plant,plant.n.02,leek
@@ -26,7 +26,7 @@ instrument,instrument.n.01,weapon,weapon.n.01,dart
 device,device.n.01,electronic device,electronic_device.n.01,camcorder
 decoration,decoration.n.01,furniture,furniture.n.01,footrest
 transportation,transport.n.01,vehicle,vehicle.n.01,humvee
-decoration,decoration.n.01,home decor,decor.n.01,bonsai
+decoration,decoration.n.01,home decor,interior_decoration.n.01,bonsai
 organism,organism.n.01,plant,plant.n.02,fern
 artifact,artifact.n.01,toy,toy.n.01,boomerang
 instrument,instrument.n.01,tool,tool.n.01,trident
@@ -38,7 +38,7 @@ storage,storage,container,container.n.01,tank
 instrument,instrument.n.01,tool,tool.n.01,sawhorse
 substance,substance.n.08,food,food.n.01,soy sauce
 storage,storage,container,container.n.01,cabinet
-decoration,decoration.n.01,home decor,decor.n.01,crystal ball
+decoration,decoration.n.01,home decor,interior_decoration.n.01,crystal ball
 organism,organism.n.01,animal,animal.n.01,hedgehog
 sweet,sweet.n.03,candy,candy.n.01,licorice
 transportation,transport.n.01,vehicle,vehicle.n.01,space shuttle
@@ -49,12 +49,12 @@ storage,storage,container,container.n.01,wine bottle
 storage,storage,container,container.n.01,dresser
 storage,storage,container,container.n.01,aquarium
 food,food.n.01,seafood,seafood.n.01,fish
-tool,tool.n.01,kitchen tool,-,grater
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,grater
 device,device.n.01,musical instrument,musical_instrument.n.01,flute
-decoration,decoration.n.01,home decor,decor.n.01,cuckoo clock
+decoration,decoration.n.01,home decor,interior_decoration.n.01,cuckoo clock
 organism,organism.n.01,plant,plant.n.02,tumbleweed
 covering,covering.n.02,clothing,clothing.n.01,bulletproof vest
-food,food.n.01,breakfast,none,pastry
+food,food.n.01,breakfast,-,pastry
 instrument,instrument.n.01,tool,tool.n.01,air pump
 clothing,clothing.n.01,headwear,headgear.n.01,bonnet
 substance,substance.n.08,food,food.n.01,mushroom
@@ -75,7 +75,7 @@ organism,organism.n.01,animal,animal.n.01,rhinoceros
 mammal,mammal.n.01,livestock,livestock.n.01,duck
 decoration,decoration.n.01,jewelry,jewelry.n.01,jewelry
 substance,substance.n.08,food,food.n.01,croissant
-food,food.n.01,breakfast,none,waffle
+food,food.n.01,breakfast,-,waffle
 home appliance,home_appliance.n.01,kitchen equipment,kitchen_appliance.n.01,coffeemaker
 covering,covering.n.02,footwear,footwear.n.01,rollerblade
 covering,covering.n.02,clothing,clothing.n.01,shirt
@@ -88,7 +88,7 @@ substance,substance.n.08,food,food.n.01,cornbread
 storage,storage,container,container.n.01,duffel bag
 instrument,implement.n.01,tool,tool.n.01,tool
 instrument,instrument.n.01,medical equipment,medical_instrument.n.01,plaster cast
-tool,tool.n.01,kitchen tool,-,bottle opener
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,bottle opener
 instrument,implement.n.01,tool,tool.n.01,vise
 clothing,clothing.n.01,outerwear,outerwear.n.01,cloak
 connector,connector.n.01,fastener,fastener.n.01,velcro
@@ -98,8 +98,8 @@ instrument,instrument.n.01,tool,tool.n.01,curling iron
 covering,covering.n.02,clothing,clothing.n.01,headband
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,cat
 equipment,equipment.n.01,office supply,-,pen
-food,food.n.01,breakfast,none,yogurt
-tool,tool.n.01,kitchen tool,-,whisk
+food,food.n.01,breakfast,-,yogurt
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,whisk
 substance,substance.n.08,food,food.n.01,shrimp
 instrument,implement.n.01,tool,tool.n.01,spark plug
 organism,organism.n.01,animal,animal.n.01,koala
@@ -109,16 +109,16 @@ organism,organism.n.01,plant,plant.n.02,aloe
 organism,organism.n.01,plant,plant.n.02,clover
 instrument,instrument.n.01,tool,tool.n.01,backscratcher
 substance,substance.n.08,food,food.n.01,eggplant
-food,food.n.01,drink,drink.n.03,beer
+food,food.n.01,drink,beverage.n.01,beer
 instrument,implement.n.01,tool,tool.n.01,padlock
 organism,organism.n.01,plant,plant.n.02,basil
 storage,storage,container,container.n.01,tupperware
-food,food.n.01,breakfast,none,scrambled egg
+food,food.n.01,breakfast,-,scrambled egg
 instrument,instrument.n.01,tool,tool.n.01,poker
-vehicle,vehicle.n.01,water vehicle,watercraft.n.01,sailboat
-food,food.n.01,drink,drink.n.03,lemonade
+vehicle,vehicle.n.01,water vehicle,vessel.n.02,sailboat
+food,food.n.01,drink,beverage.n.01,lemonade
 storage,storage,container,container.n.01,briefcase
-tool,tool.n.01,kitchen tool,-,strainer
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,strainer
 transportation,transport.n.01,vehicle,vehicle.n.01,taxi
 substance,substance.n.08,food,food.n.01,spareribs
 clothing,clothing.n.01,accessory,accessory.n.01,hat
@@ -129,7 +129,7 @@ organism,organism.n.01,plant,plant.n.02,grass
 organism,organism.n.01,animal,animal.n.01,crayfish
 device,device.n.01,electronic device,electronic_device.n.01,laptop
 storage,storage,container,container.n.01,hot-water bottle
-decoration,decoration.n.01,home decor,decor.n.01,lampshade
+decoration,decoration.n.01,home decor,interior_decoration.n.01,lampshade
 equipment,equipment.n.01,office supply,-,notepad
 substance,substance.n.08,food,food.n.01,clam
 component,component.n.01,auto part,auto_part.n.01,sunroof
@@ -139,7 +139,7 @@ organism,organism.n.01,plant,plant.n.02,poinsettia
 organism,organism.n.01,animal,animal.n.01,otter
 substance,substance.n.08,food,food.n.01,whipped cream
 organism,organism.n.01,animal,animal.n.01,deer
-clothing,clothing.n.01,protective clothing,-,kneepad
+clothing,clothing.n.01,protective clothing,protective_covering.n.01,kneepad
 device,device.n.01,musical instrument,musical_instrument.n.01,tuba
 substance,substance.n.08,food,food.n.01,onion
 produce,produce.n.01,fruit,edible_fruit.n.01,plum
@@ -149,13 +149,13 @@ device,device.n.01,electronic device,electronic_device.n.01,freezer
 substance,substance.n.08,food,food.n.01,gingerbread man
 equipment,equipment.n.01,school supply,-,marker
 covering,covering.n.02,clothing,clothing.n.01,kimono
-food,food.n.01,breakfast,none,maple syrup
+food,food.n.01,breakfast,-,maple syrup
 substance,substance.n.08,food,food.n.01,sauce
 instrument,instrument.n.01,weapon,weapon.n.01,boomerang
 produce,produce.n.01,vegetable,vegetable.n.01,celery
 device,device.n.01,musical instrument,musical_instrument.n.01,ukulele
 artifact,artifact.n.01,toy,toy.n.01,gyroscope
-decoration,decoration.n.01,home decor,decor.n.01,frame
+decoration,decoration.n.01,home decor,interior_decoration.n.01,frame
 storage,storage,container,container.n.01,purse
 food product,foodstuff.n.02,condiment,condiment.n.01,marmalade
 produce,produce.n.01,fruit,edible_fruit.n.01,lime
@@ -165,7 +165,7 @@ instrument,instrument.n.01,tool,tool.n.01,funnel
 clothing,clothing.n.01,headwear,headgear.n.01,headband
 storage,storage,container,container.n.01,basket
 connector,connector.n.01,fastener,fastener.n.01,clasp
-vehicle,vehicle.n.01,water vehicle,watercraft.n.01,jetski
+vehicle,vehicle.n.01,water vehicle,vessel.n.02,jetski
 device,device.n.01,electronic device,electronic_device.n.01,icemaker
 device,device.n.01,electronic device,electronic_device.n.01,fan
 device,device.n.01,electronic device,electronic_device.n.01,mixer
@@ -182,7 +182,7 @@ storage,storage,container,container.n.01,measuring cup
 vertebrate,vertebrate.n.01,bird,bird.n.01,duck
 decoration,decoration.n.01,furniture,furniture.n.01,bed
 covering,covering.n.02,clothing,clothing.n.01,glove
-food,food.n.01,drink,drink.n.03,punch
+food,food.n.01,drink,beverage.n.01,punch
 substance,substance.n.08,food,food.n.01,noodle
 organism,organism.n.01,plant,plant.n.02,chive
 instrument,implement.n.01,tool,tool.n.01,bolt
@@ -200,18 +200,18 @@ organism,organism.n.01,animal,animal.n.01,vulture
 substance,substance.n.08,food,food.n.01,french fries
 decoration,decoration.n.01,furniture,furniture.n.01,cabinet
 animal,animal.n.01,insect,insect.n.01,ant
-decoration,decoration.n.01,home decor,decor.n.01,wind chimes
+decoration,decoration.n.01,home decor,interior_decoration.n.01,wind chimes
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,anteater
 device,device.n.01,electronic device,electronic_device.n.01,record player
 organism,organism.n.01,animal,animal.n.01,tarantula
 food,food.n.01,seafood,seafood.n.01,calamari
 storage,storage,container,container.n.01,terrarium
 decoration,decoration.n.01,furniture,furniture.n.01,dresser
-decoration,decoration.n.01,home decor,decor.n.01,vase
+decoration,decoration.n.01,home decor,interior_decoration.n.01,vase
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,bat
 device,device.n.01,electronic device,electronic_device.n.01,toaster oven
 substance,substance.n.08,food,food.n.01,dough
-decoration,decoration.n.01,home decor,decor.n.01,abacus
+decoration,decoration.n.01,home decor,interior_decoration.n.01,abacus
 organism,organism.n.01,animal,animal.n.01,jellyfish
 substance,substance.n.08,food,food.n.01,wafer
 home appliance,home_appliance.n.01,kitchen equipment,kitchen_appliance.n.01,water filter
@@ -223,7 +223,7 @@ storage,storage,container,container.n.01,drawer
 substance,substance.n.08,food,food.n.01,salad
 substance,substance.n.08,food,food.n.01,scallion
 substance,substance.n.08,food,food.n.01,catfish
-food,food.n.01,breakfast,none,bacon
+food,food.n.01,breakfast,-,bacon
 organism,organism.n.01,animal,animal.n.01,aardvark
 clothing,clothing.n.01,accessory,accessory.n.01,bolo tie
 device,device.n.01,electronic device,electronic_device.n.01,water heater
@@ -237,8 +237,8 @@ vertebrate,vertebrate.n.01,mammal,mammal.n.01,hippopotamus
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,poodle
 instrument,instrument.n.01,tool,tool.n.01,ladle
 produce,produce.n.01,vegetable,vegetable.n.01,chickpea
-decoration,decoration.n.01,home decor,decor.n.01,birdcage
-decoration,decoration.n.01,home decor,decor.n.01,christmas tree
+decoration,decoration.n.01,home decor,interior_decoration.n.01,birdcage
+decoration,decoration.n.01,home decor,interior_decoration.n.01,christmas tree
 storage,storage,container,container.n.01,shaker
 storage,storage,container,container.n.01,sarcophagus
 covering,covering.n.02,footwear,footwear.n.01,boot
@@ -254,13 +254,13 @@ decoration,decoration.n.01,jewelry,jewelry.n.01,crown
 covering,covering.n.02,clothing,clothing.n.01,spacesuit
 organism,organism.n.01,animal,animal.n.01,dolphin
 instrument,instrument.n.01,tool,tool.n.01,cleaver
-animal,animal.n.01,sea animal,sea_animal.n.01,octopus
+animal,animal.n.01,sea animal,marine_animal.n.01,octopus
 substance,substance.n.08,food,food.n.01,wedding cake
-food,food.n.01,breakfast,none,toast
+food,food.n.01,breakfast,-,toast
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,zebra
 food product,foodstuff.n.02,condiment,condiment.n.01,ginger
 food,food.n.01,dessert,dessert.n.01,souffle
-decoration,decoration.n.01,home decor,decor.n.01,doily
+decoration,decoration.n.01,home decor,interior_decoration.n.01,doily
 organism,organism.n.01,animal,animal.n.01,lizard
 produce,produce.n.01,vegetable,vegetable.n.01,broccoli
 device,device.n.01,electronic device,electronic_device.n.01,pinball
@@ -291,16 +291,16 @@ organism,organism.n.01,animal,animal.n.01,chihuahua
 storage,storage,container,container.n.01,locker
 instrument,implement.n.01,tool,tool.n.01,file
 transportation,transport.n.01,vehicle,vehicle.n.01,rocket
-decoration,decoration.n.01,home decor,decor.n.01,globe
+decoration,decoration.n.01,home decor,interior_decoration.n.01,globe
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,badger
-food,food.n.01,drink,drink.n.03,hot chocolate
+food,food.n.01,drink,beverage.n.01,hot chocolate
 transportation,transport.n.01,vehicle,vehicle.n.01,bulldozer
 equipment,equipment.n.01,office supply,-,fountain pen
 sweet,sweet.n.03,candy,candy.n.01,candy cane
 organism,organism.n.01,animal,animal.n.01,lamb
 food,food.n.01,dessert,dessert.n.01,parfait
 home appliance,home_appliance.n.01,kitchen equipment,kitchen_appliance.n.01,burner
-food,food.n.01,breakfast,none,oatmeal
+food,food.n.01,breakfast,-,oatmeal
 substance,substance.n.08,food,food.n.01,coconut
 food,food.n.01,seafood,seafood.n.01,swordfish
 substance,substance.n.08,food,food.n.01,mustard
@@ -308,7 +308,7 @@ storage,storage,container,container.n.01,suitcase
 organism,organism.n.01,animal,animal.n.01,reindeer
 clothing,clothing.n.01,accessory,accessory.n.01,mitten
 instrument,instrument.n.01,tool,tool.n.01,watering can
-animal,animal.n.01,sea animal,sea_animal.n.01,turtle
+animal,animal.n.01,sea animal,marine_animal.n.01,turtle
 organism,organism.n.01,plant,plant.n.02,apple tree
 organism,organism.n.01,plant,plant.n.02,mint
 mammal,mammal.n.01,livestock,livestock.n.01,cow
@@ -320,13 +320,13 @@ decoration,decoration.n.01,furniture,furniture.n.01,rack
 substance,substance.n.08,food,food.n.01,almond
 organism,organism.n.01,animal,animal.n.01,duckling
 substance,substance.n.08,food,food.n.01,cabbage
-tool,tool.n.01,kitchen tool,-,tongs
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,tongs
 substance,substance.n.08,food,food.n.01,popsicle
 organism,organism.n.01,animal,animal.n.01,crab
 activity,activity.n.01,game,game.n.01,chessboard
 connector,connector.n.01,fastener,fastener.n.01,lock
 substance,substance.n.08,food,food.n.01,egg
-animal,animal.n.01,sea animal,sea_animal.n.01,eel
+animal,animal.n.01,sea animal,marine_animal.n.01,eel
 home appliance,home_appliance.n.01,kitchen equipment,kitchen_appliance.n.01,hotplate
 organism,organism.n.01,animal,animal.n.01,cockroach
 utilities,-,toiletry,toiletry.n.01,nail clippers
@@ -335,17 +335,17 @@ instrument,implement.n.01,tool,tool.n.01,doorhandle
 device,device.n.01,electronic device,electronic_device.n.01,incubator
 tool,tool.n.01,garden tool,garden_tool.n.01,hose
 storage,storage,container,container.n.01,urn
-decoration,decoration.n.01,home decor,decor.n.01,wreath
+decoration,decoration.n.01,home decor,interior_decoration.n.01,wreath
 instrument,implement.n.01,tool,tool.n.01,mallet
 instrument,implement.n.01,tool,tool.n.01,switch
 instrument,instrument.n.01,weapon,weapon.n.01,revolver
 activity,activity.n.01,game,game.n.01,pinball
-decoration,decoration.n.01,home decor,decor.n.01,curtain
+decoration,decoration.n.01,home decor,interior_decoration.n.01,curtain
 clothing,clothing.n.01,accessory,accessory.n.01,bonnet
 food,food.n.01,dessert,dessert.n.01,ice-cream cone
 substance,substance.n.08,food,food.n.01,jalapeno
 instrument,instrument.n.01,tool,tool.n.01,tape measure
-tool,tool.n.01,kitchen tool,-,measuring cup
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,measuring cup
 transportation,transport.n.01,vehicle,vehicle.n.01,camper
 organism,organism.n.01,plant,plant.n.02,tree
 substance,substance.n.08,food,food.n.01,scrambled egg
@@ -354,7 +354,7 @@ organism,organism.n.01,animal,animal.n.01,warthog
 storage,storage,container,container.n.01,bin
 device,device.n.01,electronic device,electronic_device.n.01,music box
 instrument,instrument.n.01,tool,tool.n.01,peeler
-tool,tool.n.01,kitchen tool,-,grinder
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,grinder
 equipment,equipment.n.01,office supply,-,scissors
 device,device.n.01,electronic device,electronic_device.n.01,chainsaw
 organism,organism.n.01,animal,animal.n.01,squirrel
@@ -377,7 +377,7 @@ produce,produce.n.01,vegetable,vegetable.n.01,squash
 organism,organism.n.01,animal,animal.n.01,grasshopper
 produce,produce.n.01,fruit,edible_fruit.n.01,pomegranate
 organism,organism.n.01,animal,animal.n.01,raccoon
-decoration,decoration.n.01,home decor,decor.n.01,candle
+decoration,decoration.n.01,home decor,interior_decoration.n.01,candle
 component,component.n.01,auto part,auto_part.n.01,car door
 tool,tool.n.01,garden tool,garden_tool.n.01,lawnmower
 equipment,equipment.n.01,office supply,-,eraser
@@ -385,7 +385,7 @@ instrument,instrument.n.01,tool,tool.n.01,razor
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,mongoose
 storage,storage,container,container.n.01,water bottle
 organism,organism.n.01,animal,animal.n.01,horse
-food,food.n.01,breakfast,none,peanut butter
+food,food.n.01,breakfast,-,peanut butter
 storage,storage,container,container.n.01,cup
 produce,produce.n.01,vegetable,vegetable.n.01,sprouts
 utilities,-,toiletry,toiletry.n.01,hairbrush
@@ -400,14 +400,14 @@ covering,covering.n.02,clothing,clothing.n.01,slipper
 instrument,instrument.n.01,tool,tool.n.01,eggbeater
 instrument,instrument.n.01,weapon,weapon.n.01,crowbar
 instrument,instrument.n.01,tool,tool.n.01,squeegee
-animal,animal.n.01,sea animal,sea_animal.n.01,stingray
+animal,animal.n.01,sea animal,marine_animal.n.01,stingray
 clothing,clothing.n.01,women's clothing,-,kimono
 substance,substance.n.08,food,food.n.01,grapefruit
 organism,organism.n.01,animal,animal.n.01,barnacle
-clothing,clothing.n.01,protective clothing,-,apron
+clothing,clothing.n.01,protective clothing,protective_covering.n.01,apron
 instrument,instrument.n.01,tool,tool.n.01,icepick
-clothing,clothing.n.01,protective clothing,-,helmet
-vehicle,vehicle.n.01,water vehicle,watercraft.n.01,torpedo
+clothing,clothing.n.01,protective clothing,protective_covering.n.01,helmet
+vehicle,vehicle.n.01,water vehicle,vessel.n.02,torpedo
 device,device.n.01,electronic device,electronic_device.n.01,microphone
 equipment,equipment.n.01,school supply,-,glue
 device,device.n.01,electronic device,electronic_device.n.01,dryer
@@ -422,7 +422,7 @@ organism,organism.n.01,animal,animal.n.01,flamingo
 food,food.n.01,seafood,seafood.n.01,squid
 device,device.n.01,electronic device,electronic_device.n.01,cooker
 produce,produce.n.01,vegetable,vegetable.n.01,potato
-food,food.n.01,breakfast,none,scone
+food,food.n.01,breakfast,-,scone
 covering,covering.n.02,clothing,clothing.n.01,bracelet
 artifact,artifact.n.01,toy,toy.n.01,balloon
 substance,substance.n.08,food,food.n.01,baklava
@@ -470,14 +470,14 @@ substance,substance.n.08,food,food.n.01,bacon
 device,device.n.01,electronic device,electronic_device.n.01,printer
 food,food.n.01,seafood,seafood.n.01,crayfish
 organism,organism.n.01,animal,animal.n.01,guinea pig
-food,food.n.01,breakfast,none,cream cheese
+food,food.n.01,breakfast,-,cream cheese
 instrument,instrument.n.01,tool,tool.n.01,chainsaw
 food,food.n.01,seafood,seafood.n.01,oyster
 clothing,clothing.n.01,accessory,accessory.n.01,brooch
 clothing,clothing.n.01,outerwear,outerwear.n.01,coverall
 produce,produce.n.01,fruit,edible_fruit.n.01,raspberry
 transportation,transport.n.01,vehicle,vehicle.n.01,airplane
-clothing,clothing.n.01,protective clothing,-,glove
+clothing,clothing.n.01,protective clothing,protective_covering.n.01,glove
 instrument,implement.n.01,tool,tool.n.01,lightbulb
 instrument,implement.n.01,tool,tool.n.01,corkscrew
 device,device.n.01,electronic device,electronic_device.n.01,blender
@@ -487,7 +487,7 @@ organism,organism.n.01,animal,animal.n.01,bull
 storage,storage,container,container.n.01,crate
 substance,substance.n.08,food,food.n.01,casserole
 instrument,instrument.n.01,tool,tool.n.01,hoe
-vehicle,vehicle.n.01,water vehicle,watercraft.n.01,speedboat
+vehicle,vehicle.n.01,water vehicle,vessel.n.02,speedboat
 substance,substance.n.08,food,food.n.01,ready meal
 device,device.n.01,musical instrument,musical_instrument.n.01,piano
 device,device.n.01,electronic device,electronic_device.n.01,refrigerator
@@ -514,7 +514,7 @@ vertebrate,vertebrate.n.01,mammal,mammal.n.01,monkey
 instrument,instrument.n.01,weapon,weapon.n.01,pitchfork
 organism,organism.n.01,animal,animal.n.01,pig
 decoration,decoration.n.01,furniture,furniture.n.01,table
-vehicle,vehicle.n.01,water vehicle,watercraft.n.01,gondola
+vehicle,vehicle.n.01,water vehicle,vessel.n.02,gondola
 food,food.n.01,dessert,dessert.n.01,crepe
 organism,organism.n.01,plant,plant.n.02,flower
 decoration,decoration.n.01,furniture,furniture.n.01,chair
@@ -527,7 +527,7 @@ storage,storage,container,container.n.01,paper bag
 utilities,-,toiletry,toiletry.n.01,toothbrush
 substance,substance.n.08,food,food.n.01,hummus
 equipment,equipment.n.01,office supply,-,paperclip
-decoration,decoration.n.01,home decor,decor.n.01,figurine
+decoration,decoration.n.01,home decor,interior_decoration.n.01,figurine
 organism,organism.n.01,plant,plant.n.02,weed
 equipment,equipment.n.01,school supply,-,paper
 substance,substance.n.08,food,food.n.01,snack
@@ -539,7 +539,7 @@ storage,storage,container,container.n.01,nightstand
 covering,covering.n.02,clothing,clothing.n.01,bolo tie
 transportation,transport.n.01,vehicle,vehicle.n.01,wheelchair
 organism,organism.n.01,animal,animal.n.01,blowfish
-food,food.n.01,drink,drink.n.03,margarita
+food,food.n.01,drink,beverage.n.01,margarita
 substance,substance.n.08,food,food.n.01,oatmeal
 equipment,equipment.n.01,office supply,-,highlighter
 substance,substance.n.08,food,food.n.01,patty
@@ -557,7 +557,7 @@ produce,produce.n.01,fruit,edible_fruit.n.01,fig
 food,food.n.01,dessert,dessert.n.01,cookie
 food,food.n.01,dessert,dessert.n.01,dessert
 food product,foodstuff.n.02,condiment,condiment.n.01,ketchup
-animal,animal.n.01,sea animal,sea_animal.n.01,jellyfish
+animal,animal.n.01,sea animal,marine_animal.n.01,jellyfish
 substance,substance.n.08,food,food.n.01,meat
 vertebrate,vertebrate.n.01,bird,bird.n.01,cockatoo
 clothing,clothing.n.01,accessory,accessory.n.01,top hat
@@ -584,7 +584,7 @@ substance,substance.n.08,food,food.n.01,gumball
 equipment,equipment.n.01,office supply,-,thumbtack
 substance,substance.n.08,food,food.n.01,avocado
 substance,substance.n.08,food,food.n.01,clove
-food,food.n.01,breakfast,none,cereal
+food,food.n.01,breakfast,-,cereal
 substance,substance.n.08,food,food.n.01,seaweed
 substance,substance.n.08,food,food.n.01,taffy
 mammal,mammal.n.01,livestock,livestock.n.01,turkey
@@ -595,10 +595,10 @@ decoration,decoration.n.01,furniture,furniture.n.01,filing cabinet
 transportation,transport.n.01,vehicle,vehicle.n.01,stroller
 substance,substance.n.08,food,food.n.01,octopus
 organism,organism.n.01,plant,plant.n.02,palm tree
-tool,tool.n.01,kitchen tool,-,kettle
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,kettle
 artifact,artifact.n.01,toy,toy.n.01,music box
 substance,substance.n.08,food,food.n.01,apple
-tool,tool.n.01,kitchen tool,-,pepper mill
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,pepper mill
 organism,organism.n.01,animal,animal.n.01,ladybug
 transportation,transport.n.01,vehicle,vehicle.n.01,kayak
 covering,covering.n.02,clothing,clothing.n.01,fur coat
@@ -631,16 +631,16 @@ device,device.n.01,electronic device,electronic_device.n.01,polygraph
 produce,produce.n.01,vegetable,vegetable.n.01,beet
 produce,produce.n.01,fruit,edible_fruit.n.01,raisin
 substance,substance.n.08,food,food.n.01,string cheese
-vehicle,vehicle.n.01,water vehicle,watercraft.n.01,submarine
+vehicle,vehicle.n.01,water vehicle,vessel.n.02,submarine
 artifact,artifact.n.01,toy,toy.n.01,ball
 covering,covering.n.02,clothing,clothing.n.01,stockings
-tool,tool.n.01,kitchen tool,-,timer
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,timer
 instrument,implement.n.01,tool,tool.n.01,clasp
 substance,substance.n.08,food,food.n.01,butter
 instrument,instrument.n.01,weapon,weapon.n.01,flamethrower
 covering,covering.n.02,footwear,footwear.n.01,moccasin
 decoration,decoration.n.01,furniture,furniture.n.01,air mattress
-food,food.n.01,breakfast,none,french fries
+food,food.n.01,breakfast,-,french fries
 substance,substance.n.08,food,food.n.01,kiwi
 storage,storage,container,container.n.01,watering can
 device,device.n.01,electronic device,electronic_device.n.01,jackhammer
@@ -656,8 +656,8 @@ clothing,clothing.n.01,outerwear,outerwear.n.01,raincoat
 substance,substance.n.08,food,food.n.01,pudding
 storage,storage,container,container.n.01,sandbag
 organism,organism.n.01,animal,animal.n.01,swordfish
-decoration,decoration.n.01,home decor,decor.n.01,scarecrow
-tool,tool.n.01,kitchen tool,-,nutcracker
+decoration,decoration.n.01,home decor,interior_decoration.n.01,scarecrow
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,nutcracker
 mammal,mammal.n.01,livestock,livestock.n.01,rabbit
 connector,connector.n.01,fastener,fastener.n.01,hairpin
 instrument,instrument.n.01,tool,tool.n.01,sickle
@@ -667,11 +667,11 @@ substance,substance.n.08,food,food.n.01,grain
 organism,organism.n.01,plant,plant.n.02,corn
 substance,substance.n.08,food,food.n.01,pistachio
 instrument,implement.n.01,tool,tool.n.01,pliers
-food,food.n.01,breakfast,none,donut
+food,food.n.01,breakfast,-,donut
 organism,organism.n.01,plant,plant.n.02,poppy
 clothing,clothing.n.01,accessory,accessory.n.01,insole
 food,food.n.01,seafood,seafood.n.01,sardine
-food,food.n.01,breakfast,none,roll
+food,food.n.01,breakfast,-,roll
 organism,organism.n.01,animal,animal.n.01,cheetah
 instrument,instrument.n.01,medical equipment,medical_instrument.n.01,bedpan
 home appliance,home_appliance.n.01,kitchen equipment,kitchen_appliance.n.01,toaster oven
@@ -684,7 +684,7 @@ component,component.n.01,auto part,auto_part.n.01,engine
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,coyote
 equipment,equipment.n.01,school supply,-,book
 artifact,artifact.n.01,toy,toy.n.01,toy
-animal,animal.n.01,sea animal,sea_animal.n.01,crab
+animal,animal.n.01,sea animal,marine_animal.n.01,crab
 organism,organism.n.01,animal,animal.n.01,toad
 equipment,equipment.n.01,school supply,-,ink
 animal,animal.n.01,insect,insect.n.01,caterpillar
@@ -694,7 +694,7 @@ instrument,instrument.n.01,tool,tool.n.01,chisel
 substance,substance.n.08,food,food.n.01,quiche
 instrument,instrument.n.01,weapon,weapon.n.01,axe
 substance,substance.n.08,food,food.n.01,grits
-food,food.n.01,drink,drink.n.03,cocktail
+food,food.n.01,drink,beverage.n.01,cocktail
 artifact,artifact.n.01,toy,toy.n.01,pogo stick
 substance,substance.n.08,food,food.n.01,shortbread
 instrument,instrument.n.01,weapon,weapon.n.01,brass knuckles
@@ -710,7 +710,7 @@ instrument,implement.n.01,tool,tool.n.01,bracket
 clothing,clothing.n.01,outerwear,outerwear.n.01,jumpsuit
 instrument,instrument.n.01,tool,tool.n.01,soldering iron
 decoration,decoration.n.01,jewelry,jewelry.n.01,watch
-tool,tool.n.01,kitchen tool,-,rolling pin
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,rolling pin
 vertebrate,vertebrate.n.01,bird,bird.n.01,turkey
 food,food.n.01,dessert,dessert.n.01,banana split
 vertebrate,vertebrate.n.01,bird,bird.n.01,peacock
@@ -730,9 +730,9 @@ instrument,instrument.n.01,medical equipment,medical_instrument.n.01,pillbox
 sweet,sweet.n.03,candy,candy.n.01,cotton candy
 storage,storage,container,container.n.01,box
 covering,covering.n.02,clothing,clothing.n.01,chaps
-vehicle,vehicle.n.01,water vehicle,watercraft.n.01,yacht
+vehicle,vehicle.n.01,water vehicle,vessel.n.02,yacht
 clothing,clothing.n.01,accessory,accessory.n.01,shawl
-clothing,clothing.n.01,protective clothing,-,wetsuit
+clothing,clothing.n.01,protective clothing,protective_covering.n.01,wetsuit
 connector,connector.n.01,fastener,fastener.n.01,safety pin
 clothing,clothing.n.01,outerwear,outerwear.n.01,lab coat
 instrument,implement.n.01,tool,tool.n.01,strainer
@@ -746,7 +746,7 @@ covering,covering.n.02,clothing,clothing.n.01,headdress
 device,device.n.01,electronic device,electronic_device.n.01,computer
 substance,substance.n.08,food,food.n.01,marmalade
 storage,storage,container,container.n.01,petri dish
-tool,tool.n.01,kitchen tool,-,can opener
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,can opener
 component,component.n.01,auto part,auto_part.n.01,brake
 mammal,mammal.n.01,livestock,livestock.n.01,chicken
 device,device.n.01,electronic device,electronic_device.n.01,joystick
@@ -755,7 +755,7 @@ instrument,instrument.n.01,tool,tool.n.01,jackhammer
 instrument,instrument.n.01,tool,tool.n.01,ruler
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,camel
 produce,produce.n.01,vegetable,vegetable.n.01,radish
-animal,animal.n.01,sea animal,sea_animal.n.01,fish
+animal,animal.n.01,sea animal,marine_animal.n.01,fish
 substance,substance.n.08,food,food.n.01,pecan
 substance,substance.n.08,food,food.n.01,granola
 substance,substance.n.08,food,food.n.01,cilantro
@@ -768,7 +768,7 @@ food,food.n.01,dessert,dessert.n.01,tiramisu
 tool,tool.n.01,garden tool,garden_tool.n.01,hatchet
 clothing,clothing.n.01,outerwear,outerwear.n.01,coat
 organism,organism.n.01,plant,plant.n.02,cactus
-animal,animal.n.01,sea animal,sea_animal.n.01,barnacle
+animal,animal.n.01,sea animal,marine_animal.n.01,barnacle
 instrument,instrument.n.01,tool,tool.n.01,corkscrew
 substance,substance.n.08,food,food.n.01,coleslaw
 substance,substance.n.08,food,food.n.01,walnut
@@ -779,11 +779,11 @@ decoration,decoration.n.01,furniture,furniture.n.01,bassinet
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,skunk
 organism,organism.n.01,animal,animal.n.01,tadpole
 covering,covering.n.02,clothing,clothing.n.01,sweatsuit
-food,food.n.01,breakfast,none,egg
+food,food.n.01,breakfast,-,egg
 covering,covering.n.02,footwear,footwear.n.01,ski boots
 organism,organism.n.01,animal,animal.n.01,panther
 instrument,instrument.n.01,weapon,weapon.n.01,arrow
-vehicle,vehicle.n.01,water vehicle,watercraft.n.01,raft
+vehicle,vehicle.n.01,water vehicle,vessel.n.02,raft
 instrument,instrument.n.01,weapon,weapon.n.01,crossbow
 produce,produce.n.01,fruit,edible_fruit.n.01,strawberry
 covering,covering.n.02,clothing,clothing.n.01,scarf
@@ -791,7 +791,7 @@ clothing,clothing.n.01,accessory,accessory.n.01,bracelet
 device,device.n.01,electronic device,electronic_device.n.01,dishwasher
 transportation,transport.n.01,vehicle,vehicle.n.01,motorcycle
 substance,substance.n.08,food,food.n.01,jelly bean
-vehicle,vehicle.n.01,water vehicle,watercraft.n.01,kayak
+vehicle,vehicle.n.01,water vehicle,vessel.n.02,kayak
 storage,storage,container,container.n.01,pan
 covering,covering.n.02,clothing,clothing.n.01,apron
 instrument,instrument.n.01,weapon,weapon.n.01,rifle
@@ -807,12 +807,12 @@ substance,substance.n.08,food,food.n.01,pie
 instrument,instrument.n.01,tool,tool.n.01,clipper
 vertebrate,vertebrate.n.01,bird,bird.n.01,goose
 storage,storage,container,container.n.01,hatbox
-clothing,clothing.n.01,protective clothing,-,armor
+clothing,clothing.n.01,protective clothing,protective_covering.n.01,armor
 instrument,implement.n.01,tool,tool.n.01,lock
 substance,substance.n.08,food,food.n.01,nut
 covering,covering.n.02,clothing,clothing.n.01,tiara
 substance,substance.n.08,food,food.n.01,peach
-clothing,clothing.n.01,protective clothing,-,football helmet
+clothing,clothing.n.01,protective clothing,protective_covering.n.01,football helmet
 clothing,clothing.n.01,headwear,headgear.n.01,headdress
 utilities,-,toiletry,toiletry.n.01,floss
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,hedgehog
@@ -850,7 +850,7 @@ organism,organism.n.01,animal,animal.n.01,lobster
 produce,produce.n.01,fruit,edible_fruit.n.01,berry
 organism,organism.n.01,animal,animal.n.01,scallop
 equipment,equipment.n.01,school supply,-,pencil
-food,food.n.01,breakfast,none,hash
+food,food.n.01,breakfast,-,hash
 instrument,implement.n.01,tool,tool.n.01,wedge
 equipment,equipment.n.01,school supply,-,whiteboard
 organism,organism.n.01,animal,animal.n.01,kitten
@@ -860,7 +860,7 @@ storage,storage,container,container.n.01,container
 clothing,clothing.n.01,headwear,headgear.n.01,helmet
 clothing,clothing.n.01,headwear,headgear.n.01,veil
 substance,substance.n.08,food,food.n.01,leek
-tool,tool.n.01,kitchen tool,-,spoon
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,spoon
 animal,animal.n.01,insect,insect.n.01,cockroach
 instrument,instrument.n.01,medical equipment,medical_instrument.n.01,stretcher
 device,device.n.01,electronic device,electronic_device.n.01,mouse
@@ -897,9 +897,9 @@ tool,tool.n.01,garden tool,garden_tool.n.01,clipper
 covering,covering.n.02,clothing,clothing.n.01,jeans
 covering,covering.n.02,footwear,footwear.n.01,sandal
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,groundhog
-animal,animal.n.01,sea animal,sea_animal.n.01,blowfish
-decoration,decoration.n.01,home decor,decor.n.01,centerpiece
-vehicle,vehicle.n.01,water vehicle,watercraft.n.01,cruise ship
+animal,animal.n.01,sea animal,marine_animal.n.01,blowfish
+decoration,decoration.n.01,home decor,interior_decoration.n.01,centerpiece
+vehicle,vehicle.n.01,water vehicle,vessel.n.02,cruise ship
 clothing,clothing.n.01,accessory,accessory.n.01,corsage
 animal,animal.n.01,insect,insect.n.01,grasshopper
 decoration,decoration.n.01,furniture,furniture.n.01,bookshelf
@@ -916,7 +916,7 @@ vertebrate,vertebrate.n.01,mammal,mammal.n.01,deer
 covering,covering.n.02,clothing,clothing.n.01,tuxedo
 animal,animal.n.01,insect,insect.n.01,wasp
 substance,substance.n.08,food,food.n.01,caviar
-animal,animal.n.01,sea animal,sea_animal.n.01,seal
+animal,animal.n.01,sea animal,marine_animal.n.01,seal
 substance,substance.n.08,food,food.n.01,parfait
 storage,storage,container,container.n.01,luggage
 equipment,equipment.n.01,office supply,-,glue
@@ -926,7 +926,7 @@ organism,organism.n.01,animal,animal.n.01,moth
 clothing,clothing.n.01,accessory,accessory.n.01,sombrero
 covering,covering.n.02,footwear,footwear.n.01,snowshoe
 tool,tool.n.01,garden tool,garden_tool.n.01,scissors
-food,food.n.01,drink,drink.n.03,smoothie
+food,food.n.01,drink,beverage.n.01,smoothie
 instrument,instrument.n.01,tool,tool.n.01,hose
 substance,substance.n.08,food,food.n.01,meatball
 storage,storage,container,container.n.01,wineglass
@@ -961,7 +961,7 @@ home appliance,home_appliance.n.01,kitchen equipment,kitchen_appliance.n.01,blen
 organism,organism.n.01,animal,animal.n.01,chinchilla
 home appliance,home_appliance.n.01,kitchen equipment,kitchen_appliance.n.01,refrigerator
 device,device.n.01,musical instrument,musical_instrument.n.01,harmonica
-food,food.n.01,drink,drink.n.03,milk
+food,food.n.01,drink,beverage.n.01,milk
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,piglet
 storage,storage,container,container.n.01,birdbath
 home appliance,home_appliance.n.01,kitchen equipment,kitchen_appliance.n.01,waffle iron
@@ -986,8 +986,8 @@ equipment,equipment.n.01,school supply,-,pencil sharpener
 decoration,decoration.n.01,furniture,furniture.n.01,loveseat
 transportation,transport.n.01,vehicle,vehicle.n.01,speedboat
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,puppy
-tool,tool.n.01,kitchen tool,-,scoop
-food,food.n.01,drink,drink.n.03,champagne
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,scoop
+food,food.n.01,drink,beverage.n.01,champagne
 transportation,transport.n.01,vehicle,vehicle.n.01,tractor
 covering,covering.n.02,clothing,clothing.n.01,bikini
 transportation,transport.n.01,vehicle,vehicle.n.01,limousine
@@ -1013,7 +1013,7 @@ tool,tool.n.01,garden tool,garden_tool.n.01,pickax
 covering,covering.n.02,clothing,clothing.n.01,turtleneck
 produce,produce.n.01,vegetable,vegetable.n.01,sweet potato
 produce,produce.n.01,vegetable,vegetable.n.01,arugula
-decoration,decoration.n.01,home decor,decor.n.01,mirror
+decoration,decoration.n.01,home decor,interior_decoration.n.01,mirror
 substance,substance.n.08,food,food.n.01,lamb
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,donkey
 transportation,transport.n.01,vehicle,vehicle.n.01,car
@@ -1023,7 +1023,7 @@ instrument,instrument.n.01,tool,tool.n.01,drill
 food product,foodstuff.n.02,condiment,condiment.n.01,applesauce
 covering,covering.n.02,clothing,clothing.n.01,skirt
 device,device.n.01,electronic device,electronic_device.n.01,lamp
-animal,animal.n.01,sea animal,sea_animal.n.01,swordfish
+animal,animal.n.01,sea animal,marine_animal.n.01,swordfish
 transportation,transport.n.01,vehicle,vehicle.n.01,gondola
 substance,substance.n.08,food,food.n.01,wrap
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,gazelle
@@ -1046,7 +1046,7 @@ covering,covering.n.02,clothing,clothing.n.01,bathrobe
 instrument,implement.n.01,tool,tool.n.01,doorknob
 equipment,equipment.n.01,office supply,-,paper
 substance,substance.n.08,food,food.n.01,chive
-animal,animal.n.01,sea animal,sea_animal.n.01,coral
+animal,animal.n.01,sea animal,marine_animal.n.01,coral
 food,food.n.01,dessert,dessert.n.01,brownie
 substance,substance.n.08,food,food.n.01,cinnamon
 decoration,decoration.n.01,furniture,furniture.n.01,sofa bed
@@ -1063,7 +1063,7 @@ device,device.n.01,electronic device,electronic_device.n.01,cash machine
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,chihuahua
 connector,connector.n.01,fastener,fastener.n.01,buckle
 sweet,sweet.n.03,candy,candy.n.01,gumball
-vehicle,vehicle.n.01,water vehicle,watercraft.n.01,canoe
+vehicle,vehicle.n.01,water vehicle,vessel.n.02,canoe
 storage,storage,container,container.n.01,bedpan
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,lamb
 animal,animal.n.01,insect,insect.n.01,butterfly
@@ -1076,12 +1076,12 @@ device,device.n.01,musical instrument,musical_instrument.n.01,bell
 substance,substance.n.08,food,food.n.01,stir fry
 substance,substance.n.08,food,food.n.01,tomato sauce
 organism,organism.n.01,animal,animal.n.01,antelope
-vehicle,vehicle.n.01,water vehicle,watercraft.n.01,aircraft carrier
+vehicle,vehicle.n.01,water vehicle,vessel.n.02,aircraft carrier
 substance,substance.n.08,food,food.n.01,hash
-decoration,decoration.n.01,home decor,decor.n.01,chandelier
-decoration,decoration.n.01,home decor,decor.n.01,rug
+decoration,decoration.n.01,home decor,interior_decoration.n.01,chandelier
+decoration,decoration.n.01,home decor,interior_decoration.n.01,rug
 instrument,instrument.n.01,weapon,weapon.n.01,scissors
-food,food.n.01,breakfast,none,breakfast
+food,food.n.01,breakfast,-,breakfast
 substance,substance.n.08,food,food.n.01,banana
 instrument,instrument.n.01,tool,tool.n.01,shears
 connector,connector.n.01,fastener,fastener.n.01,combination lock
@@ -1117,9 +1117,9 @@ organism,organism.n.01,animal,animal.n.01,mouse
 decoration,decoration.n.01,furniture,furniture.n.01,closet
 clothing,clothing.n.01,women's clothing,-,bra
 substance,substance.n.08,food,food.n.01,cheese
-decoration,decoration.n.01,home decor,decor.n.01,candlestick
+decoration,decoration.n.01,home decor,interior_decoration.n.01,candlestick
 transportation,transport.n.01,vehicle,vehicle.n.01,helicopter
-animal,animal.n.01,sea animal,sea_animal.n.01,squid
+animal,animal.n.01,sea animal,marine_animal.n.01,squid
 instrument,instrument.n.01,weapon,weapon.n.01,scalpel
 organism,organism.n.01,animal,animal.n.01,alpaca
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,warthog
@@ -1133,7 +1133,7 @@ organism,organism.n.01,animal,animal.n.01,meerkat
 substance,substance.n.08,food,food.n.01,asparagus
 instrument,instrument.n.01,tool,tool.n.01,fork
 animal,animal.n.01,insect,insect.n.01,beetle
-food,food.n.01,breakfast,none,grits
+food,food.n.01,breakfast,-,grits
 component,component.n.01,auto part,auto_part.n.01,odometer
 vertebrate,vertebrate.n.01,bird,bird.n.01,swan
 substance,substance.n.08,food,food.n.01,sugar cube
@@ -1154,14 +1154,14 @@ vertebrate,vertebrate.n.01,bird,bird.n.01,ostrich
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,horse
 food,food.n.01,seafood,seafood.n.01,mussel
 clothing,clothing.n.01,outerwear,outerwear.n.01,overalls
-decoration,decoration.n.01,home decor,decor.n.01,tapestry
+decoration,decoration.n.01,home decor,interior_decoration.n.01,tapestry
 artifact,artifact.n.01,toy,toy.n.01,doll
 instrument,implement.n.01,tool,tool.n.01,hook
 substance,substance.n.08,food,food.n.01,tostada
-decoration,decoration.n.01,home decor,decor.n.01,lamp
-food,food.n.01,drink,drink.n.03,espresso
+decoration,decoration.n.01,home decor,interior_decoration.n.01,lamp
+food,food.n.01,drink,beverage.n.01,espresso
 substance,substance.n.08,food,food.n.01,fruitcake
-food,food.n.01,drink,drink.n.03,eggnog
+food,food.n.01,drink,beverage.n.01,eggnog
 transportation,transport.n.01,vehicle,vehicle.n.01,go-kart
 equipment,equipment.n.01,school supply,-,fountain pen
 organism,organism.n.01,animal,animal.n.01,rattlesnake
@@ -1169,7 +1169,7 @@ device,device.n.01,electronic device,electronic_device.n.01,vending machine
 utilities,-,toiletry,toiletry.n.01,shaving cream
 produce,produce.n.01,vegetable,vegetable.n.01,bell pepper
 substance,substance.n.08,food,food.n.01,mousse
-food,food.n.01,drink,drink.n.03,drink
+food,food.n.01,drink,beverage.n.01,drink
 food,food.n.01,seafood,seafood.n.01,snail
 storage,storage,container,container.n.01,vase
 transportation,transport.n.01,vehicle,vehicle.n.01,unicycle
@@ -1178,16 +1178,16 @@ instrument,instrument.n.01,weapon,weapon.n.01,pickax
 substance,substance.n.08,food,food.n.01,mint
 decoration,decoration.n.01,furniture,furniture.n.01,counter
 instrument,implement.n.01,tool,tool.n.01,screw
-decoration,decoration.n.01,home decor,decor.n.01,pinecone
+decoration,decoration.n.01,home decor,interior_decoration.n.01,pinecone
 decoration,decoration.n.01,jewelry,jewelry.n.01,bracelet
-animal,animal.n.01,sea animal,sea_animal.n.01,oyster
+animal,animal.n.01,sea animal,marine_animal.n.01,oyster
 instrument,instrument.n.01,medical equipment,medical_instrument.n.01,sling
 decoration,decoration.n.01,furniture,furniture.n.01,lectern
 device,device.n.01,electronic device,electronic_device.n.01,vacuum
 home appliance,home_appliance.n.01,kitchen equipment,kitchen_appliance.n.01,oven
-food,food.n.01,breakfast,none,marmalade
+food,food.n.01,breakfast,-,marmalade
 organism,organism.n.01,animal,animal.n.01,dalmatian
-animal,animal.n.01,sea animal,sea_animal.n.01,mussel
+animal,animal.n.01,sea animal,marine_animal.n.01,mussel
 equipment,equipment.n.01,office supply,-,tape
 tool,tool.n.01,garden tool,garden_tool.n.01,shears
 food,food.n.01,seafood,seafood.n.01,shark
@@ -1199,8 +1199,8 @@ storage,storage,container,container.n.01,coop
 clothing,clothing.n.01,women's clothing,-,boa
 food,food.n.01,dessert,dessert.n.01,baklava
 vertebrate,vertebrate.n.01,bird,bird.n.01,hawk
-decoration,decoration.n.01,home decor,decor.n.01,potpourri
-food,food.n.01,breakfast,none,granola
+decoration,decoration.n.01,home decor,interior_decoration.n.01,potpourri
+food,food.n.01,breakfast,-,granola
 substance,substance.n.08,food,food.n.01,coffee bean
 covering,covering.n.02,clothing,clothing.n.01,muff
 instrument,instrument.n.01,medical equipment,medical_instrument.n.01,gauze
@@ -1209,18 +1209,18 @@ substance,substance.n.08,food,food.n.01,marshmallow
 instrument,implement.n.01,tool,tool.n.01,clipper
 storage,storage,container,container.n.01,tent
 mammal,mammal.n.01,livestock,livestock.n.01,piglet
-decoration,decoration.n.01,home decor,decor.n.01,pinwheel
+decoration,decoration.n.01,home decor,interior_decoration.n.01,pinwheel
 food,food.n.01,dessert,dessert.n.01,eclair
 covering,covering.n.02,clothing,clothing.n.01,flip-flop
 substance,substance.n.08,food,food.n.01,chickpea
-animal,animal.n.01,sea animal,sea_animal.n.01,lobster
+animal,animal.n.01,sea animal,marine_animal.n.01,lobster
 tool,tool.n.01,garden tool,garden_tool.n.01,axe
 substance,substance.n.08,food,food.n.01,candy cane
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,chipmunk
 organism,organism.n.01,animal,animal.n.01,fox
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,gorilla
 produce,produce.n.01,vegetable,vegetable.n.01,eggplant
-animal,animal.n.01,sea animal,sea_animal.n.01,scallop
+animal,animal.n.01,sea animal,marine_animal.n.01,scallop
 artifact,artifact.n.01,toy,toy.n.01,dreidel
 substance,substance.n.08,food,food.n.01,buffet
 organism,organism.n.01,animal,animal.n.01,pony
@@ -1231,7 +1231,7 @@ instrument,instrument.n.01,tool,tool.n.01,tongs
 instrument,instrument.n.01,tool,tool.n.01,chopsticks
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,lion
 device,device.n.01,musical instrument,musical_instrument.n.01,guitar
-vehicle,vehicle.n.01,water vehicle,watercraft.n.01,seaplane
+vehicle,vehicle.n.01,water vehicle,vessel.n.02,seaplane
 substance,substance.n.08,food,food.n.01,pig
 decoration,decoration.n.01,furniture,furniture.n.01,bench
 covering,covering.n.02,clothing,clothing.n.01,vest
@@ -1244,7 +1244,7 @@ transportation,transport.n.01,vehicle,vehicle.n.01,hot-air balloon
 covering,covering.n.02,clothing,clothing.n.01,swimsuit
 covering,covering.n.02,clothing,clothing.n.01,t-shirt
 organism,organism.n.01,animal,animal.n.01,manatee
-clothing,clothing.n.01,protective clothing,-,visor
+clothing,clothing.n.01,protective clothing,protective_covering.n.01,visor
 covering,covering.n.02,clothing,clothing.n.01,turban
 device,device.n.01,electronic device,electronic_device.n.01,metal detector
 decoration,decoration.n.01,jewelry,jewelry.n.01,hairpin
@@ -1252,7 +1252,7 @@ clothing,clothing.n.01,accessory,accessory.n.01,lanyard
 substance,substance.n.08,food,food.n.01,broccoli
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,guinea pig
 decoration,decoration.n.01,jewelry,jewelry.n.01,earring
-food,food.n.01,breakfast,none,bread
+food,food.n.01,breakfast,-,bread
 clothing,clothing.n.01,women's clothing,-,bikini
 covering,covering.n.02,clothing,clothing.n.01,sombrero
 substance,substance.n.08,food,food.n.01,plum
@@ -1274,7 +1274,7 @@ decoration,decoration.n.01,furniture,furniture.n.01,crib
 substance,substance.n.08,food,food.n.01,omelet
 organism,organism.n.01,animal,animal.n.01,whale
 organism,organism.n.01,animal,animal.n.01,owl
-food,food.n.01,drink,drink.n.03,juice
+food,food.n.01,drink,beverage.n.01,juice
 home appliance,home_appliance.n.01,kitchen equipment,kitchen_appliance.n.01,dishwasher
 covering,covering.n.02,clothing,clothing.n.01,coverall
 substance,substance.n.08,food,food.n.01,lime
@@ -1284,7 +1284,7 @@ covering,covering.n.02,clothing,clothing.n.01,tube top
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,bull
 covering,covering.n.02,clothing,clothing.n.01,shorts
 substance,substance.n.08,food,food.n.01,bun
-food,food.n.01,breakfast,none,ham
+food,food.n.01,breakfast,-,ham
 transportation,transport.n.01,vehicle,vehicle.n.01,carriage
 sweet,sweet.n.03,candy,candy.n.01,jelly bean
 storage,storage,container,container.n.01,glass
@@ -1293,24 +1293,24 @@ decoration,decoration.n.01,furniture,furniture.n.01,ottoman
 produce,produce.n.01,fruit,edible_fruit.n.01,coconut
 storage,storage,container,container.n.01,oilcan
 storage,storage,container,container.n.01,thermos
-food,food.n.01,drink,drink.n.03,wine
+food,food.n.01,drink,beverage.n.01,wine
 substance,substance.n.08,food,food.n.01,yolk
 covering,covering.n.02,clothing,clothing.n.01,jacket
-decoration,decoration.n.01,home decor,decor.n.01,cornucopia
+decoration,decoration.n.01,home decor,interior_decoration.n.01,cornucopia
 instrument,implement.n.01,tool,tool.n.01,nail
 organism,organism.n.01,animal,animal.n.01,elephant
 instrument,instrument.n.01,medical equipment,medical_instrument.n.01,stethoscope
-decoration,decoration.n.01,home decor,decor.n.01,place mat
+decoration,decoration.n.01,home decor,interior_decoration.n.01,place mat
 artifact,artifact.n.01,toy,toy.n.01,rocking horse
-vehicle,vehicle.n.01,water vehicle,watercraft.n.01,hovercraft
-animal,animal.n.01,sea animal,sea_animal.n.01,starfish
+vehicle,vehicle.n.01,water vehicle,vessel.n.02,hovercraft
+animal,animal.n.01,sea animal,marine_animal.n.01,starfish
 instrument,instrument.n.01,tool,tool.n.01,wire cutters
 activity,activity.n.01,game,game.n.01,shuffleboard
 substance,substance.n.08,food,food.n.01,popcorn
 instrument,instrument.n.01,tool,tool.n.01,vacuum
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,pig
 decoration,decoration.n.01,jewelry,jewelry.n.01,ring
-animal,animal.n.01,sea animal,sea_animal.n.01,dolphin
+animal,animal.n.01,sea animal,marine_animal.n.01,dolphin
 substance,substance.n.08,food,food.n.01,candy bar
 instrument,instrument.n.01,weapon,weapon.n.01,torpedo
 organism,organism.n.01,animal,animal.n.01,porcupine
@@ -1342,8 +1342,8 @@ substance,substance.n.08,food,food.n.01,crumb
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,hyena
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,seal
 artifact,artifact.n.01,toy,toy.n.01,kaleidoscope
-tool,tool.n.01,kitchen tool,-,funnel
-food,food.n.01,drink,drink.n.03,milkshake
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,funnel
+food,food.n.01,drink,beverage.n.01,milkshake
 instrument,instrument.n.01,tool,tool.n.01,metal detector
 device,device.n.01,musical instrument,musical_instrument.n.01,trombone
 organism,organism.n.01,animal,animal.n.01,turtle
@@ -1371,13 +1371,13 @@ sweet,sweet.n.03,candy,candy.n.01,gum
 substance,substance.n.08,food,food.n.01,sprouts
 organism,organism.n.01,animal,animal.n.01,eagle
 storage,storage,container,container.n.01,trunk
-animal,animal.n.01,sea animal,sea_animal.n.01,walrus
+animal,animal.n.01,sea animal,marine_animal.n.01,walrus
 substance,substance.n.08,food,food.n.01,dip
 covering,covering.n.02,clothing,clothing.n.01,blouse
 organism,organism.n.01,animal,animal.n.01,cardinal
 substance,substance.n.08,food,food.n.01,swordfish
 substance,substance.n.08,food,food.n.01,star fruit
-clothing,clothing.n.01,protective clothing,-,face mask
+clothing,clothing.n.01,protective clothing,protective_covering.n.01,face mask
 connector,connector.n.01,fastener,fastener.n.01,hook
 instrument,instrument.n.01,medical equipment,medical_instrument.n.01,eyedropper
 transportation,transport.n.01,vehicle,vehicle.n.01,steamroller
@@ -1394,16 +1394,16 @@ storage,storage,container,container.n.01,beaker
 organism,organism.n.01,animal,animal.n.01,puffin
 storage,storage,container,container.n.01,bank
 organism,organism.n.01,animal,animal.n.01,leech
-animal,animal.n.01,sea animal,sea_animal.n.01,sardine
+animal,animal.n.01,sea animal,marine_animal.n.01,sardine
 organism,organism.n.01,animal,animal.n.01,toucan
 organism,organism.n.01,animal,animal.n.01,beaver
 substance,substance.n.08,food,food.n.01,blackberry
 produce,produce.n.01,fruit,edible_fruit.n.01,fruit
 organism,organism.n.01,animal,animal.n.01,cat
-food,food.n.01,breakfast,none,bagel
+food,food.n.01,breakfast,-,bagel
 food,food.n.01,dessert,dessert.n.01,sundae
 substance,substance.n.08,food,food.n.01,potato
-vehicle,vehicle.n.01,water vehicle,watercraft.n.01,ferry
+vehicle,vehicle.n.01,water vehicle,vessel.n.02,ferry
 storage,storage,container,container.n.01,bag
 utilities,-,toiletry,toiletry.n.01,shower cap
 transportation,transport.n.01,vehicle,vehicle.n.01,trolley
@@ -1421,8 +1421,8 @@ transportation,transport.n.01,vehicle,vehicle.n.01,tugboat
 equipment,equipment.n.01,office supply,-,stapler
 device,device.n.01,musical instrument,musical_instrument.n.01,triangle
 organism,organism.n.01,animal,animal.n.01,ostrich
-tool,tool.n.01,kitchen tool,-,ladle
-decoration,decoration.n.01,home decor,decor.n.01,weather vane
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,ladle
+decoration,decoration.n.01,home decor,interior_decoration.n.01,weather vane
 instrument,implement.n.01,tool,tool.n.01,plug
 connector,connector.n.01,fastener,fastener.n.01,knot
 component,component.n.01,auto part,auto_part.n.01,gasket
@@ -1431,7 +1431,7 @@ decoration,decoration.n.01,furniture,furniture.n.01,bunkbed
 food product,foodstuff.n.02,condiment,condiment.n.01,peanut butter
 clothing,clothing.n.01,women's clothing,-,fishnet stockings
 food,food.n.01,dessert,dessert.n.01,pudding
-tool,tool.n.01,kitchen tool,-,cleaver
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,cleaver
 sweet,sweet.n.03,candy,candy.n.01,fudge
 sweet,sweet.n.03,candy,candy.n.01,chocolate
 organism,organism.n.01,animal,animal.n.01,sea urchin
@@ -1463,11 +1463,11 @@ organism,organism.n.01,animal,animal.n.01,shrimp
 organism,organism.n.01,animal,animal.n.01,slug
 vertebrate,vertebrate.n.01,bird,bird.n.01,duckling
 instrument,instrument.n.01,weapon,weapon.n.01,machine gun
-food,food.n.01,breakfast,none,jam
-food,food.n.01,drink,drink.n.03,coffee
+food,food.n.01,breakfast,-,jam
+food,food.n.01,drink,beverage.n.01,coffee
 substance,substance.n.08,food,food.n.01,fondue
 transportation,transport.n.01,vehicle,vehicle.n.01,van
-tool,tool.n.01,kitchen tool,-,skewer
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,skewer
 substance,substance.n.08,food,food.n.01,cauliflower
 artifact,artifact.n.01,toy,toy.n.01,skateboard
 food,food.n.01,dessert,dessert.n.01,shortbread
@@ -1498,7 +1498,7 @@ organism,organism.n.01,animal,animal.n.01,anteater
 organism,organism.n.01,animal,animal.n.01,clam
 home appliance,home_appliance.n.01,kitchen equipment,kitchen_appliance.n.01,slicer
 equipment,equipment.n.01,office supply,-,file
-food,food.n.01,breakfast,none,muffin
+food,food.n.01,breakfast,-,muffin
 substance,substance.n.08,food,food.n.01,brussels sprouts
 instrument,instrument.n.01,tool,tool.n.01,saw
 instrument,instrument.n.01,tool,tool.n.01,crowbar
@@ -1511,7 +1511,7 @@ organism,organism.n.01,animal,animal.n.01,bat
 organism,organism.n.01,animal,animal.n.01,pheasant
 component,component.n.01,auto part,auto_part.n.01,bumper
 activity,activity.n.01,game,game.n.01,computer
-food,food.n.01,breakfast,none,pancake
+food,food.n.01,breakfast,-,pancake
 mammal,mammal.n.01,livestock,livestock.n.01,goat
 instrument,instrument.n.01,weapon,weapon.n.01,bazooka
 substance,substance.n.08,food,food.n.01,burrito
@@ -1540,13 +1540,13 @@ organism,organism.n.01,plant,plant.n.02,cabbage
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,moose
 substance,substance.n.08,food,food.n.01,mussel
 substance,substance.n.08,food,food.n.01,poppy
-food,food.n.01,drink,drink.n.03,latte
+food,food.n.01,drink,beverage.n.01,latte
 organism,organism.n.01,animal,animal.n.01,fly
-tool,tool.n.01,kitchen tool,-,peeler
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,peeler
 storage,storage,container,container.n.01,cooker
 organism,organism.n.01,animal,animal.n.01,shark
 home appliance,home_appliance.n.01,kitchen equipment,kitchen_appliance.n.01,stove
-decoration,decoration.n.01,home decor,decor.n.01,candelabra
+decoration,decoration.n.01,home decor,interior_decoration.n.01,candelabra
 covering,covering.n.02,clothing,clothing.n.01,coat
 instrument,instrument.n.01,tool,tool.n.01,scalpel
 organism,organism.n.01,animal,animal.n.01,seagull
@@ -1556,13 +1556,13 @@ vertebrate,vertebrate.n.01,mammal,mammal.n.01,panther
 transportation,transport.n.01,vehicle,vehicle.n.01,firetruck
 instrument,implement.n.01,tool,tool.n.01,tweezers
 device,device.n.01,musical instrument,musical_instrument.n.01,gong
-clothing,clothing.n.01,protective clothing,-,coverall
+clothing,clothing.n.01,protective clothing,protective_covering.n.01,coverall
 organism,organism.n.01,animal,animal.n.01,caterpillar
 covering,covering.n.02,footwear,footwear.n.01,iceskate
 covering,covering.n.02,clothing,clothing.n.01,bra
 substance,substance.n.08,food,food.n.01,lobster
 organism,organism.n.01,plant,plant.n.02,daisy
-clothing,clothing.n.01,protective clothing,-,overalls
+clothing,clothing.n.01,protective clothing,protective_covering.n.01,overalls
 organism,organism.n.01,animal,animal.n.01,zebra
 clothing,clothing.n.01,accessory,accessory.n.01,handkerchief
 substance,substance.n.08,food,food.n.01,chili
@@ -1586,22 +1586,22 @@ food,food.n.01,dessert,dessert.n.01,pie
 instrument,implement.n.01,tool,tool.n.01,combination lock
 device,device.n.01,electronic device,electronic_device.n.01,defibrillator
 produce,produce.n.01,fruit,edible_fruit.n.01,apple
-tool,tool.n.01,kitchen tool,-,eggbeater
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,eggbeater
 covering,covering.n.02,footwear,footwear.n.01,slipper
-food,food.n.01,breakfast,none,honey
-food,food.n.01,breakfast,none,crepe
+food,food.n.01,breakfast,-,honey
+food,food.n.01,breakfast,-,crepe
 activity,activity.n.01,game,game.n.01,videogame
-tool,tool.n.01,kitchen tool,-,icepick
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,icepick
 organism,organism.n.01,animal,animal.n.01,catfish
 device,device.n.01,musical instrument,musical_instrument.n.01,clarinet
-decoration,decoration.n.01,home decor,decor.n.01,stained glass
-vehicle,vehicle.n.01,water vehicle,watercraft.n.01,tugboat
+decoration,decoration.n.01,home decor,interior_decoration.n.01,stained glass
+vehicle,vehicle.n.01,water vehicle,vessel.n.02,tugboat
 substance,substance.n.08,food,food.n.01,syrup
 utilities,-,toiletry,toiletry.n.01,soap
 food,food.n.01,dessert,dessert.n.01,whipped cream
-animal,animal.n.01,sea animal,sea_animal.n.01,manatee
+animal,animal.n.01,sea animal,marine_animal.n.01,manatee
 organism,organism.n.01,animal,animal.n.01,badger
-food,food.n.01,breakfast,none,sandwich
+food,food.n.01,breakfast,-,sandwich
 covering,covering.n.02,clothing,clothing.n.01,diaper
 produce,produce.n.01,vegetable,vegetable.n.01,lettuce
 instrument,instrument.n.01,tool,tool.n.01,pickax
@@ -1625,7 +1625,7 @@ instrument,instrument.n.01,medical equipment,medical_instrument.n.01,hearing aid
 produce,produce.n.01,fruit,edible_fruit.n.01,kiwi
 activity,activity.n.01,game,game.n.01,domino
 instrument,instrument.n.01,medical equipment,medical_instrument.n.01,defibrillator
-animal,animal.n.01,sea animal,sea_animal.n.01,whale
+animal,animal.n.01,sea animal,marine_animal.n.01,whale
 organism,organism.n.01,plant,plant.n.02,sunflower
 substance,substance.n.08,food,food.n.01,licorice
 device,device.n.01,musical instrument,musical_instrument.n.01,violin
@@ -1634,7 +1634,7 @@ produce,produce.n.01,vegetable,vegetable.n.01,spinach
 covering,covering.n.02,clothing,clothing.n.01,bowler hat
 clothing,clothing.n.01,headwear,headgear.n.01,crown
 clothing,clothing.n.01,women's clothing,-,headscarf
-vehicle,vehicle.n.01,water vehicle,watercraft.n.01,ship
+vehicle,vehicle.n.01,water vehicle,vessel.n.02,ship
 animal,animal.n.01,insect,insect.n.01,praying mantis
 device,device.n.01,electronic device,electronic_device.n.01,hairdryer
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,kitten
@@ -1664,7 +1664,7 @@ substance,substance.n.08,food,food.n.01,lamb chop
 clothing,clothing.n.01,accessory,accessory.n.01,bandana
 instrument,instrument.n.01,weapon,weapon.n.01,baton
 clothing,clothing.n.01,outerwear,outerwear.n.01,shawl
-decoration,decoration.n.01,home decor,decor.n.01,gourd
+decoration,decoration.n.01,home decor,interior_decoration.n.01,gourd
 organism,organism.n.01,animal,animal.n.01,weasel
 instrument,instrument.n.01,tool,tool.n.01,screwdriver
 substance,substance.n.08,food,food.n.01,basil
@@ -1680,13 +1680,13 @@ equipment,equipment.n.01,school supply,-,calculator
 clothing,clothing.n.01,accessory,accessory.n.01,cufflink
 clothing,clothing.n.01,outerwear,outerwear.n.01,blazer
 substance,substance.n.08,food,food.n.01,pastry
-animal,animal.n.01,sea animal,sea_animal.n.01,seahorse
+animal,animal.n.01,sea animal,marine_animal.n.01,seahorse
 substance,substance.n.08,food,food.n.01,orange
 instrument,instrument.n.01,weapon,weapon.n.01,trident
 clothing,clothing.n.01,accessory,accessory.n.01,cummerbund
 substance,substance.n.08,food,food.n.01,turkey
 utilities,-,toiletry,toiletry.n.01,swab
-tool,tool.n.01,kitchen tool,-,knife
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,knife
 substance,substance.n.08,food,food.n.01,chips
 covering,covering.n.02,clothing,clothing.n.01,dress
 food,food.n.01,dessert,dessert.n.01,donut
@@ -1705,13 +1705,13 @@ clothing,clothing.n.01,headwear,headgear.n.01,bowler hat
 substance,substance.n.08,food,food.n.01,pesto
 substance,substance.n.08,food,food.n.01,waffle
 activity,activity.n.01,game,game.n.01,hopscotch
-vehicle,vehicle.n.01,water vehicle,watercraft.n.01,boat
+vehicle,vehicle.n.01,water vehicle,vessel.n.02,boat
 substance,substance.n.08,food,food.n.01,cordon bleu
-food,food.n.01,breakfast,none,omelet
+food,food.n.01,breakfast,-,omelet
 covering,covering.n.02,clothing,clothing.n.01,uniform
 substance,substance.n.08,food,food.n.01,soup
 instrument,implement.n.01,tool,tool.n.01,hammer
-tool,tool.n.01,kitchen tool,-,spatula
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,spatula
 instrument,implement.n.01,tool,tool.n.01,chicken wire
 instrument,implement.n.01,tool,tool.n.01,thermometer
 device,device.n.01,electronic device,electronic_device.n.01,slicer
@@ -1732,14 +1732,14 @@ substance,substance.n.08,food,food.n.01,tortellini
 substance,substance.n.08,food,food.n.01,radish
 storage,storage,container,container.n.01,canister
 component,component.n.01,auto part,auto_part.n.01,steering wheel
-decoration,decoration.n.01,home decor,decor.n.01,hourglass
+decoration,decoration.n.01,home decor,interior_decoration.n.01,hourglass
 transportation,transport.n.01,vehicle,vehicle.n.01,garbage truck
 sweet,sweet.n.03,candy,candy.n.01,caramel
 covering,covering.n.02,clothing,clothing.n.01,corset
 tool,tool.n.01,garden tool,garden_tool.n.01,rake
 instrument,implement.n.01,tool,tool.n.01,ratchet
-clothing,clothing.n.01,protective clothing,-,bulletproof vest
-clothing,clothing.n.01,protective clothing,-,raincoat
+clothing,clothing.n.01,protective clothing,protective_covering.n.01,bulletproof vest
+clothing,clothing.n.01,protective clothing,protective_covering.n.01,raincoat
 substance,substance.n.08,food,food.n.01,rhubarb
 substance,substance.n.08,food,food.n.01,raisin
 storage,storage,container,container.n.01,bottle
@@ -1747,14 +1747,14 @@ vertebrate,vertebrate.n.01,mammal,mammal.n.01,chinchilla
 substance,substance.n.08,food,food.n.01,sardine
 organism,organism.n.01,plant,plant.n.02,spinach
 substance,substance.n.08,food,food.n.01,muffin
-tool,tool.n.01,kitchen tool,-,juicer
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,juicer
 organism,organism.n.01,animal,animal.n.01,goose
 organism,organism.n.01,animal,animal.n.01,ant
 substance,substance.n.08,food,food.n.01,rabbit
 food,food.n.01,dessert,dessert.n.01,cheesecake
 substance,substance.n.08,food,food.n.01,peanut
 storage,storage,container,container.n.01,coffee pot
-food,food.n.01,breakfast,none,sausage
+food,food.n.01,breakfast,-,sausage
 transportation,transport.n.01,vehicle,vehicle.n.01,wagon
 organism,organism.n.01,plant,plant.n.02,tulip
 instrument,instrument.n.01,tool,tool.n.01,spoon
@@ -1790,7 +1790,7 @@ instrument,instrument.n.01,weapon,weapon.n.01,machete
 food,food.n.01,dessert,dessert.n.01,milkshake
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,tiger
 instrument,implement.n.01,tool,tool.n.01,pipe
-animal,animal.n.01,sea animal,sea_animal.n.01,sea urchin
+animal,animal.n.01,sea animal,marine_animal.n.01,sea urchin
 tool,tool.n.01,garden tool,garden_tool.n.01,watering can
 food product,foodstuff.n.02,condiment,condiment.n.01,mustard
 device,device.n.01,electronic device,electronic_device.n.01,food processor
@@ -1798,7 +1798,7 @@ substance,substance.n.08,food,food.n.01,dumpling
 equipment,equipment.n.01,school supply,-,folder
 component,component.n.01,auto part,auto_part.n.01,roof rack
 storage,storage,container,container.n.01,test tube
-tool,tool.n.01,kitchen tool,-,sifter
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,sifter
 substance,substance.n.08,food,food.n.01,pasta
 clothing,clothing.n.01,accessory,accessory.n.01,bowtie
 substance,substance.n.08,food,food.n.01,green beans
@@ -1806,25 +1806,25 @@ covering,covering.n.02,clothing,clothing.n.01,boot
 decoration,decoration.n.01,furniture,furniture.n.01,mattress
 produce,produce.n.01,fruit,edible_fruit.n.01,cherry
 instrument,implement.n.01,tool,tool.n.01,latch
-clothing,clothing.n.01,protective clothing,-,lab coat
+clothing,clothing.n.01,protective clothing,protective_covering.n.01,lab coat
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,leopard
 covering,covering.n.02,clothing,clothing.n.01,snowshoe
-decoration,decoration.n.01,home decor,decor.n.01,wallpaper
+decoration,decoration.n.01,home decor,interior_decoration.n.01,wallpaper
 organism,organism.n.01,animal,animal.n.01,monkey
 clothing,clothing.n.01,headwear,headgear.n.01,hood
 organism,organism.n.01,animal,animal.n.01,earwig
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,rabbit
-decoration,decoration.n.01,home decor,decor.n.01,pillow
+decoration,decoration.n.01,home decor,interior_decoration.n.01,pillow
 food,food.n.01,dessert,dessert.n.01,creme brulee
 substance,substance.n.08,food,food.n.01,honey
 substance,substance.n.08,food,food.n.01,crepe
 clothing,clothing.n.01,women's clothing,-,lingerie
 instrument,implement.n.01,tool,tool.n.01,sawhorse
 substance,substance.n.08,food,food.n.01,flour
-animal,animal.n.01,sea animal,sea_animal.n.01,shrimp
+animal,animal.n.01,sea animal,marine_animal.n.01,shrimp
 substance,substance.n.08,food,food.n.01,watermelon
 covering,covering.n.02,clothing,clothing.n.01,nightshirt
-decoration,decoration.n.01,home decor,decor.n.01,aquarium
+decoration,decoration.n.01,home decor,interior_decoration.n.01,aquarium
 storage,storage,container,container.n.01,wheelbarrow
 connector,connector.n.01,fastener,fastener.n.01,strap
 substance,substance.n.08,food,food.n.01,cranberry
@@ -1844,7 +1844,7 @@ decoration,decoration.n.01,furniture,furniture.n.01,recliner
 substance,substance.n.08,food,food.n.01,sandwich
 device,device.n.01,electronic device,electronic_device.n.01,smoke alarm
 covering,covering.n.02,clothing,clothing.n.01,shoe
-decoration,decoration.n.01,home decor,decor.n.01,album
+decoration,decoration.n.01,home decor,interior_decoration.n.01,album
 instrument,implement.n.01,tool,tool.n.01,sledgehammer
 clothing,clothing.n.01,accessory,accessory.n.01,belt buckle
 organism,organism.n.01,animal,animal.n.01,spider
@@ -1862,7 +1862,7 @@ transportation,transport.n.01,vehicle,vehicle.n.01,rickshaw
 device,device.n.01,electronic device,electronic_device.n.01,tablet
 component,component.n.01,auto part,auto_part.n.01,headrest
 tool,tool.n.01,garden tool,garden_tool.n.01,trowel
-animal,animal.n.01,sea animal,sea_animal.n.01,clam
+animal,animal.n.01,sea animal,marine_animal.n.01,clam
 utilities,-,toiletry,toiletry.n.01,mascara
 instrument,instrument.n.01,tool,tool.n.01,broom
 storage,storage,container,container.n.01,wine cooler
@@ -1873,7 +1873,7 @@ vertebrate,vertebrate.n.01,mammal,mammal.n.01,orangutan
 instrument,implement.n.01,tool,tool.n.01,cord
 covering,covering.n.02,clothing,clothing.n.01,fishnet stockings
 storage,storage,container,container.n.01,bathtub
-food,food.n.01,drink,drink.n.03,soda
+food,food.n.01,drink,beverage.n.01,soda
 substance,substance.n.08,food,food.n.01,cookie
 substance,substance.n.08,food,food.n.01,dessert
 substance,substance.n.08,food,food.n.01,lollipop
@@ -1892,7 +1892,7 @@ organism,organism.n.01,animal,animal.n.01,crow
 artifact,artifact.n.01,toy,toy.n.01,squirt gun
 substance,substance.n.08,food,food.n.01,ice cream
 device,device.n.01,electronic device,electronic_device.n.01,blower
-clothing,clothing.n.01,protective clothing,-,life jacket
+clothing,clothing.n.01,protective clothing,protective_covering.n.01,life jacket
 decoration,decoration.n.01,furniture,furniture.n.01,rocking chair
 instrument,instrument.n.01,tool,tool.n.01,scoop
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,hamster
@@ -1901,7 +1901,7 @@ organism,organism.n.01,animal,animal.n.01,goat
 artifact,artifact.n.01,toy,toy.n.01,train set
 substance,substance.n.08,food,food.n.01,toast
 instrument,instrument.n.01,tool,tool.n.01,anvil
-animal,animal.n.01,sea animal,sea_animal.n.01,snail
+animal,animal.n.01,sea animal,marine_animal.n.01,snail
 equipment,equipment.n.01,office supply,-,ink
 covering,covering.n.02,clothing,clothing.n.01,beanie
 component,component.n.01,auto part,auto_part.n.01,dashboard
@@ -1909,18 +1909,18 @@ instrument,instrument.n.01,medical equipment,medical_instrument.n.01,walker
 transportation,transport.n.01,vehicle,vehicle.n.01,ferry
 clothing,clothing.n.01,outerwear,outerwear.n.01,fur coat
 substance,substance.n.08,food,food.n.01,guacamole
-food,food.n.01,breakfast,none,croissant
+food,food.n.01,breakfast,-,croissant
 food,food.n.01,dessert,dessert.n.01,cheese
 instrument,implement.n.01,tool,tool.n.01,staple gun
 covering,covering.n.02,clothing,clothing.n.01,panties
 connector,connector.n.01,fastener,fastener.n.01,staple
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,mouse
-animal,animal.n.01,sea animal,sea_animal.n.01,shark
+animal,animal.n.01,sea animal,marine_animal.n.01,shark
 instrument,instrument.n.01,weapon,weapon.n.01,cleaver
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,alpaca
 utilities,-,toiletry,toiletry.n.01,washcloth
 storage,storage,container,container.n.01,toolbox
-decoration,decoration.n.01,home decor,decor.n.01,poster
+decoration,decoration.n.01,home decor,interior_decoration.n.01,poster
 storage,storage,container,container.n.01,piggy bank
 animal,animal.n.01,insect,insect.n.01,mosquito
 substance,substance.n.08,food,food.n.01,carrot
@@ -1930,7 +1930,7 @@ food,food.n.01,seafood,seafood.n.01,catfish
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,meerkat
 instrument,instrument.n.01,medical equipment,medical_instrument.n.01,ice pack
 transportation,transport.n.01,vehicle,vehicle.n.01,skateboard
-decoration,decoration.n.01,home decor,decor.n.01,coaster
+decoration,decoration.n.01,home decor,interior_decoration.n.01,coaster
 covering,covering.n.02,clothing,clothing.n.01,polo shirt
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,wolf
 device,device.n.01,electronic device,electronic_device.n.01,webcam
@@ -1942,11 +1942,11 @@ instrument,instrument.n.01,tool,tool.n.01,wrench
 produce,produce.n.01,vegetable,vegetable.n.01,pea
 device,device.n.01,musical instrument,musical_instrument.n.01,mandolin
 storage,storage,container,container.n.01,bowl
-decoration,decoration.n.01,home decor,decor.n.01,statue
+decoration,decoration.n.01,home decor,interior_decoration.n.01,statue
 clothing,clothing.n.01,accessory,accessory.n.01,buckle
 clothing,clothing.n.01,women's clothing,-,dress
 food,food.n.01,seafood,seafood.n.01,caviar
-clothing,clothing.n.01,protective clothing,-,spacesuit
+clothing,clothing.n.01,protective clothing,protective_covering.n.01,spacesuit
 device,device.n.01,electronic device,electronic_device.n.01,hotplate
 component,component.n.01,auto part,auto_part.n.01,grille
 equipment,equipment.n.01,school supply,-,eraser
@@ -1956,11 +1956,11 @@ transportation,transport.n.01,vehicle,vehicle.n.01,snowplow
 substance,substance.n.08,food,food.n.01,tomato
 instrument,instrument.n.01,tool,tool.n.01,dustpan
 instrument,instrument.n.01,weapon,weapon.n.01,blowtorch
-vehicle,vehicle.n.01,water vehicle,watercraft.n.01,airboat
+vehicle,vehicle.n.01,water vehicle,vessel.n.02,airboat
 instrument,instrument.n.01,weapon,weapon.n.01,gun
-tool,tool.n.01,kitchen tool,-,corkscrew
+tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,corkscrew
 transportation,transport.n.01,vehicle,vehicle.n.01,bus
-animal,animal.n.01,sea animal,sea_animal.n.01,catfish
+animal,animal.n.01,sea animal,marine_animal.n.01,catfish
 connector,connector.n.01,fastener,fastener.n.01,bow
 organism,organism.n.01,animal,animal.n.01,butterfly
 covering,covering.n.02,clothing,clothing.n.01,overalls
@@ -1988,7 +1988,7 @@ substance,substance.n.08,food,food.n.01,cake mix
 activity,activity.n.01,game,game.n.01,jump rope
 tool,tool.n.01,garden tool,garden_tool.n.01,hoe
 clothing,clothing.n.01,accessory,accessory.n.01,tie
-food,food.n.01,drink,drink.n.03,tea
+food,food.n.01,drink,beverage.n.01,tea
 produce,produce.n.01,vegetable,vegetable.n.01,zucchini
 clothing,clothing.n.01,women's clothing,-,corset
 organism,organism.n.01,animal,animal.n.01,coyote
@@ -2005,9 +2005,9 @@ instrument,instrument.n.01,tool,tool.n.01,blower
 device,device.n.01,musical instrument,musical_instrument.n.01,tambourine
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,fox
 substance,substance.n.08,food,food.n.01,sausage
-decoration,decoration.n.01,home decor,decor.n.01,terrarium
+decoration,decoration.n.01,home decor,interior_decoration.n.01,terrarium
 covering,covering.n.02,clothing,clothing.n.01,robe
-decoration,decoration.n.01,home decor,decor.n.01,doorknocker
+decoration,decoration.n.01,home decor,interior_decoration.n.01,doorknocker
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,pony
 covering,covering.n.02,clothing,clothing.n.01,garter
 covering,covering.n.02,clothing,clothing.n.01,cummerbund
@@ -2043,7 +2043,7 @@ vertebrate,vertebrate.n.01,mammal,mammal.n.01,whale
 device,device.n.01,musical instrument,musical_instrument.n.01,bassoon
 produce,produce.n.01,fruit,edible_fruit.n.01,lemon
 clothing,clothing.n.01,headwear,headgear.n.01,bandana
-food,food.n.01,breakfast,none,syrup
+food,food.n.01,breakfast,-,syrup
 transportation,transport.n.01,vehicle,vehicle.n.01,bike
 substance,substance.n.08,food,food.n.01,tortilla
 instrument,implement.n.01,tool,tool.n.01,can opener
@@ -2055,9 +2055,9 @@ activity,activity.n.01,game,game.n.01,board game
 organism,organism.n.01,animal,animal.n.01,eel
 instrument,implement.n.01,tool,tool.n.01,cleaver
 covering,covering.n.02,footwear,footwear.n.01,stiletto
-decoration,decoration.n.01,home decor,decor.n.01,birdhouse
+decoration,decoration.n.01,home decor,interior_decoration.n.01,birdhouse
 storage,storage,container,container.n.01,pocket
-food,food.n.01,breakfast,none,hamburger
+food,food.n.01,breakfast,-,hamburger
 food,food.n.01,seafood,seafood.n.01,crab
 organism,organism.n.01,animal,animal.n.01,camel
 substance,substance.n.08,food,food.n.01,scone

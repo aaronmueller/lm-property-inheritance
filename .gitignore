@@ -1,5 +1,6 @@
 data/comps/
 data/semantic-memory/
+data/embeddings/
 
 *.DS_Store
 

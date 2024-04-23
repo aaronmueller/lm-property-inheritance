@@ -15,3 +15,10 @@ def read_json(path):
 def read_jsonl(path):
     with open(path, "r") as f:
         return [json.loads(line) for line in f]
+
+
+def write_csv_dict(path, data):
+    with open(path, "w") as f:
+        writer = csv.DictWriter(f, fieldnames=data[0].keys())
+        writer.writeheader()
+        writer.writerows(data)

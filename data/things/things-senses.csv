@@ -1,0 +1,1350 @@
+concept,hypernyms,is_anchor_hypernym,sense
+home decor,decoration,True,interior_decoration.n.01
+decoration,,True,decoration.n.01
+birdbath,"home decor, container",False,birdbath.n.01
+insect,animal,True,insect.n.01
+animal,organism,True,animal.n.01
+fly,"insect, animal",False,fly.n.01
+fruit,"produce, fruit, food",True,edible_fruit.n.01
+produce,,True,produce.n.01
+banana,"fruit, food",False,banana.n.01
+plant,"plant, organism",True,plant.n.02
+organism,,True,organism.n.01
+leek,"vegetable, plant, food",False,leek.n.01
+skunk,"mammal, animal",False,rotter.n.01
+toiletry,utilities,True,toiletry.n.01
+utilities,,True,-
+razor,"tool, toiletry",False,razor.n.01
+food,substance,True,food.n.01
+substance,,True,substance.n.08
+quesadilla,food,False,quesadilla.n.01
+vehicle,transportation,True,vehicle.n.01
+transportation,,True,transport.n.01
+school bus,vehicle,False,
+mammal,vertebrate,True,mammal.n.01
+vertebrate,,True,vertebrate.n.01
+porcupine,"mammal, animal",False,porcupine.n.01
+pear,"fruit, food",False,pear.n.01
+toothpaste,toiletry,False,toothpaste.n.01
+outerwear,clothing,True,outerwear.n.01
+clothing,covering,True,clothing.n.01
+scarf,"outerwear, clothing, accessory",False,scarf.n.01
+tool,"tool, instrument",True,tool.n.01
+instrument,,True,instrument.n.01
+stamp,tool,False,cast.n.03
+melon,"fruit, food",False,melon.n.01
+women's clothing,clothing,True,womens_clothing.n.00
+pantsuit,"women's clothing, clothing",False,pants_suit.n.01
+blowtorch,"weapon, tool",False,blowtorch.n.01
+apron,"protective clothing, outerwear, clothing",False,apron.n.01
+electronic device,device,True,electronic_device.n.01
+device,,True,device.n.01
+radio,electronic device,False,radio.n.01
+garlic,"vegetable, food",False,garlic.n.01
+sweeper,tool,False,sweeper.n.01
+mulberry,"fruit, food",False,mulberry.n.01
+school supply,equipment,True,school_supply.n.00
+equipment,,True,equipment.n.01
+paperclip,"school supply, office supply, fastener",False,paper_clip.n.01
+candy,"sweet, food, candy",True,candy.n.01
+sweet,,True,sweet.n.03
+weapon,instrument,True,weapon.n.01
+dart,weapon,False,dart.n.01
+camcorder,electronic device,False,camcorder.n.01
+furniture,decoration,True,furniture.n.01
+footrest,furniture,False,footstool.n.01
+humvee,vehicle,False,humvee.n.01
+bonsai,"plant, home decor",False,bonsai.n.01
+fern,plant,False,fern.n.01
+toy,"toy, artifact",True,toy.n.01
+artifact,,True,artifact.n.01
+boomerang,"weapon, toy",False,boomerang.n.01
+trident,"weapon, tool",False,trident.n.01
+scooter,"vehicle, toy",False,water_scooter.n.01
+cream cheese,"food, condiment, breakfast",False,
+highlighter,"school supply, office supply",False,highlighter.n.01
+container,"storage, container",True,container.n.01
+storage,,True,storage
+tank,"weapon, tool, container",False,tank.n.01
+sawhorse,tool,False,sawhorse.n.01
+soy sauce,"food, condiment",False,
+cabinet,"furniture, container",False,cabinet.n.01
+crystal ball,home decor,False,
+hedgehog,"mammal, animal",False,porcupine.n.01
+licorice,"food, candy",False,licorice.n.01
+space shuttle,vehicle,False,
+stilt,toy,False,pile.n.06
+stingray,"sea animal, animal",False,stingray.n.01
+mole,"mammal, animal",False,gram_molecule.n.01
+wine bottle,container,False,
+dresser,"furniture, container",False,chest_of_drawers.n.01
+aquarium,"home decor, container",False,aquarium.n.01
+seafood,"seafood, food",True,seafood.n.01
+fish,"seafood, sea animal, food, animal",False,fish.n.01
+kitchen tool,tool,True,kitchen_utensil.n.01
+grater,"tool, kitchen tool",False,grater.n.01
+musical instrument,device,True,musical_instrument.n.01
+flute,musical instrument,False,flute.n.01
+cuckoo clock,home decor,False,
+tumbleweed,plant,False,tumbleweed.n.01
+covering,,True,covering.n.02
+bulletproof vest,"protective clothing, clothing",False,
+breakfast,"food, breakfast",True,breakfast.n.00
+pastry,"food, dessert, breakfast",False,pastry.n.01
+air pump,tool,False,
+headwear,clothing,True,headgear.n.01
+bonnet,"headwear, clothing, accessory",False,bonnet.n.01
+mushroom,food,False,mushroom.n.01
+medical equipment,instrument,True,medical_instrument.n.01
+brace,medical equipment,False,brace.n.01
+crayon,"toy, school supply",False,crayon.n.01
+accessory,clothing,True,accessory.n.01
+bow,"weapon, fastener, clothing, accessory",False,bow.n.01
+chain,"tool, fastener",False,chain.n.01
+chainsaw,"weapon, tool, garden tool, electronic device",False,chain_saw.n.01
+bamboo,plant,False,bamboo.n.01
+headscarf,"women's clothing, headwear, clothing",False,headscarf.n.01
+mango,"fruit, food",False,mango.n.01
+condiment,food product,True,condiment.n.01
+food product,,True,foodstuff.n.02
+butter,"food, condiment",False,butter.n.01
+police car,vehicle,False,
+vial,"medical equipment, container",False,phial.n.01
+orchid,plant,False,orchid.n.01
+vegetable,"vegetable, produce, food",True,vegetable.n.01
+jalapeno,"vegetable, food",False,cayenne.n.01
+rhinoceros,"mammal, animal",False,rhinoceros.n.01
+livestock,mammal,True,livestock.n.01
+duck,"livestock, bird, animal",False,duck.n.01
+jewelry,"jewelry, decoration",True,jewelry.n.01
+croissant,"food, breakfast",False,crescent_roll.n.01
+waffle,"food, breakfast",False,waffle.n.01
+kitchen equipment,home appliance,True,kitchen_appliance.n.01
+home appliance,,True,home_appliance.n.01
+coffeemaker,"kitchen equipment, electronic device",False,
+footwear,covering,True,footwear.n.01
+rollerblade,footwear,False,rollerblade.n.01
+shirt,clothing,False,shirt.n.01
+bell pepper,"vegetable, food",False,
+pocket watch,jewelry,False,
+cow,"mammal, livestock, animal",False,cow.n.01
+chive,"vegetable, plant, food",False,chives.n.01
+knife,"weapon, tool, kitchen tool",False,knife.n.01
+cornbread,food,False,cornbread.n.01
+duffel bag,container,False,
+plaster cast,medical equipment,False,
+bottle opener,"tool, kitchen tool",False,
+vise,tool,False,vise.n.01
+cloak,"outerwear, clothing",False,cloak.n.01
+fastener,connector,True,fastener.n.01
+connector,,True,connector.n.01
+velcro,fastener,False,velcro.n.01
+beaver,"mammal, animal",False,beaver.n.01
+shelf,furniture,False,shelf.n.01
+curling iron,"tool, toiletry, electronic device",False,
+headband,"headwear, clothing, accessory",False,headband.n.01
+cat,"mammal, animal",False,cat.n.01
+office supply,equipment,True,office_supply.n.00
+pen,"tool, school supply, office supply",False,pen.n.01
+yogurt,"food, breakfast",False,yogurt.n.01
+whisk,kitchen tool,False,whisk.n.01
+shrimp,"seafood, sea animal, food, animal",False,runt.n.01
+spark plug,"tool, auto part",False,
+koala,"mammal, animal",False,koala.n.01
+maggot,animal,False,maggot.n.01
+dumpster,container,False,dumpster.n.01
+aloe,plant,False,aloe.n.01
+clover,plant,False,clover.n.01
+backscratcher,tool,False,backscratcher.n.01
+eggplant,"vegetable, food",False,eggplant.n.01
+drink,"food, drink",True,beverage.n.01
+beer,drink,False,beer.n.01
+padlock,"tool, fastener",False,padlock.n.01
+basil,"plant, food",False,basil.n.01
+tupperware,container,False,
+scrambled egg,"food, breakfast",False,
+poker,tool,False,poker.n.01
+water vehicle,vehicle,True,vessel.n.02
+sailboat,"water vehicle, vehicle",False,sailboat.n.01
+lemonade,drink,False,lemonade.n.01
+briefcase,container,False,briefcase.n.01
+strainer,"tool, kitchen tool",False,strainer.n.01
+taxi,vehicle,False,cab.n.03
+spareribs,food,False,barbecued_spareribs.n.01
+hat,"headwear, clothing, accessory",False,hat.n.01
+groundhog,"mammal, animal",False,groundhog.n.01
+auto part,component,True,auto_part.n.01
+component,,True,component.n.01
+handbrake,auto part,False,
+first-aid kit,medical equipment,False,
+grass,plant,False,grass.n.01
+crayfish,"seafood, food, animal",False,spiny_lobster.n.01
+laptop,electronic device,False,laptop.n.01
+hot-water bottle,container,False,
+lampshade,home decor,False,lampshade.n.01
+notepad,"school supply, office supply",False,notepad.n.01
+clam,"seafood, sea animal, food, animal",False,clam.n.01
+sunroof,auto part,False,sunroof.n.01
+bee,"insect, animal",False,bee.n.01
+moccasin,"footwear, clothing",False,moccasin.n.01
+poinsettia,plant,False,poinsettia.n.01
+otter,"mammal, animal",False,otter.n.01
+whipped cream,"food, dessert",False,
+deer,"mammal, animal",False,deer.n.01
+protective clothing,clothing,True,protective_covering.n.01
+kneepad,protective clothing,False,
+tuba,musical instrument,False,bass_horn.n.01
+onion,"vegetable, food",False,onion.n.01
+plum,"fruit, food",False,plum.n.01
+cereal,"food, breakfast",False,cereal.n.01
+throne,furniture,False,throne.n.01
+freezer,"kitchen equipment, electronic device",False,deep-freeze.n.01
+gingerbread man,food,False,
+marker,"tool, school supply",False,marker.n.01
+kimono,"women's clothing, clothing",False,kimono.n.01
+maple syrup,"food, condiment, breakfast",False,
+sauce,"food, condiment",False,sauce.n.01
+celery,"vegetable, food",False,celery.n.01
+ukulele,musical instrument,False,uke.n.01
+gyroscope,toy,False,gyroscope.n.01
+frame,home decor,False,frame.n.01
+purse,"container, accessory",False,bag.n.04
+marmalade,"food, condiment, breakfast",False,marmalade.n.01
+lime,"fruit, food",False,calcium_hydroxide.n.01
+jeep,vehicle,False,jeep.n.01
+spam,food,False,spam.n.01
+funnel,"tool, kitchen tool",False,funnel.n.01
+basket,container,False,basket.n.01
+clasp,"tool, fastener",False,clasp.n.01
+jetski,"water vehicle, vehicle",False,
+icemaker,"kitchen equipment, electronic device",False,
+fan,electronic device,False,fan.n.01
+mixer,"kitchen equipment, electronic device",False,sociable.n.01
+bird,"vertebrate, bird, animal",True,bird.n.01
+flamingo,"bird, animal",False,flamingo.n.01
+ladder,tool,False,ladder.n.01
+asparagus,"vegetable, plant, food",False,asparagus.n.01
+gurney,medical equipment,False,gurney.n.01
+grenade,weapon,False,grenade.n.01
+shovel,"tool, garden tool",False,shovel.n.01
+wire,tool,False,wire.n.01
+cart,vehicle,False,cart.n.01
+game,"game, activity",True,game.n.01
+activity,,True,activity.n.01
+scrabble,game,False,scribble.n.02
+measuring cup,"kitchen tool, container",False,
+bed,furniture,False,bed.n.01
+glove,"protective clothing, outerwear, clothing, accessory",False,baseball_glove.n.01
+punch,"tool, office supply, drink",False,punch.n.01
+noodle,food,False,noodle.n.01
+bolt,"tool, fastener",False,thunderbolt.n.01
+piglet,"mammal, livestock, animal",False,piglet.n.01
+blowfish,"seafood, sea animal, animal",False,blowfish.n.01
+tape,"office supply, fastener",False,tape.n.01
+faucet,tool,False,faucet.n.01
+gum,"food, candy",False,chewing_gum.n.01
+calf,"mammal, livestock, animal",False,calf.n.01
+platypus,"mammal, animal",False,platypus.n.01
+sloth,"mammal, animal",False,sloth.n.01
+life jacket,"protective clothing, clothing",False,
+food processor,"kitchen equipment, electronic device",False,
+vulture,"bird, animal",False,vulture.n.01
+french fries,"food, breakfast",False,
+ant,"insect, animal",False,ant.n.01
+wind chimes,home decor,False,
+anteater,"mammal, animal",False,pangolin.n.01
+record player,electronic device,False,
+tarantula,animal,False,european_wolf_spider.n.01
+calamari,"seafood, food",False,squid.n.01
+terrarium,"home decor, container",False,terrarium.n.01
+vase,"home decor, container",False,vase.n.01
+bat,"weapon, mammal, animal",False,bat.n.01
+toaster oven,"kitchen equipment, electronic device",False,
+dough,food,False,dough.n.01
+abacus,home decor,False,abacus.n.01
+jellyfish,"seafood, sea animal, animal",False,portuguese_man-of-war.n.01
+wafer,food,False,wafer.n.01
+water filter,kitchen equipment,False,
+puppy,"mammal, animal",False,puppy.n.01
+parrot,"bird, animal",False,parrot.n.01
+wheel,auto part,False,wheel.n.01
+hamburger,"food, breakfast",False,hamburger.n.01
+drawer,container,False,drawer.n.01
+salad,food,False,salad.n.01
+scallion,"vegetable, food",False,leek.n.01
+catfish,"seafood, sea animal, food, animal",False,catfish.n.01
+bacon,"food, breakfast",False,bacon.n.01
+aardvark,"mammal, animal",False,aardvark.n.01
+bolo tie,"clothing, accessory",False,
+water heater,"electronic device, container",False,
+piecrust,food,False,
+crank,tool,False,grouch.n.01
+ram,"mammal, livestock, animal",False,random-access_memory.n.01
+roll,"food, breakfast",False,axial_rotation.n.01
+bear,"mammal, animal",False,bear.n.01
+cot,furniture,False,fingerstall.n.01
+hippopotamus,"mammal, animal",False,hippopotamus.n.01
+poodle,"mammal, animal",False,poodle.n.01
+ladle,"tool, kitchen tool",False,ladle.n.01
+chickpea,"vegetable, food",False,chickpea.n.01
+birdcage,"home decor, container",False,birdcage.n.01
+christmas tree,home decor,False,
+shaker,container,False,shaker.n.01
+sarcophagus,container,False,sarcophagus.n.01
+boot,"footwear, clothing",False,boot.n.01
+donkey,"mammal, livestock, animal",False,donkey.n.01
+juicer,"kitchen tool, kitchen equipment, electronic device",False,drinker.n.02
+cotton candy,"food, candy",False,
+peppermint,"food, candy",False,peppermint.n.01
+folder,"school supply, office supply",False,booklet.n.01
+slot machine,"game, electronic device",False,
+hubcap,auto part,False,hubcap.n.01
+gazelle,"mammal, animal",False,gazelle.n.01
+crown,"jewelry, headwear, clothing",False,crown.n.01
+spacesuit,"protective clothing, clothing",False,spacesuit.n.01
+dolphin,"sea animal, mammal, animal",False,dolphinfish.n.02
+cleaver,"weapon, tool, kitchen tool",False,cleaver.n.01
+sea animal,animal,True,marine_animal.n.01
+octopus,"seafood, sea animal, food, animal",False,octopus.n.01
+wedding cake,"food, dessert",False,
+toast,"food, breakfast",False,toast.n.01
+zebra,"mammal, animal",False,zebra.n.01
+ginger,"food, condiment",False,ginger.n.01
+dessert,"food, dessert",True,dessert.n.01
+souffle,"food, dessert",False,souffle.n.01
+doily,home decor,False,doily.n.01
+lizard,animal,False,lizard.n.01
+broccoli,"vegetable, plant, food",False,broccoli.n.01
+pinball,"game, electronic device",False,pinball.n.01
+barrette,"jewelry, fastener",False,barrette.n.01
+rat,"mammal, animal",False,rat.n.01
+shoe,"footwear, clothing",False,shoe.n.01
+star fruit,"fruit, food",False,
+garden tool,tool,True,garden_tool.n.01
+washing machine,electronic device,False,
+earwig,"insect, animal",False,earwig.n.01
+dynamite,weapon,False,dynamite.n.01
+lego,toy,False,lego.n.01
+parsley,"vegetable, plant, food",False,parsley.n.01
+notebook,"school supply, office supply",False,notebook.n.01
+lollipop,"food, candy",False,ice_lolly.n.01
+goblet,container,False,goblet.n.01
+brownie,"food, dessert",False,brownie.n.01
+doorknocker,"tool, home decor",False,knocker.n.05
+tack,"tool, office supply, fastener",False,tack.n.01
+pitcher,container,False,pitcher.n.01
+gasket,"fastener, auto part",False,gasket.n.01
+jack,tool,False,jack.n.01
+blackberry,"fruit, food",False,blackberry.n.01
+tape recorder,electronic device,False,
+chihuahua,"mammal, animal",False,chihuahua.n.01
+locker,container,False,cabinet.n.03
+file,"tool, office supply",False,file.n.01
+rocket,vehicle,False,rocket.n.01
+globe,home decor,False,earth.n.01
+badger,"mammal, animal",False,wisconsinite.n.01
+hot chocolate,drink,False,
+bulldozer,vehicle,False,bulldozer.n.01
+fountain pen,"tool, school supply, office supply",False,
+candy cane,"food, candy",False,
+lamb,"mammal, livestock, food, animal",False,lamb.n.01
+parfait,"food, dessert",False,parfait.n.01
+burner,kitchen equipment,False,burner.n.01
+oatmeal,"food, breakfast",False,oatmeal.n.01
+coconut,"fruit, food",False,coconut.n.01
+swordfish,"seafood, sea animal, food, animal",False,swordfish.n.01
+mustard,"food, condiment",False,mustard.n.01
+suitcase,container,False,bag.n.06
+reindeer,"mammal, animal",False,caribou.n.01
+mitten,"clothing, accessory",False,mitten.n.01
+watering can,"tool, garden tool, container",False,
+turtle,"sea animal, animal",False,turtleneck.n.01
+apple tree,plant,False,
+mint,"plant, food",False,batch.n.02
+sorbet,"food, dessert",False,water_ice.n.02
+locket,jewelry,False,locket.n.01
+watch,"jewelry, accessory",False,watch.n.01
+rack,furniture,False,rack.n.01
+almond,food,False,almond.n.01
+duckling,"bird, animal",False,duckling.n.01
+cabbage,"vegetable, plant, food",False,cabbage.n.01
+tongs,"tool, kitchen tool",False,tongs.n.01
+popsicle,"food, dessert",False,ice_lolly.n.01
+crab,"seafood, sea animal, food, animal",False,crab.n.01
+chessboard,game,False,chessboard.n.01
+lock,"tool, fastener",False,lock.n.01
+egg,"food, breakfast",False,egg.n.01
+eel,"seafood, sea animal, food, animal",False,eel.n.01
+hotplate,"kitchen equipment, electronic device",False,hot_plate.n.01
+cockroach,"insect, animal",False,cockroach.n.01
+nail clippers,"tool, toiletry",False,
+bison,"mammal, livestock, animal",False,bison.n.01
+doorhandle,tool,False,doorknob.n.01
+incubator,electronic device,False,incubator.n.01
+hose,"tool, garden tool",False,hosiery.n.01
+urn,container,False,urn.n.01
+wreath,home decor,False,wreath.n.01
+mallet,tool,False,mallet.n.01
+switch,tool,False,switch.n.01
+revolver,weapon,False,revolver.n.01
+curtain,home decor,False,curtain.n.01
+ice-cream cone,"food, dessert",False,
+tape measure,tool,False,
+camper,vehicle,False,camper.n.01
+tree,plant,False,tree.n.01
+weasel,"mammal, animal",False,weasel.n.01
+warthog,"mammal, animal",False,warthog.n.01
+bin,container,False,bin.n.01
+music box,"toy, electronic device",False,
+peeler,"tool, kitchen tool",False,stripper.n.03
+grinder,"tool, kitchen tool",False,bomber.n.03
+scissors,"weapon, tool, office supply, garden tool",False,scissors.n.01
+squirrel,"mammal, animal",False,squirrel.n.01
+shopping basket,container,False,
+shawl,"outerwear, clothing, accessory",False,shawl.n.01
+headlight,auto part,False,headlight.n.01
+airboat,"water vehicle, vehicle",False,
+step stool,furniture,False,
+glasses,accessory,False,spectacles.n.01
+cupcake,"food, dessert",False,cupcake.n.01
+goose,"livestock, food, bird, animal",False,goose.n.01
+knob,tool,False,knob.n.01
+cantaloupe,"fruit, food",False,cantaloupe.n.01
+tiara,"women's clothing, jewelry, headwear, clothing",False,tiara.n.01
+squash,"vegetable, food",False,squash.n.01
+grasshopper,"insect, animal",False,grasshopper.n.01
+pomegranate,"fruit, food",False,pomegranate.n.01
+raccoon,"mammal, animal",False,raccoon.n.01
+candle,home decor,False,candle.n.01
+car door,auto part,False,
+lawnmower,garden tool,False,
+eraser,"school supply, office supply",False,eraser.n.01
+mongoose,"mammal, animal",False,mongoose.n.01
+water bottle,container,False,
+horse,"mammal, livestock, animal",False,horse.n.01
+peanut butter,"food, condiment, breakfast",False,
+cup,container,False,cup.n.01
+sprouts,"vegetable, food",False,sprout.n.01
+hairbrush,toiletry,False,hairbrush.n.01
+wasp,"insect, animal",False,wasp.n.01
+barrel,container,False,barrel.n.01
+sandal,"footwear, clothing",False,sandal.n.01
+polisher,tool,False,buffer.n.05
+binder,"school supply, office supply",False,binder.n.01
+slipper,"footwear, clothing",False,slipper.n.01
+eggbeater,"tool, kitchen tool",False,helicopter.n.01
+crowbar,"weapon, tool",False,crowbar.n.01
+squeegee,tool,False,squeegee.n.01
+grapefruit,"fruit, food",False,grapefruit.n.01
+barnacle,"sea animal, animal",False,barnacle.n.01
+icepick,"weapon, tool, kitchen tool",False,icepick.n.01
+helmet,"protective clothing, headwear",False,helmet.n.01
+torpedo,"weapon, water vehicle",False,gunman.n.01
+microphone,electronic device,False,microphone.n.01
+glue,"school supply, office supply",False,glue.n.01
+dryer,electronic device,False,dryer.n.01
+mashed potato,food,False,
+lunchbox,"school supply, container",False,
+chisel,tool,False,chisel.n.01
+lasagna,food,False,lasagna.n.01
+rose,plant,False,rose.n.01
+clipper,"tool, toiletry, garden tool",False,limiter.n.01
+squid,"seafood, sea animal, food, animal",False,squid.n.01
+cooker,"kitchen equipment, electronic device, container",False,cooker.n.01
+potato,"vegetable, food",False,potato.n.01
+scone,"food, breakfast",False,scone.n.01
+bracelet,"jewelry, clothing, accessory",False,watchband.n.01
+balloon,toy,False,balloon.n.01
+baklava,"food, dessert",False,baklava.n.01
+hearse,vehicle,False,hearse.n.01
+jar,container,False,jar.n.01
+hinge,tool,False,hinge.n.01
+pineapple,"fruit, food",False,pineapple.n.01
+yo-yo,"toy, game",False,yo-yo.n.01
+cardinal,"bird, animal",False,cardinal.n.01
+soldering iron,tool,False,
+eclair,"food, dessert",False,eclair.n.01
+jukebox,electronic device,False,jukebox.n.01
+kettle,"kitchen tool, container",False,kettle.n.01
+chipmunk,"mammal, animal",False,chipmunk.n.01
+muffin,"food, dessert, breakfast",False,muffin.n.01
+gorilla,"mammal, animal",False,gorilla.n.01
+valve,tool,False,valve.n.01
+jam,"food, condiment, breakfast",False,jam.n.01
+breadstick,food,False,breadstick.n.01
+fishbowl,container,False,goldfish_bowl.n.01
+biscuit,food,False,biscuit.n.01
+button,"tool, fastener, accessory",False,button.n.01
+chariot,vehicle,False,chariot.n.01
+spring roll,food,False,
+hedge,plant,False,hedge.n.01
+lion,"mammal, animal",False,lion.n.01
+puffin,"bird, animal",False,puffin.n.01
+pencil,"tool, school supply, office supply",False,pencil.n.01
+worm,animal,False,worm.n.01
+envelope,office supply,False,envelope.n.01
+bush,plant,False,shrub.n.01
+chest,"furniture, container",False,thorax.n.02
+ivy,plant,False,ivy.n.01
+kangaroo,"mammal, animal",False,kangaroo.n.01
+coat rack,furniture,False,
+robot,toy,False,automaton.n.02
+printer,electronic device,False,printer.n.01
+guinea pig,"mammal, animal",False,
+oyster,"seafood, sea animal, food, animal",False,oyster.n.01
+brooch,"jewelry, accessory",False,brooch.n.01
+coverall,"protective clothing, outerwear, clothing",False,coverall.n.01
+raspberry,"fruit, food",False,raspberry.n.01
+airplane,vehicle,False,airplane.n.01
+lightbulb,tool,False,light_bulb.n.01
+corkscrew,"tool, kitchen tool",False,corkscrew.n.01
+blender,"kitchen equipment, electronic device",False,blender.n.01
+polar bear,"mammal, animal",False,
+drum,musical instrument,False,drum.n.01
+bull,"mammal, livestock, animal",False,bull.n.01
+crate,container,False,crate.n.01
+casserole,food,False,casserole.n.01
+hoe,"tool, garden tool",False,hoe.n.01
+speedboat,"water vehicle, vehicle",False,speedboat.n.01
+ready meal,food,False,
+piano,musical instrument,False,piano.n.01
+refrigerator,"kitchen equipment, electronic device",False,refrigerator.n.01
+hummingbird,"bird, animal",False,hummingbird.n.01
+electric chair,electronic device,False,
+clothes,clothing,False,apparel.n.01
+pocketknife,"weapon, tool",False,pocketknife.n.01
+jacket,"outerwear, clothing",False,jacket.n.01
+lobster,"seafood, sea animal, food, animal",False,lobster.n.01
+lettuce,"vegetable, plant, food",False,boodle.n.01
+cobra,animal,False,cobra.n.01
+mailbox,container,False,mailbox.n.01
+cauliflower,"vegetable, food",False,cauliflower.n.01
+shredder,electronic device,False,shredder.n.01
+scallop,"seafood, sea animal, food, animal",False,scallop.n.01
+train,vehicle,False,train.n.01
+eye patch,"medical equipment, clothing, accessory",False,
+pigeon,"bird, animal",False,pigeon.n.01
+pelican,"bird, animal",False,pelican.n.01
+monkey,"mammal, animal",False,monkey.n.01
+pitchfork,"weapon, tool, garden tool",False,pitchfork.n.01
+pig,"mammal, livestock, food, animal",False,hog.n.03
+table,furniture,False,table.n.01
+gondola,"water vehicle, vehicle",False,gondola_car.n.01
+crepe,"food, dessert, breakfast",False,crepe.n.01
+flower,plant,False,flower.n.01
+chair,furniture,False,chair.n.01
+spatula,"tool, kitchen tool",False,spatula.n.01
+brussels sprouts,"vegetable, food",False,
+spinach,"vegetable, plant, food",False,spinach.n.01
+subway,vehicle,False,metro.n.01
+paper bag,container,False,
+toothbrush,toiletry,False,toothbrush.n.01
+hummus,food,False,hummus.n.01
+figurine,home decor,False,figurine.n.01
+weed,plant,False,weed.n.01
+paper,"school supply, office supply",False,paper.n.01
+snack,food,False,bite.n.04
+baseball bat,weapon,False,
+calzone,food,False,
+ferret,"mammal, animal",False,black-footed_ferret.n.01
+nightstand,"furniture, container",False,
+wheelchair,"vehicle, medical equipment",False,wheelchair.n.01
+margarita,drink,False,margarita.n.01
+patty,food,False,patty.n.01
+okra,"vegetable, food",False,okra.n.01
+paintbrush,tool,False,paintbrush.n.01
+plunger,tool,False,speculator.n.02
+rearview mirror,auto part,False,
+corn,"vegetable, plant, food",False,corn.n.01
+hyena,"mammal, animal",False,hyena.n.01
+seal,"sea animal, mammal, animal",False,sealing_wax.n.01
+sewing machine,electronic device,False,
+fig,"fruit, food",False,figure.n.01
+cookie,"food, dessert",False,cookie.n.01
+ketchup,"food, condiment",False,catsup.n.01
+meat,food,False,meat.n.01
+cockatoo,"bird, animal",False,cockatoo.n.01
+top hat,"headwear, clothing, accessory",False,
+gopher,"mammal, animal",False,goffer.n.01
+dog,"mammal, animal",False,dog.n.01
+cape,"outerwear, clothing",False,cape.n.01
+belt,"clothing, accessory",False,belt.n.01
+taillight,auto part,False,taillight.n.01
+orange,"fruit, food",False,orange.n.01
+blowgun,weapon,False,blowgun.n.01
+remote control,electronic device,False,
+pencil sharpener,"tool, school supply, office supply",False,
+possum,"mammal, animal",False,opossum.n.02
+accordion,musical instrument,False,accordion.n.01
+beachball,toy,False,beach_ball.n.01
+rooster,"livestock, bird, animal",False,cock.n.04
+goat,"mammal, livestock, food, animal",False,goat.n.01
+skirt,"women's clothing, clothing",False,skirt.n.01
+gumball,"food, candy",False,
+thumbtack,"office supply, fastener",False,thumbtack.n.01
+avocado,"fruit, food",False,avocado.n.01
+clove,food,False,clove.n.01
+seaweed,"seafood, plant, food",False,seaweed.n.01
+taffy,"food, candy",False,taffy.n.01
+turkey,"livestock, food, bird, animal",False,turkey.n.01
+stew,food,False,fret.n.01
+frog,animal,False,frog.n.01
+raft,"water vehicle, vehicle",False,raft.n.01
+filing cabinet,"furniture, container",False,
+stroller,vehicle,False,saunterer.n.01
+palm tree,plant,False,
+apple,"fruit, food",False,apple.n.01
+pepper mill,kitchen tool,False,
+ladybug,"insect, animal",False,ladybug.n.01
+kayak,"water vehicle, vehicle",False,kayak.n.01
+fur coat,"outerwear, clothing",False,
+kebab,food,False,kabob.n.01
+honeypot,container,False,honeypot.n.01
+tamale,food,False,tamale.n.01
+rollerskate,footwear,False,
+sauerkraut,food,False,sauerkraut.n.01
+sheep,"mammal, livestock, animal",False,sheep.n.01
+beetle,"insect, animal",False,beetle.n.01
+goldfish,animal,False,goldfish.n.01
+seagull,"bird, animal",False,gull.n.02
+coil,tool,False,coil.n.01
+sundae,"food, dessert",False,ice-cream_sundae.n.01
+enchilada,food,False,enchilada.n.01
+checkers,game,False,checkers.n.01
+cannon,weapon,False,cannon.n.01
+quill,tool,False,quill.n.01
+giraffe,"mammal, animal",False,giraffe.n.01
+sock,"footwear, clothing",False,sock.n.01
+microwave,"kitchen equipment, electronic device",False,microwave.n.01
+pedal,auto part,False,pedal_point.n.01
+llama,"mammal, animal",False,llama.n.01
+mold,container,False,cast.n.03
+polygraph,electronic device,False,polygraph.n.01
+beet,"vegetable, food",False,beet.n.01
+raisin,"fruit, food",False,raisin.n.01
+string cheese,food,False,
+submarine,"water vehicle, vehicle",False,submarine.n.01
+ball,toy,False,ball.n.01
+stockings,"women's clothing, footwear, clothing",False,stocking.n.01
+timer,kitchen tool,False,timer.n.01
+flamethrower,weapon,False,flamethrower.n.01
+air mattress,furniture,False,
+kiwi,"fruit, food",False,chinese_gooseberry.n.01
+jackhammer,"tool, electronic device",False,air_hammer.n.01
+cannonball,weapon,False,cannonball.n.01
+ambulance,vehicle,False,ambulance.n.01
+trumpet,musical instrument,False,cornet.n.01
+batter,food,False,batter.n.01
+penlight,"tool, medical equipment",False,penlight.n.01
+raincoat,"protective clothing, outerwear, clothing",False,raincoat.n.01
+pudding,"food, dessert",False,pudding.n.01
+sandbag,container,False,sandbag.n.01
+scarecrow,home decor,False,scarecrow.n.01
+nutcracker,"tool, kitchen tool",False,nutcracker.n.01
+rabbit,"mammal, livestock, food, animal",False,rabbit.n.01
+hairpin,"jewelry, fastener",False,hairpin.n.01
+sickle,"tool, garden tool",False,sickle.n.01
+modem,electronic device,False,modem.n.01
+curry,food,False,curry.n.01
+grain,food,False,grain.n.01
+pistachio,food,False,pistachio.n.01
+pliers,tool,False,pliers.n.01
+donut,"food, dessert, breakfast",False,doughnut.n.02
+poppy,"plant, food",False,poppy.n.01
+insole,accessory,False,insole.n.01
+sardine,"seafood, sea animal, food, animal",False,sardine.n.01
+cheetah,"mammal, animal",False,cheetah.n.01
+bedpan,"medical equipment, container",False,bedpan.n.01
+pug,"mammal, animal",False,pug.n.01
+costume,clothing,False,costume.n.01
+gear,tool,False,gear.n.01
+engine,auto part,False,engine.n.01
+coyote,"mammal, animal",False,coyote.n.01
+book,school supply,False,book.n.01
+toad,animal,False,frog.n.01
+ink,"school supply, office supply",False,ink.n.01
+caterpillar,"insect, animal",False,caterpillar.n.01
+gravy,"food, condiment",False,gravy.n.01
+coral,"sea animal, animal",False,coral.n.01
+quiche,food,False,quiche.n.01
+axe,"weapon, tool, garden tool",False,ax.n.01
+grits,"food, breakfast",False,grits.n.01
+cocktail,drink,False,cocktail.n.01
+pogo stick,toy,False,
+shortbread,"food, dessert",False,shortbread.n.01
+brass knuckles,weapon,False,
+screw,"tool, fastener",False,prison_guard.n.01
+pizza,food,False,pizza.n.01
+cougar,"mammal, animal",False,cougar.n.01
+rubber band,"office supply, fastener",False,
+sled,vehicle,False,sled.n.01
+bracket,tool,False,bracket.n.01
+jumpsuit,"outerwear, clothing",False,jump_suit.n.01
+rolling pin,"tool, kitchen tool",False,
+banana split,"food, dessert",False,
+peacock,"bird, animal",False,peacock.n.01
+flan,"food, dessert",False,flan.n.01
+perfume,toiletry,False,aroma.n.02
+speedometer,auto part,False,speedometer.n.01
+key,tool,False,key.n.01
+boar,"mammal, animal",False,wild_boar.n.01
+breadbox,container,False,bread-bin.n.01
+cruise ship,"water vehicle, vehicle",False,
+ballot box,container,False,
+watermelon,"fruit, food",False,watermelon.n.01
+cranberry,"fruit, food",False,cranberry.n.01
+kazoo,musical instrument,False,kazoo.n.01
+pillbox,"medical equipment, container",False,pillbox.n.01
+box,container,False,box.n.01
+chaps,clothing,False,chap.n.01
+yacht,"water vehicle, vehicle",False,yacht.n.01
+wetsuit,"protective clothing, clothing",False,
+safety pin,fastener,False,
+lab coat,"protective clothing, outerwear, clothing",False,
+dirt bike,vehicle,False,
+drill,"tool, electronic device",False,drill.n.01
+hot tub,container,False,
+windshield,auto part,False,windshield.n.01
+artichoke,"vegetable, plant, food",False,artichoke.n.01
+duster,tool,False,dust_storm.n.01
+headdress,"headwear, clothing, accessory",False,headdress.n.01
+computer,"game, electronic device",False,computer.n.01
+petri dish,container,False,
+can opener,"tool, kitchen tool",False,
+brake,auto part,False,brake.n.01
+chicken,"livestock, food, animal",False,chicken.n.01
+joystick,electronic device,False,stick.n.03
+projector,electronic device,False,projector.n.01
+ruler,"tool, school supply",False,ruler.n.01
+camel,"mammal, animal",False,camel.n.01
+radish,"vegetable, food",False,radish.n.01
+pecan,food,False,pecan.n.01
+granola,"food, breakfast",False,granola.n.01
+cilantro,"vegetable, plant, food",False,coriander.n.01
+grape,"fruit, food",False,grape.n.01
+rhubarb,"vegetable, food",False,pieplant.n.01
+moose,"mammal, animal",False,elk.n.01
+tiramisu,"food, dessert",False,tiramisu.n.01
+hatchet,garden tool,False,tomahawk.n.01
+coat,"outerwear, clothing",False,coat.n.01
+cactus,plant,False,cactus.n.01
+coleslaw,food,False,coleslaw.n.01
+walnut,food,False,walnut.n.01
+blueberry,"fruit, food",False,blueberry.n.01
+bassinet,furniture,False,bassinet.n.01
+tadpole,animal,False,tadpole.n.01
+sweatsuit,clothing,False,sweat_suit.n.01
+ski boots,"footwear, clothing",False,
+panther,"mammal, animal",False,jaguar.n.01
+arrow,weapon,False,arrow.n.01
+crossbow,weapon,False,crossbow.n.01
+strawberry,"fruit, food",False,strawberry.n.01
+dishwasher,"kitchen equipment, electronic device",False,dishwasher.n.01
+motorcycle,vehicle,False,motorcycle.n.01
+jelly bean,"food, candy",False,
+pan,container,False,pan.n.01
+rifle,weapon,False,rifle.n.01
+veil,"women's clothing, headwear, clothing",False,head_covering.n.01
+lavender,plant,False,lavender.n.01
+golf cart,vehicle,False,
+puppet,toy,False,puppet.n.01
+rope,tool,False,rope.n.01
+quad,vehicle,False,quadruplet.n.02
+pie,"food, dessert",False,pie.n.01
+hatbox,container,False,hatbox.n.01
+armor,"protective clothing, clothing",False,armor.n.01
+nut,food,False,nut.n.01
+peach,"fruit, food",False,peach.n.01
+football helmet,"protective clothing, headwear",False,
+floss,toiletry,False,floss.n.01
+sweater,clothing,False,sweater.n.01
+shears,"tool, garden tool",False,shears.n.01
+bok choy,"vegetable, plant, food",False,
+matchbox,container,False,matchbox.n.01
+rattle,toy,False,rattle.n.01
+station wagon,vehicle,False,
+ham,"food, breakfast",False,ham.n.01
+snowsuit,"outerwear, clothing",False,snowsuit.n.01
+pea,"vegetable, food",False,pea.n.01
+staple,"office supply, fastener",False,basic.n.02
+mussel,"seafood, sea animal, food, animal",False,mussel.n.01
+cherry,"fruit, food",False,cherry.n.01
+green beans,"vegetable, food",False,
+bomb,weapon,False,bomb.n.01
+wheat,food,False,wheat.n.01
+tomato,"vegetable, fruit, food",False,tomato.n.01
+salami,food,False,salami.n.01
+inkwell,"school supply, container",False,inkwell.n.01
+earring,"jewelry, accessory",False,earring.n.01
+marble,toy,False,marble.n.01
+berry,"fruit, food",False,berry.n.01
+hash,"food, breakfast",False,hash.n.01
+wedge,tool,False,wedge.n.01
+whiteboard,school supply,False,
+kitten,"mammal, animal",False,kitten.n.01
+eyeliner,toiletry,False,eyeliner.n.01
+stiletto,"women's clothing, footwear, clothing",False,stiletto.n.01
+spoon,"tool, kitchen tool",False,spoon.n.01
+stretcher,medical equipment,False,stretcher.n.01
+mouse,"mammal, electronic device, animal",False,mouse.n.01
+outfit,clothing,False,outfit.n.01
+jug,container,False,jug.n.01
+gearshift,auto part,False,gearshift.n.01
+router,electronic device,False,router.n.01
+lip gloss,toiletry,False,
+zucchini,"vegetable, food",False,zucchini.n.01
+gyro,food,False,gyro.n.01
+pine tree,plant,False,
+tick,animal,False,tick.n.01
+dustpan,"tool, container",False,dustpan.n.01
+rim,auto part,False,rim.n.01
+jet,vehicle,False,jet.n.01
+whoopee cushion,toy,False,
+catapult,weapon,False,slingshot.n.01
+toga,clothing,False,toga.n.01
+doghouse,container,False,kennel.n.01
+chime,musical instrument,False,chime.n.01
+stapler,"school supply, office supply",False,stapler.n.01
+jeans,clothing,False,jean.n.01
+centerpiece,home decor,False,centerpiece.n.01
+corsage,accessory,False,bouquet.n.01
+bookshelf,furniture,False,bookshelf.n.01
+aircraft carrier,"water vehicle, vehicle",False,
+saw,"tool, garden tool",False,proverb.n.01
+magnifier,tool,False,magnifier.n.01
+prune,"fruit, food",False,prune.n.01
+penguin,"bird, animal",False,penguin.n.01
+tuxedo,clothing,False,dinner_jacket.n.01
+caviar,"seafood, food",False,caviar.n.01
+luggage,container,False,baggage.n.01
+starfish,"sea animal, animal",False,starfish.n.01
+moth,"insect, animal",False,moth.n.01
+sombrero,"headwear, clothing, accessory",False,sombrero.n.01
+snowshoe,"footwear, clothing",False,snowshoe.n.01
+smoothie,drink,False,smoothie.n.01
+meatball,food,False,meatball.n.01
+wineglass,container,False,wineglass.n.01
+dandelion,plant,False,dandelion.n.01
+crutch,medical equipment,False,crutch.n.01
+blouse,"women's clothing, clothing",False,blouse.n.01
+turntable,electronic device,False,turntable.n.01
+carrot,"vegetable, food",False,carrot.n.01
+lip balm,toiletry,False,
+cucumber,"vegetable, food",False,cucumber.n.01
+visor,"protective clothing, clothing, accessory",False,visor.n.01
+papaya,"fruit, food",False,papaya.n.01
+crow,"bird, animal",False,crow.n.01
+pantyhose,"women's clothing, clothing",False,pantyhose.n.01
+ashtray,container,False,ashtray.n.01
+yak,"mammal, animal",False,yak.n.01
+boa,"women's clothing, clothing, accessory",False,feather_boa.n.01
+fudge,"food, dessert, candy",False,fudge.n.01
+bagel,"food, breakfast",False,bagel.n.01
+chocolate,"food, dessert, candy",False,cocoa.n.01
+bug,"insect, animal",False,bug.n.01
+teapot,container,False,teapot.n.01
+backpack,"school supply, container",False,backpack.n.01
+lightning bug,"insect, animal",False,
+chinchilla,"mammal, animal",False,chinchilla.n.01
+harmonica,musical instrument,False,harmonica.n.01
+milk,drink,False,milk.n.01
+waffle iron,"kitchen equipment, electronic device",False,
+wig,headwear,False,wig.n.01
+air conditioner,electronic device,False,
+cheesecake,"food, dessert",False,cheesecake.n.01
+beanbag,furniture,False,beanbag.n.01
+toilet paper,toiletry,False,
+cornmeal,food,False,cornmeal.n.01
+xylophone,musical instrument,False,marimba.n.01
+bean,food,False,bean.n.01
+cake,"food, dessert",False,cake.n.01
+loveseat,furniture,False,love_seat.n.01
+scoop,"tool, kitchen tool",False,scoop.n.01
+champagne,drink,False,champagne.n.01
+tractor,vehicle,False,tractor.n.01
+bikini,"women's clothing, clothing",False,bikini.n.01
+limousine,vehicle,False,limousine.n.01
+pumpkin,"vegetable, food",False,pumpkin.n.01
+panda,"mammal, animal",False,giant_panda.n.01
+gumdrop,"food, candy",False,gumdrop.n.01
+saltshaker,container,False,saltshaker.n.01
+walrus,"sea animal, mammal, animal",False,walrus.n.01
+owl,"bird, animal",False,owl.n.01
+toothpick,toiletry,False,toothpick.n.01
+forklift,vehicle,False,forklift.n.01
+syrup,"food, condiment, breakfast",False,syrup.n.01
+iron,electronic device,False,iron.n.01
+copier,electronic device,False,duplicator.n.01
+bullet,weapon,False,bullet.n.01
+pickax,"weapon, tool, garden tool",False,pick.n.07
+turtleneck,clothing,False,turtleneck.n.01
+sweet potato,"vegetable, food",False,
+arugula,"vegetable, plant, food",False,rocket.n.03
+mirror,home decor,False,mirror.n.01
+car,vehicle,False,car.n.01
+sushi,food,False,sushi.n.01
+tiger,"mammal, animal",False,tiger.n.01
+applesauce,"food, condiment",False,applesauce.n.01
+lamp,"home decor, electronic device",False,lamp.n.01
+wrap,food,False,wrap.n.01
+letter opener,tool,False,
+kale,"vegetable, plant, food",False,boodle.n.01
+chick,"bird, animal",False,chick.n.01
+leopard,"mammal, animal",False,leopard.n.01
+creme brulee,"food, dessert",False,
+pepper,"vegetable, food",False,pepper.n.01
+bathrobe,clothing,False,bathrobe.n.01
+doorknob,tool,False,doorknob.n.01
+cinnamon,food,False,cinnamon.n.01
+sofa bed,furniture,False,
+lemon,"fruit, food",False,lemon.n.01
+minivan,vehicle,False,minivan.n.01
+stuffing,food,False,stuffing.n.01
+pancake,"food, breakfast",False,pancake.n.01
+cd player,electronic device,False,
+blazer,"outerwear, clothing",False,blazer.n.01
+suit,clothing,False,suit.n.01
+straightjacket,clothing,False,straitjacket.n.02
+cash machine,electronic device,False,
+buckle,"fastener, accessory",False,buckle.n.01
+canoe,"water vehicle, vehicle",False,canoe.n.01
+butterfly,"insect, animal",False,butterfly.n.01
+pajamas,clothing,False,pajama.n.01
+sea urchin,"seafood, sea animal, animal",False,
+dragonfly,"insect, animal",False,dragonfly.n.01
+orangutan,"mammal, animal",False,orangutan.n.01
+bell,musical instrument,False,bell.n.01
+stir fry,food,False,
+tomato sauce,food,False,
+antelope,"mammal, animal",False,antelope.n.01
+chandelier,home decor,False,chandelier.n.01
+rug,home decor,False,rug.n.01
+combination lock,"tool, fastener",False,
+taco,food,False,greaser.n.01
+pickle,food,False,pickle.n.01
+praying mantis,"insect, animal",False,
+playing card,game,False,
+hamster,"mammal, animal",False,hamster.n.01
+eagle,"bird, animal",False,eagle.n.01
+pesto,"food, condiment",False,pesto.n.01
+meatloaf,food,False,meat_loaf.n.01
+hairnet,headwear,False,hairnet.n.01
+appetizer,food,False,appetizer.n.01
+bongo,musical instrument,False,bongo.n.01
+syringe,"medical equipment, container",False,syringe.n.01
+closet,"furniture, container",False,cupboard.n.01
+bra,"women's clothing, clothing",False,brassiere.n.01
+cheese,"food, dessert",False,cheese.n.01
+candlestick,home decor,False,candlestick.n.01
+helicopter,vehicle,False,helicopter.n.01
+scalpel,"weapon, tool, medical equipment",False,scalpel.n.01
+alpaca,"mammal, animal",False,alpaca.n.01
+toucan,"bird, animal",False,toucan.n.01
+meerkat,"mammal, animal",False,meerkat.n.01
+fork,tool,False,fork.n.01
+odometer,auto part,False,odometer.n.01
+swan,"bird, animal",False,swan.n.01
+sugar cube,food,False,
+wolf,"mammal, animal",False,wolf.n.01
+backgammon,game,False,backgammon.n.01
+birthday cake,"food, dessert",False,
+car seat,auto part,False,
+tricycle,vehicle,False,tricycle.n.01
+ostrich,"bird, animal",False,ostrich.n.01
+overalls,"protective clothing, outerwear, clothing",False,overall.n.01
+tapestry,home decor,False,tapestry.n.01
+doll,toy,False,doll.n.01
+hook,"tool, fastener",False,hook.n.01
+tostada,food,False,tostada.n.01
+espresso,drink,False,espresso.n.01
+fruitcake,"food, dessert",False,crackpot.n.01
+eggnog,drink,False,eggnog.n.01
+go-kart,vehicle,False,go-kart.n.01
+rattlesnake,animal,False,rattlesnake.n.01
+vending machine,electronic device,False,
+shaving cream,toiletry,False,
+mousse,"food, dessert",False,mousse.n.01
+snail,"seafood, sea animal, animal",False,snail.n.01
+unicycle,vehicle,False,unicycle.n.01
+counter,furniture,False,counter.n.01
+pinecone,home decor,False,pinecone.n.01
+sling,medical equipment,False,sling.n.01
+lectern,furniture,False,lectern.n.01
+vacuum,"tool, electronic device",False,vacuum.n.01
+oven,kitchen equipment,False,oven.n.01
+dalmatian,"mammal, animal",False,dalmatian.n.01
+shark,"seafood, sea animal, animal",False,shark.n.01
+license plate,auto part,False,
+coop,container,False,chicken_coop.n.01
+hawk,"bird, animal",False,hawk.n.01
+potpourri,home decor,False,assortment.n.01
+coffee bean,food,False,
+muff,"clothing, accessory",False,muff.n.01
+gauze,medical equipment,False,gauze.n.01
+marshmallow,"food, candy",False,marshmallow.n.01
+tent,container,False,tent.n.01
+pinwheel,"toy, home decor",False,pinwheel.n.01
+flip-flop,"footwear, clothing",False,reversal.n.04
+fox,"mammal, animal",False,fox.n.01
+dreidel,toy,False,
+buffet,food,False,buffet.n.01
+pony,"mammal, animal",False,pony.n.01
+cracker,food,False,cracker.n.01
+chopsticks,tool,False,chopstick.n.01
+guitar,musical instrument,False,guitar.n.01
+seaplane,"water vehicle, vehicle",False,seaplane.n.01
+bench,furniture,False,bench.n.01
+vest,clothing,False,vest.n.01
+jigsaw puzzle,game,False,
+snowmobile,vehicle,False,snowmobile.n.01
+hot-air balloon,vehicle,False,
+swimsuit,clothing,False,swimsuit.n.01
+t-shirt,clothing,False,jersey.n.03
+manatee,"sea animal, mammal, animal",False,manatee.n.01
+turban,"headwear, clothing",False,turban.n.01
+metal detector,"tool, electronic device",False,
+lanyard,accessory,False,lanyard.n.01
+bread,"food, breakfast",False,bread.n.01
+whip,weapon,False,whip.n.01
+teddy bear,toy,False,
+caramel,"food, dessert, candy",False,caramel.n.01
+chalk,school supply,False,chalk.n.01
+handle,tool,False,handle.n.01
+workbench,furniture,False,workbench.n.01
+kite,toy,False,kite.n.01
+pheasant,"bird, animal",False,pheasant.n.01
+pants,clothing,False,bloomers.n.01
+crib,furniture,False,crib.n.01
+omelet,"food, breakfast",False,omelet.n.01
+whale,"sea animal, mammal, animal",False,giant.n.04
+juice,drink,False,juice.n.01
+ice cream,"food, dessert",False,
+tube top,"women's clothing, clothing",False,
+shorts,clothing,False,short_pants.n.01
+bun,food,False,bun.n.01
+carriage,vehicle,False,passenger_car.n.01
+glass,container,False,glass.n.01
+cable,tool,False,cable.n.01
+ottoman,furniture,False,ottoman.n.01
+oilcan,container,False,oilcan.n.01
+thermos,container,False,thermos.n.01
+wine,drink,False,wine.n.01
+yolk,food,False,egg_yolk.n.01
+cornucopia,home decor,False,horn_of_plenty.n.01
+nail,"tool, fastener",False,nail.n.01
+elephant,"mammal, animal",False,elephant.n.01
+stethoscope,medical equipment,False,stethoscope.n.01
+place mat,home decor,False,
+rocking horse,toy,False,
+hovercraft,"water vehicle, vehicle",False,hovercraft.n.01
+wire cutters,tool,False,
+shuffleboard,game,False,shuffleboard.n.01
+popcorn,food,False,popcorn.n.01
+ring,jewelry,False,ring.n.01
+candy bar,"food, candy",False,
+alligator,animal,False,alligator.n.01
+fast food,food,False,
+macadamia,food,False,macadamia.n.01
+footbath,container,False,footbath.n.01
+razor blade,weapon,False,
+seahorse,"sea animal, animal",False,walrus.n.01
+bagpipe,musical instrument,False,bagpipe.n.01
+keg,container,False,keg.n.01
+gavel,tool,False,gavel.n.01
+crouton,food,False,crouton.n.01
+scorpion,animal,False,scorpio.n.01
+pita,food,False,pita.n.01
+pepperoni,food,False,pepperoni.n.01
+lipstick,toiletry,False,lipstick.n.01
+crumb,food,False,crumb.n.01
+kaleidoscope,toy,False,kaleidoscope.n.01
+milkshake,"drink, dessert",False,milkshake.n.01
+trombone,musical instrument,False,trombone.n.01
+buggy,vehicle,False,buggy.n.01
+pot,container,False,pot.n.01
+iguana,animal,False,common_iguana.n.01
+charger,tool,False,charger.n.01
+egg roll,food,False,
+grapevine,plant,False,grapevine.n.01
+hairdryer,"toiletry, electronic device",False,
+cake mix,"food, dessert",False,
+rake,"tool, garden tool",False,rake.n.01
+cane,medical equipment,False,cane.n.01
+needle,tool,False,acerate_leaf.n.01
+undershirt,clothing,False,singlet.n.01
+trunk,container,False,trunk.n.01
+dip,food,False,dip.n.01
+face mask,protective clothing,False,
+eyedropper,medical equipment,False,
+steamroller,vehicle,False,juggernaut.n.01
+chalkboard,school supply,False,blackboard.n.01
+screwdriver,tool,False,screwdriver.n.01
+light switch,tool,False,
+mosquito,"insect, animal",False,mosquito.n.01
+beaker,container,False,beaker.n.01
+bank,container,False,bank.n.01
+leech,animal,False,leech.n.01
+ferry,"water vehicle, vehicle",False,ferry.n.01
+bag,container,False,bag.n.01
+shower cap,toiletry,False,
+trolley,vehicle,False,streetcar.n.01
+boxer shorts,clothing,False,
+leggings,"women's clothing, clothing",False,legging.n.01
+lighter,tool,False,igniter.n.01
+steak,food,False,steak.n.01
+hoodie,clothing,False,
+tugboat,"water vehicle, vehicle",False,tugboat.n.01
+triangle,musical instrument,False,triangle.n.01
+weather vane,home decor,False,
+plug,tool,False,plug.n.01
+knot,fastener,False,knot.n.01
+bunkbed,furniture,False,
+fishnet stockings,"women's clothing, clothing",False,
+amplifier,electronic device,False,amplifier.n.01
+pretzel,food,False,pretzel.n.01
+sledgehammer,tool,False,maul.n.01
+jersey,clothing,False,new_jersey.n.01
+recorder,musical instrument,False,recorder.n.01
+television,electronic device,False,television.n.01
+bowtie,"clothing, accessory",False,bow_tie.n.01
+dice,game,False,die.n.01
+bologna,food,False,bologna.n.01
+ship,"water vehicle, vehicle",False,ship.n.01
+cage,container,False,cage.n.01
+moss,plant,False,moss.n.01
+tweezers,"tool, toiletry, medical equipment",False,pincer.n.01
+trashcan,container,False,
+couch,furniture,False,sofa.n.01
+landmine,weapon,False,
+slug,animal,False,bullet.n.01
+machine gun,weapon,False,
+coffee,drink,False,coffee.n.01
+fondue,food,False,fondue.n.01
+van,vehicle,False,avant-garde.n.01
+skewer,kitchen tool,False,skewer.n.01
+skateboard,"vehicle, toy",False,skateboard.n.01
+cheeseburger,food,False,cheeseburger.n.01
+easter egg,food,False,
+diaper,"toiletry, clothing",False,diaper.n.01
+stool,furniture,False,stool.n.01
+keyboard,musical instrument,False,keyboard.n.01
+trowel,"tool, garden tool",False,trowel.n.01
+ticktacktoe,game,False,ticktacktoe.n.01
+marijuana,plant,False,marijuana.n.01
+scraper,tool,False,scraper.n.01
+cufflink,"jewelry, fastener, accessory",False,cufflink.n.01
+slicer,"kitchen equipment, electronic device",False,slicer.n.01
+staple gun,tool,False,
+rice,food,False,rice.n.01
+gourd,"vegetable, home decor",False,gourd.n.01
+bumper,auto part,False,bumper.n.01
+bazooka,weapon,False,bazooka.n.01
+burrito,food,False,burrito.n.01
+centrifuge,electronic device,False,centrifuge.n.01
+boat,"water vehicle, vehicle",False,boat.n.01
+saffron,food,False,saffron.n.01
+wallet,container,False,wallet.n.01
+swimming pool,container,False,
+latte,drink,False,caffe_latte.n.01
+stove,kitchen equipment,False,stove.n.01
+candelabra,home decor,False,candelabrum.n.01
+computer screen,electronic device,False,
+firetruck,vehicle,False,
+gong,musical instrument,False,gong.n.01
+iceskate,footwear,False,
+daisy,plant,False,daisy.n.01
+handkerchief,accessory,False,handkerchief.n.01
+chili,food,False,chili.n.01
+garter,"women's clothing, clothing",False,garter.n.01
+hammer,"weapon, tool",False,hammer.n.01
+coffee table,furniture,False,
+pin,"tool, fastener",False,pin.n.01
+airbag,auto part,False,
+cardigan,clothing,False,cardigan.n.01
+lingerie,"women's clothing, clothing",False,lingerie.n.01
+defibrillator,"medical equipment, electronic device",False,defibrillator.n.01
+honey,"food, breakfast",False,honey.n.01
+videogame,game,False,
+clarinet,musical instrument,False,clarinet.n.01
+stained glass,home decor,False,
+soap,toiletry,False,soap.n.01
+sandwich,"food, breakfast",False,sandwich.n.01
+nail file,"tool, toiletry",False,
+snake,animal,False,snake.n.01
+cello,musical instrument,False,cello.n.01
+tie,"clothing, accessory",False,necktie.n.01
+sandpaper,tool,False,emery_paper.n.01
+teacup,container,False,teacup.n.01
+hearing aid,medical equipment,False,
+domino,game,False,domino.n.01
+sunflower,plant,False,sunflower.n.01
+violin,musical instrument,False,violin.n.01
+duct,tool,False,duct.n.01
+bowler hat,"headwear, clothing",False,
+banjo,musical instrument,False,banjo.n.01
+peg,"tool, fastener",False,peg.n.01
+frisbee,toy,False,frisbee.n.01
+hobbyhorse,toy,False,hobbyhorse.n.01
+scanner,electronic device,False,scanner.n.01
+wrench,tool,False,wrench.n.01
+hammock,furniture,False,knoll.n.01
+treadmill,electronic device,False,treadmill.n.01
+comb,toiletry,False,comb.n.01
+cymbal,musical instrument,False,cymbal.n.01
+lamb chop,food,False,
+bandana,"headwear, clothing, accessory",False,bandanna.n.01
+baton,weapon,False,baton.n.01
+belt buckle,"fastener, accessory",False,
+magnifying glass,tool,False,
+zipper,fastener,False,slide_fastener.n.01
+makeup,toiletry,False,makeup.n.01
+calculator,school supply,False,calculator.n.01
+cummerbund,"clothing, accessory",False,cummerbund.n.01
+swab,"toiletry, medical equipment",False,swab.n.01
+chips,food,False,french_fries.n.01
+dress,"women's clothing, clothing",False,dress.n.01
+suspenders,"clothing, accessory",False,brace.n.06
+desk,furniture,False,desk.n.01
+nacho,food,False,nacho.n.01
+noisemaker,toy,False,noisemaker.n.01
+shopping cart,container,False,
+roadsweeper,vehicle,False,
+patch,accessory,False,spot.n.05
+hopscotch,game,False,hopscotch.n.01
+cordon bleu,food,False,
+uniform,clothing,False,uniform.n.01
+soup,food,False,soup.n.01
+chicken wire,tool,False,
+thermometer,tool,False,thermometer.n.01
+toaster,"kitchen equipment, electronic device",False,toaster.n.01
+slingshot,"weapon, toy",False,slingshot.n.01
+flipper,footwear,False,flipper.n.01
+dagger,weapon,False,dagger.n.01
+tortellini,food,False,tortellini.n.01
+canister,container,False,case_shot.n.01
+steering wheel,auto part,False,
+hourglass,home decor,False,hourglass.n.01
+garbage truck,vehicle,False,
+corset,"women's clothing, clothing",False,corset.n.01
+ratchet,tool,False,ratchet.n.01
+bottle,container,False,bottle.n.01
+peanut,food,False,peanut.n.01
+coffee pot,container,False,
+sausage,"food, breakfast",False,sausage.n.01
+wagon,vehicle,False,wagon.n.01
+tulip,plant,False,tulip.n.01
+bucket,container,False,bucket.n.01
+exhaust pipe,auto part,False,
+deodorant,toiletry,False,deodorant.n.01
+brush,tool,False,brush.n.01
+potpie,food,False,potpie.n.01
+ravioli,food,False,ravioli.n.01
+nail polish,toiletry,False,
+spaghetti,food,False,spaghetti.n.01
+windshield wiper,auto part,False,
+can,container,False,can.n.01
+match,tool,False,match.n.01
+machete,weapon,False,machete.n.01
+pipe,tool,False,pipe.n.01
+dumpling,food,False,dumpling.n.01
+roof rack,auto part,False,
+test tube,container,False,
+sifter,kitchen tool,False,sifter.n.01
+pasta,food,False,pasta.n.01
+mattress,furniture,False,mattress.n.01
+latch,"tool, fastener",False,latch.n.01
+wallpaper,home decor,False,wallpaper.n.01
+hood,headwear,False,hood.n.01
+pillow,home decor,False,pillow.n.01
+flour,food,False,flour.n.01
+nightshirt,clothing,False,nightshirt.n.01
+wheelbarrow,container,False,barrow.n.03
+strap,fastener,False,strap.n.01
+loincloth,clothing,False,breechcloth.n.01
+mop,tool,False,swab.n.02
+underwear,clothing,False,underwear.n.01
+recliner,furniture,False,recliner.n.01
+smoke alarm,electronic device,False,
+album,home decor,False,album.n.01
+spider,animal,False,spider.n.01
+mug,container,False,mug.n.01
+french horn,musical instrument,False,
+saxophone,musical instrument,False,sax.n.02
+wok,container,False,wok.n.01
+clothespin,fastener,False,clothespin.n.01
+rickshaw,vehicle,False,jinrikisha.n.01
+tablet,electronic device,False,tablet.n.01
+headrest,auto part,False,headrest.n.01
+mascara,toiletry,False,mascara.n.01
+broom,tool,False,broom.n.01
+wine cooler,container,False,
+hotdog,food,False,hotdog.n.01
+cord,tool,False,cord.n.01
+bathtub,container,False,bathtub.n.01
+soda,drink,False,sodium_carbonate.n.01
+dollhouse,toy,False,dollhouse.n.01
+highchair,furniture,False,highchair.n.01
+flatiron,toiletry,False,flatiron.n.01
+flyswatter,tool,False,swatter.n.01
+inhaler,medical equipment,False,inhaler.n.01
+coffin,container,False,coffin.n.01
+squirt gun,toy,False,
+blower,"tool, electronic device",False,blower.n.01
+rocking chair,furniture,False,
+train set,toy,False,
+anvil,tool,False,anvil.n.01
+beanie,"headwear, clothing",False,beanie.n.01
+dashboard,auto part,False,splashboard.n.02
+walker,medical equipment,False,walker.n.01
+guacamole,food,False,guacamole.n.01
+panties,clothing,False,pantie.n.01
+washcloth,toiletry,False,washcloth.n.01
+toolbox,container,False,toolbox.n.01
+poster,home decor,False,poster.n.01
+piggy bank,container,False,
+generator,electronic device,False,generator.n.01
+ice pack,medical equipment,False,
+coaster,home decor,False,coaster.n.01
+polo shirt,clothing,False,
+webcam,electronic device,False,webcam.n.01
+bandage,medical equipment,False,bandage.n.01
+mandolin,musical instrument,False,mandolin.n.01
+bowl,container,False,bowl.n.01
+statue,home decor,False,statue.n.01
+grille,auto part,False,wicket.n.04
+sword,weapon,False,sword.n.01
+horn,musical instrument,False,horn.n.01
+snowplow,vehicle,False,snowplow.n.01
+gun,weapon,False,gun.n.01
+bus,vehicle,False,bus.n.01
+truck,vehicle,False,truck.n.01
+hula hoop,toy,False,
+macaroni,food,False,macaroni.n.01
+harp,musical instrument,False,harp.n.01
+jump rope,game,False,
+tea,drink,False,tea.n.01
+leotard,clothing,False,leotard.n.01
+olive,food,False,olive.n.01
+kilt,clothing,False,kilt.n.01
+spear,weapon,False,spear.n.01
+tambourine,musical instrument,False,tambourine.n.01
+robe,clothing,False,robe.n.01
+clipboard,office supply,False,clipboard.n.01
+seatbelt,auto part,False,seat_belt.n.01
+cellphone,electronic device,False,cellular_telephone.n.01
+organ,musical instrument,False,organ.n.01
+camera,electronic device,False,camera.n.01
+stereo,electronic device,False,stereo.n.01
+anklet,jewelry,False,anklet.n.01
+screen,electronic device,False,screen.n.01
+necklace,jewelry,False,necklace.n.01
+hairspray,toiletry,False,
+bassoon,musical instrument,False,bassoon.n.01
+bike,vehicle,False,motorcycle.n.01
+tortilla,food,False,tortilla.n.01
+missile,weapon,False,missile.n.01
+flask,container,False,flask.n.01
+cashew,food,False,cashew.n.01
+board game,game,False,
+birdhouse,home decor,False,birdhouse.n.01
+pocket,container,False,pocket.n.01
