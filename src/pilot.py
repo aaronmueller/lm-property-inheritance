@@ -123,7 +123,7 @@ def get_triples(triple_path, lemma_path, induction=False, qa_format=False):
             triples_prompts.append(triple)
         else:
             print(triple, hyponym in concepts.keys(), anchor in concepts.keys())
-    # print(triples_prompts[0])
+    print(triples_prompts[0])
     return triples_prompts
 
 
