@@ -58,7 +58,7 @@ def main(args):
                 control_cases.add(("nothing", hyponym, control))
 
     for nothing, conclusion, stimulus in control_cases:
-        pairs.append({"anchor": nothing, "hyponym": conclusion, "stimulus": stimulus})
+        pairs.append({"anchor": nothing, "hyponym": conclusion, "stimulus": stimulus, "class": "control"})
 
     utils.write_csv_dict(args.save_path, pairs)
 
