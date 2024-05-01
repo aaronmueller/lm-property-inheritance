@@ -94,8 +94,8 @@ raw_results %>%
 raw_results %>% 
   filter(hyponym_type != "model_specific_ns") %>%
   inner_join(sense_based_sim %>% rename(hyponym = concept)) %>%
-  # group_by(model, setting, reasoning) %>%
-  group_by(model, setting, reasoning, anchor) %>%
+  group_by(model, setting, reasoning) %>%
+  # group_by(model, setting, reasoning, anchor) %>%
   nest() %>%
   mutate(
     cors = map(data, function(x) {
@@ -106,7 +106,7 @@ raw_results %>%
   select(-data) %>%
   unnest(cors) %>%
   ungroup() %>%
-  select(reasoning, setting, anchor, estimate, p.value) %>% View()
+  select(reasoning, setting, anchor, estimate, p.value)
 
 raw_results %>% 
   filter(hyponym_type != "sense_based_ns") %>%
@@ -160,10 +160,37 @@ summary(fit_deduction_phrasal)
 
 ## high-low sim comparison
 
+
+sense_based_results %>%
+  group_by(model, reasoning, setting, hyponym_type, anchor) %>%
+  mutate(
+    sim_class = case_when(
+      similarity >= median(similarity) ~ "high_sim",
+      TRUE ~ "low_sim"
+    ),
+    class = case_when(
+      taxonomic == 1 ~ glue::glue("taxonomic_{sim_class}"),
+      TRUE ~ glue::glue("non_taxonomic_{sim_class}")
+    )
+  ) %>%
+  ungroup() %>%
+  select(anchor, hyponym, class) %>%
+  write_csv("data/things/things-sense-based-pairs.csv")
+
 bind_rows(
   sense_based_results %>% mutate(sim_type = "Sense-based Sim"),
   model_based_results %>% mutate(sim_type = "Model-based Sim")
-) %>%
+) %>% View()
+  group_by(model, reasoning, setting, hyponym_type, sim_type) %>%
+  summarize(
+    sim = mean(similarity)
+  ) %>% View()
+
+
+bind_rows(
+  sense_based_results %>% mutate(sim_type = "Sense-based Sim"),
+  model_based_results %>% mutate(sim_type = "Model-based Sim")
+) %>% View()
   group_by(model, reasoning, setting, hyponym_type, anchor, sim_type) %>%
   mutate(
     sim_class = case_when(
@@ -190,7 +217,7 @@ bind_rows(
   ggplot(aes(class, logprob, color = reasoning, shape = sim_type, group = reasoning)) +
   geom_point(size = 2.5) + 
   geom_line() +
-  # geom_linerange(aes(ymin = logprob-ste, ymax = logprob+ste)) +
+  geom_linerange(aes(ymin = logprob-ste, ymax = logprob+ste)) +
   scale_color_brewer(palette = "Dark2") +
   # facet_wrap(~ setting + hyponym_type, scales = "free_y")
   ggh4x::facet_grid2(sim_type ~ setting, scales = "free_y", independent = "y") +
