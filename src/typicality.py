@@ -28,41 +28,34 @@ def main(args):
         reader = csv.DictReader(f)
         for row in reader:
             # concepts.append(lemma2concept(row))
-            if row['remove'] != '1':
-                concepts[row['lemma']] = lemma2concept(row)
+            if row["remove"] != "1":
+                concepts[row["lemma"]] = lemma2concept(row)
 
-    fake_property = lexicon.Property("daxable", "is daxable", "are daxable")
-
-    # read triples
+    tsv = []
     triples = utils.read_csv_dict(triple_path)
     for triple in triples:
-        # print concept(hyponym) is a concept(anchor)
-        hyponym = triple["hyponym"]
         anchor = triple["anchor"]
-        try:
-            # print(concepts[hyponym].is_a(concepts[anchor]))
-            # print(concepts[hyponym].property_sentence(fake_property))
-            anchor_property = concepts[anchor].property_sentence(fake_property)
-            hyponym_property = concepts[hyponym].property_sentence(fake_property)
-            # print(f"Given that {anchor_property}{hyponym_property}")
-            '''
-            Given a premise, produce a conclusion that is true.
-            premise: birds are daxable.
-            conclusion: robins 
-            [p(robins are daxable.) - p(robins are daxable.|left)]/p(robins are daxable.)
-            '''
-        except:
-            pass
+        hyponym = triple["hyponym"]
+
+        if hyponym in concepts.keys() and anchor in concepts.keys():
+            child = concepts[hyponym]
+            parent = concepts[anchor]
+
+            # taxonomic phrase generation
+            sentence = child.is_a(parent)
+            tsv.append(anchor, hyponym, sentence)
+
+    
         
 
-   '''
-   TODO: function that returns the property, a control sentence (empty for now), property given some prompt
-   Given a premise, produce a conclusion that is true.
-   premise: {anchor} are daxable.
-   conclusion: {hyponym} are daxable.
+    '''
+    TODO: function that returns the property, a control sentence (empty for now), property given some prompt
+    Given a premise, produce a conclusion that is true.
+    premise: {anchor} are daxable.
+    conclusion: {hyponym} are daxable.
 
-   Yes/No format
-   '''
+    Yes/No format
+    '''
 
 
 if __name__ == "__main__":
