@@ -162,7 +162,8 @@ summary(fit_deduction_phrasal)
 
 
 sense_based_results %>%
-  group_by(model, reasoning, setting, hyponym_type, anchor) %>%
+  filter(reasoning == "induction", str_detect(setting, "QA")) %>%
+  group_by(model, hyponym_type, anchor) %>%
   mutate(
     sim_class = case_when(
       similarity >= median(similarity) ~ "high_sim",
