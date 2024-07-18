@@ -30,6 +30,21 @@ class Concept:
         else:
             # return n1, f"{self.taxonomic_phrase} {hypernym.singular}"
             return f"{n1} {self.taxonomic_phrase}", hypernym.singular
+        
+    def inquisitive_is_a(self, hypernym, declarative=True):
+        if declarative:
+            if self.generic == "p":
+                n1 = self.plural
+            else:
+                n1 = self.article
+            question = f"Is it true that {n1} {self.taxonomic_phrase} {hypernym.singular}? Answer with Yes/No:"
+        else:
+            if self.generic == "p":
+                question = f"Are {self.plural} a type of {hypernym.singular}? Answer with Yes/No:"
+            else:
+                question = f"Is {self.article} a type of {hypernym.singular}? Answer with Yes/No:"
+        return question
+
 
     def property_sentence(self, prop: Property):
         if self.generic == "p":

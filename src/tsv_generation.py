@@ -12,42 +12,73 @@ from collections import defaultdict
 from ordered_set import OrderedSet
 
 
-things_concepts_raw = utils.read_things("data/things/things-lemmas-annotated.csv")
-things_concepts = {x["lemma"]: x for x in things_concepts_raw}
+def main(args):
+    qa = args.qa #boolean
+    declarative = args.declarative #boolean
 
-things_triples = utils.read_csv_dict("data/things/things-triples-actual.csv")
+    things_concepts_raw = utils.read_things("data/things/things-lemmas-annotated.csv")
+    things_concepts = {x["lemma"]: x for x in things_concepts_raw}
 
-# concept-hypernym pairs
-concept_hypernyms = defaultdict(lambda: False)
-for triple in things_triples:
-    concept_hypernyms[(triple["hyponym"], triple["anchor"])] = True
+    things_triples = utils.read_csv_dict("data/things/things-triples-actual.csv")
 
-# unique hypernym categories
-hypernyms = OrderedSet([x["anchor"] for x in things_triples])
-hyponyms = OrderedSet([x["hyponym"] for x in things_triples])
+    # concept-hypernym pairs
+    concept_hypernyms = defaultdict(lambda: False)
+    for triple in things_triples:
+        concept_hypernyms[(triple["hyponym"], triple["anchor"])] = True
 
-print(len(concept_hypernyms), len(hypernyms), len(things_concepts))
+    # unique hypernym categories
+    hypernyms = OrderedSet([x["anchor"] for x in things_triples])
+    hyponyms = OrderedSet([x["hyponym"] for x in things_triples])
 
-tsv = []
-for hypernym in hypernyms:
-    for hyponym in hyponyms:
-        hyponym_concept = utils.lemma2concept(things_concepts[hyponym])
-        hypernym_concept = utils.lemma2concept(things_concepts[hypernym])
+    # print(len(concept_hypernyms), len(hypernyms), len(things_concepts))
 
-        prefix, stimulus = hyponym_concept.is_a(hypernym_concept, split=True)
-        hypernymy = concept_hypernyms[(hyponym, hypernym)]
-        tsv.append(
-            {
-                "hyponym": hyponym,
-                "hypernym": hypernym,
-                "prefix": prefix,
-                "stimulus": stimulus,
-                "hypernymy": hypernymy,
-            }
-        )
+    tsv = []
+    for hypernym in hypernyms:
+        for hyponym in hyponyms:
+            hyponym_concept = utils.lemma2concept(things_concepts[hyponym])
+            hypernym_concept = utils.lemma2concept(things_concepts[hypernym])
 
-print(f"Total stimuli: {len(tsv)}, Sneak peek:")
-for i in range(5):
-    print(tsv[i])
+            if not qa:
+                prefix, stimulus = hyponym_concept.is_a(hypernym_concept, split=True)
+                hypernymy = concept_hypernyms[(hyponym, hypernym)]
+                tsv.append(
+                    {
+                        "hyponym": hyponym,
+                        "hypernym": hypernym,
+                        "prefix": prefix,
+                        "stimulus": stimulus,
+                        "hypernymy": hypernymy,
+                    }
+                )
+            else:
+                question = hyponym_concept.inquisitive_is_a(hypernym_concept, declarative)
+                hypernymy = concept_hypernyms[(hyponym, hypernym)]
+                tsv.append(
+                    {
+                        "hyponym": hyponym,
+                        "hypernym": hypernym,
+                        "question": question,
+                        "hypernymy": hypernymy
+                    }
+                )
 
-utils.write_csv_dict("data/things/things-tsv-stimuli.csv", tsv)
+    print(f"Total stimuli: {len(tsv)}, Sneak peek:")
+    for i in range(5):
+        print(tsv[i])
+
+    # outfile
+    if qa:
+        if declarative:
+            utils.write_csv_dict("data/things/things-tsv-qa-declarative-stimuli.csv", tsv)
+        else:
+            utils.write_csv_dict("data/things/things-tsv-qa-stimuli.csv", tsv)
+    else:
+        utils.write_csv_dict("data/things/things-tsv-stimuli.csv", tsv)
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--qa", action="store_true")
+    parser.add_argument("--declarative", action="store_true")
+    args = parser.parse_args()
+
+    main(args)
