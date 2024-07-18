@@ -24,6 +24,15 @@ def write_csv_dict(path, data):
         writer.writeheader()
         writer.writerows(data)
 
+def read_things(path):
+    things = []
+    with open(path, "r") as f:
+        reader = csv.DictReader(f)
+        for line in reader:
+            if line['remove'] != '1':
+                things.append(line)
+    return things
+
 
 def lemma2concept(entry):
     return lexicon.Concept(

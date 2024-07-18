@@ -17,7 +17,7 @@ class Concept:
     generic: str
     taxonomic_phrase: str
 
-    def is_a(self, hypernym):
+    def is_a(self, hypernym, split=False):
         if self.generic == "p":
             n1 = self.plural
         else:
@@ -25,7 +25,11 @@ class Concept:
 
         # hypernym is an instance of Concept.
         # hypernym is always singular
-        return f"{n1} {self.taxonomic_phrase} {hypernym.singular}"
+        if not split:
+            return f"{n1} {self.taxonomic_phrase} {hypernym.singular}"
+        else:
+            # return n1, f"{self.taxonomic_phrase} {hypernym.singular}"
+            return f"{n1} {self.taxonomic_phrase}", hypernym.singular
 
     def property_sentence(self, prop: Property):
         if self.generic == "p":
