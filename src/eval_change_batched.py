@@ -1,5 +1,6 @@
 import argparse
 import csv
+import config
 import pathlib
 import random
 import torch
@@ -7,7 +8,7 @@ import torch
 import numpy as np
 
 from minicons import scorer
-from pilot import get_triples
+from pilot import get_triples, generate_stimuli
 from torch.utils.data import DataLoader
 from tqdm import tqdm
 from transformers import BitsAndBytesConfig
@@ -23,10 +24,14 @@ def main(args):
     quantize = args.quantize
     induction = args.induction
     qa_format = args.qa_format
+    chat_format = args.chat_format
+    prompt_template = args.prompt_template
 
-    triples = get_triples(
-        triples_path, lemmas_path, qa_format=qa_format, induction=induction
-    )
+    label_separator = config.PROMPTS[prompt_template]["label-separator"]
+
+    # triples = get_triples(
+    #     triples_path, lemmas_path, qa_format=qa_format, induction=induction
+    # )
 
     if quantize:
         bnb_config = BitsAndBytesConfig(
@@ -41,34 +46,55 @@ def main(args):
     else:
         model = scorer.IncrementalLMScorer(model, device=args.device)
 
+    if chat_format:
+        tokenizer = model.tokenizer
+    else:
+        tokenizer = None
+
+    stimuli = generate_stimuli(
+        triples_path,
+        lemmas_path,
+        prompt_cfg=config.PROMPTS[prompt_template],
+        induction=induction,
+        tokenizer=tokenizer,
+    )
+
     # uniform subsample
     random.seed(12)
 
     if num_examples == -1:
-        num_examples = len(triples)
+        num_examples = len(stimuli)
     else:
         # shuffle only if not all samples have been specified
         if args.save:
             raise Exception(
                 "cannot shuffle when saving examples (i.e., when --save has been passed)."
             )
-        random.shuffle(triples)
+        random.shuffle(stimuli)
 
-    triples = triples[:num_examples]
+    stimuli = stimuli[:num_examples]
 
     formatted_triples = []
-    for triple in tqdm(triples, desc="Examples", total=num_examples):
+    # for triple in tqdm(triples, desc="Examples", total=num_examples):
+    #     if qa_format:
+    #         prefixes = [
+    #             f"Is it true that {triple[0]}? Answer with Yes/No:",
+    #             triple[1],
+    #             triple[2],
+    #         ]
+    #         queries = ["Yes"] * 3
+    #     else:
+    #         prefixes = ["", triple[1], triple[2]]
+    #         queries = [triple[0]] * 3
+
+    #     formatted_triples.append((prefixes, queries))
+    for instance in tqdm(stimuli, desc="Examples", total=num_examples):
         if qa_format:
-            prefixes = [
-                f"Is it true that {triple[0]}? Answer with Yes/No:",
-                triple[1],
-                triple[2],
-            ]
+            prefixes = instance
             queries = ["Yes"] * 3
         else:
-            prefixes = ["", triple[1], triple[2]]
-            queries = [triple[0]] * 3
-
+            prefixes = ["", instance[1], instance[2]]
+            queries = [instance[0]] * 3
         formatted_triples.append((prefixes, queries))
 
     print(formatted_triples[:4])
@@ -79,29 +105,38 @@ def main(args):
     empty_scores_all = []
     control_scores_all = []
     prompt_scores_all = []
+
     triples_dl = DataLoader(formatted_triples, batch_size=args.batch_size)
+
     for batch in tqdm(triples_dl, desc="Batches", total=len(triples_dl)):
         prefixes, queries = batch
         empty_prefixes, control_prefixes, prompt_prefixes = prefixes
         empty_queries, control_queries, prompt_queries = queries
         prefixes = empty_prefixes + control_prefixes + prompt_prefixes
         queries = empty_queries + control_queries + prompt_queries
+        # print(prefixes, queries)
 
         if qa_format:
-            empty_scores_yes = model.conditional_score(empty_prefixes, empty_queries)
-            control_scores_yes = model.conditional_score(
-                control_prefixes, control_queries
+            empty_scores_yes = model.conditional_score(
+                empty_prefixes, empty_queries, separator=label_separator
             )
-            prompt_scores_yes = model.conditional_score(prompt_prefixes, prompt_queries)
+            control_scores_yes = model.conditional_score(
+                control_prefixes, control_queries, separator=label_separator
+            )
+            prompt_scores_yes = model.conditional_score(
+                prompt_prefixes, prompt_queries, separator=label_separator
+            )
 
             empty_scores_no = model.conditional_score(
-                empty_prefixes, ["No"] * len(empty_queries)
+                empty_prefixes, ["No"] * len(empty_queries), separator=label_separator
             )
             control_scores_no = model.conditional_score(
-                control_prefixes, ["No"] * len(control_queries)
+                control_prefixes,
+                ["No"] * len(control_queries),
+                separator=label_separator,
             )
             prompt_scores_no = model.conditional_score(
-                prompt_prefixes, ["No"] * len(prompt_queries)
+                prompt_prefixes, ["No"] * len(prompt_queries), separator=label_separator
             )
 
             empty_scores = np.array(empty_scores_yes) - np.array(empty_scores_no)
@@ -130,6 +165,10 @@ def main(args):
             save_dir += "qa_format"
         else:
             save_dir += "logprobs"
+
+        model_name += f"_{args.prompt_template}"
+        if args.chat_format:
+            model_name += "_chat-format"
 
         # if args.num_samples != -1:
         #     save_dir += f"-{args.num_samples}/"
@@ -195,6 +234,10 @@ if __name__ == "__main__":
         help="If false (default), get probability of 'NN is daxable.' If true, use yes/no contrasts.",
     )
     parser.add_argument(
+        "--chat_format", action="store_true", help="If true, use chat format."
+    )
+    parser.add_argument("--prompt_template", type=str, default="initial-qa")
+    parser.add_argument(
         "--quantize", action="store_true", help="If true, use 4-bit quantization."
     )
     parser.add_argument(
@@ -214,7 +257,9 @@ if __name__ == "__main__":
         default="data/things/results/taxonomic",
         help="Directory to save results.",
     )
-    parser.add_argument("--dont_debug", action="store_true", help="If true, don't print diff results.")
+    parser.add_argument(
+        "--dont_debug", action="store_true", help="If true, don't print diff results."
+    )
     args = parser.parse_args()
 
     # triples_path = "data/things/things-triples.csv"

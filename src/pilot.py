@@ -1,15 +1,12 @@
 import argparse
+import config
 import csv
 import json
-
-# import src.config
-# from src import lexicon, config, utils
-# import src.utils
 import lexicon
-import config
 import utils
 
 from collections import defaultdict
+from prompt import Prompt
 
 
 def lemma2concept(entry):
@@ -58,6 +55,7 @@ def create_sample(
 
     return (conclusion, control_prompt, reasoning_prompt)
 
+
 def save_triples(triple_path, lemma_path):
     concepts = defaultdict(lexicon.Concept)
     with open(lemma_path, "r") as f:
@@ -74,13 +72,13 @@ def save_triples(triple_path, lemma_path):
         hyponym = triple["hyponym"]
         anchor = triple["anchor"]
         if hyponym in concepts.keys() and anchor in concepts.keys():
-                final_triples.append((triple['hypernym'], anchor, hyponym))
+            final_triples.append((triple["hypernym"], anchor, hyponym))
 
     return final_triples
 
 
-
 def get_triples(triple_path, lemma_path, induction=False, qa_format=False):
+    """NOW DEPRECATED."""
     PROMPT = "Given a premise, produce a conclusion that is true.\nPremise: {}\nConclusion: {}"
     QA_PROMPT = "Given that {}, is it true that {}? Answer with Yes/No:"
     CONTROL = "nothing is daxable"
@@ -112,12 +110,22 @@ def get_triples(triple_path, lemma_path, induction=False, qa_format=False):
             parent = concepts[anchor]
             if qa_format:
                 triple = create_sample(
-                    parent, child, fake_property, QA_PROMPT, control_sentence=CONTROL, qa=True, induction=induction
+                    parent,
+                    child,
+                    fake_property,
+                    QA_PROMPT,
+                    control_sentence=CONTROL,
+                    qa=True,
+                    induction=induction,
                 )
             else:
                 triple = create_sample(
-                    parent, child, fake_property, PROMPT, control_sentence=CONTROL,
-                    induction=induction
+                    parent,
+                    child,
+                    fake_property,
+                    PROMPT,
+                    control_sentence=CONTROL,
+                    induction=induction,
                 )
 
             triples_prompts.append(triple)
@@ -127,14 +135,58 @@ def get_triples(triple_path, lemma_path, induction=False, qa_format=False):
     return triples_prompts
 
 
-#    '''
-#    TODO: function that returns the property, a control sentence (empty for now), property given some prompt
-#    Given a premise, produce a conclusion that is true.
-#    premise: {anchor} are daxable.
-#    conclusion: {hyponym} are daxable.
+def generate_stimuli(
+    triple_path,
+    lemma_path,
+    prompt_cfg,
+    induction=False,
+    tokenizer=None,
+):
 
-#    Yes/No format
-#    '''
+    stimuli = []
+
+    # read in concepts
+    concepts = defaultdict(lexicon.Concept)
+    with open(lemma_path, "r") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            # concepts.append(lemma2concept(row))
+            if row["remove"] != "1":
+                concepts[row["lemma"]] = lemma2concept(row)
+
+    # construct fake property (can also refer to config.py)
+    fake_property = lexicon.Property("daxable", "is daxable", "are daxable")
+    prompt = Prompt(prompt_cfg["template"], prompt_cfg["zero_shot"])
+
+    # read triples
+    triples = utils.read_csv_dict(triple_path)
+    for triple in triples:
+        hyponym = triple["hyponym"]
+        anchor = triple["anchor"]
+        if hyponym in concepts.keys() and anchor in concepts.keys():
+            child = concepts[hyponym]
+            parent = concepts[anchor]
+
+            if induction:
+                premise = child
+                conclusion = parent
+            else:
+                premise = parent
+                conclusion = child
+
+            if tokenizer is not None:
+                stimulus_instance = prompt.create_sample_tokenized(
+                    premise, conclusion, fake_property, tokenizer=tokenizer
+                )
+            else:
+                stimulus_instance = prompt.create_sample(
+                    premise, conclusion, fake_property
+                )
+
+            stimuli.append(stimulus_instance)
+        else:
+            pass
+    return stimuli
 
 
 if __name__ == "__main__":
@@ -160,7 +212,7 @@ if __name__ == "__main__":
     triple_prompts = get_triples(args.triple_path, args.lemma_path)
     # print(triple_prompts[:10])
     print(f"{len(triple_prompts)} total instances")
-    
+
     if args.save:
         triples = save_triples(args.triple_path, args.lemma_path)
         with open("data/things/things-triples-actual.csv", "w") as f:
