@@ -6,6 +6,7 @@ import json
 
 import lexicon
 import config
+import pathlib
 import utils
 
 from collections import defaultdict
@@ -13,6 +14,10 @@ from ordered_set import OrderedSet
 
 
 def main(args):
+    
+    pathlib.Path("data/things/tsv").mkdir(parents=True, exist_ok=True)
+    pathlib.Path("data/things/tsv/stimuli").mkdir(parents=True, exist_ok=True)
+
     qa = args.qa #boolean
     declarative = args.declarative #boolean
 
@@ -69,11 +74,11 @@ def main(args):
     # outfile
     if qa:
         if declarative:
-            utils.write_csv_dict("data/things/things-tsv-qa-declarative-stimuli.csv", tsv)
+            utils.write_csv_dict("data/things/tsv/stimuli/things-tsv-qa-declarative-stimuli.csv", tsv)
         else:
-            utils.write_csv_dict("data/things/things-tsv-qa-stimuli.csv", tsv)
+            utils.write_csv_dict("data/things/tsv/stimuli/things-tsv-qa-stimuli.csv", tsv)
     else:
-        utils.write_csv_dict("data/things/things-tsv-stimuli.csv", tsv)
+        utils.write_csv_dict("data/things/tsv/stimuli/things-tsv-stimuli.csv", tsv)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

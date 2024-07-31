@@ -72,7 +72,7 @@ instrument,medical equipment,vial
 organism,plant,orchid
 produce,vegetable,jalapeno
 organism,animal,rhinoceros
-mammal,livestock,duck
+animal,livestock,duck
 decoration,jewelry,jewelry
 substance,food,croissant
 food,breakfast,waffle
@@ -308,7 +308,7 @@ instrument,tool,watering can
 animal,sea animal,turtle
 organism,plant,apple tree
 organism,plant,mint
-mammal,livestock,cow
+animal,livestock,cow
 food,dessert,sorbet
 equipment,school supply,crayon
 decoration,jewelry,locket
@@ -563,7 +563,7 @@ clothing,outerwear,cape
 clothing,accessory,belt
 instrument,tool,file
 component,auto part,taillight
-mammal,livestock,bison
+animal,livestock,bison
 produce,fruit,orange
 instrument,tool,shovel
 instrument,weapon,blowgun
@@ -573,7 +573,7 @@ instrument,tool,pencil sharpener
 organism,animal,possum
 device,musical instrument,accordion
 artifact,toy,beachball
-mammal,livestock,rooster
+animal,livestock,rooster
 vertebrate,mammal,goat
 clothing,women's clothing,skirt
 substance,food,gumball
@@ -583,7 +583,7 @@ substance,food,clove
 food,breakfast,cereal
 substance,food,seaweed
 substance,food,taffy
-mammal,livestock,turkey
+animal,livestock,turkey
 substance,food,stew
 organism,animal,frog
 transportation,vehicle,raft
@@ -654,7 +654,7 @@ storage,container,sandbag
 organism,animal,swordfish
 decoration,home decor,scarecrow
 tool,kitchen tool,nutcracker
-mammal,livestock,rabbit
+animal,livestock,rabbit
 connector,fastener,hairpin
 instrument,tool,sickle
 device,electronic device,modem
@@ -672,7 +672,7 @@ organism,animal,cheetah
 instrument,medical equipment,bedpan
 home appliance,kitchen equipment,toaster oven
 organism,animal,pug
-mammal,livestock,goose
+animal,livestock,goose
 substance,food,eel
 covering,clothing,costume
 instrument,tool,gear
@@ -744,7 +744,7 @@ substance,food,marmalade
 storage,container,petri dish
 tool,kitchen tool,can opener
 component,auto part,brake
-mammal,livestock,chicken
+animal,livestock,chicken
 device,electronic device,joystick
 device,electronic device,projector
 instrument,tool,jackhammer
@@ -1094,7 +1094,7 @@ vertebrate,bird,eagle
 substance,food,mulberry
 food,seafood,shrimp
 food product,condiment,pesto
-mammal,livestock,calf
+animal,livestock,calf
 instrument,tool,axe
 substance,food,meatloaf
 clothing,headwear,hairnet
@@ -1201,7 +1201,7 @@ substance,food,goat
 substance,food,marshmallow
 instrument,tool,clipper
 storage,container,tent
-mammal,livestock,piglet
+animal,livestock,piglet
 decoration,home decor,pinwheel
 food,dessert,eclair
 covering,clothing,flip-flop
@@ -1253,7 +1253,7 @@ instrument,weapon,whip
 artifact,toy,teddy bear
 substance,food,caramel
 produce,vegetable,onion
-mammal,livestock,ram
+animal,livestock,ram
 instrument,tool,pen
 equipment,school supply,chalk
 instrument,tool,handle
@@ -1261,7 +1261,7 @@ decoration,furniture,workbench
 artifact,toy,kite
 vertebrate,bird,pheasant
 covering,clothing,pants
-mammal,livestock,donkey
+animal,livestock,donkey
 instrument,tool,grinder
 substance,food,omelet
 organism,animal,whale
@@ -1401,7 +1401,7 @@ transportation,vehicle,trolley
 organism,animal,swan
 covering,clothing,boxer shorts
 covering,clothing,leggings
-mammal,livestock,horse
+animal,livestock,horse
 instrument,tool,lighter
 instrument,tool,nail clippers
 substance,food,steak
@@ -1492,7 +1492,7 @@ instrument,tool,saw
 instrument,tool,crowbar
 instrument,tool,staple gun
 substance,food,rice
-mammal,livestock,bull
+animal,livestock,bull
 equipment,office supply,pencil sharpener
 produce,vegetable,gourd
 organism,animal,bat
@@ -1500,7 +1500,7 @@ organism,animal,pheasant
 component,auto part,bumper
 activity,game,computer
 food,breakfast,pancake
-mammal,livestock,goat
+animal,livestock,goat
 instrument,weapon,bazooka
 substance,food,burrito
 clothing,women's clothing,tube top
@@ -1522,8 +1522,8 @@ storage,container,swimming pool
 organism,animal,poodle
 substance,food,corn
 substance,food,oyster
-mammal,livestock,pig
-mammal,livestock,sheep
+animal,livestock,pig
+animal,livestock,sheep
 organism,plant,cabbage
 vertebrate,mammal,moose
 substance,food,mussel
@@ -1998,7 +1998,7 @@ instrument,medical equipment,swab
 equipment,office supply,clipboard
 substance,food,kale
 component,auto part,seatbelt
-mammal,livestock,lamb
+animal,livestock,lamb
 device,electronic device,cellphone
 device,musical instrument,organ
 device,electronic device,camera
@@ -2053,3 +2053,4 @@ instrument,weapon,icepick
 substance,food,tiramisu
 device,electronic device,curling iron
 decoration,jewelry,cufflink
+vertebrate,bird,chicken

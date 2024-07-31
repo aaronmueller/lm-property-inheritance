@@ -1,0 +1,12 @@
+'''
+demo script:
+function that takes in a pair of strings (premise, conclusion), the property, and a prompt template, and returns a string in stimuli form
+function that takes in a pair of strings (premise, conclusion), the property,  and returns the form they take in the stimuli
+function that simulates fake property creation
+
+--------
+filename: things-inheritance-<similarity_identifier>-pairs.csv
+premise, conclusion, hypernymy(y/n), similarity_raw, similarity_binary, premise_form, conclusion_form
+
+
+'''

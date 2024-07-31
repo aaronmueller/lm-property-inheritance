@@ -161,8 +161,12 @@ def generate_stimuli(
     # read triples
     triples = utils.read_csv_dict(triple_path)
     for triple in triples:
-        hyponym = triple["hyponym"]
-        anchor = triple["anchor"]
+        try:
+            hyponym = triple["hyponym"]
+            anchor = triple["anchor"]
+        except:
+            hyponym = triple["premise"]
+            anchor = triple["conclusion"]
         if hyponym in concepts.keys() and anchor in concepts.keys():
             child = concepts[hyponym]
             parent = concepts[anchor]
@@ -206,10 +210,10 @@ if __name__ == "__main__":
     parser.add_argument(
         "--save",
         action="store_true",
-        help="If true, save the triples to a json file",
+        help="If true, save the triples to a csv file",
     )
     args = parser.parse_args()
-    triple_prompts = get_triples(args.triple_path, args.lemma_path)
+    triple_prompts = generate_stimuli(args.triple_path, args.lemma_path, config.PROMPTS['initial-phrasal'])
     # print(triple_prompts[:10])
     print(f"{len(triple_prompts)} total instances")
 

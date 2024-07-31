@@ -62,3 +62,30 @@ class Prompt:
         )
 
         return (zero_shot_prompt, control_prompt, reasoning_prompt)
+
+    def create_stimulus(
+        self,
+        premise: lexicon.Concept,
+        conclusion: lexicon.Concept,
+        prop: lexicon.Property,
+        tokenizer=None,
+    ):
+
+        premise_sentence = premise.property_sentence(prop)
+        conclusion_sentence = conclusion.property_sentence(prop)
+
+        filled_input = self.template.substitute(
+            premise=premise_sentence, conclusion=conclusion_sentence
+        )
+
+        if tokenizer is not None:
+
+            def _chat_template(sequence):
+                formatted = [{"role": "user", "content": sequence.strip()}]
+                return tokenizer.apply_chat_template(
+                    formatted, tokenize=False, add_generation_prompt=True
+                )
+
+            return _chat_template(filled_input)
+        else:
+            return filled_input

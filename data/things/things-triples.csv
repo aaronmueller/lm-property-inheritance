@@ -72,7 +72,7 @@ instrument,instrument.n.01,medical equipment,medical_instrument.n.01,vial
 organism,organism.n.01,plant,plant.n.02,orchid
 produce,produce.n.01,vegetable,vegetable.n.01,jalapeno
 organism,organism.n.01,animal,animal.n.01,rhinoceros
-mammal,mammal.n.01,livestock,livestock.n.01,duck
+animal,animal.n.01,livestock,livestock.n.01,duck
 decoration,decoration.n.01,jewelry,jewelry.n.01,jewelry
 substance,substance.n.08,food,food.n.01,croissant
 food,food.n.01,breakfast,-,waffle
@@ -311,7 +311,7 @@ instrument,instrument.n.01,tool,tool.n.01,watering can
 animal,animal.n.01,sea animal,marine_animal.n.01,turtle
 organism,organism.n.01,plant,plant.n.02,apple tree
 organism,organism.n.01,plant,plant.n.02,mint
-mammal,mammal.n.01,livestock,livestock.n.01,cow
+animal,animal.n.01,livestock,livestock.n.01,cow
 food,food.n.01,dessert,dessert.n.01,sorbet
 equipment,equipment.n.01,school supply,-,crayon
 decoration,decoration.n.01,jewelry,jewelry.n.01,locket
@@ -567,7 +567,7 @@ clothing,clothing.n.01,outerwear,outerwear.n.01,cape
 clothing,clothing.n.01,accessory,accessory.n.01,belt
 instrument,instrument.n.01,tool,tool.n.01,file
 component,component.n.01,auto part,auto_part.n.01,taillight
-mammal,mammal.n.01,livestock,livestock.n.01,bison
+animal,animal.n.01,livestock,livestock.n.01,bison
 produce,produce.n.01,fruit,edible_fruit.n.01,orange
 instrument,implement.n.01,tool,tool.n.01,shovel
 instrument,instrument.n.01,weapon,weapon.n.01,blowgun
@@ -577,7 +577,7 @@ instrument,instrument.n.01,tool,tool.n.01,pencil sharpener
 organism,organism.n.01,animal,animal.n.01,possum
 device,device.n.01,musical instrument,musical_instrument.n.01,accordion
 artifact,artifact.n.01,toy,toy.n.01,beachball
-mammal,mammal.n.01,livestock,livestock.n.01,rooster
+animal,animal.n.01,livestock,livestock.n.01,rooster
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,goat
 clothing,clothing.n.01,women's clothing,-,skirt
 substance,substance.n.08,food,food.n.01,gumball
@@ -587,7 +587,7 @@ substance,substance.n.08,food,food.n.01,clove
 food,food.n.01,breakfast,-,cereal
 substance,substance.n.08,food,food.n.01,seaweed
 substance,substance.n.08,food,food.n.01,taffy
-mammal,mammal.n.01,livestock,livestock.n.01,turkey
+animal,animal.n.01,livestock,livestock.n.01,turkey
 substance,substance.n.08,food,food.n.01,stew
 organism,organism.n.01,animal,animal.n.01,frog
 transportation,transport.n.01,vehicle,vehicle.n.01,raft
@@ -658,7 +658,7 @@ storage,storage,container,container.n.01,sandbag
 organism,organism.n.01,animal,animal.n.01,swordfish
 decoration,decoration.n.01,home decor,interior_decoration.n.01,scarecrow
 tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,nutcracker
-mammal,mammal.n.01,livestock,livestock.n.01,rabbit
+animal,animal.n.01,livestock,livestock.n.01,rabbit
 connector,connector.n.01,fastener,fastener.n.01,hairpin
 instrument,instrument.n.01,tool,tool.n.01,sickle
 device,device.n.01,electronic device,electronic_device.n.01,modem
@@ -676,7 +676,7 @@ organism,organism.n.01,animal,animal.n.01,cheetah
 instrument,instrument.n.01,medical equipment,medical_instrument.n.01,bedpan
 home appliance,home_appliance.n.01,kitchen equipment,kitchen_appliance.n.01,toaster oven
 organism,organism.n.01,animal,animal.n.01,pug
-mammal,mammal.n.01,livestock,livestock.n.01,goose
+animal,animal.n.01,livestock,livestock.n.01,goose
 substance,substance.n.08,food,food.n.01,eel
 covering,covering.n.02,clothing,clothing.n.01,costume
 instrument,implement.n.01,tool,tool.n.01,gear
@@ -748,7 +748,7 @@ substance,substance.n.08,food,food.n.01,marmalade
 storage,storage,container,container.n.01,petri dish
 tool,tool.n.01,kitchen tool,kitchen_utensil.n.01,can opener
 component,component.n.01,auto part,auto_part.n.01,brake
-mammal,mammal.n.01,livestock,livestock.n.01,chicken
+animal,animal.n.01,livestock,livestock.n.01,chicken
 device,device.n.01,electronic device,electronic_device.n.01,joystick
 device,device.n.01,electronic device,electronic_device.n.01,projector
 instrument,instrument.n.01,tool,tool.n.01,jackhammer
@@ -1100,7 +1100,7 @@ vertebrate,vertebrate.n.01,bird,bird.n.01,eagle
 substance,substance.n.08,food,food.n.01,mulberry
 food,food.n.01,seafood,seafood.n.01,shrimp
 food product,foodstuff.n.02,condiment,condiment.n.01,pesto
-mammal,mammal.n.01,livestock,livestock.n.01,calf
+animal,animal.n.01,livestock,livestock.n.01,calf
 instrument,instrument.n.01,tool,tool.n.01,axe
 substance,substance.n.08,food,food.n.01,meatloaf
 clothing,clothing.n.01,headwear,headgear.n.01,hairnet
@@ -1208,7 +1208,7 @@ substance,substance.n.08,food,food.n.01,goat
 substance,substance.n.08,food,food.n.01,marshmallow
 instrument,implement.n.01,tool,tool.n.01,clipper
 storage,storage,container,container.n.01,tent
-mammal,mammal.n.01,livestock,livestock.n.01,piglet
+animal,animal.n.01,livestock,livestock.n.01,piglet
 decoration,decoration.n.01,home decor,interior_decoration.n.01,pinwheel
 food,food.n.01,dessert,dessert.n.01,eclair
 covering,covering.n.02,clothing,clothing.n.01,flip-flop
@@ -1260,7 +1260,7 @@ instrument,instrument.n.01,weapon,weapon.n.01,whip
 artifact,artifact.n.01,toy,toy.n.01,teddy bear
 substance,substance.n.08,food,food.n.01,caramel
 produce,produce.n.01,vegetable,vegetable.n.01,onion
-mammal,mammal.n.01,livestock,livestock.n.01,ram
+animal,animal.n.01,livestock,livestock.n.01,ram
 instrument,instrument.n.01,tool,tool.n.01,pen
 equipment,equipment.n.01,school supply,-,chalk
 instrument,implement.n.01,tool,tool.n.01,handle
@@ -1268,7 +1268,7 @@ decoration,decoration.n.01,furniture,furniture.n.01,workbench
 artifact,artifact.n.01,toy,toy.n.01,kite
 vertebrate,vertebrate.n.01,bird,bird.n.01,pheasant
 covering,covering.n.02,clothing,clothing.n.01,pants
-mammal,mammal.n.01,livestock,livestock.n.01,donkey
+animal,animal.n.01,livestock,livestock.n.01,donkey
 instrument,instrument.n.01,tool,tool.n.01,grinder
 decoration,decoration.n.01,furniture,furniture.n.01,crib
 substance,substance.n.08,food,food.n.01,omelet
@@ -1410,7 +1410,7 @@ transportation,transport.n.01,vehicle,vehicle.n.01,trolley
 organism,organism.n.01,animal,animal.n.01,swan
 covering,covering.n.02,clothing,clothing.n.01,boxer shorts
 covering,covering.n.02,clothing,clothing.n.01,leggings
-mammal,mammal.n.01,livestock,livestock.n.01,horse
+animal,animal.n.01,livestock,livestock.n.01,horse
 instrument,instrument.n.01,tool,tool.n.01,lighter
 instrument,instrument.n.01,tool,tool.n.01,nail clippers
 substance,substance.n.08,food,food.n.01,steak
@@ -1504,7 +1504,7 @@ instrument,instrument.n.01,tool,tool.n.01,saw
 instrument,instrument.n.01,tool,tool.n.01,crowbar
 instrument,instrument.n.01,tool,tool.n.01,staple gun
 substance,substance.n.08,food,food.n.01,rice
-mammal,mammal.n.01,livestock,livestock.n.01,bull
+animal,animal.n.01,livestock,livestock.n.01,bull
 equipment,equipment.n.01,office supply,-,pencil sharpener
 produce,produce.n.01,vegetable,vegetable.n.01,gourd
 organism,organism.n.01,animal,animal.n.01,bat
@@ -1512,7 +1512,7 @@ organism,organism.n.01,animal,animal.n.01,pheasant
 component,component.n.01,auto part,auto_part.n.01,bumper
 activity,activity.n.01,game,game.n.01,computer
 food,food.n.01,breakfast,-,pancake
-mammal,mammal.n.01,livestock,livestock.n.01,goat
+animal,animal.n.01,livestock,livestock.n.01,goat
 instrument,instrument.n.01,weapon,weapon.n.01,bazooka
 substance,substance.n.08,food,food.n.01,burrito
 clothing,clothing.n.01,women's clothing,-,tube top
@@ -1534,8 +1534,8 @@ storage,storage,container,container.n.01,swimming pool
 organism,organism.n.01,animal,animal.n.01,poodle
 substance,substance.n.08,food,food.n.01,corn
 substance,substance.n.08,food,food.n.01,oyster
-mammal,mammal.n.01,livestock,livestock.n.01,pig
-mammal,mammal.n.01,livestock,livestock.n.01,sheep
+animal,animal.n.01,livestock,livestock.n.01,pig
+animal,animal.n.01,livestock,livestock.n.01,sheep
 organism,organism.n.01,plant,plant.n.02,cabbage
 vertebrate,vertebrate.n.01,mammal,mammal.n.01,moose
 substance,substance.n.08,food,food.n.01,mussel
@@ -2015,7 +2015,7 @@ instrument,instrument.n.01,medical equipment,medical_instrument.n.01,swab
 equipment,equipment.n.01,office supply,-,clipboard
 substance,substance.n.08,food,food.n.01,kale
 component,component.n.01,auto part,auto_part.n.01,seatbelt
-mammal,mammal.n.01,livestock,livestock.n.01,lamb
+animal,animal.n.01,livestock,livestock.n.01,lamb
 device,device.n.01,electronic device,electronic_device.n.01,cellphone
 device,device.n.01,musical instrument,musical_instrument.n.01,organ
 device,device.n.01,electronic device,electronic_device.n.01,camera
@@ -2070,3 +2070,4 @@ instrument,instrument.n.01,weapon,weapon.n.01,icepick
 substance,substance.n.08,food,food.n.01,tiramisu
 device,device.n.01,electronic device,electronic_device.n.01,curling iron
 decoration,decoration.n.01,jewelry,jewelry.n.01,cufflink
+vertebrate,vertebrate.n.01,bird,bird.n.01,chicken

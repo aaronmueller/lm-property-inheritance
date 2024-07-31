@@ -8,7 +8,7 @@ import torch
 import numpy as np
 
 from minicons import scorer
-from pilot import get_triples, generate_stimuli
+from pilot import generate_stimuli
 from torch.utils.data import DataLoader
 from tqdm import tqdm
 from transformers import BitsAndBytesConfig
@@ -28,10 +28,6 @@ def main(args):
     prompt_template = args.prompt_template
 
     label_separator = config.PROMPTS[prompt_template]["label-separator"]
-
-    # triples = get_triples(
-    #     triples_path, lemmas_path, qa_format=qa_format, induction=induction
-    # )
 
     if quantize:
         bnb_config = BitsAndBytesConfig(
@@ -74,20 +70,7 @@ def main(args):
 
     stimuli = stimuli[:num_examples]
 
-    formatted_triples = []
-    # for triple in tqdm(triples, desc="Examples", total=num_examples):
-    #     if qa_format:
-    #         prefixes = [
-    #             f"Is it true that {triple[0]}? Answer with Yes/No:",
-    #             triple[1],
-    #             triple[2],
-    #         ]
-    #         queries = ["Yes"] * 3
-    #     else:
-    #         prefixes = ["", triple[1], triple[2]]
-    #         queries = [triple[0]] * 3
-
-    #     formatted_triples.append((prefixes, queries))
+    formatted_stimuli = []
     for instance in tqdm(stimuli, desc="Examples", total=num_examples):
         if qa_format:
             prefixes = instance
@@ -95,9 +78,9 @@ def main(args):
         else:
             prefixes = ["", instance[1], instance[2]]
             queries = [instance[0]] * 3
-        formatted_triples.append((prefixes, queries))
+        formatted_stimuli.append((prefixes, queries))
 
-    print(formatted_triples[:4])
+    print(formatted_stimuli[:4])
 
     control_minus_empty = []
     prompt_minus_control = []
@@ -106,7 +89,7 @@ def main(args):
     control_scores_all = []
     prompt_scores_all = []
 
-    triples_dl = DataLoader(formatted_triples, batch_size=args.batch_size)
+    triples_dl = DataLoader(formatted_stimuli, batch_size=args.batch_size)
 
     for batch in tqdm(triples_dl, desc="Batches", total=len(triples_dl)):
         prefixes, queries = batch
@@ -114,7 +97,6 @@ def main(args):
         empty_queries, control_queries, prompt_queries = queries
         prefixes = empty_prefixes + control_prefixes + prompt_prefixes
         queries = empty_queries + control_queries + prompt_queries
-        # print(prefixes, queries)
 
         if qa_format:
             empty_scores_yes = model.conditional_score(
@@ -170,9 +152,6 @@ def main(args):
         if args.chat_format:
             model_name += "_chat-format"
 
-        # if args.num_samples != -1:
-        #     save_dir += f"-{args.num_samples}/"
-
         pathlib.Path(save_dir).mkdir(parents=True, exist_ok=True)
         with open(f"{save_dir}/{model_name}.csv", "w") as f:
             writer = csv.writer(f)
@@ -181,7 +160,6 @@ def main(args):
                 writer.writerow([e, c, p])
 
     # print if flag is passed
-    # avg scores
     if not args.dont_debug:
         print(f"Empty: {np.mean(empty_scores_all)} ({np.std(empty_scores_all)})")
         print(f"Control: {np.mean(control_scores_all)} ({np.std(control_scores_all)})")
@@ -194,23 +172,20 @@ def main(args):
             f"prompt - control: {np.mean(prompt_minus_control)} ({np.std(prompt_minus_control)})"
         )
 
-        # print(prompt_scores_all[:10])
-
-        diff_accuracy = 0
+        diff_behavior = 0
         for i in range(len(control_minus_empty)):
-            # Accuracy = num of times prompt > control
             if prompt_minus_control[i] > 0:
-                diff_accuracy += 1
+                diff_behavior += 1
 
-        print(f"Diff Accuracy: {diff_accuracy / len(control_minus_empty)}")
+        print(f"Diff Behavior: {diff_behavior / len(control_minus_empty)}")
 
-        accuracy = 0
-        for i in range(len(control_minus_empty)):
-            # Accuracy = num of times prompt > control
-            if prompt_scores_all[i] > 0:
-                accuracy += 1
+        # accuracy = 0
+        # for i in range(len(control_minus_empty)):
+        #     # Accuracy = num of times prompt > control
+        #     if prompt_scores_all[i] > 0:
+        #         accuracy += 1
 
-        print(f"Prompt Diff Accuracy: {accuracy / len(control_minus_empty)}")
+        # print(f"Prompt Diff Accuracy: {accuracy / len(control_minus_empty)}")
 
 
 if __name__ == "__main__":
@@ -218,10 +193,16 @@ if __name__ == "__main__":
     parser.add_argument("--model", type=str, default="mistralai/Mistral-7b-v0.1")
     parser.add_argument("--num_examples", type=int, default=-1)
     parser.add_argument(
-        "--triples_path", type=str, default="data/things/things-triples.csv"
+        "--triples_path",
+        type=str,
+        default="data/things/things-triples.csv",
+        help="Path to file containing the triples in the form of hypernym/anchor/hyponym.",
     )
     parser.add_argument(
-        "--lemmas_path", type=str, default="data/things/things-lemmas-annotated.csv"
+        "--lemmas_path",
+        type=str,
+        default="data/things/things-lemmas-annotated.csv",
+        help="Path to file containing lexical information of concepts such as their singular and plural forms, the form used for expressing property knowledge, etc.",
     )
     parser.add_argument(
         "--induction",
@@ -231,12 +212,17 @@ if __name__ == "__main__":
     parser.add_argument(
         "--qa_format",
         action="store_true",
-        help="If false (default), get probability of 'NN is daxable.' If true, use yes/no contrasts.",
+        help="If false (default), get probability of 'X has property.' If true, use yes/no contrasts.",
     )
     parser.add_argument(
         "--chat_format", action="store_true", help="If true, use chat format."
     )
-    parser.add_argument("--prompt_template", type=str, default="initial-qa")
+    parser.add_argument(
+        "--prompt_template",
+        type=str,
+        default="initial-qa",
+        help="Prompt template key based on prompts in config.py",
+    )
     parser.add_argument(
         "--quantize", action="store_true", help="If true, use 4-bit quantization."
     )
@@ -261,18 +247,4 @@ if __name__ == "__main__":
         "--dont_debug", action="store_true", help="If true, don't print diff results."
     )
     args = parser.parse_args()
-
-    # triples_path = "data/things/things-triples.csv"
-    # lemmas_path = "data/things/things-lemmas-annotated.csv"
-    # eval_change(
-    #     args.model,
-    #     args.num_examples,
-    #     triples_path,
-    #     lemmas_path,
-    #     quantize=args.quantize,
-    #     induction=args.induction,
-    #     qa_format=args.qa_format,
-    #     batch_size=args.batch_size,
-    #     device=args.device,
-    # )
     main(args)

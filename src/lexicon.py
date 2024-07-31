@@ -55,3 +55,9 @@ class Concept:
             prop = prop.singular
 
         return f"{n1} {prop}"
+
+    def generic_surface_form(self):
+        if self.generic == "p":
+            return self.plural
+        else:
+            return self.article.replace("a ", "").replace("an ", "")

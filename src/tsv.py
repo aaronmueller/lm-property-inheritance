@@ -35,14 +35,15 @@ def main(args):
                 }
             )
 
-    utils.write_csv_dict(f"data/things/things-{model_name}-tsv.csv", results)
+    pathlib.Path("data/things/tsv/results").mkdir(parents=True, exist_ok=True)
+    utils.write_csv_dict(f"data/things/tsv/results/things-{model_name}-tsv.csv", results)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--model", type=str, required=True)
     parser.add_argument("--device", type=str, default="cuda:0")
     parser.add_argument("--batch_size", type=int, default=8)
-    parser.add_argument("--tsv_stimuli", type=pathlib.Path, default="data/things/things-tsv-stimuli.csv")
+    parser.add_argument("--tsv_stimuli", type=pathlib.Path, default="data/things/tsv/stimuli/things-tsv-stimuli.csv")
     args = parser.parse_args()
 
     main(args)
