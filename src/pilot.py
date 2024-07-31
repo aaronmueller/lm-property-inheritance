@@ -72,7 +72,7 @@ def save_triples(triple_path, lemma_path):
         hyponym = triple["hyponym"]
         anchor = triple["anchor"]
         if hyponym in concepts.keys() and anchor in concepts.keys():
-            final_triples.append((triple["hypernym"], anchor, hyponym))
+            final_triples.append((triple["hypernym"], triple['hypernym-sense'], anchor, triple['anchor-sense'], hyponym))
 
     return final_triples
 
@@ -221,5 +221,5 @@ if __name__ == "__main__":
         triples = save_triples(args.triple_path, args.lemma_path)
         with open("data/things/things-triples-actual.csv", "w") as f:
             writer = csv.writer(f)
-            writer.writerow(["hypernym", "anchor", "hyponym"])
+            writer.writerow(["hypernym", "hypernym-sense", "anchor", "anchor-sense", "hyponym"])
             writer.writerows(triples)

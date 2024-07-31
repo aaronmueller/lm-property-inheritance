@@ -234,7 +234,7 @@ animal,animal.n.01,okra,0.6657882928848267
 animal,animal.n.01,envelope,0.6841148734092712
 animal,animal.n.01,rearview mirror,0.4309496283531189
 animal,animal.n.01,police car,0.6178588271141052
-animal,animal.n.01,stroller,0.6356260776519775
+animal,animal.n.01,carriage,0.6356260776519775
 animal,animal.n.01,turntable,0.5305570363998413
 animal,animal.n.01,brace,0.4734199047088623
 animal,animal.n.01,jacket,0.4323682487010956
@@ -290,7 +290,7 @@ animal,animal.n.01,chair,0.4536353051662445
 animal,animal.n.01,balloon,0.4844040870666504
 animal,animal.n.01,robot,0.644461452960968
 animal,animal.n.01,tomato,0.6376734972000122
-animal,animal.n.01,footrest,0.6383175849914551
+animal,animal.n.01,ottoman,0.6383175849914551
 animal,animal.n.01,clover,0.47453078627586365
 animal,animal.n.01,toast,0.4433797597885132
 animal,animal.n.01,centerpiece,0.6390609741210938
@@ -313,7 +313,7 @@ animal,animal.n.01,flask,0.47613340616226196
 animal,animal.n.01,bus,0.6494537591934204
 animal,animal.n.01,fruitcake,0.6492263674736023
 animal,animal.n.01,onion,0.6467829346656799
-animal,animal.n.01,lip gloss,0.476984441280365
+animal,animal.n.01,lip balm,0.476984441280365
 animal,animal.n.01,pineapple,0.6399171352386475
 animal,animal.n.01,macaroni,0.6514843702316284
 animal,animal.n.01,highlighter,0.6841378211975098
@@ -360,86 +360,85 @@ food,food.n.01,inhaler,0.6077688932418823
 food,food.n.01,slicer,0.5938035249710083
 food,food.n.01,car,0.6110869646072388
 food,food.n.01,canister,0.6132909655570984
-food,food.n.01,bonsai,0.5051302313804626
+food,food.n.01,mongoose,0.5052326321601868
 food,food.n.01,handle,0.6050589084625244
 food,food.n.01,slug,0.593339204788208
 food,food.n.01,diaper,0.5927656888961792
 food,food.n.01,whale,0.5980334877967834
-food,food.n.01,balloon,0.498942106962204
+food,food.n.01,robe,0.5782740116119385
 food,food.n.01,lectern,0.5987584590911865
-food,food.n.01,wallpaper,0.5075578689575195
-food,food.n.01,comb,0.4991464614868164
-food,food.n.01,ivy,0.49567335844039917
+food,food.n.01,kangaroo,0.506179928779602
+food,food.n.01,folder,0.49947166442871094
+food,food.n.01,cuckoo clock,0.49594029784202576
 food,food.n.01,bamboo,0.5953290462493896
 food,food.n.01,chinchilla,0.6320685148239136
 food,food.n.01,mixer,0.616367518901825
-food,food.n.01,bongo,0.4869844913482666
+food,food.n.01,penlight,0.4872798025608063
 food,food.n.01,revolver,0.5931737422943115
 food,food.n.01,centerpiece,0.6360704302787781
 food,food.n.01,latch,0.7032313346862793
-food,food.n.01,bonnet,0.45432722568511963
+food,food.n.01,mirror,0.4552920162677765
 food,food.n.01,eagle,0.607930064201355
 food,food.n.01,water bottle,0.5944461226463318
 food,food.n.01,highchair,0.6039761304855347
-food,food.n.01,tape recorder,0.49083253741264343
-food,food.n.01,anklet,0.4873112142086029
+food,food.n.01,boa,0.49109238386154175
+food,food.n.01,organ,0.5357431769371033
 food,food.n.01,chain,0.7006685137748718
 food,food.n.01,noisemaker,0.6116299033164978
 food,food.n.01,watering can,0.6209574341773987
 food,food.n.01,ant,0.6057928800582886
 food,food.n.01,ostrich,0.6377992033958435
-food,food.n.01,t-shirt,0.4730644226074219
+food,food.n.01,needle,0.4731833040714264
 food,food.n.01,ashtray,0.6062928438186646
-food,food.n.01,penguin,0.48795178532600403
+food,food.n.01,cardigan,0.48863112926483154
 food,food.n.01,deodorant,0.6079633235931396
-food,food.n.01,chalk,0.636693000793457
-food,food.n.01,puppy,0.4377587139606476
-food,food.n.01,doghouse,0.6019753217697144
-food,food.n.01,rattlesnake,0.4918733835220337
-food,food.n.01,alpaca,0.49353906512260437
-food,food.n.01,bunkbed,0.4814987778663635
-food,food.n.01,lego,0.49559086561203003
-food,food.n.01,stained glass,0.5047663450241089
 food,food.n.01,whisk,0.6889002323150635
-food,food.n.01,cobra,0.4971163272857666
+food,food.n.01,centrifuge,0.6056760549545288
+food,food.n.01,doghouse,0.6019753217697144
+food,food.n.01,moose,0.4920611083507538
+food,food.n.01,belt,0.49368923902511597
+food,food.n.01,cane,0.48167750239372253
+food,food.n.01,bison,0.4956015646457672
+food,food.n.01,bowtie,0.4986313581466675
+food,food.n.01,watch,0.4977666139602661
+food,food.n.01,rifle,0.49641290307044983
 food,food.n.01,muff,0.6022030115127563
-food,food.n.01,chest,0.5324103832244873
-food,food.n.01,cape,0.4599376916885376
+food,food.n.01,mitten,0.5076589584350586
+food,food.n.01,balloon,0.498942106962204
 food,food.n.01,machete,0.6095683574676514
-food,food.n.01,cruise ship,0.5026236176490784
-food,food.n.01,combination lock,0.5040121078491211
+food,food.n.01,briefcase,0.5023865699768066
+food,food.n.01,coyote,0.5035855770111084
 food,food.n.01,hotplate,0.602432906627655
-food,food.n.01,pocket watch,0.48061060905456543
+food,food.n.01,jug,0.4806169867515564
 food,food.n.01,tongs,0.592798113822937
-food,food.n.01,nail file,0.5012145042419434
-food,food.n.01,buckle,0.48985981941223145
-food,food.n.01,cougar,0.5050435066223145
-food,food.n.01,rearview mirror,0.43779456615448
-food,food.n.01,razor,0.4747052788734436
+food,food.n.01,measuring cup,0.5009548664093018
+food,food.n.01,doll,0.4903923273086548
+food,food.n.01,camcorder,0.5048972368240356
+food,food.n.01,jacket,0.43824684619903564
+food,food.n.01,belt buckle,0.47496888041496277
 food,food.n.01,broom,0.620745837688446
 food,food.n.01,undershirt,0.610082745552063
-food,food.n.01,cardigan,0.48863112926483154
+food,food.n.01,mascara,0.48954787850379944
 food,food.n.01,spear,0.6196957230567932
-food,food.n.01,cane,0.48167750239372253
-food,food.n.01,coffin,0.48340725898742676
+food,food.n.01,tambourine,0.48238393664360046
+food,food.n.01,rocking chair,0.48347410559654236
 food,food.n.01,coaster,0.6169003248214722
-food,food.n.01,rollerskate,0.4903927445411682
 food,food.n.01,juicer,0.5986788272857666
 food,food.n.01,backscratcher,0.6946724653244019
-food,food.n.01,moss,0.4935110807418823
-food,food.n.01,blouse,0.4726754128932953
+food,food.n.01,rollerskate,0.4903927445411682
+food,food.n.01,t-shirt,0.4730644226074219
 food,food.n.01,television,0.6028972864151001
-food,food.n.01,jug,0.4806169867515564
-food,food.n.01,doll,0.4903923273086548
-food,food.n.01,tambourine,0.48238393664360046
-food,food.n.01,mirror,0.4552920162677765
-food,food.n.01,cord,0.544023871421814
-food,food.n.01,boa,0.49109238386154175
-food,food.n.01,skirt,0.5125279426574707
-food,food.n.01,mitten,0.5076589584350586
-food,food.n.01,rattle,0.6205343008041382
 food,food.n.01,sheep,0.4809119701385498
-food,food.n.01,ski boots,0.4648814797401428
+food,food.n.01,bee,0.49326595664024353
+food,food.n.01,tapestry,0.5962569713592529
+food,food.n.01,tumbleweed,0.5303757786750793
+food,food.n.01,lego,0.49559086561203003
+food,food.n.01,tape recorder,0.49083253741264343
+food,food.n.01,marker,0.5742419362068176
+food,food.n.01,wallpaper,0.5075578689575195
+food,food.n.01,rattle,0.6205343008041382
+food,food.n.01,crystal ball,0.4811958968639374
+food,food.n.01,glass,0.562975287437439
 food,food.n.01,shaving cream,0.6292399764060974
 food,food.n.01,ink,0.6000881195068359
 food,food.n.01,coil,0.6895115971565247
@@ -448,207 +447,206 @@ food,food.n.01,pin,0.6121604442596436
 food,food.n.01,water heater,0.6151003241539001
 food,food.n.01,computer,0.5969441533088684
 food,food.n.01,shredder,0.6024683117866516
-food,food.n.01,centrifuge,0.6056760549545288
+food,food.n.01,hourglass,0.49756675958633423
 food,food.n.01,bus,0.6111719012260437
-food,food.n.01,cable,0.500505805015564
-food,food.n.01,bush,0.4932844936847687
-food,food.n.01,clarinet,0.45114877820014954
+food,food.n.01,bench,0.500374972820282
+food,food.n.01,buckle,0.48985981941223145
+food,food.n.01,rope,0.5102120637893677
 food,food.n.01,weasel,0.6156497001647949
 food,food.n.01,birdbath,0.5995055437088013
-food,food.n.01,garbage truck,0.6035306453704834
+food,food.n.01,roadsweeper,0.6035306453704834
 food,food.n.01,staple,0.6069252490997314
 food,food.n.01,leech,0.640209436416626
-food,food.n.01,belt buckle,0.47496888041496277
-food,food.n.01,brace,0.484377384185791
-food,food.n.01,hook,0.5952473282814026
+food,food.n.01,jumpsuit,0.4925578236579895
+food,food.n.01,ballot box,0.5006006360054016
+food,food.n.01,clover,0.4508330225944519
 food,food.n.01,hook,0.5952473282814026
 food,food.n.01,crow,0.47653424739837646
-food,food.n.01,chariot,0.6264123916625977
+food,food.n.01,cape,0.4599376916885376
 food,food.n.01,gun,0.5934940576553345
 food,food.n.01,harp,0.5454328060150146
 food,food.n.01,stretcher,0.6946150064468384
 food,food.n.01,pinwheel,0.6272751092910767
-food,food.n.01,briefcase,0.5023865699768066
-food,food.n.01,mascara,0.48954787850379944
-food,food.n.01,trident,0.40908488631248474
+food,food.n.01,limousine,0.5021225810050964
+food,food.n.01,grille,0.4917750060558319
+food,food.n.01,elephant,0.4093339741230011
 food,food.n.01,bowl,0.607799768447876
-food,food.n.01,tapestry,0.5962569713592529
-food,food.n.01,rocking chair,0.48347410559654236
-food,food.n.01,alligator,0.5583658218383789
+food,food.n.01,bell,0.5484938621520996
+food,food.n.01,spear,0.6196957230567932
+food,food.n.01,mandolin,0.4295472502708435
 food,food.n.01,burner,0.5975830554962158
 food,food.n.01,water filter,0.602584958076477
 food,food.n.01,grass,0.6044553518295288
-food,food.n.01,knob,0.4708017408847809
-food,food.n.01,saxophone,0.4356764853000641
+food,food.n.01,chariot,0.6264123916625977
+food,food.n.01,rooster,0.4364158511161804
 food,food.n.01,chair,0.4720139503479004
 food,food.n.01,cardinal,0.5008984804153442
 food,food.n.01,pitcher,0.5999102592468262
-food,food.n.01,bassoon,0.39828580617904663
+food,food.n.01,trident,0.40908488631248474
 food,food.n.01,go-kart,0.6162862777709961
-food,food.n.01,bowtie,0.4986313581466675
+food,food.n.01,hawk,0.4980843663215637
 food,food.n.01,abacus,0.6828073263168335
-food,food.n.01,marker,0.5742419362068176
+food,food.n.01,bonnet,0.45432722568511963
 food,food.n.01,food processor,0.745563268661499
 food,food.n.01,joystick,0.5945104360580444
 food,food.n.01,keg,0.47006601095199585
 food,food.n.01,breadbox,0.6151993870735168
-food,food.n.01,hourglass,0.49756675958633423
+food,food.n.01,cobra,0.4971163272857666
 food,food.n.01,maggot,0.5976207852363586
-food,food.n.01,brake,0.4927276372909546
+food,food.n.01,razor,0.4747052788734436
 food,food.n.01,test tube,0.46996891498565674
-food,food.n.01,statue,0.5031355619430542
+food,food.n.01,tuba,0.49423497915267944
 food,food.n.01,chariot,0.6264123916625977
-food,food.n.01,cummerbund,0.49984443187713623
+food,food.n.01,trumpet,0.4996451735496521
 food,food.n.01,bat,0.5953081846237183
-food,food.n.01,snail,0.6254963874816895
-food,food.n.01,bee,0.49326595664024353
+food,food.n.01,file,0.5460869073867798
+food,food.n.01,chessboard,0.49300092458724976
 food,food.n.01,footbath,0.6038856506347656
 food,food.n.01,sandbag,0.5991556644439697
-food,food.n.01,folder,0.49947166442871094
-food,food.n.01,bell,0.5484938621520996
+food,food.n.01,comb,0.4991464614868164
+food,food.n.01,flamingo,0.5028297901153564
 food,food.n.01,snail,0.6254963874816895
 food,food.n.01,stiletto,0.4771330654621124
-food,food.n.01,mongoose,0.5052326321601868
-food,food.n.01,spear,0.6196957230567932
+food,food.n.01,bonsai,0.5051302313804626
+food,food.n.01,coffin,0.48340725898742676
 food,food.n.01,fishbowl,0.6170831322669983
 food,food.n.01,rake,0.6057330965995789
-food,food.n.01,hinge,0.5925531983375549
+food,food.n.01,snail,0.6254963874816895
 food,food.n.01,calf,0.44631707668304443
-food,food.n.01,chessboard,0.49300092458724976
+food,food.n.01,catapult,0.5937234163284302
 food,food.n.01,skewer,0.6067636013031006
-food,food.n.01,kitten,0.49503225088119507
-food,food.n.01,rope,0.5102120637893677
-food,food.n.01,gazelle,0.5016329288482666
+food,food.n.01,lingerie,0.4949922561645508
+food,food.n.01,saxophone,0.4356764853000641
+food,food.n.01,nail file,0.5012145042419434
 food,food.n.01,dog,0.5966039896011353
 food,food.n.01,router,0.597362756729126
-food,food.n.01,seaplane,0.5042775869369507
+food,food.n.01,ivy,0.49567335844039917
 food,food.n.01,razor blade,0.6028788089752197
-food,food.n.01,machine gun,0.5060739517211914
+food,food.n.01,skirt,0.5125279426574707
 food,food.n.01,stool,0.45011553168296814
-food,food.n.01,moose,0.4920611083507538
+food,food.n.01,rattlesnake,0.4918733835220337
 food,food.n.01,underwear,0.5996670722961426
 food,food.n.01,jukebox,0.5969698429107666
-food,food.n.01,dishwasher,0.5958238840103149
+food,food.n.01,bulldozer,0.5959500074386597
 food,food.n.01,squirt gun,0.6016437411308289
-food,food.n.01,hawk,0.4980843663215637
-food,food.n.01,mandolin,0.4295472502708435
-food,food.n.01,brush,0.5045614242553711
+food,food.n.01,chalk,0.636693000793457
+food,food.n.01,knob,0.4708017408847809
+food,food.n.01,cord,0.544023871421814
 food,food.n.01,pot,0.6215909719467163
-food,food.n.01,inkwell,0.5957773923873901
-food,food.n.01,crystal ball,0.4811958968639374
+food,food.n.01,coral,0.5957894325256348
+food,food.n.01,koala,0.5969547629356384
 food,food.n.01,freezer,0.6043609976768494
-food,food.n.01,scoop,0.4726296365261078
+food,food.n.01,blouse,0.4726754128932953
 food,food.n.01,chopsticks,0.6176916360855103
 food,food.n.01,banjo,0.44828101992607117
-food,food.n.01,clover,0.4508330225944519
+food,food.n.01,bassoon,0.39828580617904663
 food,food.n.01,microwave,0.6004738211631775
 food,food.n.01,dollhouse,0.6268346309661865
-food,food.n.01,sweeper,0.5955129265785217
-food,food.n.01,jumpsuit,0.4925578236579895
+food,food.n.01,ratchet,0.5956150889396667
+food,food.n.01,whip,0.4951033294200897
 food,food.n.01,kite,0.6279191374778748
 food,food.n.01,kaleidoscope,0.6335706114768982
-food,food.n.01,trumpet,0.4996451735496521
+food,food.n.01,wig,0.49964284896850586
 food,food.n.01,tube top,0.7011563777923584
 food,food.n.01,highlighter,0.6988580226898193
 food,food.n.01,duckling,0.42017626762390137
-food,food.n.01,coral,0.5957894325256348
-food,food.n.01,organ,0.5357431769371033
-food,food.n.01,robe,0.5782740116119385
-food,food.n.01,belt,0.49368923902511597
+food,food.n.01,dishwasher,0.5958238840103149
+food,food.n.01,alpaca,0.49353906512260437
+food,food.n.01,panther,0.5466219186782837
+food,food.n.01,pocket watch,0.48061060905456543
+food,food.n.01,drill,0.5952308177947998
+food,food.n.01,alligator,0.5583658218383789
 food,food.n.01,lightbulb,0.5949519872665405
-food,food.n.01,lingerie,0.4949922561645508
-food,food.n.01,jacket,0.43824684619903564
 food,food.n.01,mole,0.6340617537498474
-food,food.n.01,wig,0.49964284896850586
-food,food.n.01,rifle,0.49641290307044983
+food,food.n.01,carriage,0.5933032035827637
 food,food.n.01,costume,0.5662267208099365
-food,food.n.01,cuckoo clock,0.49594029784202576
-food,food.n.01,rollerblade,0.4509172737598419
-food,food.n.01,penlight,0.4872798025608063
-food,food.n.01,anteater,0.5917324423789978
-food,food.n.01,camcorder,0.5048972368240356
+food,food.n.01,bunkbed,0.4814987778663635
+food,food.n.01,plunger,0.5934336185455322
+food,food.n.01,poinsettia,0.599732518196106
+food,food.n.01,hinge,0.5925531983375549
+food,food.n.01,gazelle,0.5016329288482666
 food,food.n.01,lighter,0.6786142587661743
+food,food.n.01,machine gun,0.5060739517211914
+food,food.n.01,gorilla,0.4712250828742981
+food,food.n.01,sunflower,0.5027364492416382
+food,food.n.01,dynamite,0.48385947942733765
 food,food.n.01,chicken wire,0.5061315894126892
-food,food.n.01,catapult,0.5937234163284302
-food,food.n.01,flamingo,0.5028297901153564
-food,food.n.01,glass,0.562975287437439
-food,food.n.01,kangaroo,0.506179928779602
 food,food.n.01,turntable,0.5319075584411621
-food,food.n.01,needle,0.4731833040714264
-food,food.n.01,bison,0.4956015646457672
+food,food.n.01,brush,0.5045614242553711
+food,food.n.01,penguin,0.48795178532600403
 food,food.n.01,toaster,0.6498140692710876
-food,food.n.01,elephant,0.4093339741230011
+food,food.n.01,fly,0.4776870012283325
 food,food.n.01,bull,0.4296691119670868
 food,food.n.01,zebra,0.4177926778793335
 food,food.n.01,rack,0.46452343463897705
 food,food.n.01,trombone,0.48494794964790344
-food,food.n.01,dresser,0.5077430605888367
+food,food.n.01,sweeper,0.5955129265785217
 food,food.n.01,incubator,0.6093056797981262
-food,food.n.01,nail clippers,0.6021561026573181
+food,food.n.01,kitten,0.49503225088119507
 food,food.n.01,quill,0.4797769784927368
 food,food.n.01,cleaver,0.6027466654777527
-food,food.n.01,koala,0.5969547629356384
-food,food.n.01,coyote,0.5035855770111084
+food,food.n.01,bush,0.4932844936847687
+food,food.n.01,statue,0.5031355619430542
 food,food.n.01,snowshoe,0.6132419109344482
-food,food.n.01,drum,0.5984699130058289
-food,food.n.01,flask,0.44722333550453186
-food,food.n.01,footrest,0.6405240297317505
-food,food.n.01,moth,0.48644378781318665
+food,food.n.01,anklet,0.4873112142086029
+food,food.n.01,clarinet,0.45114877820014954
+food,food.n.01,ottoman,0.6405240297317505
+food,food.n.01,hook,0.5952473282814026
 food,food.n.01,bumper,0.6067831516265869
-food,food.n.01,rooster,0.4364158511161804
+food,food.n.01,nail clippers,0.6021561026573181
 food,food.n.01,monkey,0.4852020740509033
 food,food.n.01,wheelbarrow,0.6072596311569214
-food,food.n.01,tumbleweed,0.5303757786750793
-food,food.n.01,watch,0.4977666139602661
+food,food.n.01,bongo,0.4869844913482666
+food,food.n.01,puppy,0.4377587139606476
 food,food.n.01,quad,0.6231107711791992
-food,food.n.01,whip,0.4951033294200897
+food,food.n.01,seaplane,0.5042775869369507
 food,food.n.01,beaver,0.6143975853919983
-food,food.n.01,metal detector,0.5973083972930908
-food,food.n.01,measuring cup,0.5009548664093018
-food,food.n.01,tweezers,0.6096638441085815
-food,food.n.01,ballot box,0.5006006360054016
 food,food.n.01,seal,0.5954071879386902
-food,food.n.01,dynamite,0.48385947942733765
-food,food.n.01,plunger,0.5934336185455322
-food,food.n.01,letter opener,0.5968880653381348
+food,food.n.01,boot,0.5053740739822388
+food,food.n.01,tweezers,0.6096638441085815
+food,food.n.01,cable,0.500505805015564
+food,food.n.01,stapler,0.597569465637207
+food,food.n.01,ski boots,0.4648814797401428
+food,food.n.01,rearview mirror,0.43779456615448
+food,food.n.01,brace,0.484377384185791
 food,food.n.01,swab,0.6368004679679871
 food,food.n.01,hearing aid,0.6227002143859863
-food,food.n.01,christmas tree,0.5997552871704102
+food,food.n.01,rollerblade,0.4509172737598419
 food,food.n.01,bolt,0.6941266059875488
-food,food.n.01,bag,0.600745439529419
+food,food.n.01,letter opener,0.5968880653381348
 food,food.n.01,spatula,0.6512148380279541
-food,food.n.01,jar,0.4940248131752014
-food,food.n.01,stroller,0.5933032035827637
-food,food.n.01,drill,0.5952308177947998
+food,food.n.01,moth,0.48644378781318665
+food,food.n.01,purse,0.600745439529419
+food,food.n.01,hoe,0.5979064702987671
 food,food.n.01,scarecrow,0.6065468788146973
-food,food.n.01,boot,0.5053740739822388
+food,food.n.01,moss,0.4935110807418823
 food,food.n.01,dustpan,0.7027007937431335
-food,food.n.01,stapler,0.597569465637207
-food,food.n.01,gorilla,0.4712250828742981
+food,food.n.01,flask,0.44722333550453186
+food,food.n.01,combination lock,0.5040121078491211
 food,food.n.01,jump rope,0.6099590063095093
-food,food.n.01,ladle,0.5979113578796387
+food,food.n.01,stained glass,0.5047663450241089
 food,food.n.01,flyswatter,0.593006432056427
-food,food.n.01,file,0.5460869073867798
-food,food.n.01,sunflower,0.5027364492416382
-food,food.n.01,ratchet,0.5956150889396667
+food,food.n.01,drum,0.5984699130058289
+food,food.n.01,cruise ship,0.5026236176490784
+food,food.n.01,inkwell,0.5957773923873901
 food,food.n.01,weed,0.6215325593948364
 food,food.n.01,envelope,0.6805242300033569
-food,food.n.01,fly,0.4776870012283325
+food,food.n.01,scoop,0.4726296365261078
 food,food.n.01,corsage,0.6174936294555664
-food,food.n.01,limousine,0.5021225810050964
+food,food.n.01,brake,0.4927276372909546
 food,food.n.01,book,0.6077538132667542
-food,food.n.01,grille,0.4917750060558319
+food,food.n.01,dresser,0.5077430605888367
 food,food.n.01,pony,0.5773447751998901
 food,food.n.01,funnel,0.6166090965270996
 food,food.n.01,squirrel,0.622258722782135
 food,food.n.01,bikini,0.45093318819999695
-food,food.n.01,hoe,0.5979064702987671
-food,food.n.01,poinsettia,0.599732518196106
-food,food.n.01,bulldozer,0.5959500074386597
+food,food.n.01,ladle,0.5979113578796387
+food,food.n.01,christmas tree,0.5997552871704102
+food,food.n.01,metal detector,0.5973083972930908
 food,food.n.01,hot-water bottle,0.6377214193344116
 food,food.n.01,refrigerator,0.6342856884002686
-food,food.n.01,bench,0.500374972820282
-food,food.n.01,tuba,0.49423497915267944
+food,food.n.01,cummerbund,0.49984443187713623
+food,food.n.01,jar,0.4940248131752014
 vehicle,vehicle.n.01,taffy,0.4373438358306885
 vehicle,vehicle.n.01,mandolin,0.4415106475353241
 vehicle,vehicle.n.01,stretcher,0.6940208673477173
@@ -823,191 +821,191 @@ outerwear,outerwear.n.01,mirror,0.39255744218826294
 outerwear,outerwear.n.01,honey,0.36868324875831604
 outerwear,outerwear.n.01,undershirt,0.7404879927635193
 outerwear,outerwear.n.01,underwear,0.7794902920722961
-tool,tool.n.01,goose,0.6009392142295837
+tool,tool.n.01,crow,0.44054052233695984
 tool,tool.n.01,lab coat,0.5913413763046265
-tool,tool.n.01,lamb,0.518975555896759
+tool,tool.n.01,lemon,0.48756730556488037
 tool,tool.n.01,macaroni,0.5937197804450989
 tool,tool.n.01,squirrel,0.5963070392608643
 tool,tool.n.01,kaleidoscope,0.6175837516784668
 tool,tool.n.01,clam,0.6015575528144836
-tool,tool.n.01,lemon,0.48756730556488037
-tool,tool.n.01,peanut butter,0.4487517476081848
+tool,tool.n.01,rooster,0.40745246410369873
+tool,tool.n.01,grille,0.4485894739627838
 tool,tool.n.01,lectern,0.6025463938713074
-tool,tool.n.01,pepper,0.5360897183418274
+tool,tool.n.01,nut,0.4482852816581726
 tool,tool.n.01,pot,0.5980632305145264
-tool,tool.n.01,penguin,0.44293010234832764
+tool,tool.n.01,moose,0.44434213638305664
 tool,tool.n.01,inkwell,0.5908888578414917
-tool,tool.n.01,fruitcake,0.5906357765197754
-tool,tool.n.01,chariot,0.6207897663116455
-tool,tool.n.01,toast,0.4479823708534241
-tool,tool.n.01,zebra,0.39441245794296265
-tool,tool.n.01,crayfish,0.5970380306243896
+tool,tool.n.01,elephant,0.3842795491218567
+tool,tool.n.01,jam,0.4454832673072815
+tool,tool.n.01,triangle,0.6517946124076843
+tool,tool.n.01,cheeseburger,0.43411266803741455
+tool,tool.n.01,kite,0.6209604144096375
+tool,tool.n.01,rattle,0.6094746589660645
+tool,tool.n.01,dashboard,0.6180368661880493
 tool,tool.n.01,glasses,0.6033832430839539
 tool,tool.n.01,noodle,0.6216775178909302
 tool,tool.n.01,pinwheel,0.6086626648902893
 tool,tool.n.01,spear,0.7440975904464722
-tool,tool.n.01,kiwi,0.48222237825393677
+tool,tool.n.01,calf,0.4242815673351288
 tool,tool.n.01,noisemaker,0.5917468070983887
 tool,tool.n.01,hearing aid,0.6290698647499084
 tool,tool.n.01,pea,0.6097305417060852
 tool,tool.n.01,whisk,0.6766411066055298
 tool,tool.n.01,stretcher,0.6749335527420044
-tool,tool.n.01,pepperoni,0.44767478108406067
-tool,tool.n.01,rattle,0.6094746589660645
-tool,tool.n.01,cordon bleu,0.4198003113269806
-tool,tool.n.01,taffy,0.44074249267578125
-tool,tool.n.01,alligator,0.5324898958206177
-tool,tool.n.01,blackberry,0.4349968433380127
-tool,tool.n.01,whipped cream,0.42788398265838623
+tool,tool.n.01,coconut,0.5137563943862915
+tool,tool.n.01,flamingo,0.4438508152961731
+tool,tool.n.01,jelly bean,0.41996610164642334
+tool,tool.n.01,goose,0.6009392142295837
+tool,tool.n.01,creme brulee,0.40848156809806824
+tool,tool.n.01,cream cheese,0.4286258816719055
 tool,tool.n.01,thumbtack,0.5944156646728516
-tool,tool.n.01,footrest,0.6379275918006897
-tool,tool.n.01,tiramisu,0.44768309593200684
-tool,tool.n.01,margarita,0.37708017230033875
+tool,tool.n.01,ottoman,0.6379275918006897
+tool,tool.n.01,ice cream,0.44062936305999756
+tool,tool.n.01,zebra,0.39441245794296265
 tool,tool.n.01,cantaloupe,0.6096739768981934
 tool,tool.n.01,hairbrush,0.5961317420005798
 tool,tool.n.01,tractor,0.5960103273391724
 tool,tool.n.01,bulldozer,0.5977929830551147
 tool,tool.n.01,sprouts,0.6055777072906494
 tool,tool.n.01,joystick,0.621662974357605
-tool,tool.n.01,apple,0.4403461515903473
+tool,tool.n.01,chips,0.4372459650039673
 tool,tool.n.01,eraser,0.6153454780578613
-tool,tool.n.01,gorilla,0.43204206228256226
+tool,tool.n.01,clover,0.4302278757095337
 tool,tool.n.01,slicer,0.6352831125259399
 tool,tool.n.01,abacus,0.6721639633178711
 tool,tool.n.01,goose,0.6009392142295837
-tool,tool.n.01,grapefruit,0.47317594289779663
-tool,tool.n.01,envelope,0.6686360836029053
 tool,tool.n.01,granola,0.43344560265541077
-tool,tool.n.01,grille,0.4485894739627838
-tool,tool.n.01,puppy,0.4171435236930847
-tool,tool.n.01,chili,0.4641076326370239
+tool,tool.n.01,envelope,0.6686360836029053
+tool,tool.n.01,gorilla,0.43204206228256226
+tool,tool.n.01,sheep,0.4481883943080902
+tool,tool.n.01,whipped cream,0.42788398265838623
 tool,tool.n.01,centerpiece,0.6275371313095093
-tool,tool.n.01,cardinal,0.44636932015419006
-tool,tool.n.01,balloon,0.4598436653614044
-tool,tool.n.01,flamingo,0.4438508152961731
+tool,tool.n.01,bull,0.4110884666442871
+tool,tool.n.01,perfume,0.44579941034317017
+tool,tool.n.01,taffy,0.44074249267578125
 tool,tool.n.01,router,0.6615192294120789
 tool,tool.n.01,stapler,0.6165453791618347
 tool,tool.n.01,toaster,0.6322146058082581
-tool,tool.n.01,first-aid kit,0.5907963514328003
+tool,tool.n.01,margarita,0.37708017230033875
 tool,tool.n.01,brass knuckles,0.599177360534668
-tool,tool.n.01,duckling,0.3991383910179138
-tool,tool.n.01,maple syrup,0.39484357833862305
 tool,tool.n.01,muff,0.6182373762130737
 tool,tool.n.01,ostrich,0.5929045677185059
 tool,tool.n.01,skewer,0.6023846864700317
 tool,tool.n.01,pitcher,0.597608745098114
-tool,tool.n.01,string cheese,0.43201929330825806
-tool,tool.n.01,honey,0.40979889035224915
+tool,tool.n.01,chili,0.4641076326370239
+tool,tool.n.01,puppy,0.4171435236930847
 tool,tool.n.01,lasagna,0.5985634326934814
 tool,tool.n.01,wheelbarrow,0.6080201864242554
 tool,tool.n.01,tube top,0.674280047416687
-tool,tool.n.01,triangle,0.6517946124076843
+tool,tool.n.01,salami,0.445527046918869
 tool,tool.n.01,rabbit,0.619231641292572
 tool,tool.n.01,machete,0.6191431283950806
-tool,tool.n.01,mixer,0.614774227142334
-tool,tool.n.01,creme brulee,0.40848156809806824
-tool,tool.n.01,sewing machine,0.5940513014793396
-tool,tool.n.01,bikini,0.43591704964637756
+tool,tool.n.01,grapefruit,0.47317594289779663
+tool,tool.n.01,weasel,0.6066404581069946
+tool,tool.n.01,cardinal,0.44636932015419006
+tool,tool.n.01,alligator,0.5324898958206177
+tool,tool.n.01,strawberry,0.4063137173652649
 tool,tool.n.01,projector,0.6526767015457153
-tool,tool.n.01,ice cream,0.44062936305999756
+tool,tool.n.01,banana split,0.4382544755935669
 tool,tool.n.01,chalk,0.6914069652557373
-tool,tool.n.01,rearview mirror,0.4253403842449188
+tool,tool.n.01,pepper,0.5360897183418274
 tool,tool.n.01,toolbox,0.7948402166366577
-tool,tool.n.01,salami,0.445527046918869
-tool,tool.n.01,birthday cake,0.4489558935165405
+tool,tool.n.01,peanut butter,0.4487517476081848
+tool,tool.n.01,maple syrup,0.39484357833862305
 tool,tool.n.01,scallop,0.6039823293685913
-tool,tool.n.01,chair,0.44251197576522827
-tool,tool.n.01,nut,0.4482852816581726
+tool,tool.n.01,cocktail,0.44892245531082153
+tool,tool.n.01,toast,0.4479823708534241
 tool,tool.n.01,calculator,0.627650260925293
 tool,tool.n.01,swab,0.740975022315979
-tool,tool.n.01,tortellini,0.43481874465942383
-tool,tool.n.01,pickle,0.6012919545173645
-tool,tool.n.01,dagger,0.60346919298172
-tool,tool.n.01,sheep,0.4481883943080902
-tool,tool.n.01,strawberry,0.4063137173652649
-tool,tool.n.01,dashboard,0.6180368661880493
-tool,tool.n.01,jam,0.4454832673072815
-tool,tool.n.01,elephant,0.3842795491218567
-tool,tool.n.01,chips,0.4372459650039673
-tool,tool.n.01,banana split,0.4382544755935669
-tool,tool.n.01,flipper,0.5918532609939575
-tool,tool.n.01,zucchini,0.5933147072792053
-tool,tool.n.01,watermelon,0.4879404306411743
-tool,tool.n.01,spaghetti,0.6115080118179321
-tool,tool.n.01,turkey,0.6073611378669739
-tool,tool.n.01,calf,0.4242815673351288
-tool,tool.n.01,dollhouse,0.6279558539390564
-tool,tool.n.01,cocktail,0.44892245531082153
-tool,tool.n.01,perfume,0.44579941034317017
-tool,tool.n.01,jacket,0.4336629807949066
-tool,tool.n.01,crow,0.44054052233695984
-tool,tool.n.01,coconut,0.5137563943862915
-tool,tool.n.01,rooster,0.40745246410369873
-tool,tool.n.01,prune,0.411225825548172
-tool,tool.n.01,clover,0.4302278757095337
-tool,tool.n.01,raspberry,0.4452393651008606
+tool,tool.n.01,rearview mirror,0.4253403842449188
 tool,tool.n.01,coyote,0.4477754235267639
-tool,tool.n.01,mongoose,0.4488598704338074
-tool,tool.n.01,highlighter,0.696014404296875
-tool,tool.n.01,workbench,0.6254359483718872
-tool,tool.n.01,moose,0.44434213638305664
-tool,tool.n.01,christmas tree,0.5991874933242798
-tool,tool.n.01,tumbleweed,0.4853540062904358
-tool,tool.n.01,lemonade,0.4279371500015259
-tool,tool.n.01,tea,0.43266379833221436
-tool,tool.n.01,dynamite,0.4312603175640106
-tool,tool.n.01,kite,0.6209604144096375
-tool,tool.n.01,bull,0.4110884666442871
+tool,tool.n.01,pickle,0.6012919545173645
+tool,tool.n.01,penguin,0.44293010234832764
+tool,tool.n.01,pepperoni,0.44767478108406067
+tool,tool.n.01,dagger,0.60346919298172
+tool,tool.n.01,kiwi,0.48222237825393677
+tool,tool.n.01,blackberry,0.4349968433380127
+tool,tool.n.01,zucchini,0.5933147072792053
+tool,tool.n.01,sewing machine,0.5940513014793396
 tool,tool.n.01,banana,0.4185015559196472
-tool,tool.n.01,shortbread,0.4497130513191223
-tool,tool.n.01,weasel,0.6066404581069946
-tool,tool.n.01,bassoon,0.43214619159698486
-tool,tool.n.01,burrito,0.4494616687297821
-tool,tool.n.01,cheeseburger,0.43411266803741455
+tool,tool.n.01,spaghetti,0.6115080118179321
 tool,tool.n.01,generator,0.607459545135498
-tool,tool.n.01,jelly bean,0.41996610164642334
-tool,tool.n.01,mirror,0.42591723799705505
-tool,tool.n.01,cream cheese,0.4286258816719055
+tool,tool.n.01,cordon bleu,0.4198003113269806
+tool,tool.n.01,dollhouse,0.6279558539390564
+tool,tool.n.01,christmas tree,0.5991874933242798
+tool,tool.n.01,turkey,0.6073611378669739
+tool,tool.n.01,chair,0.44251197576522827
+tool,tool.n.01,bassoon,0.43214619159698486
+tool,tool.n.01,dynamite,0.4312603175640106
+tool,tool.n.01,chariot,0.6207897663116455
+tool,tool.n.01,tumbleweed,0.4853540062904358
+tool,tool.n.01,honey,0.40979889035224915
+tool,tool.n.01,jacket,0.4336629807949066
+tool,tool.n.01,balloon,0.4598436653614044
+tool,tool.n.01,mixer,0.614774227142334
+tool,tool.n.01,highlighter,0.696014404296875
 tool,tool.n.01,bumper,0.6265767812728882
-women's clothing,womens_clothing.n.00,latch,0.8613904714584351
-women's clothing,womens_clothing.n.00,duckling,0.5223235487937927
-women's clothing,womens_clothing.n.00,puppy,0.5255675315856934
-women's clothing,womens_clothing.n.00,mirror,0.5188219547271729
+tool,tool.n.01,workbench,0.6254359483718872
+tool,tool.n.01,tiramisu,0.44768309593200684
+tool,tool.n.01,birthday cake,0.4489558935165405
+tool,tool.n.01,crayfish,0.5970380306243896
+tool,tool.n.01,watermelon,0.4879404306411743
+tool,tool.n.01,bikini,0.43591704964637756
+tool,tool.n.01,flipper,0.5918532609939575
+tool,tool.n.01,string cheese,0.43201929330825806
+tool,tool.n.01,mongoose,0.4488598704338074
+tool,tool.n.01,duckling,0.3991383910179138
+tool,tool.n.01,prune,0.411225825548172
+tool,tool.n.01,raspberry,0.4452393651008606
+tool,tool.n.01,tortellini,0.43481874465942383
+tool,tool.n.01,mirror,0.42591723799705505
+tool,tool.n.01,lamb,0.518975555896759
+tool,tool.n.01,tea,0.43266379833221436
+tool,tool.n.01,lemonade,0.4279371500015259
+tool,tool.n.01,apple,0.4403461515903473
+women's clothing,womens_clothing.n.00,nut,0.5352817177772522
+women's clothing,womens_clothing.n.00,lemon,0.6692894697189331
+women's clothing,womens_clothing.n.00,leotard,0.8702748417854309
 women's clothing,womens_clothing.n.00,highlighter,0.855396032333374
+women's clothing,womens_clothing.n.00,undershirt,0.8684868216514587
+women's clothing,womens_clothing.n.00,honey,0.5105118751525879
+women's clothing,womens_clothing.n.00,mirror,0.5188219547271729
 women's clothing,womens_clothing.n.00,dustpan,0.866992712020874
+women's clothing,womens_clothing.n.00,whisk,0.8594545722007751
+women's clothing,womens_clothing.n.00,puppy,0.5255675315856934
+women's clothing,womens_clothing.n.00,elephant,0.5093251466751099
+women's clothing,womens_clothing.n.00,stretcher,0.8640667200088501
+women's clothing,womens_clothing.n.00,bull,0.5129475593566895
+women's clothing,womens_clothing.n.00,lamb,0.621708869934082
+women's clothing,womens_clothing.n.00,backscratcher,0.8659733533859253
+women's clothing,womens_clothing.n.00,latch,0.8613904714584351
+women's clothing,womens_clothing.n.00,zebra,0.5307600498199463
+women's clothing,womens_clothing.n.00,duckling,0.5223235487937927
 women's clothing,womens_clothing.n.00,chain,0.8513333797454834
 women's clothing,womens_clothing.n.00,envelope,0.8612148761749268
-women's clothing,womens_clothing.n.00,lamb,0.621708869934082
-women's clothing,womens_clothing.n.00,whisk,0.8594545722007751
-women's clothing,womens_clothing.n.00,undershirt,0.8684868216514587
-women's clothing,womens_clothing.n.00,elephant,0.5093251466751099
-women's clothing,womens_clothing.n.00,lemon,0.6692894697189331
-women's clothing,womens_clothing.n.00,backscratcher,0.8659733533859253
-women's clothing,womens_clothing.n.00,zebra,0.5307600498199463
-women's clothing,womens_clothing.n.00,nut,0.5352817177772522
-women's clothing,womens_clothing.n.00,leotard,0.8702748417854309
-women's clothing,womens_clothing.n.00,honey,0.5105118751525879
-women's clothing,womens_clothing.n.00,bull,0.5129475593566895
-women's clothing,womens_clothing.n.00,stretcher,0.8640667200088501
+electronic device,electronic_device.n.01,lamb,0.4665740728378296
+electronic device,electronic_device.n.01,honey,0.3852330446243286
+electronic device,electronic_device.n.01,tube top,0.6577919721603394
+electronic device,electronic_device.n.01,spear,0.6402828693389893
+electronic device,electronic_device.n.01,toast,0.42042696475982666
+electronic device,electronic_device.n.01,scoop,0.40938127040863037
 electronic device,electronic_device.n.01,cordon bleu,0.4148124158382416
 electronic device,electronic_device.n.01,rabbit,0.6013085842132568
 electronic device,electronic_device.n.01,trident,0.40475091338157654
-electronic device,electronic_device.n.01,jacket,0.41917410492897034
 electronic device,electronic_device.n.01,switch,0.6948978900909424
 electronic device,electronic_device.n.01,alligator,0.5126693248748779
-electronic device,electronic_device.n.01,swab,0.6584079265594482
-electronic device,electronic_device.n.01,elephant,0.3844340443611145
-electronic device,electronic_device.n.01,grinder,0.6082087159156799
-electronic device,electronic_device.n.01,honey,0.3852330446243286
-electronic device,electronic_device.n.01,envelope,0.6570587158203125
-electronic device,electronic_device.n.01,sheep,0.41439345479011536
+electronic device,electronic_device.n.01,coil,0.685874342918396
+electronic device,electronic_device.n.01,jacket,0.41917410492897034
+electronic device,electronic_device.n.01,bolt,0.6540987491607666
+electronic device,electronic_device.n.01,vulture,0.4140828549861908
+electronic device,electronic_device.n.01,highlighter,0.6702386140823364
 electronic device,electronic_device.n.01,nut,0.40148836374282837
 electronic device,electronic_device.n.01,videogame,0.6210483908653259
 electronic device,electronic_device.n.01,chair,0.41208648681640625
-electronic device,electronic_device.n.01,banana,0.4162846803665161
-electronic device,electronic_device.n.01,scoop,0.40938127040863037
+electronic device,electronic_device.n.01,grinder,0.6082087159156799
+electronic device,electronic_device.n.01,cardinal,0.4563061594963074
 electronic device,electronic_device.n.01,peeler,0.780860424041748
-electronic device,electronic_device.n.01,lamb,0.4665740728378296
+electronic device,electronic_device.n.01,apple,0.4187828004360199
 electronic device,electronic_device.n.01,centerpiece,0.6036781668663025
 electronic device,electronic_device.n.01,triangle,0.6136414408683777
 electronic device,electronic_device.n.01,recorder,0.6202274560928345
@@ -1017,223 +1015,235 @@ electronic device,electronic_device.n.01,marker,0.6058998107910156
 electronic device,electronic_device.n.01,dashboard,0.6250355243682861
 electronic device,electronic_device.n.01,prune,0.38442131876945496
 electronic device,electronic_device.n.01,cord,0.6085497140884399
-electronic device,electronic_device.n.01,goose,0.5897228121757507
+electronic device,electronic_device.n.01,elephant,0.3844340443611145
 electronic device,electronic_device.n.01,lightbulb,0.617529034614563
+electronic device,electronic_device.n.01,lemon,0.4939836859703064
 electronic device,electronic_device.n.01,tea,0.42009639739990234
-electronic device,electronic_device.n.01,tube top,0.6577919721603394
 electronic device,electronic_device.n.01,backscratcher,0.6474704742431641
 electronic device,electronic_device.n.01,chariot,0.6017256379127502
 electronic device,electronic_device.n.01,calculator,0.6667938232421875
 electronic device,electronic_device.n.01,abacus,0.644787073135376
-electronic device,electronic_device.n.01,margarita,0.39108777046203613
-electronic device,electronic_device.n.01,zebra,0.39605361223220825
-electronic device,electronic_device.n.01,highlighter,0.6702386140823364
-electronic device,electronic_device.n.01,lighter,0.7762683033943176
-electronic device,electronic_device.n.01,broom,0.6552672386169434
-electronic device,electronic_device.n.01,dustpan,0.6600822806358337
-electronic device,electronic_device.n.01,stretcher,0.640921413898468
-electronic device,electronic_device.n.01,bacon,0.41628074645996094
-electronic device,electronic_device.n.01,crow,0.41251349449157715
-electronic device,electronic_device.n.01,razor blade,0.6118373870849609
-electronic device,electronic_device.n.01,rope,0.4864894151687622
-electronic device,electronic_device.n.01,tongs,0.7691400051116943
-electronic device,electronic_device.n.01,maple syrup,0.3957713842391968
-electronic device,electronic_device.n.01,duckling,0.3878226578235626
-electronic device,electronic_device.n.01,toast,0.42042696475982666
-electronic device,electronic_device.n.01,robot,0.6249873638153076
-electronic device,electronic_device.n.01,spear,0.6402828693389893
-electronic device,electronic_device.n.01,apple,0.4187828004360199
-electronic device,electronic_device.n.01,vulture,0.4140828549861908
-electronic device,electronic_device.n.01,whisk,0.6601667404174805
-electronic device,electronic_device.n.01,bolt,0.6540987491607666
-electronic device,electronic_device.n.01,lemon,0.4939836859703064
-electronic device,electronic_device.n.01,chalk,0.6178075075149536
 electronic device,electronic_device.n.01,chili,0.4623555541038513
-electronic device,electronic_device.n.01,puppy,0.41391289234161377
-electronic device,electronic_device.n.01,clover,0.40069323778152466
-electronic device,electronic_device.n.01,spatula,0.6340494155883789
-electronic device,electronic_device.n.01,bassoon,0.4027707576751709
-electronic device,electronic_device.n.01,rooster,0.37019288539886475
-electronic device,electronic_device.n.01,creme brulee,0.4126718044281006
-electronic device,electronic_device.n.01,chain,0.6754457950592041
-electronic device,electronic_device.n.01,calf,0.4112274646759033
-electronic device,electronic_device.n.01,hook,0.6361358165740967
-electronic device,electronic_device.n.01,coil,0.685874342918396
-electronic device,electronic_device.n.01,cardinal,0.4563061594963074
-electronic device,electronic_device.n.01,stool,0.4110223054885864
+electronic device,electronic_device.n.01,banana,0.4162846803665161
 electronic device,electronic_device.n.01,stiletto,0.41788357496261597
+electronic device,electronic_device.n.01,stool,0.4110223054885864
+electronic device,electronic_device.n.01,rope,0.4864894151687622
+electronic device,electronic_device.n.01,stretcher,0.640921413898468
+electronic device,electronic_device.n.01,crow,0.41251349449157715
+electronic device,electronic_device.n.01,calf,0.4112274646759033
+electronic device,electronic_device.n.01,spatula,0.6340494155883789
+electronic device,electronic_device.n.01,sheep,0.41439345479011536
+electronic device,electronic_device.n.01,whisk,0.6601667404174805
+electronic device,electronic_device.n.01,rooster,0.37019288539886475
+electronic device,electronic_device.n.01,razor blade,0.6118373870849609
+electronic device,electronic_device.n.01,chalk,0.6178075075149536
 electronic device,electronic_device.n.01,bull,0.3830114006996155
-school supply,school_supply.n.00,abacus,0.8888983130455017
+electronic device,electronic_device.n.01,tongs,0.7691400051116943
+electronic device,electronic_device.n.01,clover,0.40069323778152466
+electronic device,electronic_device.n.01,duckling,0.3878226578235626
+electronic device,electronic_device.n.01,envelope,0.6570587158203125
+electronic device,electronic_device.n.01,lighter,0.7762683033943176
+electronic device,electronic_device.n.01,dustpan,0.6600822806358337
+electronic device,electronic_device.n.01,bassoon,0.4027707576751709
+electronic device,electronic_device.n.01,creme brulee,0.4126718044281006
+electronic device,electronic_device.n.01,bacon,0.41628074645996094
+electronic device,electronic_device.n.01,goose,0.5897228121757507
+electronic device,electronic_device.n.01,maple syrup,0.3957713842391968
+electronic device,electronic_device.n.01,chain,0.6754457950592041
+electronic device,electronic_device.n.01,swab,0.6584079265594482
+electronic device,electronic_device.n.01,puppy,0.41391289234161377
+electronic device,electronic_device.n.01,robot,0.6249873638153076
+electronic device,electronic_device.n.01,broom,0.6552672386169434
+electronic device,electronic_device.n.01,margarita,0.39108777046203613
+electronic device,electronic_device.n.01,hook,0.6361358165740967
+electronic device,electronic_device.n.01,zebra,0.39605361223220825
+school supply,school_supply.n.00,tube top,0.8979656100273132
+school supply,school_supply.n.00,duckling,0.5374654531478882
 school supply,school_supply.n.00,zebra,0.5265434384346008
+school supply,school_supply.n.00,stretcher,0.9040447473526001
+school supply,school_supply.n.00,latch,0.9121878743171692
 school supply,school_supply.n.00,envelope,0.8939875364303589
+school supply,school_supply.n.00,elephant,0.5042693018913269
+school supply,school_supply.n.00,abacus,0.8888983130455017
+school supply,school_supply.n.00,sheep,0.564870297908783
+school supply,school_supply.n.00,puppy,0.542296290397644
 school supply,school_supply.n.00,backscratcher,0.9164279699325562
+school supply,school_supply.n.00,alligator,0.7197225689888
+school supply,school_supply.n.00,spatula,0.8799812197685242
+school supply,school_supply.n.00,lamb,0.6443161964416504
 school supply,school_supply.n.00,chain,0.890493631362915
+school supply,school_supply.n.00,bassoon,0.5658046007156372
+school supply,school_supply.n.00,coil,0.8955267667770386
 school supply,school_supply.n.00,rooster,0.5555593967437744
 school supply,school_supply.n.00,honey,0.5374380946159363
-school supply,school_supply.n.00,duckling,0.5374654531478882
-school supply,school_supply.n.00,bull,0.5218788385391235
-school supply,school_supply.n.00,stretcher,0.9040447473526001
-school supply,school_supply.n.00,lamb,0.6443161964416504
-school supply,school_supply.n.00,sheep,0.564870297908783
-school supply,school_supply.n.00,coil,0.8955267667770386
-school supply,school_supply.n.00,bolt,0.9038770198822021
 school supply,school_supply.n.00,noodle,0.864365816116333
+school supply,school_supply.n.00,whisk,0.9066174626350403
 school supply,school_supply.n.00,calf,0.5335993766784668
 school supply,school_supply.n.00,nut,0.566330075263977
-school supply,school_supply.n.00,tube top,0.8979656100273132
-school supply,school_supply.n.00,elephant,0.5042693018913269
-school supply,school_supply.n.00,latch,0.9121878743171692
+school supply,school_supply.n.00,bolt,0.9038770198822021
 school supply,school_supply.n.00,dustpan,0.913691520690918
-school supply,school_supply.n.00,spatula,0.8799812197685242
-school supply,school_supply.n.00,whisk,0.9066174626350403
-school supply,school_supply.n.00,alligator,0.7197225689888
-school supply,school_supply.n.00,bassoon,0.5658046007156372
-school supply,school_supply.n.00,puppy,0.542296290397644
+school supply,school_supply.n.00,bull,0.5218788385391235
 candy,candy.n.01,bull,0.4010787010192871
+candy,candy.n.01,jacket,0.4185374975204468
+candy,candy.n.01,rabbit,0.7316687107086182
 candy,candy.n.01,trident,0.4072275161743164
-candy,candy.n.01,zucchini,0.7246044874191284
 candy,candy.n.01,bassoon,0.41987383365631104
+candy,candy.n.01,lamb,0.5654416680335999
 candy,candy.n.01,pudding,0.7266147136688232
 candy,candy.n.01,calf,0.41168472170829773
-candy,candy.n.01,lasagna,0.7351137399673462
-candy,candy.n.01,jacket,0.4185374975204468
-candy,candy.n.01,pickle,0.7464014291763306
-candy,candy.n.01,fruitcake,0.7392226457595825
-candy,candy.n.01,scallop,0.7300939559936523
-candy,candy.n.01,cantaloupe,0.7288112640380859
-candy,candy.n.01,lamb,0.5654416680335999
-candy,candy.n.01,elephant,0.3966033458709717
 candy,candy.n.01,ski boots,0.4252951145172119
-candy,candy.n.01,rabbit,0.7316687107086182
+candy,candy.n.01,pickle,0.7464014291763306
+candy,candy.n.01,lasagna,0.7351137399673462
+candy,candy.n.01,elephant,0.3966033458709717
+candy,candy.n.01,scallop,0.7300939559936523
+candy,candy.n.01,fruitcake,0.7392226457595825
+candy,candy.n.01,zucchini,0.7246044874191284
+candy,candy.n.01,cantaloupe,0.7288112640380859
+weapon,weapon.n.01,latch,0.7125688195228577
+weapon,weapon.n.01,whisk,0.7076694965362549
+weapon,weapon.n.01,puppy,0.41764023900032043
+weapon,weapon.n.01,alligator,0.568333625793457
+weapon,weapon.n.01,broom,0.6841634511947632
+weapon,weapon.n.01,stretcher,0.707937479019165
+weapon,weapon.n.01,lemon,0.5215839147567749
+weapon,weapon.n.01,banana,0.4373592734336853
 weapon,weapon.n.01,rooster,0.41878196597099304
 weapon,weapon.n.01,prune,0.4087713658809662
 weapon,weapon.n.01,chain,0.7207804918289185
 weapon,weapon.n.01,highlighter,0.7068957090377808
 weapon,weapon.n.01,elephant,0.4046953320503235
-weapon,weapon.n.01,crow,0.434671550989151
-weapon,weapon.n.01,cream cheese,0.4388125538825989
+weapon,weapon.n.01,bull,0.422308087348938
 weapon,weapon.n.01,coil,0.7090713977813721
 weapon,weapon.n.01,maple syrup,0.4096011221408844
 weapon,weapon.n.01,bolt,0.7003356218338013
-weapon,weapon.n.01,broom,0.6841634511947632
-weapon,weapon.n.01,zebra,0.40273934602737427
-weapon,weapon.n.01,tube top,0.707981288433075
-weapon,weapon.n.01,alligator,0.568333625793457
-weapon,weapon.n.01,honey,0.3870656192302704
-weapon,weapon.n.01,abacus,0.6859942078590393
-weapon,weapon.n.01,duckling,0.41139256954193115
-weapon,weapon.n.01,lamb,0.5385095477104187
-weapon,weapon.n.01,peeler,0.6975497007369995
-weapon,weapon.n.01,lighter,0.7199918031692505
+weapon,weapon.n.01,spatula,0.705374002456665
 weapon,weapon.n.01,swab,0.6897433400154114
-weapon,weapon.n.01,latch,0.7125688195228577
-weapon,weapon.n.01,backscratcher,0.7078477144241333
-weapon,weapon.n.01,puppy,0.41764023900032043
-weapon,weapon.n.01,margarita,0.4199516475200653
-weapon,weapon.n.01,banana,0.4373592734336853
-weapon,weapon.n.01,bull,0.422308087348938
+weapon,weapon.n.01,plunger,0.681842565536499
+weapon,weapon.n.01,punch,0.7052714824676514
+weapon,weapon.n.01,abacus,0.6859942078590393
+weapon,weapon.n.01,toast,0.44305455684661865
+weapon,weapon.n.01,whipped cream,0.44295790791511536
 weapon,weapon.n.01,calf,0.43877974152565
-weapon,weapon.n.01,dustpan,0.7048443555831909
+weapon,weapon.n.01,peeler,0.6975497007369995
+weapon,weapon.n.01,lamb,0.5385095477104187
+weapon,weapon.n.01,honey,0.3870656192302704
+weapon,weapon.n.01,rake,0.701836109161377
+weapon,weapon.n.01,crow,0.434671550989151
+weapon,weapon.n.01,lighter,0.7199918031692505
+weapon,weapon.n.01,zebra,0.40273934602737427
+weapon,weapon.n.01,backscratcher,0.7078477144241333
+weapon,weapon.n.01,jam,0.4207487106323242
+weapon,weapon.n.01,router,0.7027764320373535
+weapon,weapon.n.01,strawberry,0.4335160553455353
 weapon,weapon.n.01,tongs,0.7119994163513184
 weapon,weapon.n.01,drill,0.6971594095230103
-weapon,weapon.n.01,router,0.7027764320373535
-weapon,weapon.n.01,jam,0.4207487106323242
-weapon,weapon.n.01,envelope,0.7053205370903015
 weapon,weapon.n.01,mirror,0.43437623977661133
-weapon,weapon.n.01,whipped cream,0.44295790791511536
-weapon,weapon.n.01,punch,0.7052714824676514
-weapon,weapon.n.01,rake,0.701836109161377
-weapon,weapon.n.01,tea,0.432666540145874
-weapon,weapon.n.01,strawberry,0.4335160553455353
-weapon,weapon.n.01,spatula,0.705374002456665
-weapon,weapon.n.01,toast,0.44305455684661865
+weapon,weapon.n.01,dustpan,0.7048443555831909
 weapon,weapon.n.01,jelly bean,0.4429931044578552
-weapon,weapon.n.01,lemon,0.5215839147567749
-weapon,weapon.n.01,whisk,0.7076694965362549
-weapon,weapon.n.01,stretcher,0.707937479019165
+weapon,weapon.n.01,envelope,0.7053205370903015
+weapon,weapon.n.01,tea,0.432666540145874
+weapon,weapon.n.01,duckling,0.41139256954193115
+weapon,weapon.n.01,cream cheese,0.4388125538825989
+weapon,weapon.n.01,margarita,0.4199516475200653
+weapon,weapon.n.01,tube top,0.707981288433075
 weapon,weapon.n.01,saw,0.6810447573661804
-weapon,weapon.n.01,plunger,0.681842565536499
-furniture,furniture.n.01,whisk,0.7031393647193909
-furniture,furniture.n.01,coil,0.7030495405197144
-furniture,furniture.n.01,abacus,0.7115377187728882
+furniture,furniture.n.01,honey,0.4039013981819153
+furniture,furniture.n.01,lamb,0.5586135387420654
 furniture,furniture.n.01,zebra,0.4216831922531128
-furniture,furniture.n.01,cantaloupe,0.6803638935089111
-furniture,furniture.n.01,alligator,0.5715932846069336
+furniture,furniture.n.01,margarita,0.4248313009738922
 furniture,furniture.n.01,bolt,0.7065089344978333
 furniture,furniture.n.01,highlighter,0.708567202091217
-furniture,furniture.n.01,mixer,0.6813491582870483
+furniture,furniture.n.01,scallop,0.6795902252197266
+furniture,furniture.n.01,rabbit,0.6936050653457642
+furniture,furniture.n.01,mirror,0.44517335295677185
+furniture,furniture.n.01,lemon,0.5718138217926025
+furniture,furniture.n.01,duckling,0.4228864312171936
+furniture,furniture.n.01,abacus,0.7115377187728882
+furniture,furniture.n.01,rooster,0.4223731756210327
+furniture,furniture.n.01,calf,0.4430656433105469
+furniture,furniture.n.01,stretcher,0.7256140112876892
 furniture,furniture.n.01,elephant,0.41067978739738464
-furniture,furniture.n.01,chain,0.7080405950546265
-furniture,furniture.n.01,bull,0.425733745098114
-furniture,furniture.n.01,rope,0.49889326095581055
+furniture,furniture.n.01,backscratcher,0.6997096538543701
+furniture,furniture.n.01,alligator,0.5715932846069336
+furniture,furniture.n.01,cantaloupe,0.6803638935089111
+furniture,furniture.n.01,dustpan,0.721328616142273
+furniture,furniture.n.01,strawberry,0.44088828563690186
+furniture,furniture.n.01,lasagna,0.6790737509727478
+furniture,furniture.n.01,whisk,0.7031393647193909
+furniture,furniture.n.01,trident,0.4274856448173523
+furniture,furniture.n.01,mixer,0.6813491582870483
 furniture,furniture.n.01,puppy,0.41722583770751953
 furniture,furniture.n.01,centerpiece,0.740985631942749
-furniture,furniture.n.01,duckling,0.4228864312171936
-furniture,furniture.n.01,maple syrup,0.43660223484039307
-furniture,furniture.n.01,lasagna,0.6790737509727478
+furniture,furniture.n.01,coil,0.7030495405197144
+furniture,furniture.n.01,bull,0.425733745098114
 furniture,furniture.n.01,nut,0.4430834650993347
-furniture,furniture.n.01,stretcher,0.7256140112876892
-furniture,furniture.n.01,lemon,0.5718138217926025
-furniture,furniture.n.01,mirror,0.44517335295677185
-furniture,furniture.n.01,calf,0.4430656433105469
-furniture,furniture.n.01,jelly bean,0.44548171758651733
-furniture,furniture.n.01,envelope,0.7089436054229736
-furniture,furniture.n.01,scallop,0.6795902252197266
-furniture,furniture.n.01,dustpan,0.721328616142273
-furniture,furniture.n.01,trident,0.4274856448173523
-furniture,furniture.n.01,backscratcher,0.6997096538543701
-furniture,furniture.n.01,latch,0.7236966490745544
-furniture,furniture.n.01,rabbit,0.6936050653457642
-furniture,furniture.n.01,margarita,0.4248313009738922
-furniture,furniture.n.01,rooster,0.4223731756210327
-furniture,furniture.n.01,lamb,0.5586135387420654
+furniture,furniture.n.01,chain,0.7080405950546265
 furniture,furniture.n.01,tube top,0.72710782289505
-furniture,furniture.n.01,honey,0.4039013981819153
-furniture,furniture.n.01,turkey,0.6771903038024902
-furniture,furniture.n.01,strawberry,0.44088828563690186
-toy,plaything.n.01,maple syrup,0.4158073365688324
-toy,plaything.n.01,backscratcher,0.7484767436981201
-toy,plaything.n.01,alligator,0.6067532300949097
-toy,plaything.n.01,envelope,0.726658821105957
-toy,plaything.n.01,dustpan,0.7551112174987793
-toy,plaything.n.01,lemon,0.5721253156661987
+furniture,furniture.n.01,maple syrup,0.43660223484039307
+furniture,furniture.n.01,envelope,0.7089436054229736
+furniture,furniture.n.01,rope,0.49889326095581055
+furniture,furniture.n.01,latch,0.7236966490745544
 toy,plaything.n.01,mirror,0.4454050362110138
-toy,plaything.n.01,margarita,0.4390328526496887
-toy,plaything.n.01,bassoon,0.442074716091156
-toy,plaything.n.01,rope,0.5749361515045166
-toy,plaything.n.01,calf,0.45228099822998047
-toy,plaything.n.01,zebra,0.4165019690990448
-toy,plaything.n.01,rabbit,0.7146701812744141
+toy,plaything.n.01,spear,0.7139818668365479
+toy,plaything.n.01,dynamite,0.44581788778305054
+toy,plaything.n.01,lemon,0.5721253156661987
 toy,plaything.n.01,bolt,0.7235596179962158
+toy,plaything.n.01,chain,0.737555742263794
+toy,plaything.n.01,abacus,0.7197515964508057
+toy,plaything.n.01,rabbit,0.7146701812744141
+toy,plaything.n.01,tube top,0.744769811630249
 toy,plaything.n.01,stretcher,0.7375392913818359
+toy,plaything.n.01,nut,0.44777703285217285
+toy,plaything.n.01,maple syrup,0.4158073365688324
 toy,plaything.n.01,whisk,0.7206529378890991
 toy,plaything.n.01,lamb,0.5698769092559814
-toy,plaything.n.01,chain,0.737555742263794
-toy,plaything.n.01,nut,0.44777703285217285
+toy,plaything.n.01,rearview mirror,0.4502243101596832
+toy,plaything.n.01,zebra,0.4165019690990448
+toy,plaything.n.01,dustpan,0.7551112174987793
+toy,plaything.n.01,rope,0.5749361515045166
+toy,plaything.n.01,envelope,0.726658821105957
+toy,plaything.n.01,elephant,0.41379430890083313
+toy,plaything.n.01,honey,0.42041367292404175
 toy,plaything.n.01,coil,0.7211228609085083
-toy,plaything.n.01,abacus,0.7197515964508057
-toy,plaything.n.01,bull,0.4454611539840698
+toy,plaything.n.01,margarita,0.4390328526496887
 toy,plaything.n.01,cantaloupe,0.7194496393203735
 toy,plaything.n.01,noodle,0.7195230722427368
-toy,plaything.n.01,latch,0.7479569911956787
-toy,plaything.n.01,rearview mirror,0.4502243101596832
-toy,plaything.n.01,dynamite,0.44581788778305054
-toy,plaything.n.01,honey,0.42041367292404175
-toy,plaything.n.01,tube top,0.744769811630249
-toy,plaything.n.01,elephant,0.41379430890083313
-toy,plaything.n.01,spear,0.7139818668365479
-toy,plaything.n.01,footrest,0.737949550151825
+toy,plaything.n.01,bassoon,0.442074716091156
 toy,plaything.n.01,highlighter,0.7403358221054077
+toy,plaything.n.01,bull,0.4454611539840698
+toy,plaything.n.01,backscratcher,0.7484767436981201
 toy,plaything.n.01,jacket,0.4453356862068176
+toy,plaything.n.01,latch,0.7479569911956787
+toy,plaything.n.01,calf,0.45228099822998047
+toy,plaything.n.01,alligator,0.6067532300949097
+toy,plaything.n.01,ottoman,0.737949550151825
+container,container.n.01,stiletto,0.4588775634765625
+container,container.n.01,pony,0.5728809833526611
+container,container.n.01,sheep,0.4623950123786926
+container,container.n.01,tumbleweed,0.540896475315094
+container,container.n.01,razor,0.45849698781967163
+container,container.n.01,string cheese,0.45908480882644653
+container,container.n.01,cantaloupe,0.6796005368232727
+container,container.n.01,fly,0.45388394594192505
+container,container.n.01,spatula,0.6895809769630432
+container,container.n.01,radish,0.5688139200210571
+container,container.n.01,rollerblade,0.4577840566635132
+container,container.n.01,abacus,0.7259215116500854
+container,container.n.01,ostrich,0.657028317451477
+container,container.n.01,honey,0.41804182529449463
+container,container.n.01,highlighter,0.7328559160232544
+container,container.n.01,margarita,0.45078617334365845
+container,container.n.01,pea,0.6528785824775696
+container,container.n.01,coaster,0.6796337366104126
+container,container.n.01,funnel,0.701854407787323
 container,container.n.01,centerpiece,0.6595674753189087
 container,container.n.01,tweezers,0.6555944085121155
-container,container.n.01,bassoon,0.4677852392196655
 container,container.n.01,lamb,0.5202349424362183
 container,container.n.01,chickpea,0.669699490070343
 container,container.n.01,incubator,0.6678808331489563
-container,container.n.01,coaster,0.6796337366104126
+container,container.n.01,kale,0.5177522301673889
 container,container.n.01,rope,0.5075815916061401
-container,container.n.01,pea,0.6528785824775696
+container,container.n.01,cocktail,0.45967763662338257
 container,container.n.01,calf,0.44511646032333374
 container,container.n.01,whipped cream,0.43911194801330566
 container,container.n.01,mussel,0.6606405973434448
@@ -1248,808 +1258,784 @@ container,container.n.01,whisk,0.7191743850708008
 container,container.n.01,tongs,0.6792750358581543
 container,container.n.01,lasagna,0.6640118360519409
 container,container.n.01,roof rack,0.6487442851066589
+container,container.n.01,mascara,0.4535543620586395
+container,container.n.01,cheeseburger,0.4713132381439209
+container,container.n.01,zebra,0.4426337480545044
+container,container.n.01,bassoon,0.4677852392196655
+container,container.n.01,stretcher,0.752639651298523
+container,container.n.01,maple syrup,0.454990029335022
+container,container.n.01,strawberry,0.4522831439971924
+container,container.n.01,chain,0.721326470375061
+container,container.n.01,macaroni,0.6624552011489868
+container,container.n.01,swab,0.6680624485015869
 container,container.n.01,creme brulee,0.4484015703201294
-container,container.n.01,mirror,0.4695337414741516
-container,container.n.01,funnel,0.701854407787323
-container,container.n.01,nut,0.4578876495361328
+container,container.n.01,triangle,0.6501035690307617
+container,container.n.01,elephant,0.41616693139076233
+container,container.n.01,banana,0.47452330589294434
+container,container.n.01,moss,0.44980889558792114
+container,container.n.01,noodle,0.6679293513298035
+container,container.n.01,router,0.6561518311500549
+container,container.n.01,duckling,0.4174942970275879
+container,container.n.01,coil,0.7248576879501343
+container,container.n.01,kaleidoscope,0.6471837759017944
+container,container.n.01,tea,0.4479050636291504
+container,container.n.01,zucchini,0.662129819393158
 container,container.n.01,latch,0.7416279315948486
-container,container.n.01,chalk,0.6608164310455322
+container,container.n.01,rearview mirror,0.4636033773422241
+container,container.n.01,bus,0.6599614024162292
+container,container.n.01,turkey,0.6700366735458374
+container,container.n.01,spaghetti,0.6532036066055298
+container,container.n.01,cardinal,0.5116689205169678
+container,container.n.01,saxophone,0.473888635635376
+container,container.n.01,crayfish,0.678119957447052
+container,container.n.01,refrigerator,0.6664513945579529
+container,container.n.01,alligator,0.5925750136375427
+container,container.n.01,bolt,0.7213170528411865
+container,container.n.01,tube top,0.7385608553886414
+container,container.n.01,drum,0.6531976461410522
+container,container.n.01,catfish,0.6542966961860657
 container,container.n.01,hook,0.6258895397186279
 container,container.n.01,scallop,0.6805381774902344
-container,container.n.01,bull,0.4268234968185425
-container,container.n.01,triangle,0.6501035690307617
-container,container.n.01,lemon,0.5752795338630676
-container,container.n.01,food processor,0.6498154401779175
-container,container.n.01,stool,0.4501096308231354
-container,container.n.01,rabbit,0.6856977343559265
-container,container.n.01,macaroni,0.6624552011489868
-container,container.n.01,jam,0.4314805269241333
 container,container.n.01,envelope,0.7375641465187073
-container,container.n.01,banana,0.47452330589294434
-container,container.n.01,razor,0.45849698781967163
-container,container.n.01,bolt,0.7213170528411865
-container,container.n.01,router,0.6561518311500549
-container,container.n.01,kaleidoscope,0.6471837759017944
-container,container.n.01,strawberry,0.4522831439971924
-container,container.n.01,margarita,0.45078617334365845
-container,container.n.01,spaghetti,0.6532036066055298
-container,container.n.01,crayfish,0.678119957447052
-container,container.n.01,zebra,0.4426337480545044
-container,container.n.01,refrigerator,0.6664513945579529
-container,container.n.01,chain,0.721326470375061
-container,container.n.01,puppy,0.43855684995651245
-container,container.n.01,tube top,0.7385608553886414
-container,container.n.01,cardinal,0.5116689205169678
-container,container.n.01,alligator,0.5925750136375427
-container,container.n.01,fruitcake,0.6618183851242065
-container,container.n.01,elephant,0.41616693139076233
-container,container.n.01,coil,0.7248576879501343
-container,container.n.01,toast,0.45207226276397705
-container,container.n.01,crow,0.4659258723258972
-container,container.n.01,radish,0.5688139200210571
-container,container.n.01,noodle,0.6679293513298035
-container,container.n.01,pony,0.5728809833526611
-container,container.n.01,swab,0.6680624485015869
-container,container.n.01,drum,0.6531976461410522
-container,container.n.01,duckling,0.4174942970275879
-container,container.n.01,mandolin,0.4602968096733093
-container,container.n.01,stiletto,0.4588775634765625
-container,container.n.01,ostrich,0.657028317451477
-container,container.n.01,tea,0.4479050636291504
-container,container.n.01,juicer,0.6496375203132629
-container,container.n.01,clam,0.6598820090293884
-container,container.n.01,cantaloupe,0.6796005368232727
-container,container.n.01,footrest,0.6474677324295044
-container,container.n.01,cordon bleu,0.4722519516944885
-container,container.n.01,fly,0.45388394594192505
-container,container.n.01,bus,0.6599614024162292
-container,container.n.01,kale,0.5177522301673889
-container,container.n.01,goose,0.6644958257675171
-container,container.n.01,rollerblade,0.4577840566635132
-container,container.n.01,catfish,0.6542966961860657
-container,container.n.01,cream cheese,0.4434678852558136
-container,container.n.01,rearview mirror,0.4636033773422241
-container,container.n.01,cocktail,0.45967763662338257
-container,container.n.01,sheep,0.4623950123786926
-container,container.n.01,zucchini,0.662129819393158
-container,container.n.01,clover,0.4533538222312927
-container,container.n.01,spatula,0.6895809769630432
-container,container.n.01,string cheese,0.45908480882644653
-container,container.n.01,saxophone,0.473888635635376
-container,container.n.01,ski boots,0.45858198404312134
-container,container.n.01,tumbleweed,0.540896475315094
-container,container.n.01,cheeseburger,0.4713132381439209
-container,container.n.01,moss,0.44980889558792114
-container,container.n.01,backscratcher,0.7084984183311462
-container,container.n.01,honey,0.41804182529449463
-container,container.n.01,stretcher,0.752639651298523
+container,container.n.01,bull,0.4268234968185425
+container,container.n.01,chalk,0.6608164310455322
 container,container.n.01,trident,0.4709433913230896
-container,container.n.01,maple syrup,0.454990029335022
 container,container.n.01,jacket,0.4382769465446472
-container,container.n.01,mascara,0.4535543620586395
-container,container.n.01,highlighter,0.7328559160232544
-container,container.n.01,abacus,0.7259215116500854
-container,container.n.01,turkey,0.6700366735458374
+container,container.n.01,mirror,0.4695337414741516
 container,container.n.01,cinnamon,0.6587030291557312
+container,container.n.01,puppy,0.43855684995651245
+container,container.n.01,cordon bleu,0.4722519516944885
+container,container.n.01,rabbit,0.6856977343559265
+container,container.n.01,nut,0.4578876495361328
+container,container.n.01,clover,0.4533538222312927
+container,container.n.01,backscratcher,0.7084984183311462
+container,container.n.01,clam,0.6598820090293884
+container,container.n.01,juicer,0.6496375203132629
+container,container.n.01,cream cheese,0.4434678852558136
+container,container.n.01,lemon,0.5752795338630676
+container,container.n.01,ottoman,0.6474677324295044
+container,container.n.01,jam,0.4314805269241333
+container,container.n.01,crow,0.4659258723258972
+container,container.n.01,goose,0.6644958257675171
+container,container.n.01,stool,0.4501096308231354
+container,container.n.01,toast,0.45207226276397705
+container,container.n.01,ski boots,0.45858198404312134
+container,container.n.01,food processor,0.6498154401779175
+container,container.n.01,mandolin,0.4602968096733093
+container,container.n.01,fruitcake,0.6618183851242065
 seafood,seafood.n.01,elephant,0.36178576946258545
-seafood,seafood.n.01,zucchini,0.6346038579940796
-seafood,seafood.n.01,cane,0.3630214333534241
-seafood,seafood.n.01,knob,0.3673619031906128
-seafood,seafood.n.01,meat,0.629625678062439
-seafood,seafood.n.01,fruitcake,0.6273501515388489
-seafood,seafood.n.01,aquarium,0.6360993385314941
-seafood,seafood.n.01,goose,0.6704344749450684
-seafood,seafood.n.01,spaghetti,0.6289863586425781
-seafood,seafood.n.01,chair,0.3434140086174011
-seafood,seafood.n.01,turkey,0.6647826433181763
-seafood,seafood.n.01,jacket,0.3497060239315033
-seafood,seafood.n.01,test tube,0.3602781891822815
-seafood,seafood.n.01,stiletto,0.3702905774116516
-seafood,seafood.n.01,rope,0.4241282045841217
-seafood,seafood.n.01,rabbit,0.6700454950332642
-seafood,seafood.n.01,mirror,0.36073076725006104
-seafood,seafood.n.01,cantaloupe,0.6269406080245972
-seafood,seafood.n.01,stool,0.3641979992389679
-seafood,seafood.n.01,cinnamon,0.6279733777046204
 seafood,seafood.n.01,scoop,0.3860139548778534
-seafood,seafood.n.01,belt buckle,0.3652114272117615
+seafood,seafood.n.01,cantaloupe,0.6269406080245972
+seafood,seafood.n.01,rabbit,0.6700454950332642
+seafood,seafood.n.01,rope,0.4241282045841217
+seafood,seafood.n.01,spaghetti,0.6289863586425781
+seafood,seafood.n.01,zucchini,0.6346038579940796
 seafood,seafood.n.01,pickle,0.6624120473861694
+seafood,seafood.n.01,jacket,0.3497060239315033
+seafood,seafood.n.01,knob,0.3673619031906128
+seafood,seafood.n.01,fruitcake,0.6273501515388489
+seafood,seafood.n.01,mirror,0.36073076725006104
+seafood,seafood.n.01,chair,0.3434140086174011
+seafood,seafood.n.01,belt buckle,0.3652114272117615
+seafood,seafood.n.01,cinnamon,0.6279733777046204
+seafood,seafood.n.01,goose,0.6704344749450684
+seafood,seafood.n.01,cane,0.3630214333534241
+seafood,seafood.n.01,stiletto,0.3702905774116516
+seafood,seafood.n.01,turkey,0.6647826433181763
+seafood,seafood.n.01,test tube,0.3602781891822815
+seafood,seafood.n.01,aquarium,0.6360993385314941
 seafood,seafood.n.01,lasagna,0.6346495151519775
-kitchen tool,kitchen_utensil.n.01,toaster oven,0.7232447266578674
-kitchen tool,kitchen_utensil.n.01,rabbit,0.7199416160583496
-kitchen tool,kitchen_utensil.n.01,stove,0.8115870952606201
-kitchen tool,kitchen_utensil.n.01,highlighter,0.7295887470245361
-kitchen tool,kitchen_utensil.n.01,cardinal,0.5402055382728577
-kitchen tool,kitchen_utensil.n.01,turkey,0.7123951315879822
-kitchen tool,kitchen_utensil.n.01,bull,0.411109060049057
-kitchen tool,kitchen_utensil.n.01,dustpan,0.7424718737602234
-kitchen tool,kitchen_utensil.n.01,backscratcher,0.7433909773826599
-kitchen tool,kitchen_utensil.n.01,zebra,0.4059218764305115
-kitchen tool,kitchen_utensil.n.01,elephant,0.392145574092865
-kitchen tool,kitchen_utensil.n.01,noodle,0.7173945903778076
-kitchen tool,kitchen_utensil.n.01,puppy,0.43010228872299194
-kitchen tool,kitchen_utensil.n.01,lasagna,0.7203493714332581
+seafood,seafood.n.01,meat,0.629625678062439
+seafood,seafood.n.01,stool,0.3641979992389679
 kitchen tool,kitchen_utensil.n.01,duckling,0.44006386399269104
-kitchen tool,kitchen_utensil.n.01,honey,0.41676685214042664
-kitchen tool,kitchen_utensil.n.01,stretcher,0.7196314930915833
-kitchen tool,kitchen_utensil.n.01,toaster,0.8687015771865845
-kitchen tool,kitchen_utensil.n.01,mirror,0.43186745047569275
 kitchen tool,kitchen_utensil.n.01,lemon,0.5694878697395325
 kitchen tool,kitchen_utensil.n.01,rope,0.5157861709594727
-kitchen tool,kitchen_utensil.n.01,margarita,0.44038403034210205
-kitchen tool,kitchen_utensil.n.01,latch,0.7193029522895813
 kitchen tool,kitchen_utensil.n.01,tube top,0.7230026721954346
-kitchen tool,kitchen_utensil.n.01,cantaloupe,0.7124518156051636
-kitchen tool,kitchen_utensil.n.01,nut,0.43858617544174194
+kitchen tool,kitchen_utensil.n.01,honey,0.41676685214042664
+kitchen tool,kitchen_utensil.n.01,margarita,0.44038403034210205
+kitchen tool,kitchen_utensil.n.01,lasagna,0.7203493714332581
+kitchen tool,kitchen_utensil.n.01,latch,0.7193029522895813
+kitchen tool,kitchen_utensil.n.01,highlighter,0.7295887470245361
+kitchen tool,kitchen_utensil.n.01,toaster,0.8687015771865845
+kitchen tool,kitchen_utensil.n.01,rabbit,0.7199416160583496
 kitchen tool,kitchen_utensil.n.01,lamb,0.5659525394439697
+kitchen tool,kitchen_utensil.n.01,bull,0.411109060049057
+kitchen tool,kitchen_utensil.n.01,nut,0.43858617544174194
+kitchen tool,kitchen_utensil.n.01,zebra,0.4059218764305115
+kitchen tool,kitchen_utensil.n.01,cantaloupe,0.7124518156051636
+kitchen tool,kitchen_utensil.n.01,backscratcher,0.7433909773826599
+kitchen tool,kitchen_utensil.n.01,stove,0.8115870952606201
+kitchen tool,kitchen_utensil.n.01,cardinal,0.5402055382728577
+kitchen tool,kitchen_utensil.n.01,noodle,0.7173945903778076
+kitchen tool,kitchen_utensil.n.01,stretcher,0.7196314930915833
+kitchen tool,kitchen_utensil.n.01,elephant,0.392145574092865
+kitchen tool,kitchen_utensil.n.01,puppy,0.43010228872299194
+kitchen tool,kitchen_utensil.n.01,turkey,0.7123951315879822
+kitchen tool,kitchen_utensil.n.01,mirror,0.43186745047569275
 kitchen tool,kitchen_utensil.n.01,dynamite,0.43064630031585693
+kitchen tool,kitchen_utensil.n.01,dustpan,0.7424718737602234
+kitchen tool,kitchen_utensil.n.01,toaster oven,0.7232447266578674
+musical instrument,musical_instrument.n.01,highlighter,0.7094734907150269
+musical instrument,musical_instrument.n.01,whisk,0.6968870162963867
+musical instrument,musical_instrument.n.01,alligator,0.5671279430389404
+musical instrument,musical_instrument.n.01,envelope,0.688477635383606
+musical instrument,musical_instrument.n.01,dynamite,0.4437406361103058
+musical instrument,musical_instrument.n.01,bull,0.42304542660713196
+musical instrument,musical_instrument.n.01,chalk,0.7114435434341431
+musical instrument,musical_instrument.n.01,chain,0.6909933686256409
+musical instrument,musical_instrument.n.01,rabbit,0.691348671913147
+musical instrument,musical_instrument.n.01,prune,0.42531126737594604
+musical instrument,musical_instrument.n.01,backscratcher,0.6938750743865967
+musical instrument,musical_instrument.n.01,jacket,0.44120657444000244
+musical instrument,musical_instrument.n.01,puppy,0.4065781235694885
+musical instrument,musical_instrument.n.01,rooster,0.4380820393562317
+musical instrument,musical_instrument.n.01,margarita,0.42736178636550903
+musical instrument,musical_instrument.n.01,lemon,0.5643262267112732
+musical instrument,musical_instrument.n.01,tube top,0.7029284238815308
+musical instrument,musical_instrument.n.01,projector,0.7302037477493286
+musical instrument,musical_instrument.n.01,mixer,0.69483882188797
+musical instrument,musical_instrument.n.01,elephant,0.4049702286720276
+musical instrument,musical_instrument.n.01,coil,0.6942782402038574
+musical instrument,musical_instrument.n.01,hearing aid,0.7332836389541626
+musical instrument,musical_instrument.n.01,generator,0.6937813758850098
+musical instrument,musical_instrument.n.01,lamb,0.5472188591957092
+musical instrument,musical_instrument.n.01,latch,0.7066846489906311
 musical instrument,musical_instrument.n.01,clover,0.4416038990020752
+musical instrument,musical_instrument.n.01,rope,0.5256432294845581
+musical instrument,musical_instrument.n.01,duckling,0.4169663190841675
+musical instrument,musical_instrument.n.01,stretcher,0.7072484493255615
+musical instrument,musical_instrument.n.01,hook,0.679045557975769
 musical instrument,musical_instrument.n.01,zebra,0.43372681736946106
 musical instrument,musical_instrument.n.01,dustpan,0.7082561254501343
-musical instrument,musical_instrument.n.01,hook,0.679045557975769
-musical instrument,musical_instrument.n.01,chalk,0.7114435434341431
-musical instrument,musical_instrument.n.01,coil,0.6942782402038574
-musical instrument,musical_instrument.n.01,lamb,0.5472188591957092
-musical instrument,musical_instrument.n.01,dynamite,0.4437406361103058
-musical instrument,musical_instrument.n.01,rooster,0.4380820393562317
-musical instrument,musical_instrument.n.01,alligator,0.5671279430389404
-musical instrument,musical_instrument.n.01,whisk,0.6968870162963867
-musical instrument,musical_instrument.n.01,scoop,0.44053155183792114
-musical instrument,musical_instrument.n.01,duckling,0.4169663190841675
-musical instrument,musical_instrument.n.01,puppy,0.4065781235694885
-musical instrument,musical_instrument.n.01,elephant,0.4049702286720276
-musical instrument,musical_instrument.n.01,jacket,0.44120657444000244
-musical instrument,musical_instrument.n.01,generator,0.6937813758850098
-musical instrument,musical_instrument.n.01,envelope,0.688477635383606
-musical instrument,musical_instrument.n.01,mixer,0.69483882188797
-musical instrument,musical_instrument.n.01,tube top,0.7029284238815308
-musical instrument,musical_instrument.n.01,bull,0.42304542660713196
-musical instrument,musical_instrument.n.01,chain,0.6909933686256409
-musical instrument,musical_instrument.n.01,latch,0.7066846489906311
-musical instrument,musical_instrument.n.01,projector,0.7302037477493286
-musical instrument,musical_instrument.n.01,rope,0.5256432294845581
 musical instrument,musical_instrument.n.01,swab,0.692539632320404
-musical instrument,musical_instrument.n.01,highlighter,0.7094734907150269
-musical instrument,musical_instrument.n.01,rabbit,0.691348671913147
-musical instrument,musical_instrument.n.01,backscratcher,0.6938750743865967
-musical instrument,musical_instrument.n.01,lemon,0.5643262267112732
-musical instrument,musical_instrument.n.01,stretcher,0.7072484493255615
-musical instrument,musical_instrument.n.01,prune,0.42531126737594604
-musical instrument,musical_instrument.n.01,margarita,0.42736178636550903
-musical instrument,musical_instrument.n.01,hearing aid,0.7332836389541626
-clothing,clothing.n.01,duffel bag,0.7045406699180603
-clothing,clothing.n.01,tea,0.5050638914108276
+musical instrument,musical_instrument.n.01,scoop,0.44053155183792114
+clothing,clothing.n.01,whisk,0.7655640840530396
+clothing,clothing.n.01,ottoman,0.7406542301177979
+clothing,clothing.n.01,kite,0.7135875225067139
+clothing,clothing.n.01,hook,0.6943647861480713
+clothing,clothing.n.01,rocket,0.5258218050003052
+clothing,clothing.n.01,whipped cream,0.4885348081588745
+clothing,clothing.n.01,jam,0.4764600992202759
+clothing,clothing.n.01,poppy,0.5045489072799683
+clothing,clothing.n.01,hearing aid,0.7104238271713257
+clothing,clothing.n.01,purse,0.7066829204559326
+clothing,clothing.n.01,rope,0.5780134201049805
+clothing,clothing.n.01,rooster,0.4726655185222626
+clothing,clothing.n.01,clam,0.7109663486480713
+clothing,clothing.n.01,duckling,0.4401012659072876
+clothing,clothing.n.01,trident,0.45806190371513367
+clothing,clothing.n.01,flask,0.49178603291511536
+clothing,clothing.n.01,honey,0.4294446110725403
 clothing,clothing.n.01,scallop,0.747904896736145
+clothing,clothing.n.01,keg,0.5032992959022522
+clothing,clothing.n.01,clothespin,0.7458621263504028
+clothing,clothing.n.01,toast,0.49788281321525574
+clothing,clothing.n.01,apple,0.501234233379364
+clothing,clothing.n.01,peanut butter,0.5121796131134033
+clothing,clothing.n.01,goose,0.7268719673156738
+clothing,clothing.n.01,string cheese,0.5106729865074158
+clothing,clothing.n.01,lamb,0.5972440242767334
+clothing,clothing.n.01,zucchini,0.7247621417045593
+clothing,clothing.n.01,velcro,0.705191969871521
+clothing,clothing.n.01,chalk,0.7083457708358765
+clothing,clothing.n.01,peanut,0.6463418006896973
+clothing,clothing.n.01,eel,0.7053070068359375
+clothing,clothing.n.01,duffel bag,0.7045406699180603
+clothing,clothing.n.01,balloon,0.5315474271774292
 clothing,clothing.n.01,bus,0.7106063365936279
 clothing,clothing.n.01,elephant,0.4250802993774414
-clothing,clothing.n.01,glass,0.604526937007904
-clothing,clothing.n.01,scoop,0.5116792321205139
+clothing,clothing.n.01,bomb,0.512501060962677
 clothing,clothing.n.01,spaghetti,0.718951940536499
 clothing,clothing.n.01,pinwheel,0.7070890069007874
 clothing,clothing.n.01,spatula,0.7317911982536316
-clothing,clothing.n.01,apple,0.501234233379364
 clothing,clothing.n.01,puppy,0.44788992404937744
-clothing,clothing.n.01,whisk,0.7655640840530396
+clothing,clothing.n.01,bee,0.5153520107269287
 clothing,clothing.n.01,rabbit,0.7524513006210327
 clothing,clothing.n.01,coil,0.7593392133712769
-clothing,clothing.n.01,peanut,0.6463418006896973
-clothing,clothing.n.01,honey,0.4294446110725403
-clothing,clothing.n.01,gorilla,0.5136866569519043
-clothing,clothing.n.01,cream cheese,0.5097779631614685
-clothing,clothing.n.01,footrest,0.7406542301177979
-clothing,clothing.n.01,banana,0.47882503271102905
-clothing,clothing.n.01,abacus,0.7665387392044067
-clothing,clothing.n.01,strawberry,0.48854583501815796
-clothing,clothing.n.01,hawk,0.5078562498092651
-clothing,clothing.n.01,clover,0.49796971678733826
-clothing,clothing.n.01,fruitcake,0.7097325325012207
-clothing,clothing.n.01,cantaloupe,0.742962121963501
-clothing,clothing.n.01,velcro,0.705191969871521
-clothing,clothing.n.01,cinnamon,0.7081433534622192
-clothing,clothing.n.01,kitten,0.5128108263015747
-clothing,clothing.n.01,backscratcher,0.7738316059112549
-clothing,clothing.n.01,dollhouse,0.7117907404899597
-clothing,clothing.n.01,stroller,0.7107647657394409
-clothing,clothing.n.01,hook,0.6943647861480713
-clothing,clothing.n.01,centerpiece,0.7462664842605591
-clothing,clothing.n.01,trident,0.45806190371513367
-clothing,clothing.n.01,goose,0.7268719673156738
-clothing,clothing.n.01,mandolin,0.5084994435310364
-clothing,clothing.n.01,mirror,0.44968709349632263
-clothing,clothing.n.01,corsage,0.726818859577179
-clothing,clothing.n.01,calf,0.4839644730091095
-clothing,clothing.n.01,coaster,0.7083053588867188
-clothing,clothing.n.01,keg,0.5032992959022522
-clothing,clothing.n.01,clothespin,0.7458621263504028
-clothing,clothing.n.01,kite,0.7135875225067139
-clothing,clothing.n.01,rope,0.5780134201049805
-clothing,clothing.n.01,prune,0.4811868667602539
-clothing,clothing.n.01,eel,0.7053070068359375
-clothing,clothing.n.01,toast,0.49788281321525574
-clothing,clothing.n.01,dynamite,0.49225470423698425
-clothing,clothing.n.01,zebra,0.45347505807876587
-clothing,clothing.n.01,macaroni,0.7059900760650635
-clothing,clothing.n.01,crow,0.4954034090042114
-clothing,clothing.n.01,peanut butter,0.5121796131134033
-clothing,clothing.n.01,duckling,0.4401012659072876
-clothing,clothing.n.01,chalk,0.7083457708358765
-clothing,clothing.n.01,hearing aid,0.7104238271713257
-clothing,clothing.n.01,lamb,0.5972440242767334
-clothing,clothing.n.01,latch,0.7866952419281006
-clothing,clothing.n.01,funnel,0.710831880569458
-clothing,clothing.n.01,jelly bean,0.4972936809062958
 clothing,clothing.n.01,margarita,0.47165101766586304
-clothing,clothing.n.01,noodle,0.740452229976654
-clothing,clothing.n.01,maple syrup,0.43392688035964966
-clothing,clothing.n.01,stool,0.5047925710678101
-clothing,clothing.n.01,whipped cream,0.4885348081588745
-clothing,clothing.n.01,jam,0.4764600992202759
-clothing,clothing.n.01,lasagna,0.7310410737991333
-clothing,clothing.n.01,spear,0.730684757232666
-clothing,clothing.n.01,stretcher,0.7922652959823608
-clothing,clothing.n.01,poppy,0.5045489072799683
-clothing,clothing.n.01,bolt,0.764265775680542
-clothing,clothing.n.01,pickle,0.7289878129959106
-clothing,clothing.n.01,highlighter,0.7757852077484131
-clothing,clothing.n.01,bull,0.45344823598861694
-clothing,clothing.n.01,cracker,0.7078523635864258
-clothing,clothing.n.01,chain,0.7746449708938599
-clothing,clothing.n.01,swab,0.7303863763809204
-clothing,clothing.n.01,rearview mirror,0.5013281106948853
-clothing,clothing.n.01,flask,0.49178603291511536
-clothing,clothing.n.01,balloon,0.5315474271774292
-clothing,clothing.n.01,rooster,0.4726655185222626
-clothing,clothing.n.01,alligator,0.6357874870300293
-clothing,clothing.n.01,fork,0.5544912815093994
-clothing,clothing.n.01,chickpea,0.7241802215576172
-clothing,clothing.n.01,clam,0.7109663486480713
-clothing,clothing.n.01,tweezers,0.7187666893005371
-clothing,clothing.n.01,washcloth,0.7290652990341187
-clothing,clothing.n.01,crayfish,0.7398547530174255
-clothing,clothing.n.01,dustpan,0.78339684009552
-clothing,clothing.n.01,string cheese,0.5106729865074158
-clothing,clothing.n.01,pea,0.7170316576957703
-clothing,clothing.n.01,broom,0.7243507504463196
-clothing,clothing.n.01,lemon,0.6089168787002563
-clothing,clothing.n.01,bomb,0.512501060962677
-clothing,clothing.n.01,bag,0.7066829204559326
-clothing,clothing.n.01,cufflink,0.7314584851264954
-clothing,clothing.n.01,bassoon,0.4700804650783539
-clothing,clothing.n.01,zucchini,0.7247621417045593
 clothing,clothing.n.01,green beans,0.5007905960083008
-clothing,clothing.n.01,nut,0.47307032346725464
-clothing,clothing.n.01,envelope,0.7827943563461304
-clothing,clothing.n.01,turkey,0.728712260723114
-clothing,clothing.n.01,test tube,0.5062621831893921
-clothing,clothing.n.01,rocket,0.5258218050003052
-clothing,clothing.n.01,bee,0.5153520107269287
-clothing,clothing.n.01,patch,0.7059289216995239
+clothing,clothing.n.01,backscratcher,0.7738316059112549
+clothing,clothing.n.01,scoop,0.5116792321205139
+clothing,clothing.n.01,mirror,0.44968709349632263
+clothing,clothing.n.01,swab,0.7303863763809204
+clothing,clothing.n.01,stool,0.5047925710678101
 clothing,clothing.n.01,cocktail,0.5074987411499023
-breakfast,breakfast.n.00,zebra,0.5431102514266968
-breakfast,breakfast.n.00,lamb,0.7212384343147278
-breakfast,breakfast.n.00,rabbit,0.9264763593673706
-breakfast,breakfast.n.00,elephant,0.5237044095993042
-breakfast,breakfast.n.00,duckling,0.5630844831466675
-breakfast,breakfast.n.00,goose,0.9108418226242065
-breakfast,breakfast.n.00,bull,0.5378374457359314
-breakfast,breakfast.n.00,turkey,0.9233444929122925
-breakfast,breakfast.n.00,noodle,0.9380196928977966
+clothing,clothing.n.01,gorilla,0.5136866569519043
+clothing,clothing.n.01,envelope,0.7827943563461304
+clothing,clothing.n.01,test tube,0.5062621831893921
+clothing,clothing.n.01,maple syrup,0.43392688035964966
+clothing,clothing.n.01,hawk,0.5078562498092651
+clothing,clothing.n.01,lasagna,0.7310410737991333
+clothing,clothing.n.01,fruitcake,0.7097325325012207
+clothing,clothing.n.01,abacus,0.7665387392044067
+clothing,clothing.n.01,turkey,0.728712260723114
+clothing,clothing.n.01,spear,0.730684757232666
+clothing,clothing.n.01,patch,0.7059289216995239
+clothing,clothing.n.01,clover,0.49796971678733826
+clothing,clothing.n.01,zebra,0.45347505807876587
+clothing,clothing.n.01,crayfish,0.7398547530174255
+clothing,clothing.n.01,funnel,0.710831880569458
+clothing,clothing.n.01,alligator,0.6357874870300293
+clothing,clothing.n.01,nut,0.47307032346725464
+clothing,clothing.n.01,bull,0.45344823598861694
+clothing,clothing.n.01,dollhouse,0.7117907404899597
+clothing,clothing.n.01,banana,0.47882503271102905
+clothing,clothing.n.01,centerpiece,0.7462664842605591
+clothing,clothing.n.01,bolt,0.764265775680542
+clothing,clothing.n.01,broom,0.7243507504463196
+clothing,clothing.n.01,rearview mirror,0.5013281106948853
+clothing,clothing.n.01,carriage,0.7107647657394409
+clothing,clothing.n.01,prune,0.4811868667602539
+clothing,clothing.n.01,cinnamon,0.7081433534622192
+clothing,clothing.n.01,noodle,0.740452229976654
+clothing,clothing.n.01,tea,0.5050638914108276
+clothing,clothing.n.01,coaster,0.7083053588867188
+clothing,clothing.n.01,washcloth,0.7290652990341187
+clothing,clothing.n.01,jelly bean,0.4972936809062958
+clothing,clothing.n.01,glass,0.604526937007904
+clothing,clothing.n.01,macaroni,0.7059900760650635
+clothing,clothing.n.01,cracker,0.7078523635864258
+clothing,clothing.n.01,kitten,0.5128108263015747
+clothing,clothing.n.01,cream cheese,0.5097779631614685
+clothing,clothing.n.01,cufflink,0.7314584851264954
+clothing,clothing.n.01,dynamite,0.49225470423698425
+clothing,clothing.n.01,stretcher,0.7922652959823608
+clothing,clothing.n.01,pickle,0.7289878129959106
+clothing,clothing.n.01,mandolin,0.5084994435310364
+clothing,clothing.n.01,dustpan,0.78339684009552
+clothing,clothing.n.01,highlighter,0.7757852077484131
+clothing,clothing.n.01,corsage,0.726818859577179
+clothing,clothing.n.01,chickpea,0.7241802215576172
+clothing,clothing.n.01,chain,0.7746449708938599
+clothing,clothing.n.01,bassoon,0.4700804650783539
+clothing,clothing.n.01,cantaloupe,0.742962121963501
+clothing,clothing.n.01,tweezers,0.7187666893005371
+clothing,clothing.n.01,calf,0.4839644730091095
+clothing,clothing.n.01,latch,0.7866952419281006
+clothing,clothing.n.01,strawberry,0.48854583501815796
+clothing,clothing.n.01,pea,0.7170316576957703
+clothing,clothing.n.01,fork,0.5544912815093994
+clothing,clothing.n.01,lemon,0.6089168787002563
+clothing,clothing.n.01,crow,0.4954034090042114
+breakfast,breakfast.n.00,scallop,0.9321799874305725
 breakfast,breakfast.n.00,stool,0.5662353038787842
-breakfast,breakfast.n.00,mussel,0.917041540145874
+breakfast,breakfast.n.00,clam,0.9163619875907898
+breakfast,breakfast.n.00,puppy,0.5456380844116211
+breakfast,breakfast.n.00,chair,0.5499358177185059
+breakfast,breakfast.n.00,chickpea,0.9161049723625183
+breakfast,breakfast.n.00,fruitcake,0.9233236312866211
+breakfast,breakfast.n.00,rocket,0.5880118608474731
+breakfast,breakfast.n.00,cantaloupe,0.9223781824111938
+breakfast,breakfast.n.00,turkey,0.9233444929122925
+breakfast,breakfast.n.00,rearview mirror,0.5432291030883789
+breakfast,breakfast.n.00,hook,0.7036727666854858
+breakfast,breakfast.n.00,elephant,0.5237044095993042
 breakfast,breakfast.n.00,mirror,0.5290827751159668
+breakfast,breakfast.n.00,cheesecake,0.9373196363449097
+breakfast,breakfast.n.00,noodle,0.9380196928977966
+breakfast,breakfast.n.00,spaghetti,0.9370529055595398
+breakfast,breakfast.n.00,stiletto,0.5541439652442932
+breakfast,breakfast.n.00,rope,0.6607847809791565
+breakfast,breakfast.n.00,bull,0.5378374457359314
+breakfast,breakfast.n.00,macaroni,0.9263831377029419
+breakfast,breakfast.n.00,rabbit,0.9264763593673706
+breakfast,breakfast.n.00,trident,0.5641482472419739
+breakfast,breakfast.n.00,crayfish,0.9268790483474731
+breakfast,breakfast.n.00,marker,0.6548433899879456
+breakfast,breakfast.n.00,duckling,0.5630844831466675
+breakfast,breakfast.n.00,lamb,0.7212384343147278
+breakfast,breakfast.n.00,mussel,0.917041540145874
+breakfast,breakfast.n.00,zebra,0.5431102514266968
+breakfast,breakfast.n.00,cinnamon,0.907462477684021
 breakfast,breakfast.n.00,jacket,0.5678695440292358
 breakfast,breakfast.n.00,lasagna,0.9477089047431946
-breakfast,breakfast.n.00,crayfish,0.9268790483474731
-breakfast,breakfast.n.00,stiletto,0.5541439652442932
-breakfast,breakfast.n.00,hook,0.7036727666854858
-breakfast,breakfast.n.00,spaghetti,0.9370529055595398
-breakfast,breakfast.n.00,macaroni,0.9263831377029419
-breakfast,breakfast.n.00,rope,0.6607847809791565
-breakfast,breakfast.n.00,fruitcake,0.9233236312866211
-breakfast,breakfast.n.00,rearview mirror,0.5432291030883789
-breakfast,breakfast.n.00,rocket,0.5880118608474731
-breakfast,breakfast.n.00,chair,0.5499358177185059
-breakfast,breakfast.n.00,cantaloupe,0.9223781824111938
-breakfast,breakfast.n.00,puppy,0.5456380844116211
-breakfast,breakfast.n.00,cheesecake,0.9373196363449097
-breakfast,breakfast.n.00,marker,0.6548433899879456
+breakfast,breakfast.n.00,goose,0.9108418226242065
 breakfast,breakfast.n.00,zucchini,0.9132486581802368
-breakfast,breakfast.n.00,trident,0.5641482472419739
-breakfast,breakfast.n.00,scallop,0.9321799874305725
-breakfast,breakfast.n.00,chickpea,0.9161049723625183
-breakfast,breakfast.n.00,cinnamon,0.907462477684021
-breakfast,breakfast.n.00,clam,0.9163619875907898
 breakfast,breakfast.n.00,calf,0.5461714267730713
 breakfast,breakfast.n.00,pickle,0.9372245669364929
-headwear,headdress.n.01,puppy,0.39091435074806213
-headwear,headdress.n.01,tube top,0.7316954135894775
-headwear,headdress.n.01,lemon,0.501193106174469
-headwear,headdress.n.01,dustpan,0.714626669883728
-headwear,headdress.n.01,elephant,0.381491482257843
-headwear,headdress.n.01,latch,0.6933696269989014
-headwear,headdress.n.01,chain,0.6994247436523438
-headwear,headdress.n.01,banana,0.40379372239112854
-headwear,headdress.n.01,strawberry,0.4204767644405365
+headwear,headdress.n.01,bull,0.40578508377075195
 headwear,headdress.n.01,maple syrup,0.39650437235832214
-headwear,headdress.n.01,zebra,0.3853309154510498
-headwear,headdress.n.01,toga,0.7128306031227112
+headwear,headdress.n.01,lamb,0.49921974539756775
+headwear,headdress.n.01,latch,0.6933696269989014
 headwear,headdress.n.01,backscratcher,0.716588020324707
 headwear,headdress.n.01,visor,0.7143799662590027
-headwear,headdress.n.01,bull,0.40578508377075195
-headwear,headdress.n.01,lamb,0.49921974539756775
-headwear,headdress.n.01,loincloth,0.6960483193397522
-headwear,headdress.n.01,muff,0.6942505240440369
+headwear,headdress.n.01,chain,0.6994247436523438
+headwear,headdress.n.01,banana,0.40379372239112854
+headwear,headdress.n.01,tube top,0.7316954135894775
+headwear,headdress.n.01,zebra,0.3853309154510498
+headwear,headdress.n.01,lemon,0.501193106174469
+headwear,headdress.n.01,toga,0.7128306031227112
 headwear,headdress.n.01,honey,0.3856590688228607
+headwear,headdress.n.01,puppy,0.39091435074806213
+headwear,headdress.n.01,strawberry,0.4204767644405365
+headwear,headdress.n.01,dustpan,0.714626669883728
+headwear,headdress.n.01,muff,0.6942505240440369
 headwear,headdress.n.01,envelope,0.7045210599899292
-medical equipment,medical_instrument.n.01,highlighter,0.7009141445159912
-medical equipment,medical_instrument.n.01,broom,0.6818951964378357
-medical equipment,medical_instrument.n.01,triangle,0.700512707233429
-medical equipment,medical_instrument.n.01,tube top,0.6902058720588684
-medical equipment,medical_instrument.n.01,margarita,0.4262657165527344
-medical equipment,medical_instrument.n.01,honey,0.4048479497432709
-medical equipment,medical_instrument.n.01,envelope,0.6832436323165894
+headwear,headdress.n.01,elephant,0.381491482257843
+headwear,headdress.n.01,loincloth,0.6960483193397522
 medical equipment,medical_instrument.n.01,puppy,0.40117114782333374
-medical equipment,medical_instrument.n.01,dynamite,0.4269893765449524
-medical equipment,medical_instrument.n.01,lamb,0.5260617733001709
-medical equipment,medical_instrument.n.01,whisk,0.6848079562187195
-medical equipment,medical_instrument.n.01,latch,0.6842392086982727
 medical equipment,medical_instrument.n.01,rooster,0.4215843081474304
+medical equipment,medical_instrument.n.01,zebra,0.39182883501052856
 medical equipment,medical_instrument.n.01,dustpan,0.6948493719100952
-medical equipment,medical_instrument.n.01,rope,0.492734432220459
+medical equipment,medical_instrument.n.01,mixer,0.6995564699172974
+medical equipment,medical_instrument.n.01,envelope,0.6832436323165894
+medical equipment,medical_instrument.n.01,honey,0.4048479497432709
+medical equipment,medical_instrument.n.01,tube top,0.6902058720588684
+medical equipment,medical_instrument.n.01,bull,0.40288683772087097
+medical equipment,medical_instrument.n.01,chain,0.6834583878517151
+medical equipment,medical_instrument.n.01,highlighter,0.7009141445159912
+medical equipment,medical_instrument.n.01,backscratcher,0.6910355687141418
+medical equipment,medical_instrument.n.01,stiletto,0.4252263903617859
+medical equipment,medical_instrument.n.01,mirror,0.4126312732696533
+medical equipment,medical_instrument.n.01,projector,0.7517831325531006
+medical equipment,medical_instrument.n.01,elephant,0.3996574878692627
+medical equipment,medical_instrument.n.01,lamb,0.5260617733001709
 medical equipment,medical_instrument.n.01,lemon,0.5549172163009644
 medical equipment,medical_instrument.n.01,spear,0.7047869563102722
-medical equipment,medical_instrument.n.01,coil,0.6849745512008667
-medical equipment,medical_instrument.n.01,chain,0.6834583878517151
-medical equipment,medical_instrument.n.01,mirror,0.4126312732696533
-medical equipment,medical_instrument.n.01,stiletto,0.4252263903617859
-medical equipment,medical_instrument.n.01,backscratcher,0.6910355687141418
+medical equipment,medical_instrument.n.01,latch,0.6842392086982727
+medical equipment,medical_instrument.n.01,margarita,0.4262657165527344
+medical equipment,medical_instrument.n.01,rope,0.492734432220459
+medical equipment,medical_instrument.n.01,triangle,0.700512707233429
 medical equipment,medical_instrument.n.01,duckling,0.4211132228374481
-medical equipment,medical_instrument.n.01,zebra,0.39182883501052856
-medical equipment,medical_instrument.n.01,bull,0.40288683772087097
-medical equipment,medical_instrument.n.01,projector,0.7517831325531006
-medical equipment,medical_instrument.n.01,mixer,0.6995564699172974
-medical equipment,medical_instrument.n.01,elephant,0.3996574878692627
-accessory,accessory.n.01,whisk,0.7414404153823853
-accessory,accessory.n.01,bolt,0.747083306312561
-accessory,accessory.n.01,coil,0.7477627992630005
-accessory,accessory.n.01,envelope,0.7527917623519897
-accessory,accessory.n.01,backscratcher,0.7692396640777588
-accessory,accessory.n.01,rope,0.5567281246185303
-accessory,accessory.n.01,mirror,0.44352954626083374
-accessory,accessory.n.01,kite,0.7448890209197998
-accessory,accessory.n.01,bull,0.41018110513687134
+medical equipment,medical_instrument.n.01,coil,0.6849745512008667
+medical equipment,medical_instrument.n.01,whisk,0.6848079562187195
 accessory,accessory.n.01,dollhouse,0.7346210479736328
-accessory,accessory.n.01,lemon,0.574880838394165
-accessory,accessory.n.01,bassoon,0.4388687014579773
-accessory,accessory.n.01,jam,0.44272416830062866
-accessory,accessory.n.01,lamb,0.529130220413208
-accessory,accessory.n.01,rooster,0.4243360757827759
-accessory,accessory.n.01,duckling,0.4041857123374939
-accessory,accessory.n.01,honey,0.4071614146232605
-accessory,accessory.n.01,elephant,0.4013688564300537
-accessory,accessory.n.01,pinwheel,0.7489144206047058
-accessory,accessory.n.01,maple syrup,0.43392664194107056
-accessory,accessory.n.01,banana,0.4462616443634033
-accessory,accessory.n.01,puppy,0.4191136360168457
-accessory,accessory.n.01,latch,0.7722650766372681
 accessory,accessory.n.01,abacus,0.7593022584915161
-accessory,accessory.n.01,margarita,0.4533332288265228
-accessory,accessory.n.01,zebra,0.4097565710544586
-accessory,accessory.n.01,kaleidoscope,0.7353523969650269
-accessory,accessory.n.01,calf,0.4459865987300873
-accessory,accessory.n.01,alligator,0.6181520223617554
-accessory,accessory.n.01,tube top,0.7843276262283325
-accessory,accessory.n.01,chain,0.7598921656608582
-accessory,accessory.n.01,nut,0.4516023099422455
-accessory,accessory.n.01,highlighter,0.7590354681015015
-accessory,accessory.n.01,footrest,0.7419492602348328
-accessory,accessory.n.01,dustpan,0.7710862159729004
+accessory,accessory.n.01,puppy,0.4191136360168457
 accessory,accessory.n.01,stretcher,0.7775222063064575
+accessory,accessory.n.01,duckling,0.4041857123374939
+accessory,accessory.n.01,pinwheel,0.7489144206047058
+accessory,accessory.n.01,lemon,0.574880838394165
+accessory,accessory.n.01,rooster,0.4243360757827759
+accessory,accessory.n.01,honey,0.4071614146232605
+accessory,accessory.n.01,coil,0.7477627992630005
+accessory,accessory.n.01,latch,0.7722650766372681
 accessory,accessory.n.01,outfit,0.7460368871688843
+accessory,accessory.n.01,dustpan,0.7710862159729004
+accessory,accessory.n.01,nut,0.4516023099422455
+accessory,accessory.n.01,jam,0.44272416830062866
+accessory,accessory.n.01,margarita,0.4533332288265228
+accessory,accessory.n.01,bolt,0.747083306312561
+accessory,accessory.n.01,whisk,0.7414404153823853
+accessory,accessory.n.01,maple syrup,0.43392664194107056
+accessory,accessory.n.01,lamb,0.529130220413208
+accessory,accessory.n.01,envelope,0.7527917623519897
+accessory,accessory.n.01,calf,0.4459865987300873
+accessory,accessory.n.01,bull,0.41018110513687134
+accessory,accessory.n.01,chain,0.7598921656608582
+accessory,accessory.n.01,mirror,0.44352954626083374
+accessory,accessory.n.01,elephant,0.4013688564300537
+accessory,accessory.n.01,alligator,0.6181520223617554
+accessory,accessory.n.01,highlighter,0.7590354681015015
+accessory,accessory.n.01,bassoon,0.4388687014579773
+accessory,accessory.n.01,banana,0.4462616443634033
+accessory,accessory.n.01,rope,0.5567281246185303
 accessory,accessory.n.01,funnel,0.759637713432312
-condiment,condiment.n.01,puppy,0.4057934880256653
-condiment,condiment.n.01,lamb,0.5679134130477905
-condiment,condiment.n.01,noodle,0.7477320432662964
-condiment,condiment.n.01,lasagna,0.764796257019043
-condiment,condiment.n.01,bull,0.404783695936203
-condiment,condiment.n.01,rope,0.532281756401062
-condiment,condiment.n.01,zebra,0.4011647403240204
+accessory,accessory.n.01,zebra,0.4097565710544586
+accessory,accessory.n.01,kite,0.7448890209197998
+accessory,accessory.n.01,kaleidoscope,0.7353523969650269
+accessory,accessory.n.01,tube top,0.7843276262283325
+accessory,accessory.n.01,backscratcher,0.7692396640777588
+accessory,accessory.n.01,ottoman,0.7419492602348328
 condiment,condiment.n.01,elephant,0.39549121260643005
-condiment,condiment.n.01,okra,0.7439332008361816
 condiment,condiment.n.01,rabbit,0.7506340742111206
-condiment,condiment.n.01,duckling,0.41598621010780334
-condiment,condiment.n.01,cantaloupe,0.7453195452690125
-condiment,condiment.n.01,scallop,0.7720824480056763
-condiment,condiment.n.01,alligator,0.5815281867980957
-condiment,condiment.n.01,zucchini,0.7426562309265137
 condiment,condiment.n.01,celery,0.7584286332130432
-vegetable,vegetable.n.01,dynamite,0.4791668951511383
-vegetable,vegetable.n.01,rack,0.4646109938621521
-vegetable,vegetable.n.01,bull,0.46825891733169556
+condiment,condiment.n.01,zebra,0.4011647403240204
+condiment,condiment.n.01,lamb,0.5679134130477905
+condiment,condiment.n.01,bull,0.404783695936203
+condiment,condiment.n.01,lasagna,0.764796257019043
+condiment,condiment.n.01,puppy,0.4057934880256653
+condiment,condiment.n.01,zucchini,0.7426562309265137
+condiment,condiment.n.01,duckling,0.41598621010780334
+condiment,condiment.n.01,noodle,0.7477320432662964
+condiment,condiment.n.01,cantaloupe,0.7453195452690125
+condiment,condiment.n.01,okra,0.7439332008361816
+condiment,condiment.n.01,alligator,0.5815281867980957
+condiment,condiment.n.01,rope,0.532281756401062
+condiment,condiment.n.01,scallop,0.7720824480056763
 vegetable,vegetable.n.01,turkey,0.7944936752319336
-vegetable,vegetable.n.01,pickle,0.8219352960586548
 vegetable,vegetable.n.01,rearview mirror,0.46406638622283936
-vegetable,vegetable.n.01,fruitcake,0.8043060898780823
-vegetable,vegetable.n.01,mirror,0.4312211871147156
-vegetable,vegetable.n.01,goose,0.8049543499946594
-vegetable,vegetable.n.01,ski boots,0.4813970923423767
-vegetable,vegetable.n.01,noodle,0.7872757911682129
-vegetable,vegetable.n.01,cantaloupe,0.8371186256408691
-vegetable,vegetable.n.01,lasagna,0.803297758102417
-vegetable,vegetable.n.01,rope,0.5650392770767212
-vegetable,vegetable.n.01,mussel,0.7688450813293457
-vegetable,vegetable.n.01,puppy,0.4635644555091858
-vegetable,vegetable.n.01,stretcher,0.7679335474967957
-vegetable,vegetable.n.01,jacket,0.4596852660179138
-vegetable,vegetable.n.01,catfish,0.7602603435516357
-vegetable,vegetable.n.01,stool,0.470853716135025
-vegetable,vegetable.n.01,cocktail,0.46474215388298035
-vegetable,vegetable.n.01,trident,0.472176730632782
-vegetable,vegetable.n.01,bomb,0.4830910265445709
-vegetable,vegetable.n.01,macaroni,0.7861951589584351
-vegetable,vegetable.n.01,spaghetti,0.7732574939727783
-vegetable,vegetable.n.01,cinnamon,0.7877947092056274
-vegetable,vegetable.n.01,calf,0.48266923427581787
-vegetable,vegetable.n.01,latch,0.7616528868675232
-vegetable,vegetable.n.01,hook,0.659702479839325
-vegetable,vegetable.n.01,pineapple,0.761810302734375
-vegetable,vegetable.n.01,honey,0.47691094875335693
-vegetable,vegetable.n.01,tube top,0.7683485746383667
-vegetable,vegetable.n.01,eel,0.7594476938247681
-vegetable,vegetable.n.01,alligator,0.6686490774154663
-vegetable,vegetable.n.01,flask,0.4755885899066925
-vegetable,vegetable.n.01,scallop,0.8341633677482605
-vegetable,vegetable.n.01,bassoon,0.4642162322998047
 vegetable,vegetable.n.01,crayfish,0.8068852424621582
-vegetable,vegetable.n.01,clam,0.8022000789642334
-vegetable,vegetable.n.01,bikini,0.4784075915813446
-vegetable,vegetable.n.01,rabbit,0.8398174047470093
+vegetable,vegetable.n.01,rack,0.4646109938621521
+vegetable,vegetable.n.01,calf,0.48266923427581787
+vegetable,vegetable.n.01,catfish,0.7602603435516357
+vegetable,vegetable.n.01,pineapple,0.761810302734375
+vegetable,vegetable.n.01,pickle,0.8219352960586548
+vegetable,vegetable.n.01,rope,0.5650392770767212
+vegetable,vegetable.n.01,bull,0.46825891733169556
+vegetable,vegetable.n.01,ski boots,0.4813970923423767
+vegetable,vegetable.n.01,bomb,0.4830910265445709
+vegetable,vegetable.n.01,mussel,0.7688450813293457
+vegetable,vegetable.n.01,bassoon,0.4642162322998047
+vegetable,vegetable.n.01,cantaloupe,0.8371186256408691
+vegetable,vegetable.n.01,puppy,0.4635644555091858
+vegetable,vegetable.n.01,noodle,0.7872757911682129
+vegetable,vegetable.n.01,dynamite,0.4791668951511383
+vegetable,vegetable.n.01,scallop,0.8341633677482605
+vegetable,vegetable.n.01,eel,0.7594476938247681
 vegetable,vegetable.n.01,elephant,0.45190203189849854
-livestock,livestock.n.01,jacket,0.40280187129974365
-livestock,livestock.n.01,trident,0.3941406011581421
-livestock,livestock.n.01,rope,0.49019765853881836
-livestock,livestock.n.01,tube top,0.6732151508331299
-livestock,livestock.n.01,bassoon,0.41372841596603394
-livestock,livestock.n.01,hook,0.5890476107597351
+vegetable,vegetable.n.01,honey,0.47691094875335693
+vegetable,vegetable.n.01,stool,0.470853716135025
+vegetable,vegetable.n.01,stretcher,0.7679335474967957
+vegetable,vegetable.n.01,macaroni,0.7861951589584351
+vegetable,vegetable.n.01,bikini,0.4784075915813446
+vegetable,vegetable.n.01,alligator,0.6686490774154663
+vegetable,vegetable.n.01,lasagna,0.803297758102417
+vegetable,vegetable.n.01,flask,0.4755885899066925
+vegetable,vegetable.n.01,hook,0.659702479839325
+vegetable,vegetable.n.01,cinnamon,0.7877947092056274
+vegetable,vegetable.n.01,trident,0.472176730632782
+vegetable,vegetable.n.01,goose,0.8049543499946594
+vegetable,vegetable.n.01,latch,0.7616528868675232
+vegetable,vegetable.n.01,mirror,0.4312211871147156
+vegetable,vegetable.n.01,rabbit,0.8398174047470093
+vegetable,vegetable.n.01,jacket,0.4596852660179138
+vegetable,vegetable.n.01,fruitcake,0.8043060898780823
+vegetable,vegetable.n.01,clam,0.8022000789642334
+vegetable,vegetable.n.01,spaghetti,0.7732574939727783
+vegetable,vegetable.n.01,cocktail,0.46474215388298035
+vegetable,vegetable.n.01,tube top,0.7683485746383667
 livestock,livestock.n.01,chariot,0.6776224374771118
-livestock,livestock.n.01,stretcher,0.669873833656311
+livestock,livestock.n.01,chinchilla,0.6639498472213745
+livestock,livestock.n.01,lemon,0.5734253525733948
+livestock,livestock.n.01,bassoon,0.41372841596603394
 livestock,livestock.n.01,latch,0.6639071702957153
-livestock,livestock.n.01,pickle,0.6642435789108276
-livestock,livestock.n.01,meat,0.6672849059104919
 livestock,livestock.n.01,chair,0.41150617599487305
-livestock,livestock.n.01,mirror,0.4132223129272461
+livestock,livestock.n.01,trident,0.3941406011581421
+livestock,livestock.n.01,tube top,0.6732151508331299
+livestock,livestock.n.01,meat,0.6672849059104919
+livestock,livestock.n.01,jacket,0.40280187129974365
+livestock,livestock.n.01,stretcher,0.669873833656311
+livestock,livestock.n.01,crayfish,0.6704738140106201
+livestock,livestock.n.01,pickle,0.6642435789108276
 livestock,livestock.n.01,prune,0.39929699897766113
 livestock,livestock.n.01,boar,0.7053459882736206
-livestock,livestock.n.01,lemon,0.5734253525733948
-livestock,livestock.n.01,chinchilla,0.6639498472213745
-livestock,livestock.n.01,crayfish,0.6704738140106201
-jewelry,jewelry.n.01,centerpiece,0.7180804014205933
-jewelry,jewelry.n.01,latch,0.6601758003234863
-jewelry,jewelry.n.01,stretcher,0.6675570607185364
-jewelry,jewelry.n.01,christmas tree,0.67691969871521
-jewelry,jewelry.n.01,bow,0.6729279160499573
-jewelry,jewelry.n.01,calf,0.38340890407562256
-jewelry,jewelry.n.01,scallop,0.6524451375007629
-jewelry,jewelry.n.01,elephant,0.37099504470825195
-jewelry,jewelry.n.01,bull,0.35067054629325867
-jewelry,jewelry.n.01,tube top,0.6807446479797363
-jewelry,jewelry.n.01,whisk,0.6554123163223267
-jewelry,jewelry.n.01,rope,0.48994413018226624
-jewelry,jewelry.n.01,zebra,0.3723162114620209
-jewelry,jewelry.n.01,puppy,0.379203200340271
-jewelry,jewelry.n.01,lamb,0.49308615922927856
+livestock,livestock.n.01,mirror,0.4132223129272461
+livestock,livestock.n.01,hook,0.5890476107597351
+livestock,livestock.n.01,rope,0.49019765853881836
 jewelry,jewelry.n.01,duckling,0.3670102059841156
+jewelry,jewelry.n.01,tube top,0.6807446479797363
+jewelry,jewelry.n.01,bull,0.35067054629325867
+jewelry,jewelry.n.01,rope,0.48994413018226624
+jewelry,jewelry.n.01,whisk,0.6554123163223267
+jewelry,jewelry.n.01,stretcher,0.6675570607185364
+jewelry,jewelry.n.01,zebra,0.3723162114620209
+jewelry,jewelry.n.01,christmas tree,0.67691969871521
+jewelry,jewelry.n.01,latch,0.6601758003234863
+jewelry,jewelry.n.01,centerpiece,0.7180804014205933
+jewelry,jewelry.n.01,lamb,0.49308615922927856
+jewelry,jewelry.n.01,calf,0.38340890407562256
+jewelry,jewelry.n.01,puppy,0.379203200340271
+jewelry,jewelry.n.01,scallop,0.6524451375007629
+jewelry,jewelry.n.01,bow,0.6729279160499573
+jewelry,jewelry.n.01,elephant,0.37099504470825195
 kitchen equipment,kitchen_appliance.n.01,puppy,0.4325107932090759
-kitchen equipment,kitchen_appliance.n.01,tube top,0.7057051658630371
-kitchen equipment,kitchen_appliance.n.01,rope,0.49705690145492554
-kitchen equipment,kitchen_appliance.n.01,cardinal,0.5097748041152954
-kitchen equipment,kitchen_appliance.n.01,latch,0.7017353177070618
 kitchen equipment,kitchen_appliance.n.01,dustpan,0.7097427845001221
-kitchen equipment,kitchen_appliance.n.01,bull,0.416348397731781
-kitchen equipment,kitchen_appliance.n.01,elephant,0.3965716063976288
 kitchen equipment,kitchen_appliance.n.01,turkey,0.6966119408607483
-kitchen equipment,kitchen_appliance.n.01,honey,0.41800087690353394
-kitchen equipment,kitchen_appliance.n.01,lasagna,0.6989285945892334
-kitchen equipment,kitchen_appliance.n.01,backscratcher,0.712895929813385
-kitchen equipment,kitchen_appliance.n.01,rabbit,0.6999976634979248
+kitchen equipment,kitchen_appliance.n.01,rope,0.49705690145492554
 kitchen equipment,kitchen_appliance.n.01,zebra,0.3958147466182709
+kitchen equipment,kitchen_appliance.n.01,bull,0.416348397731781
+kitchen equipment,kitchen_appliance.n.01,cardinal,0.5097748041152954
 kitchen equipment,kitchen_appliance.n.01,trident,0.42597725987434387
-kitchen equipment,kitchen_appliance.n.01,highlighter,0.7123584747314453
-kitchen equipment,kitchen_appliance.n.01,whisk,0.7084622979164124
-kitchen equipment,kitchen_appliance.n.01,dynamite,0.4317505359649658
+kitchen equipment,kitchen_appliance.n.01,elephant,0.3965716063976288
 kitchen equipment,kitchen_appliance.n.01,duckling,0.42700818181037903
 kitchen equipment,kitchen_appliance.n.01,coil,0.6970359086990356
-footwear,footwear.n.01,glove,0.7712246179580688
-footwear,footwear.n.01,duckling,0.4276878833770752
-footwear,footwear.n.01,muff,0.785863995552063
-footwear,footwear.n.01,robe,0.779443621635437
-footwear,footwear.n.01,zebra,0.4473307132720947
-footwear,footwear.n.01,puppy,0.4442073702812195
-footwear,footwear.n.01,dress,0.8296442031860352
-footwear,footwear.n.01,maple syrup,0.435734361410141
-footwear,footwear.n.01,lemon,0.5849664807319641
-footwear,footwear.n.01,costume,0.7749038934707642
-footwear,footwear.n.01,tube top,0.8027373552322388
+kitchen equipment,kitchen_appliance.n.01,highlighter,0.7123584747314453
+kitchen equipment,kitchen_appliance.n.01,rabbit,0.6999976634979248
+kitchen equipment,kitchen_appliance.n.01,tube top,0.7057051658630371
+kitchen equipment,kitchen_appliance.n.01,honey,0.41800087690353394
+kitchen equipment,kitchen_appliance.n.01,backscratcher,0.712895929813385
+kitchen equipment,kitchen_appliance.n.01,latch,0.7017353177070618
+kitchen equipment,kitchen_appliance.n.01,dynamite,0.4317505359649658
+kitchen equipment,kitchen_appliance.n.01,lasagna,0.6989285945892334
+kitchen equipment,kitchen_appliance.n.01,whisk,0.7084622979164124
 footwear,footwear.n.01,elephant,0.4325776994228363
 footwear,footwear.n.01,lamb,0.5925977230072021
-footwear,footwear.n.01,clothes,0.8296442031860352
-footwear,footwear.n.01,honey,0.4316149353981018
+footwear,footwear.n.01,glove,0.7712246179580688
+footwear,footwear.n.01,muff,0.785863995552063
+footwear,footwear.n.01,lemon,0.5849664807319641
+footwear,footwear.n.01,tube top,0.8027373552322388
+footwear,footwear.n.01,zebra,0.4473307132720947
 footwear,footwear.n.01,underwear,0.8095833659172058
-fastener,fastener.n.01,honey,0.4820476770401001
-fastener,fastener.n.01,ostrich,0.8938112258911133
-fastener,fastener.n.01,zebra,0.5000514984130859
-fastener,fastener.n.01,cantaloupe,0.778660774230957
-fastener,fastener.n.01,lingerie,0.5136879682540894
-fastener,fastener.n.01,rabbit,0.7845116853713989
-fastener,fastener.n.01,elephant,0.4860706627368927
-fastener,fastener.n.01,dustpan,0.806346595287323
+footwear,footwear.n.01,robe,0.779443621635437
+footwear,footwear.n.01,costume,0.7749038934707642
+footwear,footwear.n.01,clothes,0.8296442031860352
+footwear,footwear.n.01,puppy,0.4442073702812195
+footwear,footwear.n.01,dress,0.8296442031860352
+footwear,footwear.n.01,honey,0.4316149353981018
+footwear,footwear.n.01,duckling,0.4276878833770752
+footwear,footwear.n.01,maple syrup,0.435734361410141
+fastener,fastener.n.01,alligator,0.6723426580429077
+fastener,fastener.n.01,tube top,0.8053390979766846
+fastener,fastener.n.01,envelope,0.8049493432044983
+fastener,fastener.n.01,mandolin,0.5152755975723267
+fastener,fastener.n.01,rocket,0.5477977991104126
 fastener,fastener.n.01,bull,0.5044739246368408
 fastener,fastener.n.01,rope,0.6234127879142761
-fastener,fastener.n.01,alligator,0.6723426580429077
-fastener,fastener.n.01,pea,0.7923475503921509
-fastener,fastener.n.01,backscratcher,0.8070952892303467
-fastener,fastener.n.01,envelope,0.8049493432044983
-fastener,fastener.n.01,stretcher,0.7945070266723633
-fastener,fastener.n.01,chickpea,0.7795764207839966
-fastener,fastener.n.01,tube top,0.8053390979766846
-fastener,fastener.n.01,noodle,0.7800302505493164
-fastener,fastener.n.01,whisk,0.8033509254455566
-fastener,fastener.n.01,glass,0.5936119556427002
-fastener,fastener.n.01,duckling,0.5020027756690979
-fastener,fastener.n.01,highlighter,0.8008902072906494
-fastener,fastener.n.01,rearview mirror,0.4897470772266388
-fastener,fastener.n.01,weasel,0.9264698624610901
-fastener,fastener.n.01,maple syrup,0.5078753232955933
-fastener,fastener.n.01,chair,0.5120611190795898
-fastener,fastener.n.01,rocket,0.5477977991104126
-fastener,fastener.n.01,lamb,0.5854975581169128
 fastener,fastener.n.01,mirror,0.4996427595615387
-fastener,fastener.n.01,coil,0.7910171747207642
+fastener,fastener.n.01,lamb,0.5854975581169128
+fastener,fastener.n.01,chickpea,0.7795764207839966
+fastener,fastener.n.01,ostrich,0.8938112258911133
+fastener,fastener.n.01,noodle,0.7800302505493164
+fastener,fastener.n.01,rabbit,0.7845116853713989
+fastener,fastener.n.01,highlighter,0.8008902072906494
+fastener,fastener.n.01,lingerie,0.5136879682540894
+fastener,fastener.n.01,pea,0.7923475503921509
+fastener,fastener.n.01,elephant,0.4860706627368927
+fastener,fastener.n.01,dustpan,0.806346595287323
+fastener,fastener.n.01,stretcher,0.7945070266723633
+fastener,fastener.n.01,cantaloupe,0.778660774230957
+fastener,fastener.n.01,glass,0.5936119556427002
+fastener,fastener.n.01,rearview mirror,0.4897470772266388
 fastener,fastener.n.01,crayfish,0.7801738977432251
-fastener,fastener.n.01,mandolin,0.5152755975723267
-office supply,office_supply.n.00,noodle,0.8665791749954224
-office supply,office_supply.n.00,coil,0.8993548154830933
-office supply,office_supply.n.00,latch,0.9172189235687256
-office supply,office_supply.n.00,spatula,0.8860565423965454
-office supply,office_supply.n.00,bolt,0.912151575088501
-office supply,office_supply.n.00,puppy,0.5476499199867249
-office supply,office_supply.n.00,alligator,0.7183541059494019
-office supply,office_supply.n.00,whisk,0.9098642468452454
-office supply,office_supply.n.00,calf,0.5374727249145508
-office supply,office_supply.n.00,dustpan,0.9132122993469238
-office supply,office_supply.n.00,abacus,0.8898822069168091
-office supply,office_supply.n.00,lamb,0.6460633277893066
-office supply,office_supply.n.00,elephant,0.5071992874145508
-office supply,office_supply.n.00,bassoon,0.5660245418548584
-office supply,office_supply.n.00,mirror,0.5675569772720337
-office supply,office_supply.n.00,backscratcher,0.9129491448402405
-office supply,office_supply.n.00,letter opener,0.8504769802093506
-office supply,office_supply.n.00,bull,0.523966908454895
-office supply,office_supply.n.00,sheep,0.5653529763221741
+fastener,fastener.n.01,maple syrup,0.5078753232955933
+fastener,fastener.n.01,coil,0.7910171747207642
+fastener,fastener.n.01,honey,0.4820476770401001
+fastener,fastener.n.01,backscratcher,0.8070952892303467
+fastener,fastener.n.01,whisk,0.8033509254455566
+fastener,fastener.n.01,chair,0.5120611190795898
+fastener,fastener.n.01,weasel,0.9264698624610901
+fastener,fastener.n.01,zebra,0.5000514984130859
+fastener,fastener.n.01,duckling,0.5020027756690979
 office supply,office_supply.n.00,chain,0.8954862356185913
-office supply,office_supply.n.00,tube top,0.9010876417160034
-office supply,office_supply.n.00,duckling,0.5404752492904663
-office supply,office_supply.n.00,zebra,0.528780460357666
-office supply,office_supply.n.00,stretcher,0.9062033891677856
+office supply,office_supply.n.00,dustpan,0.9132122993469238
 office supply,office_supply.n.00,rooster,0.5551755428314209
+office supply,office_supply.n.00,zebra,0.528780460357666
+office supply,office_supply.n.00,noodle,0.8665791749954224
+office supply,office_supply.n.00,calf,0.5374727249145508
+office supply,office_supply.n.00,bolt,0.912151575088501
 office supply,office_supply.n.00,honey,0.5362940430641174
-drink,beverage.n.01,noodle,0.7479416728019714
-drink,beverage.n.01,latch,0.7495326399803162
-drink,beverage.n.01,rope,0.557110071182251
-drink,beverage.n.01,crayfish,0.7553588151931763
-drink,beverage.n.01,pickle,0.7682071328163147
-drink,beverage.n.01,puppy,0.4519193172454834
-drink,beverage.n.01,goose,0.7508374452590942
-drink,beverage.n.01,elephant,0.40550339221954346
-drink,beverage.n.01,trident,0.45634186267852783
-drink,beverage.n.01,stiletto,0.45851489901542664
-drink,beverage.n.01,calf,0.45047134160995483
-drink,beverage.n.01,zebra,0.43353867530822754
-drink,beverage.n.01,bull,0.439375102519989
-drink,beverage.n.01,cantaloupe,0.7551047205924988
+office supply,office_supply.n.00,duckling,0.5404752492904663
+office supply,office_supply.n.00,whisk,0.9098642468452454
+office supply,office_supply.n.00,sheep,0.5653529763221741
+office supply,office_supply.n.00,elephant,0.5071992874145508
+office supply,office_supply.n.00,backscratcher,0.9129491448402405
+office supply,office_supply.n.00,bull,0.523966908454895
+office supply,office_supply.n.00,coil,0.8993548154830933
+office supply,office_supply.n.00,bassoon,0.5660245418548584
+office supply,office_supply.n.00,puppy,0.5476499199867249
+office supply,office_supply.n.00,tube top,0.9010876417160034
+office supply,office_supply.n.00,alligator,0.7183541059494019
+office supply,office_supply.n.00,latch,0.9172189235687256
+office supply,office_supply.n.00,lamb,0.6460633277893066
+office supply,office_supply.n.00,stretcher,0.9062033891677856
+office supply,office_supply.n.00,abacus,0.8898822069168091
+office supply,office_supply.n.00,spatula,0.8860565423965454
 drink,beverage.n.01,mirror,0.44500941038131714
-drink,beverage.n.01,rabbit,0.7684357166290283
-drink,beverage.n.01,clam,0.7481796741485596
-drink,beverage.n.01,scallop,0.7601950168609619
+drink,beverage.n.01,pickle,0.7682071328163147
+drink,beverage.n.01,bull,0.439375102519989
+drink,beverage.n.01,puppy,0.4519193172454834
+drink,beverage.n.01,zebra,0.43353867530822754
+drink,beverage.n.01,crayfish,0.7553588151931763
+drink,beverage.n.01,goose,0.7508374452590942
+drink,beverage.n.01,stiletto,0.45851489901542664
 drink,beverage.n.01,tube top,0.7514141798019409
 drink,beverage.n.01,lamb,0.5662595629692078
-water vehicle,vessel.n.02,lemon,0.5231274366378784
-water vehicle,vessel.n.02,chariot,0.6919246912002563
-water vehicle,vessel.n.02,prune,0.3922452926635742
-water vehicle,vessel.n.02,chain,0.6658599376678467
-water vehicle,vessel.n.02,taffy,0.4136446714401245
-water vehicle,vessel.n.02,envelope,0.6725894212722778
-water vehicle,vessel.n.02,zebra,0.3869491219520569
+drink,beverage.n.01,rabbit,0.7684357166290283
+drink,beverage.n.01,calf,0.45047134160995483
+drink,beverage.n.01,trident,0.45634186267852783
+drink,beverage.n.01,rope,0.557110071182251
+drink,beverage.n.01,clam,0.7481796741485596
+drink,beverage.n.01,scallop,0.7601950168609619
+drink,beverage.n.01,latch,0.7495326399803162
+drink,beverage.n.01,noodle,0.7479416728019714
+drink,beverage.n.01,cantaloupe,0.7551047205924988
+drink,beverage.n.01,elephant,0.40550339221954346
 water vehicle,vessel.n.02,bull,0.4076053500175476
+water vehicle,vessel.n.02,stretcher,0.6714022159576416
+water vehicle,vessel.n.02,taffy,0.4136446714401245
+water vehicle,vessel.n.02,margarita,0.40516015887260437
+water vehicle,vessel.n.02,chariot,0.6919246912002563
+water vehicle,vessel.n.02,jam,0.40834707021713257
 water vehicle,vessel.n.02,tube top,0.6735422611236572
-water vehicle,vessel.n.02,coil,0.6641486883163452
-water vehicle,vessel.n.02,bus,0.669593334197998
 water vehicle,vessel.n.02,creme brulee,0.4105548560619354
 water vehicle,vessel.n.02,honey,0.4117087125778198
 water vehicle,vessel.n.02,dustpan,0.6716843247413635
+water vehicle,vessel.n.02,envelope,0.6725894212722778
+water vehicle,vessel.n.02,coil,0.6641486883163452
 water vehicle,vessel.n.02,latch,0.666513979434967
-water vehicle,vessel.n.02,jam,0.40834707021713257
-water vehicle,vessel.n.02,whisk,0.6640028953552246
 water vehicle,vessel.n.02,elephant,0.3993930220603943
-water vehicle,vessel.n.02,margarita,0.40516015887260437
-water vehicle,vessel.n.02,stretcher,0.6714022159576416
-auto part,auto_part.n.01,envelope,0.6840423345565796
-auto part,auto_part.n.01,lemon,0.5768676996231079
-auto part,auto_part.n.01,latch,0.7006986141204834
-auto part,auto_part.n.01,alligator,0.5581521987915039
-auto part,auto_part.n.01,stretcher,0.6905229091644287
-auto part,auto_part.n.01,bassoon,0.426098108291626
-auto part,auto_part.n.01,scoop,0.4574110507965088
+water vehicle,vessel.n.02,whisk,0.6640028953552246
+water vehicle,vessel.n.02,lemon,0.5231274366378784
+water vehicle,vessel.n.02,bus,0.669593334197998
+water vehicle,vessel.n.02,chain,0.6658599376678467
+water vehicle,vessel.n.02,zebra,0.3869491219520569
+water vehicle,vessel.n.02,prune,0.3922452926635742
+auto part,auto_part.n.01,whisk,0.6808872222900391
 auto part,auto_part.n.01,trident,0.4152255654335022
+auto part,auto_part.n.01,lemon,0.5768676996231079
+auto part,auto_part.n.01,mirror,0.41521090269088745
+auto part,auto_part.n.01,rabbit,0.6776334047317505
+auto part,auto_part.n.01,latch,0.7006986141204834
 auto part,auto_part.n.01,tube top,0.6980797648429871
+auto part,auto_part.n.01,zebra,0.39958447217941284
+auto part,auto_part.n.01,hook,0.5811350345611572
+auto part,auto_part.n.01,elephant,0.4100193381309509
+auto part,auto_part.n.01,car,0.7766497135162354
+auto part,auto_part.n.01,rope,0.5257919430732727
+auto part,auto_part.n.01,stretcher,0.6905229091644287
+auto part,auto_part.n.01,police car,0.6937350630760193
+auto part,auto_part.n.01,coil,0.689414918422699
+auto part,auto_part.n.01,highlighter,0.6919621229171753
+auto part,auto_part.n.01,scoop,0.4574110507965088
+auto part,auto_part.n.01,bull,0.4258185029029846
+auto part,auto_part.n.01,dustpan,0.6930267810821533
+auto part,auto_part.n.01,bassoon,0.426098108291626
+auto part,auto_part.n.01,bus,0.6838304996490479
+auto part,auto_part.n.01,rooster,0.4339757561683655
+auto part,auto_part.n.01,dynamite,0.42815732955932617
+auto part,auto_part.n.01,envelope,0.6840423345565796
+auto part,auto_part.n.01,backscratcher,0.6903915405273438
+auto part,auto_part.n.01,alligator,0.5581521987915039
+auto part,auto_part.n.01,duckling,0.4339849352836609
 auto part,auto_part.n.01,honey,0.4143601357936859
 auto part,auto_part.n.01,chain,0.6862555742263794
-auto part,auto_part.n.01,police car,0.6937350630760193
 auto part,auto_part.n.01,bolt,0.7039989233016968
-auto part,auto_part.n.01,hook,0.5811350345611572
-auto part,auto_part.n.01,mirror,0.41521090269088745
-auto part,auto_part.n.01,whisk,0.6808872222900391
-auto part,auto_part.n.01,zebra,0.39958447217941284
-auto part,auto_part.n.01,rooster,0.4339757561683655
-auto part,auto_part.n.01,rabbit,0.6776334047317505
-auto part,auto_part.n.01,duckling,0.4339849352836609
-auto part,auto_part.n.01,rope,0.5257919430732727
-auto part,auto_part.n.01,bus,0.6838304996490479
-auto part,auto_part.n.01,backscratcher,0.6903915405273438
-auto part,auto_part.n.01,car,0.7766497135162354
-auto part,auto_part.n.01,dustpan,0.6930267810821533
-auto part,auto_part.n.01,dynamite,0.42815732955932617
-auto part,auto_part.n.01,highlighter,0.6919621229171753
-auto part,auto_part.n.01,elephant,0.4100193381309509
-auto part,auto_part.n.01,bull,0.4258185029029846
-auto part,auto_part.n.01,coil,0.689414918422699
-protective clothing,protective_covering.n.01,tube top,0.686370849609375
-protective clothing,protective_covering.n.01,puppy,0.4034314751625061
+protective clothing,protective_covering.n.01,rooster,0.4047943353652954
 protective clothing,protective_covering.n.01,envelope,0.7303777933120728
+protective clothing,protective_covering.n.01,honey,0.38468021154403687
+protective clothing,protective_covering.n.01,tube top,0.686370849609375
 protective clothing,protective_covering.n.01,dustpan,0.6883885860443115
 protective clothing,protective_covering.n.01,highlighter,0.6902849674224854
-protective clothing,protective_covering.n.01,lamb,0.48579126596450806
-protective clothing,protective_covering.n.01,rooster,0.4047943353652954
-protective clothing,protective_covering.n.01,honey,0.38468021154403687
-protective clothing,protective_covering.n.01,backscratcher,0.6797407865524292
-protective clothing,protective_covering.n.01,latch,0.6984142065048218
-protective clothing,protective_covering.n.01,duckling,0.402336984872818
-protective clothing,protective_covering.n.01,chain,0.6990781426429749
-protective clothing,protective_covering.n.01,elephant,0.36675870418548584
+protective clothing,protective_covering.n.01,puppy,0.4034314751625061
 protective clothing,protective_covering.n.01,bull,0.38934746384620667
+protective clothing,protective_covering.n.01,chain,0.6990781426429749
+protective clothing,protective_covering.n.01,latch,0.6984142065048218
+protective clothing,protective_covering.n.01,backscratcher,0.6797407865524292
+protective clothing,protective_covering.n.01,elephant,0.36675870418548584
 protective clothing,protective_covering.n.01,calf,0.3977985382080078
+protective clothing,protective_covering.n.01,duckling,0.402336984872818
 protective clothing,protective_covering.n.01,stretcher,0.6905139684677124
-bird,bird.n.01,whale,0.6958544254302979
-bird,bird.n.01,mole,0.7153119444847107
+protective clothing,protective_covering.n.01,lamb,0.48579126596450806
+bird,bird.n.01,stool,0.4245308041572571
+bird,bird.n.01,crayfish,0.6909770369529724
+bird,bird.n.01,mirror,0.42922836542129517
+bird,bird.n.01,eel,0.7065126895904541
+bird,bird.n.01,jacket,0.4314844012260437
+bird,bird.n.01,margarita,0.405269980430603
+bird,bird.n.01,maple syrup,0.41850417852401733
 bird,bird.n.01,rope,0.5002655982971191
-bird,bird.n.01,beaver,0.6886441111564636
+bird,bird.n.01,chair,0.43323904275894165
+bird,bird.n.01,catfish,0.7100332379341125
+bird,bird.n.01,birdcage,0.7175452709197998
+bird,bird.n.01,hook,0.5752629041671753
+bird,bird.n.01,bat,0.7215641140937805
+bird,bird.n.01,dynamite,0.42542868852615356
+bird,bird.n.01,mole,0.7153119444847107
+bird,bird.n.01,birdhouse,0.7870068550109863
 bird,bird.n.01,chinchilla,0.6788278222084045
 bird,bird.n.01,rabbit,0.6819239854812622
-bird,bird.n.01,margarita,0.405269980430603
-bird,bird.n.01,hook,0.5752629041671753
-bird,bird.n.01,crayfish,0.6909770369529724
-bird,bird.n.01,eel,0.7065126895904541
-bird,bird.n.01,maple syrup,0.41850417852401733
-bird,bird.n.01,stool,0.4245308041572571
-bird,bird.n.01,chair,0.43323904275894165
-bird,bird.n.01,jacket,0.4314844012260437
-bird,bird.n.01,mirror,0.42922836542129517
-bird,bird.n.01,rearview mirror,0.43481209874153137
-bird,bird.n.01,catfish,0.7100332379341125
-bird,bird.n.01,bat,0.7215641140937805
-bird,bird.n.01,squid,0.7060397863388062
 bird,bird.n.01,cocktail,0.42700937390327454
-bird,bird.n.01,squirrel,0.691386878490448
 bird,bird.n.01,scoop,0.4223242998123169
-bird,bird.n.01,bikini,0.4328785538673401
+bird,bird.n.01,squid,0.7060397863388062
 bird,bird.n.01,birdbath,0.6990947723388672
-bird,bird.n.01,birdcage,0.7175452709197998
-bird,bird.n.01,dynamite,0.42542868852615356
-bird,bird.n.01,birdhouse,0.7870068550109863
+bird,bird.n.01,whale,0.6958544254302979
+bird,bird.n.01,beaver,0.6886441111564636
+bird,bird.n.01,rearview mirror,0.43481209874153137
 bird,bird.n.01,lingerie,0.43447941541671753
+bird,bird.n.01,squirrel,0.691386878490448
+bird,bird.n.01,bikini,0.4328785538673401
+game,game.n.01,elephant,0.3959383964538574
+game,game.n.01,latch,0.6791636347770691
 game,game.n.01,zebra,0.38222986459732056
-game,game.n.01,whisk,0.6581400036811829
-game,game.n.01,lamb,0.5066051483154297
+game,game.n.01,envelope,0.6592071056365967
+game,game.n.01,dustpan,0.6713606119155884
+game,game.n.01,bull,0.40724077820777893
+game,game.n.01,backscratcher,0.6702728271484375
+game,game.n.01,bolt,0.6693260073661804
 game,game.n.01,bassoon,0.4101358652114868
+game,game.n.01,coil,0.6646210551261902
+game,game.n.01,calf,0.41524529457092285
 game,game.n.01,maple syrup,0.4078221917152405
 game,game.n.01,chain,0.6774605512619019
-game,game.n.01,elephant,0.3959383964538574
-game,game.n.01,coil,0.6646210551261902
-game,game.n.01,backscratcher,0.6702728271484375
-game,game.n.01,bull,0.40724077820777893
-game,game.n.01,highlighter,0.6793243885040283
 game,game.n.01,alligator,0.5466204881668091
-game,game.n.01,bolt,0.6693260073661804
 game,game.n.01,lingerie,0.4120500981807709
-game,game.n.01,envelope,0.6592071056365967
+game,game.n.01,whisk,0.6581400036811829
 game,game.n.01,honey,0.41518452763557434
 game,game.n.01,tube top,0.670871376991272
-game,game.n.01,calf,0.41524529457092285
-game,game.n.01,latch,0.6791636347770691
-game,game.n.01,dustpan,0.6713606119155884
-sea animal,marine_animal.n.01,stool,0.42146676778793335
-sea animal,marine_animal.n.01,brace,0.4480594992637634
+game,game.n.01,lamb,0.5066051483154297
+game,game.n.01,highlighter,0.6793243885040283
 sea animal,marine_animal.n.01,knob,0.4419252276420593
-sea animal,marine_animal.n.01,jacket,0.44013771414756775
-sea animal,marine_animal.n.01,slug,0.7398213744163513
-sea animal,marine_animal.n.01,crayfish,0.7885404825210571
-sea animal,marine_animal.n.01,mole,0.752374529838562
-sea animal,marine_animal.n.01,hook,0.5944085121154785
-sea animal,marine_animal.n.01,toast,0.4480825960636139
-sea animal,marine_animal.n.01,koala,0.714643120765686
-sea animal,marine_animal.n.01,seaweed,0.771213173866272
-sea animal,marine_animal.n.01,glass,0.5292620658874512
+sea animal,marine_animal.n.01,stretcher,0.7152844667434692
 sea animal,marine_animal.n.01,rabbit,0.760156512260437
-sea animal,marine_animal.n.01,goose,0.732200026512146
-sea animal,marine_animal.n.01,turkey,0.7211228609085083
 sea animal,marine_animal.n.01,maple syrup,0.45079660415649414
-sea animal,marine_animal.n.01,chinchilla,0.7325701713562012
-sea animal,marine_animal.n.01,beaver,0.7264995574951172
-sea animal,marine_animal.n.01,jam,0.44778183102607727
-sea animal,marine_animal.n.01,frog,0.7171951532363892
+sea animal,marine_animal.n.01,hook,0.5944085121154785
+sea animal,marine_animal.n.01,slug,0.7398213744163513
 sea animal,marine_animal.n.01,scoop,0.45310187339782715
-sea animal,marine_animal.n.01,rack,0.45113566517829895
-sea animal,marine_animal.n.01,fork,0.4989219903945923
+sea animal,marine_animal.n.01,beaver,0.7264995574951172
 sea animal,marine_animal.n.01,cantaloupe,0.7232609987258911
 sea animal,marine_animal.n.01,aquarium,0.7532088756561279
-sea animal,marine_animal.n.01,rope,0.5053840279579163
+sea animal,marine_animal.n.01,glass,0.5292620658874512
+sea animal,marine_animal.n.01,jacket,0.44013771414756775
 sea animal,marine_animal.n.01,stiletto,0.44126051664352417
-sea animal,marine_animal.n.01,stretcher,0.7152844667434692
-sea animal,marine_animal.n.01,hippopotamus,0.731140673160553
+sea animal,marine_animal.n.01,rack,0.45113566517829895
+sea animal,marine_animal.n.01,koala,0.714643120765686
+sea animal,marine_animal.n.01,stool,0.42146676778793335
+sea animal,marine_animal.n.01,turkey,0.7211228609085083
+sea animal,marine_animal.n.01,chinchilla,0.7325701713562012
+sea animal,marine_animal.n.01,brace,0.4480594992637634
+sea animal,marine_animal.n.01,goose,0.732200026512146
+sea animal,marine_animal.n.01,jam,0.44778183102607727
 sea animal,marine_animal.n.01,mirror,0.43148940801620483
-dessert,dessert.n.01,zebra,0.42455214262008667
-dessert,dessert.n.01,chickpea,0.739658534526825
-dessert,dessert.n.01,highlighter,0.7428542971611023
-dessert,dessert.n.01,crayfish,0.7588736414909363
+sea animal,marine_animal.n.01,crayfish,0.7885404825210571
+sea animal,marine_animal.n.01,rope,0.5053840279579163
+sea animal,marine_animal.n.01,toast,0.4480825960636139
+sea animal,marine_animal.n.01,mole,0.752374529838562
+sea animal,marine_animal.n.01,fork,0.4989219903945923
+sea animal,marine_animal.n.01,seaweed,0.771213173866272
+sea animal,marine_animal.n.01,hippopotamus,0.731140673160553
+sea animal,marine_animal.n.01,frog,0.7171951532363892
+dessert,dessert.n.01,calf,0.4620721936225891
+dessert,dessert.n.01,mirror,0.45947298407554626
+dessert,dessert.n.01,jacket,0.4739680290222168
+dessert,dessert.n.01,macaroni,0.7509342432022095
 dessert,dessert.n.01,rabbit,0.7731623649597168
-dessert,dessert.n.01,appetizer,0.7497622966766357
-dessert,dessert.n.01,ski boots,0.4718519151210785
-dessert,dessert.n.01,envelope,0.7407686710357666
-dessert,dessert.n.01,turkey,0.7486053109169006
+dessert,dessert.n.01,noodle,0.7709053158760071
+dessert,dessert.n.01,trident,0.4667038321495056
+dessert,dessert.n.01,zebra,0.42455214262008667
+dessert,dessert.n.01,alligator,0.6207681894302368
 dessert,dessert.n.01,hook,0.6463364958763123
+dessert,dessert.n.01,latch,0.7460969686508179
+dessert,dessert.n.01,bassoon,0.471908301115036
+dessert,dessert.n.01,ski boots,0.4718519151210785
+dessert,dessert.n.01,spaghetti,0.7730096578598022
+dessert,dessert.n.01,crayfish,0.7588736414909363
+dessert,dessert.n.01,bull,0.43434572219848633
+dessert,dessert.n.01,appetizer,0.7497622966766357
+dessert,dessert.n.01,rocket,0.49916526675224304
+dessert,dessert.n.01,turkey,0.7486053109169006
+dessert,dessert.n.01,lamb,0.582290768623352
+dessert,dessert.n.01,machine gun,0.4773678183555603
+dessert,dessert.n.01,rifle,0.47693318128585815
+dessert,dessert.n.01,sheep,0.47185173630714417
+dessert,dessert.n.01,scallop,0.7692233324050903
+dessert,dessert.n.01,chickpea,0.739658534526825
+dessert,dessert.n.01,goose,0.7469943165779114
+dessert,dessert.n.01,envelope,0.7407686710357666
+dessert,dessert.n.01,rope,0.5493963956832886
+dessert,dessert.n.01,elephant,0.41766995191574097
 dessert,dessert.n.01,pickle,0.771268904209137
 dessert,dessert.n.01,tube top,0.7565863728523254
-dessert,dessert.n.01,mirror,0.45947298407554626
-dessert,dessert.n.01,calf,0.4620721936225891
-dessert,dessert.n.01,alligator,0.6207681894302368
-dessert,dessert.n.01,latch,0.7460969686508179
-dessert,dessert.n.01,cantaloupe,0.7647333741188049
-dessert,dessert.n.01,elephant,0.41766995191574097
-dessert,dessert.n.01,zucchini,0.7516536712646484
-dessert,dessert.n.01,machine gun,0.4773678183555603
-dessert,dessert.n.01,bull,0.43434572219848633
 dessert,dessert.n.01,duckling,0.4663395285606384
-dessert,dessert.n.01,noodle,0.7709053158760071
-dessert,dessert.n.01,goose,0.7469943165779114
-dessert,dessert.n.01,jacket,0.4739680290222168
-dessert,dessert.n.01,rifle,0.47693318128585815
-dessert,dessert.n.01,spaghetti,0.7730096578598022
-dessert,dessert.n.01,rocket,0.49916526675224304
-dessert,dessert.n.01,rope,0.5493963956832886
-dessert,dessert.n.01,scallop,0.7692233324050903
-dessert,dessert.n.01,lamb,0.582290768623352
-dessert,dessert.n.01,macaroni,0.7509342432022095
+dessert,dessert.n.01,zucchini,0.7516536712646484
 dessert,dessert.n.01,lasagna,0.7846057415008545
-dessert,dessert.n.01,mussel,0.739244282245636
-dessert,dessert.n.01,bassoon,0.471908301115036
-dessert,dessert.n.01,mandolin,0.4789873957633972
-dessert,dessert.n.01,trident,0.4667038321495056
-dessert,dessert.n.01,sheep,0.47185173630714417
-garden tool,garden_tool.n.01,mirror,0.4257703423500061
-garden tool,garden_tool.n.01,duckling,0.4372274875640869
-garden tool,garden_tool.n.01,crank,0.7324732542037964
-garden tool,garden_tool.n.01,toolbox,0.7726937532424927
-garden tool,garden_tool.n.01,plunger,0.7570891976356506
-garden tool,garden_tool.n.01,lamb,0.5250698924064636
-garden tool,garden_tool.n.01,drill,0.7718574404716492
-garden tool,garden_tool.n.01,bull,0.4294367730617523
+dessert,dessert.n.01,highlighter,0.7428542971611023
+dessert,dessert.n.01,cantaloupe,0.7647333741188049
 garden tool,garden_tool.n.01,rope,0.5127301216125488
-garden tool,garden_tool.n.01,punch,0.7928231954574585
-garden tool,garden_tool.n.01,spatula,0.7445843815803528
-garden tool,garden_tool.n.01,wheelbarrow,0.7504661083221436
-garden tool,garden_tool.n.01,grinder,0.7432100176811218
-garden tool,garden_tool.n.01,honey,0.4372832775115967
-garden tool,garden_tool.n.01,zebra,0.41392865777015686
-garden tool,garden_tool.n.01,elephant,0.40343326330184937
-garden tool,garden_tool.n.01,backscratcher,0.7195644378662109
+garden tool,garden_tool.n.01,duckling,0.4372274875640869
+garden tool,garden_tool.n.01,lamb,0.5250698924064636
 garden tool,garden_tool.n.01,puppy,0.43577682971954346
+garden tool,garden_tool.n.01,backscratcher,0.7195644378662109
+garden tool,garden_tool.n.01,toolbox,0.7726937532424927
+garden tool,garden_tool.n.01,wheelbarrow,0.7504661083221436
+garden tool,garden_tool.n.01,mirror,0.4257703423500061
+garden tool,garden_tool.n.01,crank,0.7324732542037964
+garden tool,garden_tool.n.01,plunger,0.7570891976356506
+garden tool,garden_tool.n.01,zebra,0.41392865777015686
+garden tool,garden_tool.n.01,spatula,0.7445843815803528
+garden tool,garden_tool.n.01,bull,0.4294367730617523
+garden tool,garden_tool.n.01,honey,0.4372832775115967
+garden tool,garden_tool.n.01,punch,0.7928231954574585
+garden tool,garden_tool.n.01,grinder,0.7432100176811218
+garden tool,garden_tool.n.01,drill,0.7718574404716492
+garden tool,garden_tool.n.01,elephant,0.40343326330184937

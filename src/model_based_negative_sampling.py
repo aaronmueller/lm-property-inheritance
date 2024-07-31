@@ -155,16 +155,16 @@ def main(args):
             writer.writerow(triple + (similarity,))
 
 
-    taxonomic_pairs = []
+    taxonomic_pairs = set()
     for items in triples:
         premise = items["anchor"]
         conclusion = items["hyponym"]
         similarity = max(anchor_concept_sims[(premise, conclusion)])
         premise_sims[premise].append(similarity)
-        taxonomic_pairs.append((premise, conclusion, similarity))
+        taxonomic_pairs.add((premise, conclusion, similarity))
 
 
-    final_pairs = []
+    final_pairs = set()
 
     for item in negative_sample_triples:
         premise, conclusion = item[0], item[1]
@@ -176,7 +176,7 @@ def main(args):
         premise_form = CONCEPTS[premise].generic_surface_form()
         conclusion_form = CONCEPTS[conclusion].generic_surface_form()
 
-        final_pairs.append((premise, conclusion, hypernymy, similarity, similarity_bucket, premise_form, conclusion_form))
+        final_pairs.add((premise, conclusion, hypernymy, similarity, similarity_bucket, premise_form, conclusion_form))
 
     for item in taxonomic_pairs:
         premise, conclusion, similarity = item
@@ -185,7 +185,7 @@ def main(args):
         premise_form = CONCEPTS[premise].generic_surface_form()
         conclusion_form = CONCEPTS[conclusion].generic_surface_form()
 
-        final_pairs.append((premise, conclusion, hypernymy, similarity, similarity_bucket, premise_form, conclusion_form))
+        final_pairs.add((premise, conclusion, hypernymy, similarity, similarity_bucket, premise_form, conclusion_form))
 
     with open(f"data/things/stimuli-pairs/things-inheritance-{model_name}_final_layer_sim-pairs.csv", "w") as f:
         writer = csv.writer(f)

@@ -61,7 +61,7 @@ concepts_annotated_senses = dict(concepts_annotated_senses)
 #         except:
 #             print(concept, s)
 
-triple_path = "data/things/things-triples.csv"
+triple_path = "data/things/things-triples-actual.csv"
 triples = utils.read_csv_dict(triple_path)
 
 concept_universe = set()
@@ -348,9 +348,13 @@ for anchor, anchor_synset in anchor_synsets.items():
     ]
     anchor_neighbors[anchor].extend(non_neighbor_concepts)
 
+# print({k: len(v) for k, v in anchor_children.items()})
+
 anchor_neighbors = dict(anchor_neighbors)
 random.seed(42)
 anchor_neighbors = {k: random.sample(v, len(v)) for k, v in anchor_neighbors.items()}
+
+# print({k: len(v) for k, v in anchor_neighbors.items()})
 
 negative_sample_triples = []
 for anchor, negative_samples in anchor_neighbors.items():
@@ -409,16 +413,16 @@ with open("data/things/negative-samples/things-sense_based-ns_triples.csv", "w")
 
 triples = utils.read_csv_dict("data/things/things-triples-actual.csv")
 
-taxonomic_pairs = []
+taxonomic_pairs = set()
 for items in triples:
     premise = items["anchor"]
     conclusion = items["hyponym"]
     similarity = max(anchor_concept_sims[(premise, conclusion)])
     premise_sims[premise].append(similarity)
-    taxonomic_pairs.append((premise, conclusion, similarity))
+    taxonomic_pairs.add((premise, conclusion, similarity))
 
 
-final_pairs = []
+final_pairs = set()
 
 for item in negative_sample_triples:
     premise, conclusion = item[0], item[2]
@@ -430,7 +434,7 @@ for item in negative_sample_triples:
     premise_form = CONCEPTS[premise].generic_surface_form()
     conclusion_form = CONCEPTS[conclusion].generic_surface_form()
 
-    final_pairs.append((premise, conclusion, hypernymy, similarity, similarity_bucket, premise_form, conclusion_form))
+    final_pairs.add((premise, conclusion, hypernymy, similarity, similarity_bucket, premise_form, conclusion_form))
 
 for item in taxonomic_pairs:
     premise, conclusion, similarity = item
@@ -439,7 +443,7 @@ for item in taxonomic_pairs:
     premise_form = CONCEPTS[premise].generic_surface_form()
     conclusion_form = CONCEPTS[conclusion].generic_surface_form()
 
-    final_pairs.append((premise, conclusion, hypernymy, similarity, similarity_bucket, premise_form, conclusion_form))
+    final_pairs.add((premise, conclusion, hypernymy, similarity, similarity_bucket, premise_form, conclusion_form))
 
 with open("data/things/stimuli-pairs/things-inheritance-sense_based_sim-pairs.csv", "w") as f:
     writer = csv.writer(f)
