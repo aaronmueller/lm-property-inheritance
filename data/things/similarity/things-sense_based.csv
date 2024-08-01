@@ -6195,8 +6195,8 @@ animal,peach,0.5379753708839417
 animal,quiche,0.5379664897918701
 animal,coat,0.5379574298858643
 animal,vacuum,0.5374936461448669
-animal,domino,0.5374281406402588
 animal,ball,0.5374281406402588
+animal,domino,0.5374281406402588
 animal,scalpel,0.5372523069381714
 animal,checkers,0.5371882915496826
 animal,beachball,0.536890983581543
@@ -7286,8 +7286,8 @@ toiletry,radish,0.5480513572692871
 toiletry,whiteboard,0.5480276942253113
 toiletry,chalkboard,0.5480276942253113
 toiletry,sugar cube,0.54798424243927
-toiletry,teddy bear,0.5478569269180298
 toiletry,candle,0.5478569269180298
+toiletry,teddy bear,0.5478569269180298
 toiletry,jackhammer,0.5477792024612427
 toiletry,bottle,0.5477553009986877
 toiletry,apron,0.5477278828620911
@@ -11206,8 +11206,8 @@ mammal,windshield wiper,0.5411871671676636
 mammal,gauze,0.5411214828491211
 mammal,blazer,0.5410953760147095
 mammal,table,0.5410420894622803
-mammal,electric chair,0.5410401225090027
 mammal,bedpan,0.5410401225090027
+mammal,electric chair,0.5410401225090027
 mammal,sandbag,0.5407446026802063
 mammal,tractor,0.5407195687294006
 mammal,highchair,0.5406988859176636
@@ -12649,8 +12649,8 @@ outerwear,screen,0.5224512815475464
 outerwear,car door,0.5224207639694214
 outerwear,biscuit,0.5220592617988586
 outerwear,cookie,0.5220592617988586
-outerwear,almond,0.5219905376434326
 outerwear,wine,0.5219905376434326
+outerwear,almond,0.5219905376434326
 outerwear,meat,0.5218216180801392
 outerwear,beet,0.5218165516853333
 outerwear,videogame,0.5217761993408203
@@ -12676,8 +12676,8 @@ outerwear,landmine,0.5196831226348877
 outerwear,skunk,0.5196806192398071
 outerwear,grinder,0.5196572542190552
 outerwear,jet,0.5196542739868164
-outerwear,aardvark,0.5195939540863037
 outerwear,charger,0.5195939540863037
+outerwear,aardvark,0.5195939540863037
 outerwear,desk,0.5195551514625549
 outerwear,lanyard,0.5194803476333618
 outerwear,tractor,0.5193220376968384
@@ -18451,8 +18451,8 @@ school supply,toast,0.593164324760437
 school supply,chair,0.5923799276351929
 school supply,jam,0.5922806262969971
 school supply,fly,0.5920392274856567
-school supply,cocktail,0.5905973315238953
 school supply,insect,0.5905973315238953
+school supply,cocktail,0.5905973315238953
 school supply,gorilla,0.5887483358383179
 school supply,banana,0.5880838632583618
 school supply,jacket,0.5868930220603943
@@ -22059,8 +22059,8 @@ furniture,starfish,0.5440740585327148
 furniture,hammer,0.5440393686294556
 furniture,snack,0.5439620018005371
 furniture,blower,0.5438714027404785
-furniture,handbrake,0.5438029766082764
 furniture,game,0.5438029766082764
+furniture,handbrake,0.5438029766082764
 furniture,radish,0.5437629222869873
 furniture,cockatoo,0.5437119007110596
 furniture,skateboard,0.5435336828231812
@@ -33762,8 +33762,8 @@ medical equipment,nail polish,0.5436602234840393
 medical equipment,tarantula,0.5435594320297241
 medical equipment,crouton,0.5434466600418091
 medical equipment,mammal,0.5433295369148254
-medical equipment,ham,0.5432858467102051
 medical equipment,parsley,0.5432858467102051
+medical equipment,ham,0.5432858467102051
 medical equipment,sarcophagus,0.5432808995246887
 medical equipment,insole,0.5432616472244263
 medical equipment,boxer shorts,0.5429461002349854
@@ -33906,8 +33906,8 @@ medical equipment,shoe,0.5311823487281799
 medical equipment,ginger,0.5311505794525146
 medical equipment,crown,0.5306212902069092
 medical equipment,sawhorse,0.5302709341049194
-medical equipment,snack,0.5302629470825195
 medical equipment,step stool,0.5302629470825195
+medical equipment,snack,0.5302629470825195
 medical equipment,bird,0.53019118309021
 medical equipment,grits,0.5300899744033813
 medical equipment,soap,0.5299581289291382
@@ -41591,8 +41591,8 @@ kitchen equipment,ticktacktoe,0.564801812171936
 kitchen equipment,cotton candy,0.5647265315055847
 kitchen equipment,air mattress,0.5646971464157104
 kitchen equipment,pantyhose,0.5646242499351501
-kitchen equipment,suitcase,0.5645313262939453
 kitchen equipment,crate,0.5645313262939453
+kitchen equipment,suitcase,0.5645313262939453
 kitchen equipment,eagle,0.5644958019256592
 kitchen equipment,sea urchin,0.5643841028213501
 kitchen equipment,boat,0.5643231272697449
@@ -42717,8 +42717,8 @@ footwear,gondola,0.613845944404602
 footwear,kebab,0.6138217449188232
 footwear,dryer,0.6137310266494751
 footwear,water heater,0.6137175559997559
-footwear,auto part,0.613656759262085
 footwear,birdcage,0.613656759262085
+footwear,auto part,0.613656759262085
 footwear,electric chair,0.6135971546173096
 footwear,computer,0.6135920286178589
 footwear,swimming pool,0.6135919094085693
@@ -53018,8 +53018,8 @@ game,wedge,0.5621341466903687
 game,appetizer,0.561995267868042
 game,thumbtack,0.5619485974311829
 game,cot,0.5616228580474854
-game,toaster,0.5614455938339233
 game,sifter,0.5614455938339233
+game,toaster,0.5614455938339233
 game,airplane,0.5614302158355713
 game,hook,0.5613887310028076
 game,ashtray,0.5613157749176025
@@ -53887,8 +53887,8 @@ game,star fruit,0.4928561747074127
 game,lightning bug,0.49284791946411133
 game,comb,0.4927425682544708
 game,palm tree,0.4927123486995697
-game,curry,0.49268221855163574
 game,boot,0.49268221855163574
+game,curry,0.49268221855163574
 game,melon,0.4922427535057068
 game,calzone,0.4920479357242584
 game,pizza,0.4920479357242584
@@ -57495,8 +57495,8 @@ garden tool,chandelier,0.5556594133377075
 garden tool,tumbleweed,0.5553837418556213
 garden tool,french horn,0.5550611615180969
 garden tool,horn,0.5550611615180969
-garden tool,locket,0.5549471378326416
 garden tool,raccoon,0.5549471378326416
+garden tool,locket,0.5549471378326416
 garden tool,grasshopper,0.5549293160438538
 garden tool,chime,0.5548781752586365
 garden tool,bell,0.5548781752586365

@@ -14,11 +14,12 @@ from semantic_memory import taxonomy, vsm, vsm_utils
 from nltk.corpus import wordnet as wn
 from ordered_set import OrderedSet
 
-VECTORS="../lmms-sp-wsd.albert-xxlarge-v2.synsets.vectors.txt"
+VECTORS = "../lmms-sp-wsd.albert-xxlarge-v2.synsets.vectors.txt"
 
 sense_embeddings = vsm.VectorSpaceModel("LMMS-ALBERT")
 # takes about a min to load...
 sense_embeddings.load_vectors(VECTORS)
+
 
 def lemma2concept(entry):
     return lexicon.Concept(
@@ -29,6 +30,7 @@ def lemma2concept(entry):
         generic=entry["generic"],
         taxonomic_phrase=entry["taxonomic_phrase"],
     )
+
 
 lemma_path = "data/things/things-lemmas-annotated.csv"
 
@@ -47,7 +49,7 @@ with open("data/things/things-senses-annotated.csv", "r") as f:
     reader = csv.DictReader(f)
     for row in reader:
         if row["sense"] != "-":
-            senses = row['sense'].split("&")
+            senses = row["sense"].split("&")
             for sense in senses:
                 things_senses.add(sense)
                 concepts_annotated_senses[row["concept"]].add(sense)
@@ -239,12 +241,13 @@ NONSENSES = {
     ],
 }
 
+
 def synset_names(concept, return_map=False, both=False):
     # synset_list = [synset.name() for synset in wn.synsets(concept, "n")]
     synset_list = [s for s in concepts_annotated_senses[concept]]
     if return_map:
         synset_map = {s: concept for s in synset_list}
-        # synset_map = 
+        # synset_map =
         concept_map = {concept: s for s in synset_list}
         return synset_map, concept_map
     elif both:
@@ -255,6 +258,7 @@ def synset_names(concept, return_map=False, both=False):
         )
     else:
         return synset_list
+
 
 synset_map = {}
 concept_map = {}
@@ -268,6 +272,7 @@ for concept in concept_universe:
 
 concept_synsets = dict(concept_synsets)
 
+
 def is_hypernym(synset, target):
     try:
         target = wn.synset(target)
@@ -278,8 +283,9 @@ def is_hypernym(synset, target):
         return False
     return False
 
+
 all_synsets = set()
-for k,v in concept_synsets.items():
+for k, v in concept_synsets.items():
     for vv in v:
         if vv in things_senses:
             all_synsets.add(vv)
@@ -302,9 +308,9 @@ reduced_sense_embeddings.load_vectors_from_tensor(
     torch.cat((universe_vectors, torch.stack(excess))), synset_universe + excess_vocab
 )
 
-reduced_sense_embeddings
+# reduced_sense_embeddings
 
-anchor_neighbors = defaultdict(list)
+anchor_neighbors = defaultdict(OrderedSet)
 for anchor, anchor_synset in anchor_synsets.items():
     # leftover = set()
     # anchor = synset_anchors[anchor_synset]
@@ -320,46 +326,64 @@ for anchor, anchor_synset in anchor_synsets.items():
     # filter out hypernymy cases
     space_synsets = [s for s in space_synsets if is_hypernym(s, anchor_synset) == False]
 
-    neighbors = reduced_sense_embeddings.neighbor(
+    synset_sims = reduced_sense_embeddings.neighbor(
         anchor_synset,
         space=space_synsets,
-        k=len(anchor_children[anchor]),
-        names_only=True,
+        k=len(space_synsets),
         ignore_first=False,
     )[0]
-    neighbor_concepts = [synset_map[n] for n in neighbors]
-    neighbor_concepts = list(OrderedSet(neighbor_concepts))[
-        : math.ceil(len(anchor_children[anchor]) / 2)
-    ]
-    anchor_neighbors[anchor].extend(neighbor_concepts)
 
-    # non-neighbors
-    non_neighbors = reduced_sense_embeddings.neighbor(
-        anchor_synset,
-        space=space_synsets,
-        k=len(anchor_children[anchor]),
-        names_only=True,
-        ignore_first=False,
-        nearest=False,
-    )[0]
-    non_neighbor_concepts = [synset_map[n] for n in non_neighbors]
-    non_neighbor_concepts = list(OrderedSet(non_neighbor_concepts))[
-        : math.ceil(len(anchor_children[anchor]) / 2)
-    ]
-    anchor_neighbors[anchor].extend(non_neighbor_concepts)
+    multi_synset_sims = defaultdict(lambda: 0.0)
+    for synset, sim in synset_sims:
+        stored_sim = multi_synset_sims[synset_map[synset]]
+        if sim > stored_sim:
+            multi_synset_sims[synset_map[synset]] = sim
+    multi_synset_sims = dict(multi_synset_sims)
 
-# print({k: len(v) for k, v in anchor_children.items()})
+    multi_synset_sims = sorted(
+        multi_synset_sims.items(), key=lambda x: x[1], reverse=True
+    )
+
+    samples = len(anchor_children[anchor])
+
+    # if not even, allocate samples/2 to each half
+    if samples % 2 != 0:
+        neighbor_half = math.ceil(samples / 2)
+        non_neighbor_half = math.floor(samples / 2)
+    else:
+        neighbor_half = samples // 2
+        non_neighbor_half = samples // 2
+
+    assert neighbor_half + non_neighbor_half == samples
+
+    neighbor_concepts = OrderedSet([c[0] for c in multi_synset_sims[:neighbor_half]])
+    non_neighbor_concepts = OrderedSet(
+        [c[0] for c in list(reversed(multi_synset_sims))[:non_neighbor_half]]
+    )
+
+    # # ensure their intersection is 0
+    intersection = neighbor_concepts.intersection(non_neighbor_concepts)
+    assert len(intersection) == 0, print(
+        f"Anchor: {anchor} has intersecting neighbors."
+    )
+
+    anchor_neighbors[anchor].update(neighbor_concepts)
+    anchor_neighbors[anchor].update(non_neighbor_concepts)
+
+print({k: len(set(v)) for k, v in anchor_children.items()})
 
 anchor_neighbors = dict(anchor_neighbors)
 random.seed(42)
-anchor_neighbors = {k: random.sample(v, len(v)) for k, v in anchor_neighbors.items()}
+anchor_neighbors = {
+    k: set(random.sample(v, len(v))) for k, v in anchor_neighbors.items()
+}
 
-# print({k: len(v) for k, v in anchor_neighbors.items()})
+print({k: len(v) for k, v in anchor_neighbors.items()})
 
-negative_sample_triples = []
+negative_sample_triples = set()
 for anchor, negative_samples in anchor_neighbors.items():
     for ns in negative_samples:
-        negative_sample_triples.append((anchor, anchor_synsets[anchor], ns))
+        negative_sample_triples.add((anchor, anchor_synsets[anchor], ns))
 
 real_synset_map = defaultdict(list)
 for c, senses in concepts_annotated_senses.items():
@@ -371,7 +395,9 @@ real_synset_map = dict(real_synset_map)
 # save anchor, every concept similarities
 anchor_concept_sims = defaultdict(list)
 for anchor, anchor_synset in anchor_synsets.items():
-    neighbor_sims = reduced_sense_embeddings.neighbor(anchor_synset, k = len(reduced_sense_embeddings.vocab), ignore_first=False)
+    neighbor_sims = reduced_sense_embeddings.neighbor(
+        anchor_synset, k=len(reduced_sense_embeddings.vocab), ignore_first=False
+    )
     for concept_sense, sim in neighbor_sims[0]:
         try:
             concepts = real_synset_map[concept_sense]
@@ -389,7 +415,7 @@ space_synsets = set()
 for c in space:
     # if c in concepts.keys():
     for cs in concept_synsets[c]:
-            # if cs not in anchor_synsets.values() and cs in synset_universe:
+        # if cs not in anchor_synsets.values() and cs in synset_universe:
         space_synsets.add(cs)
 
 with open("data/things/similarity/things-sense_based.csv", "w") as f:
@@ -429,24 +455,60 @@ for item in negative_sample_triples:
     similarity = max(anchor_concept_sims[(premise, conclusion)])
 
     # similarity-bucket: high if above median of premise_sims[premise], else low
-    similarity_bucket = "high" if similarity >= torch.tensor(premise_sims[premise]).median() else "low"
+    similarity_bucket = (
+        "high" if similarity >= torch.tensor(premise_sims[premise]).median() else "low"
+    )
     hypernymy = "no"
     premise_form = CONCEPTS[premise].generic_surface_form()
     conclusion_form = CONCEPTS[conclusion].generic_surface_form()
 
-    final_pairs.add((premise, conclusion, hypernymy, similarity, similarity_bucket, premise_form, conclusion_form))
+    final_pairs.add(
+        (
+            premise,
+            conclusion,
+            hypernymy,
+            similarity,
+            similarity_bucket,
+            premise_form,
+            conclusion_form,
+        )
+    )
 
 for item in taxonomic_pairs:
     premise, conclusion, similarity = item
-    similarity_bucket = "high" if similarity >= torch.tensor(premise_sims[premise]).median() else "low"
+    similarity_bucket = (
+        "high" if similarity >= torch.tensor(premise_sims[premise]).median() else "low"
+    )
     hypernymy = "yes"
     premise_form = CONCEPTS[premise].generic_surface_form()
     conclusion_form = CONCEPTS[conclusion].generic_surface_form()
 
-    final_pairs.add((premise, conclusion, hypernymy, similarity, similarity_bucket, premise_form, conclusion_form))
+    final_pairs.add(
+        (
+            premise,
+            conclusion,
+            hypernymy,
+            similarity,
+            similarity_bucket,
+            premise_form,
+            conclusion_form,
+        )
+    )
 
-with open("data/things/stimuli-pairs/things-inheritance-sense_based_sim-pairs.csv", "w") as f:
+with open(
+    "data/things/stimuli-pairs/things-inheritance-sense_based_sim-pairs.csv", "w"
+) as f:
     writer = csv.writer(f)
-    writer.writerow(["premise", "conclusion", "hypernymy", "similarity_raw", "similarity_binary", "premise_form", "conclusion_form"])
+    writer.writerow(
+        [
+            "premise",
+            "conclusion",
+            "hypernymy",
+            "similarity_raw",
+            "similarity_binary",
+            "premise_form",
+            "conclusion_form",
+        ]
+    )
     for row in final_pairs:
         writer.writerow(row)

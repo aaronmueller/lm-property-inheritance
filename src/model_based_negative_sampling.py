@@ -109,12 +109,24 @@ def main(args):
         space = hyponyms - anchor_children[anchor]
         space = [c for c in space if c in CONCEPTS.keys()]
 
+        samples = len(anchor_children[anchor])
+
+        # if not even, allocate samples/2 to each half
+        if samples % 2 != 0:
+            neighbor_half = math.ceil(samples / 2)
+            non_neighbor_half = math.floor(samples / 2)
+        else:
+            neighbor_half = samples // 2
+            non_neighbor_half = samples // 2
+
+        assert neighbor_half + non_neighbor_half == samples
+
         # i = final layer
         neighbors = layerwise_vsms[i].neighbor(anchor, k=len(space), space=space, names_only=True, ignore_first=False)
-        anchor_neighbors[anchor].extend(neighbors[0][: math.ceil(len(anchor_children[anchor])/2)])
+        anchor_neighbors[anchor].extend(neighbors[0][: neighbor_half])
 
         non_neighbors = list(reversed(neighbors[0]))
-        anchor_neighbors[anchor].extend(non_neighbors[: math.ceil(len(anchor_children[anchor])/2)])
+        anchor_neighbors[anchor].extend(non_neighbors[: non_neighbor_half])
 
     anchor_neighbors = dict(anchor_neighbors)
     random.seed(42)
