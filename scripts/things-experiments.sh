@@ -10,11 +10,11 @@ TRANSFORMERS_CACHE="/home/shared/km_cache"
 for triples in ${triples[@]}; do
     
     if [[ $triples == "taxonomic" ]]; then
-        triples_path="data/things/things-triples.csv"
+        triples_path="data/things/things-triples-actual.csv"
         save_dir="data/things/results/taxonomic/"
     elif [[ $triples == "sense_based_ns" ]]; then
-        triples_path="data/things/things-sense_based_ns-triples.csv"
-        save_dir="data/things/results/things-sense_based_ns/"
+        triples_path="data/things/negative-samples/things-sense_based-ns_triples.csv"
+        save_dir="data/things/results/things-sense_based-ns/"
     fi
 
     for model in "${models[@]}"; do
@@ -30,28 +30,28 @@ for triples in ${triples[@]}; do
             #     --qa_format \
             #     --prompt_template $template
             
-            # python src/eval_change_batched.py \
-            #     --batch_size 16 \
-            #     --num_examples -1 \
-            #     --device cuda:1 \
-            #     --model $model \
-            #     --triples_path $triples_path \
-            #     --save \
-            #     --save_dir $save_dir \
-            #     --qa_format \
-            #     --prompt_template $template
+            python src/eval_change_batched.py \
+                --batch_size 16 \
+                --num_examples -1 \
+                --device cuda:1 \
+                --model $model \
+                --triples_path $triples_path \
+                --save \
+                --save_dir $save_dir \
+                --qa_format \
+                --prompt_template $template
 
-            # python src/eval_change_batched.py \
-            #     --batch_size 16 \
-            #     --num_examples -1 \
-            #     --device cuda:1 \
-            #     --model $model \
-            #     --triples_path $triples_path \
-            #     --save \
-            #     --save_dir $save_dir \
-            #     --qa_format \
-            #     --prompt_template $template\
-            #     --chat_format
+            python src/eval_change_batched.py \
+                --batch_size 16 \
+                --num_examples -1 \
+                --device cuda:1 \
+                --model $model \
+                --triples_path $triples_path \
+                --save \
+                --save_dir $save_dir \
+                --qa_format \
+                --prompt_template $template\
+                --chat_format
 
 
             python src/eval_change_batched.py \
@@ -59,9 +59,9 @@ for triples in ${triples[@]}; do
                 --num_examples -1 \
                 --device cuda:1 \
                 --model $model \
-                --triples_path data/things/things-sense_based_ns-triples.csv \
+                --triples_path $triples_path \
                 --save \
-                --save_dir data/things/results/things-sense_based_ns/ \
+                --save_dir $save_dir \
                 --qa_format \
                 --prompt_template $template \
                 --induction
@@ -71,9 +71,9 @@ for triples in ${triples[@]}; do
                 --num_examples -1 \
                 --device cuda:1 \
                 --model $model \
-                --triples_path data/things/things-sense_based_ns-triples.csv \
+                --triples_path $triples_path \
                 --save \
-                --save_dir data/things/results/things-sense_based_ns/ \
+                --save_dir $save_dir \
                 --qa_format \
                 --prompt_template $template\
                 --chat_format \
