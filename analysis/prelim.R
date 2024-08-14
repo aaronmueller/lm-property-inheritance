@@ -89,6 +89,29 @@ raw_results %>%
   )
 
 
+raw_results %>% 
+  filter(setting != "Phrasal") %>%
+  count(hyponym_type, setting, reasoning, negative_sample_type, prompt > 0)
+
+raw_results %>%
+  group_by(model, hyponym_type, setting, reasoning) %>%
+  mutate(
+    vs_control = prompt > control,
+    vs_empty = prompt > empty,
+    correctness = case_when(
+      hyponym_type == "taxonomic" ~ prompt > 0,
+      TRUE ~ prompt < 0
+    )
+  ) |>
+  ungroup() %>%
+  filter(hyponym_type == "sense_based_ns") %>%
+  group_by(model, setting, reasoning) %>%
+  summarize(
+    control_accuracy = mean(vs_control),
+    empty_accuracy = mean(vs_empty),
+    taxonomic_accuracy = mean(correctness)
+  )
+
 
 # sense_based 
 raw_results %>% 
@@ -151,32 +174,58 @@ model_based_results <- raw_results %>%
 
 # deduction lmer
 
-fit_deduction_phrasal <- lmer(prompt ~ taxonomic * similarity + (taxonomic * similarity|anchor),
+fit_deduction_qa_interaction <- lmer(prompt ~ taxonomic * similarity + (taxonomic * similarity|anchor),
                               data = sense_based_results %>% 
-                                filter(setting=="Phrasal", reasoning=="deduction"), REML=FALSE)
+                                filter(setting=="QA (Yes-No ratio)", reasoning=="deduction"), REML=FALSE)
 
-summary(fit_deduction_phrasal)
+summary(fit_deduction_qa_interaction)
+
+
+fit_deduction_qa_additive <- lmer(prompt ~ taxonomic + similarity + (taxonomic + similarity|anchor),
+                                     data = sense_based_results %>% 
+                                       filter(setting=="QA (Yes-No ratio)", reasoning=="deduction"), REML=FALSE)
+
+summary(fit_deduction_qa_additive)
+
+fit_deduction_qa_taxonomic <- lmer(prompt ~ taxonomic + (taxonomic|anchor),
+                                     data = sense_based_results %>% 
+                                       filter(setting=="QA (Yes-No ratio)", reasoning=="deduction"), REML=FALSE)
+
+summary(fit_deduction_qa_taxonomic)
+
+fit_deduction_qa_similarity <- lmer(prompt ~ similarity + (similarity|anchor),
+                                   data = sense_based_results %>% 
+                                     filter(setting=="QA (Yes-No ratio)", reasoning=="deduction"), REML=FALSE)
+
+summary(fit_deduction_qa_similarity)
+
+
+anova(fit_deduction_qa_interaction, fit_deduction_qa_taxonomic)
+anova(fit_deduction_qa_interaction, fit_deduction_qa_similarity)
+
+anova(fit_deduction_qa_additive, fit_deduction_qa_taxonomic)
+anova(fit_deduction_qa_additive, fit_deduction_qa_similarity)
 
 
 ## high-low sim comparison
 
 
-sense_based_results %>%
-  filter(reasoning == "induction", str_detect(setting, "QA")) %>%
-  group_by(model, hyponym_type, anchor) %>%
-  mutate(
-    sim_class = case_when(
-      similarity >= median(similarity) ~ "high_sim",
-      TRUE ~ "low_sim"
-    ),
-    class = case_when(
-      taxonomic == 1 ~ glue::glue("taxonomic_{sim_class}"),
-      TRUE ~ glue::glue("non_taxonomic_{sim_class}")
-    )
-  ) %>%
-  ungroup() %>%
-  select(anchor, hyponym, class) %>%
-  write_csv("data/things/things-sense-based-pairs.csv")
+# sense_based_results %>%
+#   filter(reasoning == "deduction", str_detect(setting, "QA")) %>%
+#   group_by(model, hyponym_type, anchor) %>%
+#   mutate(
+#     sim_class = case_when(
+#       similarity >= median(similarity) ~ "high_sim",
+#       TRUE ~ "low_sim"
+#     ),
+#     class = case_when(
+#       taxonomic == 1 ~ glue::glue("taxonomic_{sim_class}"),
+#       TRUE ~ glue::glue("non_taxonomic_{sim_class}")
+#     )
+#   ) %>%
+#   ungroup() %>%
+#   select(anchor, hyponym, class) %>%
+#   write_csv("data/things/things-sense-based-pairs.csv")
 
 bind_rows(
   sense_based_results %>% mutate(sim_type = "Sense-based Sim"),
@@ -191,7 +240,7 @@ bind_rows(
 bind_rows(
   sense_based_results %>% mutate(sim_type = "Sense-based Sim"),
   model_based_results %>% mutate(sim_type = "Model-based Sim")
-) %>% View()
+) %>%
   group_by(model, reasoning, setting, hyponym_type, anchor, sim_type) %>%
   mutate(
     sim_class = case_when(
@@ -235,4 +284,53 @@ bind_rows(
     color = "Reasoning"
   )
   
+
+bind_rows(
+  sense_based_results %>% mutate(sim_type = "Sense-based Sim"),
+  model_based_results %>% mutate(sim_type = "Model-based Sim")
+) %>%
+  group_by(model, reasoning, setting, anchor, sim_type) %>%
+  mutate(
+    sim_class = case_when(
+      similarity >= median(similarity) ~ "high_sim",
+      TRUE ~ "low_sim"
+    ),
+    class = case_when(
+      taxonomic == 1 ~ glue::glue("taxonomic\n{sim_class}"),
+      TRUE ~ glue::glue("NS\n{sim_class}")
+    ),
+    class = factor(
+      class, 
+      levels = c("taxonomic\nhigh_sim", "taxonomic\nlow_sim", "NS\nhigh_sim", "NS\nlow_sim"),
+      labels = c("Taxonomic\nHigh Sim", "Taxonomic\nLow Sim", "NS\nHigh Sim", "NS\nLow Sim")
+    )
+  ) %>%
+  ungroup() %>%
+  group_by(model, hyponym_type, setting, reasoning, sim_type, sim_class, class) %>%
+  summarize(
+    n = n(),
+    ste = 1.96 * plotrix::std.error(prompt),
+    logprob = mean(prompt)
+  ) %>%
+  ggplot(aes(class, logprob, color = reasoning, shape = sim_type, group = reasoning)) +
+  geom_point(size = 2.5) + 
+  geom_line() +
+  geom_linerange(aes(ymin = logprob-ste, ymax = logprob+ste)) +
+  scale_color_brewer(palette = "Dark2") +
+  # facet_wrap(~ setting + hyponym_type, scales = "free_y")
+  ggh4x::facet_grid2(sim_type ~ setting, scales = "free_y", independent = "y") +
+  theme_bw(base_size=16, base_family="Times") +
+  theme(
+    legend.position = "top",
+    panel.grid = element_blank(),
+    axis.text = element_text(color = "black")
+  ) +
+  guides(shape="none") +
+  labs(
+    x = "Conclusion Concept Class",
+    y = "Measure",
+    color = "Reasoning"
+  )
+
+
 
