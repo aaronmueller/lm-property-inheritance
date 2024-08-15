@@ -3,6 +3,10 @@ import json
 import lexicon
 
 
+def read_tsv_dict(path):
+    with open(path, "r") as f:
+        return list(csv.DictReader(f, delimiter="\t"))
+
 def read_csv_dict(path):
     with open(path, "r") as f:
         return list(csv.DictReader(f))

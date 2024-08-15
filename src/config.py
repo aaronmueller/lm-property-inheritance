@@ -58,3 +58,15 @@ PROMPTS = {
         "label-separator": " ",
     },
 }
+
+
+CATEGORY_REPLACEMENTS = {
+    'breakfast food': 'breakfast',
+    'clothing accessory': 'accessory',
+    'farm animal': 'livestock',
+    'part of car': 'auto part',
+    'personal hygiene item': 'toiletry',
+    'watercraft': 'water vehicle',
+    'kitchen appliance': 'kitchen equipment',
+    'hardware': 'tool'
+}

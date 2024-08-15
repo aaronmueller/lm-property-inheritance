@@ -334,7 +334,7 @@ candy	peppermint	peppermint
 candy	taffy	taffy
 clothing	apron	apron
 clothing	armor	armor
-clothing	bandanna	bandanna
+clothing	bandana	bandana
 clothing	bathrobe	bathrobe
 clothing	beanie	beanie
 clothing	belt	belt
@@ -440,7 +440,7 @@ clothing	veil	veil
 clothing	vest	vest
 clothing	visor	visor
 clothing	wetsuit	wetsuit
-clothing accessory	bandanna	bandanna
+clothing accessory	bandana	bandana
 clothing accessory	belt	belt
 clothing accessory	belt_buckle	belt buckle
 clothing accessory	boa	boa
@@ -1304,7 +1304,7 @@ hardware	wedge	wedge
 hardware	wire	wire
 hardware	wire_cutters	wire cutters
 hardware	wrench	wrench
-headwear	bandanna	bandanna
+headwear	bandana	bandana
 headwear	beanie	beanie
 headwear	bonnet	bonnet
 headwear	bowler_hat	bowler hat

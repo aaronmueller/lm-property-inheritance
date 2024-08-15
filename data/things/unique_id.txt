@@ -65,7 +65,7 @@ banana
 banana_peel
 banana_split
 bandage
-bandanna
+bandana
 banjo
 bank
 banner
