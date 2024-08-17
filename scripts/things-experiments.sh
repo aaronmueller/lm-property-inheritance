@@ -1,6 +1,7 @@
 
 declare -a models=(mistralai/Mistral-7B-Instruct-v0.2)
-declare -a triples=(taxonomic sense_based_ns)
+# declare -a triples=(taxonomic sense_based_ns spose_prototype)
+declare -a triples=(spose_prototype)
 declare -a templates=(initial-qa variation-qa-1 variation-qa-1-mistral-special variation-qa-2)
 
 TRANSFORMERS_CACHE="/home/shared/km_cache"
@@ -15,6 +16,9 @@ for triples in ${triples[@]}; do
     elif [[ $triples == "sense_based_ns" ]]; then
         triples_path="data/things/negative-samples/things-sense_based-ns_triples.csv"
         save_dir="data/things/results/things-sense_based-ns/"
+    elif [[ $triples == "spose_prototype" ]]; then
+        triples_path="data/things/negative-samples/things-SPOSE_prototype-ns_triples.csv"
+        save_dir="data/things/results/things-SPOSE_prototype-ns/"
     fi
 
     for model in "${models[@]}"; do
