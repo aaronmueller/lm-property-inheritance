@@ -3,10 +3,11 @@ declare -a models=(google/Gemma-2-2B-it google/Gemma-2-9B-it)
 # declare -a triples=(taxonomic sense_based_ns spose_prototype)
 declare -a triples=(sense_based_ns spose_prototype)
 # declare -a triples=(spose_prototype)
-declare -a templates=(initial-qa variation-qa-1 variation-qa-1-mistral-special variation-qa-2)
+declare -a templates=(initial-qa variation-qa-1 variation-qa-2)
 
 # TRANSFORMERS_CACHE="/home/shared/km_cache"
 
+device="cuda:3"
 # python src/_test.py
 
 for triples in ${triples[@]}; do
@@ -29,7 +30,7 @@ for triples in ${triples[@]}; do
             # python src/eval_change_batched.py \
             #     --batch_size 16 \
             #     --num_examples 32 \
-            #     --device cuda:1 \
+            #     --device $device \
             #     --model $model \
             #     --triples_path $triples_path \
             #     --qa_format \
@@ -38,7 +39,7 @@ for triples in ${triples[@]}; do
             python src/eval_change_batched.py \
                 --batch_size 16 \
                 --num_examples -1 \
-                --device cuda:1 \
+                --device $device \
                 --model $model \
                 --triples_path $triples_path \
                 --save \
@@ -49,7 +50,7 @@ for triples in ${triples[@]}; do
             python src/eval_change_batched.py \
                 --batch_size 16 \
                 --num_examples -1 \
-                --device cuda:1 \
+                --device $device \
                 --model $model \
                 --triples_path $triples_path \
                 --save \
@@ -62,7 +63,7 @@ for triples in ${triples[@]}; do
             python src/eval_change_batched.py \
                 --batch_size 16 \
                 --num_examples -1 \
-                --device cuda:1 \
+                --device $device \
                 --model $model \
                 --triples_path $triples_path \
                 --save \
@@ -74,7 +75,7 @@ for triples in ${triples[@]}; do
             python src/eval_change_batched.py \
                 --batch_size 16 \
                 --num_examples -1 \
-                --device cuda:1 \
+                --device $device \
                 --model $model \
                 --triples_path $triples_path \
                 --save \
