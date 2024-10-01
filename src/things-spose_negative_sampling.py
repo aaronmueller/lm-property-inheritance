@@ -9,7 +9,7 @@ import lexicon
 
 from semantic_memory import vsm
 from tqdm import trange
-from collections import defaultdict
+from collections import defaultdict, Counter
 
 random.seed(42)
 
@@ -34,6 +34,7 @@ for entry in raw_categories:
     else:
         continue
 vocab_words = dict(vocab_words)
+words_vocab = {v: k for k, v in vocab_words.items()}
 
 vocab_raw = open("data/things/unique_id.txt", "r").readlines()
 vocab_raw = [x.strip() for x in vocab_raw]
@@ -169,7 +170,7 @@ class PairwiseSim:
         
 spose_prototypes = PairwiseSim(spose_sim_prototypes, things_prototypes.vocab2idx)
 
-print({k: len(set(v)) for k, v in anchor_children.items()})
+# print({k: len(set(v)) for k, v in anchor_children.items()})
 
 space = set(vocab_words.keys()) - set(categories.keys())
 space = set([c for c in space if vocab_words[c] in things_concepts])
@@ -193,6 +194,11 @@ for anchor, children in anchor_children.items():
     assert neighbor_half + non_neighbor_half == samples
 
     neighbors = spose_prototypes.neighbors(anchor, k=len(sample_space), space=sample_space)
+    neighbors_unique = defaultdict(list)
+    for c, sim in neighbors:
+        neighbors_unique[vocab_words[c]].append(sim)
+    neighbors = [(c, max(sims)) for c, sims in neighbors_unique.items()]
+
     anchor_neighbors[anchor].extend([c for c, sim in neighbors[:neighbor_half]])
 
     non_neighbors = list(reversed(neighbors))
@@ -201,10 +207,18 @@ for anchor, children in anchor_children.items():
 anchor_neighbors = dict(anchor_neighbors)
 anchor_neighbors = {k: random.sample(v, len(v)) for k, v in anchor_neighbors.items()}
 
+unique_lens = {k: len(set(v)) for k, v in anchor_neighbors.items()}
+print(f"Total unique negative samples: {sum(unique_lens.values())}")
+
+# print(neighbors)
+
 negative_sample_triples = []
 for anchor, negative_samples in anchor_neighbors.items():
     for ns in negative_samples:
-        negative_sample_triples.append((anchor, vocab_words[ns]))
+        negative_sample_triples.append((anchor, ns))
+
+# print(f"Total negative samples: {len(set(negative_sample_triples))}")
+print([item for item, count in Counter(negative_sample_triples).items() if count > 1])
 
 anchor_concept_sims = defaultdict(list)
 for anchor, hyponyms in anchor_children.items():
@@ -234,10 +248,16 @@ with open(f"data/things/negative-samples/things-SPOSE_prototype-ns_triples.csv",
         premise_sims[triple[0]].append(similarity)
         writer.writerow(triple + (similarity,))
 
+for triple in negative_sample_triples:
+    similarity = max(anchor_concept_sims[(triple[0], triple[1])])
+    premise_sims[triple[0]].append(similarity)
+
 taxonomic_pairs = set()
 for anchor, hyponyms in anchor_children.items():
     for hyponym in hyponyms:
         taxonomic_pairs.add((anchor, hyponym, max(anchor_concept_sims[(anchor, hyponym)])))
+
+print(f"Total taxonomic pairs: {len(taxonomic_pairs)}")
 
 # read in concepts
 def lemma2concept(entry):
@@ -275,6 +295,8 @@ for item in negative_sample_triples:
 
     final_pairs.add((premise, conclusion, hypernymy, similarity, similarity_bucket, premise_form, conclusion_form))
 
+print(f"Total negative pairs: {len(final_pairs)}")
+
 for item in taxonomic_pairs:
     premise, conclusion, similarity = item
     similarity_bucket = "high" if similarity >= torch.tensor(premise_sims[premise]).median() else "low"
@@ -284,6 +306,7 @@ for item in taxonomic_pairs:
 
     final_pairs.add((premise, conclusion, hypernymy, similarity, similarity_bucket, premise_form, conclusion_form))
 
+print(f"Total pairs: {len(final_pairs)}")
 with open(f"data/things/stimuli-pairs/things-inheritance-SPOSE_prototype_sim-pairs.csv", "w") as f:
     writer = csv.writer(f)
     writer.writerow(["premise", "conclusion", "hypernymy", "similarity_raw", "similarity_binary", "premise_form", "conclusion_form"])

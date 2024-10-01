@@ -34,3 +34,12 @@ tax_mb %>%
   count(premise, hypernymy) %>%
   pivot_wider(names_from = hypernymy, values_from = n) %>%
   filter(yes > no)
+
+
+
+things_lemmas <- read_csv("data/things/things-lemmas-annotated.csv")
+
+things_lemmas %>%
+  select(lemma, singular = article, plural, taxonomic_phrase, generic) %>%
+  mutate(singular = str_remove(singular, "^(a|an)\\s")) %>%
+  write_csv("~/projects/hypernymy-signals/data/hypernymy/things-lemmas-annotated.csv")

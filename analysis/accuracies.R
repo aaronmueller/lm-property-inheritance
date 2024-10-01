@@ -10,14 +10,21 @@ taxonomic_triples <- read_csv("data/things/things-triples-actual.csv") %>%
 
 sense_based_triples <- read_csv("data/things/negative-samples/things-sense_based-ns_triples.csv") %>%
   mutate(
-    hyponym_type = "sense_based_ns", 
+    hyponym_type = "sense_based-ns", 
     id = row_number()
   ) %>%
   select(anchor = premise, anchor_sense = `premise-sense`, hyponym = conclusion, similarity, hyponym_type, id)
 
+spose_triples <- read_csv("data/things/negative-samples/things-SPOSE_prototype-ns_triples.csv") %>%
+  mutate(
+    hyponym_type = "SPOSE_prototype-ns", 
+    id = row_number()
+  ) %>%
+  select(anchor = premise, hyponym = conclusion, similarity, hyponym_type, id)
+
 model_based_triples <- read_csv("data/things/negative-samples/things-mistralai_Mistral-7B-Instruct-v0.2_final_layer-ns_triples.csv") %>%
   mutate(
-    hyponym_type = "model_specific_ns", 
+    hyponym_type = "model_specific-ns", 
     id = row_number()
   ) %>%
   select(anchor = premise, hyponym = conclusion, similarity, hyponym_type, id)
@@ -54,7 +61,8 @@ raw_results <- dir_ls("data/things/results/", regexp = "*.csv", recurse=TRUE) %>
   inner_join(bind_rows(
     taxonomic_triples %>% select(id, anchor, hyponym, hyponym_type),
     model_based_triples %>% select(id, anchor, hyponym, hyponym_type),
-    sense_based_triples %>% select(id, anchor, hyponym, hyponym_type)
+    sense_based_triples %>% select(id, anchor, hyponym, hyponym_type),
+    spose_triples %>% select(id, anchor, hyponym, hyponym_type)
   )) %>%
   mutate(
     premise = case_when(reasoning == "deduction" ~ anchor, TRUE ~ hyponym),
@@ -79,11 +87,15 @@ raw_results %>%
     )
   ) |>
   ungroup() %>%
-  filter(hyponym_type != "model_specific_ns") %>%
+  # filter(hyponym_type != "model_specific_ns") %>%
+  # filter(!hyponym_type %in% c("model_specific-ns", "SPOSE_prototype-ns")) %>%
+  filter(hyponym_type %in% c("taxonomic", "SPOSE_prototype-ns")) %>%
+  # filter(hyponym_type == "taxonomic") %>%
   group_by(model, setting, reasoning, chat_format) %>%
   summarize(
+    n = n(),
     control_accuracy = mean(vs_control),
     empty_accuracy = mean(vs_empty),
     taxonomic_accuracy = mean(correctness)
-  )
+  ) %>% View()
 
