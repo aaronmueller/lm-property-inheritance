@@ -9,7 +9,7 @@ declare -a templates=(initial-qa variation-qa-1 variation-qa-2)
 
 # TRANSFORMERS_CACHE="/home/shared/km_cache"
 
-device="cuda:3"
+device="cuda:0"
 # python src/_test.py
 
 for triples in ${triples[@]}; do
