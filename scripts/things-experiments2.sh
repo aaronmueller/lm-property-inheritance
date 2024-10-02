@@ -1,8 +1,10 @@
 
 declare -a models=(google/Gemma-2-2B-it google/Gemma-2-9B-it)
 # declare -a triples=(taxonomic sense_based_ns spose_prototype)
-declare -a triples=(sense_based_ns spose_prototype)
+# declare -a models=(meta-llama/Llama-3-8B-Instruct)
+# declare -a triples=(sense_based_ns spose_prototype)
 # declare -a triples=(spose_prototype)
+declare -a triples=(taxonomic)
 declare -a templates=(initial-qa variation-qa-1 variation-qa-2)
 
 # TRANSFORMERS_CACHE="/home/shared/km_cache"
