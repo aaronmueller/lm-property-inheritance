@@ -60,6 +60,8 @@ for t in triples:
 
 anchor_children = dict(anchor_children)
 
+# print(anchor_children['animal'])
+
 categories = defaultdict(list)
 for entry in raw_categories:
     cat = entry["category"]
@@ -175,11 +177,21 @@ spose_prototypes = PairwiseSim(spose_sim_prototypes, things_prototypes.vocab2idx
 space = set(vocab_words.keys()) - set(categories.keys())
 space = set([c for c in space if vocab_words[c] in things_concepts])
 
+# print(anchor_children['animal'])
+
 anchor_neighbors = defaultdict(list)
 for anchor, children in anchor_children.items():
     # space = hyponyms - anchor_children[anchor]
     # space = [c for c in space if c in CONCEPTS.keys()]
-    sample_space = list(space - children)
+    sample_space_initial = list(space - children)
+    sample_space = []
+    for c in sample_space_initial:
+        if vocab_words[c] not in children:
+            sample_space.append(c)
+
+    if anchor == "animal":
+        if "calf" in sample_space:
+            print("what is a calf doing here?")
 
     samples = len(anchor_children[anchor])
 
@@ -196,8 +208,14 @@ for anchor, children in anchor_children.items():
     neighbors = spose_prototypes.neighbors(anchor, k=len(sample_space), space=sample_space)
     neighbors_unique = defaultdict(list)
     for c, sim in neighbors:
-        neighbors_unique[vocab_words[c]].append(sim)
+        if c not in children:
+            neighbors_unique[vocab_words[c]].append(sim)
     neighbors = [(c, max(sims)) for c, sims in neighbors_unique.items()]
+
+    if anchor == "animal":
+        for c, s in neighbors:
+            if c == "calf":
+                print("what is a polar bear doing here?")
 
     anchor_neighbors[anchor].extend([c for c, sim in neighbors[:neighbor_half]])
 
