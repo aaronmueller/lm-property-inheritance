@@ -56,7 +56,7 @@ results <- raw_results %>%
     ),
     model = str_extract(file, "(?<=(logprobs|qa_format)/)(.*)(?=.csv)") %>%
       str_remove("_chat-format"),
-    model = str_replace(model, "(google_|mistralai_)", ""),
+    model = str_replace(model, "(google_|mistralai_|meta-llama_Meta-)", ""),
     template = str_extract(model, "_(.*)") %>% str_replace("_", ""),
     model = str_extract(model, "(.*)_") %>% str_replace("_", "")
     # template = str_extract(file, glue::glue("(?<={model}_)(.*)(?=(_chat-format.csv|.csv))"))
@@ -77,6 +77,8 @@ results <- raw_results %>%
     conclusion = case_when(reasoning == "deduction" ~ hyponym, TRUE ~ anchor),
   )
 
+results %>% count(model)
+
 # deduction
 
 deduction <- results %>%
@@ -90,13 +92,34 @@ deduction <- results %>%
 sim_deduction <- bind_rows(
   deduction %>%
     filter(hyponym_type %in% c("taxonomic", "sense_based-ns")) %>%
-    inner_join(sense_based_stimuli %>% rename(anchor = premise, hyponym = conclusion))
+    inner_join(sense_based_stimuli %>% rename(anchor = premise, hyponym = conclusion)) %>%
+    mutate(sim_type = "sense-based")
   # deduction %>%
   #   filter(hyponym_type %in% c("taxonomic", "SPOSE_prototype-ns")) %>%
   #   inner_join(spose_stimuli %>% rename(anchor = premise, hyponym = conclusion))
 )
 
 sim_deduction %>%
-  group_by()
+  mutate(
+    controlled_logprob = logprob - control,
+    condition = case_when(
+      hypernymy == "yes" & similarity_binary == "high" ~ "Taxonomic\nHigh-Sim",
+      hypernymy == "yes" & similarity_binary == "low" ~ "Taxonomic\nLow-Sim",
+      hypernymy == "no" & similarity_binary == "low" ~ "Non-Taxonomic\nLow-Sim",
+      TRUE ~ "Non-Taxonomic\nHigh-Sim",
+    ),
+    condition = factor(condition)
+  ) %>%
+  mutate(
+    correctness = case_when(
+      hypernymy == "yes" ~ logprob > 0,
+      TRUE ~ logprob < 0
+    )
+  ) %>%
+  group_by(model, chat_format, template, sim_type) %>% 
+  summarize(
+    n = n(),
+    accuracy = mean(correctness)
+  )
 
 
