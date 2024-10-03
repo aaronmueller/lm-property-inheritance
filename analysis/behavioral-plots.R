@@ -90,11 +90,13 @@ deduction <- results %>%
 sim_deduction <- bind_rows(
   deduction %>%
     filter(hyponym_type %in% c("taxonomic", "sense_based-ns")) %>%
-    inner_join(sense_based_stimuli %>% rename(anchor = premise, hyponym = conclusion)),
-  deduction %>%
-    filter(hyponym_type %in% c("taxonomic", "SPOSE_prototype-ns")) %>%
-    inner_join(spose_stimuli %>% rename(anchor = premise, hyponym = conclusion))
+    inner_join(sense_based_stimuli %>% rename(anchor = premise, hyponym = conclusion))
+  # deduction %>%
+  #   filter(hyponym_type %in% c("taxonomic", "SPOSE_prototype-ns")) %>%
+  #   inner_join(spose_stimuli %>% rename(anchor = premise, hyponym = conclusion))
 )
 
+sim_deduction %>%
+  group_by()
 
 
