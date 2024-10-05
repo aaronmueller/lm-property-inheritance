@@ -28,6 +28,8 @@ def main(args):
     prompt_template = args.prompt_template
 
     label_separator = config.PROMPTS[prompt_template]["label-separator"]
+    if "gemma" in model_name.lower():
+        label_separator = ""
 
     if quantize:
         bnb_config = BitsAndBytesConfig(

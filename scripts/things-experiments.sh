@@ -1,8 +1,8 @@
 
 # declare -a models=(mistralai/Mistral-7B-Instruct-v0.2 google/Gemma-2-2B-it google/Gemma-2-9B-it)
-declare -a models=(google/Gemma-2-2B-it google/Gemma-2-9B-it)
+declare -a models=(google/Gemma-2-2B-it)
 # declare -a triples=(taxonomic sense_based_ns spose_prototype)
-declare -a triples=(spose_prototype)
+declare -a triples=(taxonomic sense_based_ns spose_prototype)
 # declare -a templates=(initial-qa variation-qa-1 variation-qa-1-mistral-special variation-qa-2)
 declare -a templates=(initial-qa variation-qa-1 variation-qa-2)
 
