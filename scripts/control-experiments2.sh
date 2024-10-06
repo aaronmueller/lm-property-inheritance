@@ -1,7 +1,7 @@
 # declare -a models=(google/Gemma-2-9B-it google/Gemma-2-2B-it meta-llama/Meta-Llama-3-8B-Instruct)
 declare -a triples=(spose_prototype)
 
-# TRANSFORMERS_CACHE="/home/shared/km_cache"
+TRANSFORMERS_CACHE="/home/shared/km_cache"
 device="cuda:1"
 
 for triples in ${triples[@]}; do
