@@ -50,12 +50,18 @@ def main(args):
     else:
         tokenizer = None
 
+    # uniform subsample
+    # random.seed(args.seed)
+    random.seed(42)
+
     stimuli = generate_stimuli(
         triples_path,
         lemmas_path,
         prompt_cfg=config.PROMPTS[prompt_template],
         induction=induction,
         tokenizer=tokenizer,
+        multi_property=args.multi_property,
+        prop_contrast=args.prop_contrast,
     )
 
     triples = utils.read_csv_dict(triples_path)
@@ -63,9 +69,6 @@ def main(args):
     for i, t in enumerate(triples):
         if t["premise"] == t["conclusion"]:
             bad_ids.append(i)
-
-    # uniform subsample
-    random.seed(12)
 
     if num_examples == -1:
         num_examples = len(stimuli)
@@ -90,6 +93,9 @@ def main(args):
     #     formatted_stimuli.append((prefixes, queries))
 
     print(formatted_stimuli[:4])
+    print(
+        f"Multi-property: {args.multi_property}; Property Contrast: {args.prop_contrast}"
+    )
 
     stimuli_dl = DataLoader(formatted_stimuli, batch_size=args.batch_size)
 
@@ -165,6 +171,16 @@ if __name__ == "__main__":
         "--qa_format",
         action="store_true",
         help="If false (default), get probability of 'X has property.' If true, use yes/no contrasts.",
+    )
+    parser.add_argument(
+        "--multi_property",
+        action="store_true",
+        help="If false (default), only evaluates on single property, else, evaluates on multiple.",
+    )
+    parser.add_argument(
+        "--prop_contrast",
+        action="store_true",
+        help="If false (default), premise and conclusion properties are the same. If true, they are always diff.",
     )
     parser.add_argument(
         "--chat_format", action="store_true", help="If true, use chat format."

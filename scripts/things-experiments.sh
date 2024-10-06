@@ -1,12 +1,12 @@
 
-# declare -a models=(mistralai/Mistral-7B-Instruct-v0.2 google/Gemma-2-2B-it google/Gemma-2-9B-it)
-declare -a models=(google/Gemma-2-9B-it google/Gemma-2-2B-it)
+declare -a models=(mistralai/Mistral-7B-Instruct-v0.2)
+# declare -a models=(google/Gemma-2-9B-it google/Gemma-2-2B-it)
 # declare -a triples=(taxonomic sense_based_ns spose_prototype)
-declare -a triples=(sense_based_ns spose_prototype)
+declare -a triples=(sense_based_ns)
 # declare -a templates=(initial-qa variation-qa-1 variation-qa-1-mistral-special variation-qa-2)
-declare -a templates=(variation-qa-1 variation-qa-2)
+declare -a templates=(variation-qa-1 variation-qa-1-mistral-special variation-qa-2)
 
-# TRANSFORMERS_CACHE="/home/shared/km_cache"
+TRANSFORMERS_CACHE="/home/shared/km_cache"
 device="cuda:0"
 
 # python src/_test.py

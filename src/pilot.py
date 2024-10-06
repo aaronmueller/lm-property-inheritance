@@ -3,7 +3,9 @@ import config
 import csv
 import json
 import lexicon
+import pathlib
 import utils
+import random
 
 from collections import defaultdict
 from prompt import Prompt
@@ -141,6 +143,8 @@ def generate_stimuli(
     prompt_cfg,
     induction=False,
     tokenizer=None,
+    multi_property=False,
+    prop_contrast=False
 ):
 
     stimuli = []
@@ -154,13 +158,24 @@ def generate_stimuli(
             if row["remove"] != "1":
                 concepts[row["lemma"]] = lemma2concept(row)
 
-    # construct fake property (can also refer to config.py)
-    fake_property = lexicon.Property("daxable", "is daxable", "are daxable")
-    prompt = Prompt(prompt_cfg["template"], prompt_cfg["zero_shot"])
+    contrasting_properties = {
+        'daxable': lexicon.Property("feps", "has feps", "have feps"),
+        "feps": lexicon.Property("daxable", "is daxable", "are daxable")
+    }
+
 
     # read triples
     triples = utils.read_csv_dict(triple_path)
-    for triple in triples:
+
+    # construct fake property (can also refer to config.py)
+    if multi_property:
+        fake_properties = [lexicon.Property("daxable", "is daxable", "are daxable")] * int(len(triples)/2) + [lexicon.Property("feps", "has feps", "have feps")] * int(len(triples)/2)
+        random.shuffle(fake_properties)
+    else:
+        fake_properties = [lexicon.Property("daxable", "is daxable", "are daxable")] * len(triples)
+    prompt = Prompt(prompt_cfg["template"], prompt_cfg["zero_shot"])
+
+    for triple, fake_property in zip(triples, fake_properties):
         try:
             hyponym = triple["hyponym"]
             anchor = triple["anchor"]
@@ -178,14 +193,25 @@ def generate_stimuli(
                 premise = parent
                 conclusion = child
 
-            if tokenizer is not None:
-                stimulus_instance = prompt.create_sample_tokenized(
-                    premise, conclusion, fake_property, tokenizer=tokenizer
-                )
+            if prop_contrast:
+                contrast_prop = contrasting_properties[fake_property.property_name]
+                if tokenizer is not None:
+                    stimulus_instance = prompt.create_multiprop_stimulus(
+                        premise, conclusion, fake_property, contrast_prop, tokenizer=tokenizer
+                    )
+                else:
+                    stimulus_instance = prompt.create_multiprop_stimulus(
+                        premise, conclusion, fake_property, contrast_prop
+                    )
             else:
-                stimulus_instance = prompt.create_sample(
-                    premise, conclusion, fake_property
-                )
+                if tokenizer is not None:
+                    stimulus_instance = prompt.create_sample_tokenized(
+                        premise, conclusion, fake_property, tokenizer=tokenizer
+                    )
+                else:
+                    stimulus_instance = prompt.create_sample(
+                        premise, conclusion, fake_property
+                    )
 
             stimuli.append(stimulus_instance)
         else:
