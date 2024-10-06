@@ -29,6 +29,7 @@ def main(args):
     prompt_template = args.prompt_template
 
     label_separator = config.PROMPTS[prompt_template]["label-separator"]
+    # if "mistral" in model
     # if "gemma" in model_name.lower():
     #     label_separator = ""
 
@@ -83,6 +84,8 @@ def main(args):
     stimuli = stimuli[:num_examples]
 
     formatted_stimuli = [stimulus[-1] for stimulus in stimuli]
+    if "mistral" in model_name.lower():
+        formatted_stimuli = [stimulus[-1] + " " for stimulus in stimuli]
     # for instance in tqdm(stimuli, desc="Examples", total=num_examples):
     #     if qa_format:
     #         prefixes = instance[-1]

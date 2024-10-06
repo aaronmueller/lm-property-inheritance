@@ -13,30 +13,80 @@ for triples in ${triples[@]}; do
         save_dir="data/things/results/things-SPOSE_prototype-ns"
     fi
 
+    # python src/behavioral_eval.py \
+    #     --batch_size 16 \
+    #     --num_examples -1 \
+    #     --device $device \
+    #     --model google/Gemma-2-9B-it \
+    #     --triples_path $triples_path \
+    #     --save \
+    #     --save_dir ${save_dir}_multi-property \
+    #     --qa_format \
+    #     --prompt_template variation-qa-2 \
+    #     --chat_format \
+    #     --multi_property
+
+    # python src/behavioral_eval.py \
+    #     --batch_size 16 \
+    #     --num_examples -1 \
+    #     --device $device \
+    #     --model google/Gemma-2-9B-it \
+    #     --triples_path $triples_path \
+    #     --save \
+    #     --save_dir ${save_dir}_multi-property_prop-contrast \
+    #     --qa_format \
+    #     --prompt_template variation-qa-2 \
+    #     --chat_format \
+    #     --multi_property \
+    #     --prop_contrast
+
+    # python src/behavioral_eval.py \
+    #     --batch_size 16 \
+    #     --num_examples -1 \
+    #     --device $device \
+    #     --model google/Gemma-2-2B-it \
+    #     --triples_path $triples_path \
+    #     --save \
+    #     --save_dir ${save_dir}_multi-property \
+    #     --qa_format \
+    #     --prompt_template variation-qa-1 \
+    #     --multi_property
+
+    # python src/behavioral_eval.py \
+    #     --batch_size 16 \
+    #     --num_examples -1 \
+    #     --device $device \
+    #     --model google/Gemma-2-2B-it \
+    #     --triples_path $triples_path \
+    #     --save \
+    #     --save_dir ${save_dir}_multi-property_prop-contrast \
+    #     --qa_format \
+    #     --prompt_template variation-qa-1 \
+    #     --multi_property \
+    #     --prop_contrast
+
     python src/behavioral_eval.py \
         --batch_size 16 \
         --num_examples -1 \
         --device $device \
-        --model google/Gemma-2-9B-it \
+        --model meta-llama/Meta-Llama-3-8B-Instruct \
         --triples_path $triples_path \
         --save \
         --save_dir ${save_dir}_multi-property \
         --qa_format \
         --prompt_template variation-qa-2 \
-        --chat_format \
         --multi_property
 
     python src/behavioral_eval.py \
         --batch_size 16 \
         --num_examples -1 \
         --device $device \
-        --model google/Gemma-2-9B-it \
+        --model meta-llama/Meta-Llama-3-8B-Instruct \
         --triples_path $triples_path \
         --save \
         --save_dir ${save_dir}_multi-property_prop-contrast \
         --qa_format \
         --prompt_template variation-qa-2 \
-        --chat_format \
         --multi_property \
         --prop_contrast
 
@@ -44,24 +94,24 @@ for triples in ${triples[@]}; do
         --batch_size 16 \
         --num_examples -1 \
         --device $device \
-        --model google/Gemma-2-2B-it \
+        --model mistralai/Mistral-7B-Instruct-v0.2 \
         --triples_path $triples_path \
         --save \
         --save_dir ${save_dir}_multi-property \
         --qa_format \
-        --prompt_template variation-qa-1 \
+        --prompt_template variation-qa-1-mistral-special \
         --multi_property
 
     python src/behavioral_eval.py \
         --batch_size 16 \
         --num_examples -1 \
         --device $device \
-        --model google/Gemma-2-2B-it \
+        --model mistralai/Mistral-7B-Instruct-v0.2 \
         --triples_path $triples_path \
         --save \
         --save_dir ${save_dir}_multi-property_prop-contrast \
         --qa_format \
-        --prompt_template variation-qa-1 \
+        --prompt_template variation-qa-1-mistral-special \
         --multi_property \
         --prop_contrast
 done
