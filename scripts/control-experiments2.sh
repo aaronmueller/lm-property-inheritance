@@ -65,30 +65,30 @@ for triples in ${triples[@]}; do
     #     --multi_property \
     #     --prop_contrast
 
-    python src/behavioral_eval.py \
-        --batch_size 16 \
-        --num_examples -1 \
-        --device $device \
-        --model meta-llama/Meta-Llama-3-8B-Instruct \
-        --triples_path $triples_path \
-        --save \
-        --save_dir ${save_dir}_multi-property \
-        --qa_format \
-        --prompt_template variation-qa-2 \
-        --multi_property
+    # python src/behavioral_eval.py \
+    #     --batch_size 16 \
+    #     --num_examples -1 \
+    #     --device $device \
+    #     --model meta-llama/Meta-Llama-3-8B-Instruct \
+    #     --triples_path $triples_path \
+    #     --save \
+    #     --save_dir ${save_dir}_multi-property \
+    #     --qa_format \
+    #     --prompt_template variation-qa-2 \
+    #     --multi_property
 
-    python src/behavioral_eval.py \
-        --batch_size 16 \
-        --num_examples -1 \
-        --device $device \
-        --model meta-llama/Meta-Llama-3-8B-Instruct \
-        --triples_path $triples_path \
-        --save \
-        --save_dir ${save_dir}_multi-property_prop-contrast \
-        --qa_format \
-        --prompt_template variation-qa-2 \
-        --multi_property \
-        --prop_contrast
+    # python src/behavioral_eval.py \
+    #     --batch_size 16 \
+    #     --num_examples -1 \
+    #     --device $device \
+    #     --model meta-llama/Meta-Llama-3-8B-Instruct \
+    #     --triples_path $triples_path \
+    #     --save \
+    #     --save_dir ${save_dir}_multi-property_prop-contrast \
+    #     --qa_format \
+    #     --prompt_template variation-qa-2 \
+    #     --multi_property \
+    #     --prop_contrast
 
     python src/behavioral_eval.py \
         --batch_size 16 \
