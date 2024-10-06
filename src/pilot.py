@@ -165,8 +165,8 @@ def generate_stimuli(
             hyponym = triple["hyponym"]
             anchor = triple["anchor"]
         except:
-            hyponym = triple["premise"]
-            anchor = triple["conclusion"]
+            anchor = triple["premise"]
+            hyponym = triple["conclusion"]
         if hyponym in concepts.keys() and anchor in concepts.keys():
             child = concepts[hyponym]
             parent = concepts[anchor]

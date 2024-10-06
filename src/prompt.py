@@ -40,11 +40,21 @@ class Prompt:
         premise_sentence = premise.property_sentence(prop)
         conclusion_sentence = conclusion.property_sentence(prop)
 
+        # def _chat_template(sequence):
+        #     formatted = [{"role": "user", "content": sequence.strip()}]
+        #     return tokenizer.apply_chat_template(
+        #         formatted, tokenize=False, add_generation_prompt=True
+        #     )
+
         def _chat_template(sequence):
             formatted = [{"role": "user", "content": sequence.strip()}]
-            return tokenizer.apply_chat_template(
+            templated = tokenizer.apply_chat_template(
                 formatted, tokenize=False, add_generation_prompt=True
             )
+            reformatted = tokenizer.decode(
+                tokenizer(templated, add_special_tokens=False).input_ids[1:]
+            )
+            return reformatted
 
         # print(self.zero_shot.substitute(conclusion=conclusion_sentence))
         zero_shot_prompt = _chat_template(
