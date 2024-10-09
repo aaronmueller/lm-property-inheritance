@@ -16,6 +16,6 @@ for layer in "${layers[@]}"; do
     for position in "${positions[@]}"; do
         # Call your Python script with the current layer and position
         echo "Running: python boundless_das2.py layer $layer position $position sim $sim model $model"
-        python boundless_das2.py "$position" "$layer" "$filter" $cuda_gpu" "$sim" "$model" --control
+        python boundless_das2.py "$position" "$layer" "$filter" "$cuda_gpu" "$sim" "$model" --control
     done
 done
