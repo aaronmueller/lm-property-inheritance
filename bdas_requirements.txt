@@ -1,0 +1,5 @@
+transformers==4.44.2 # but need 4.45.1 to get gemma-2- to work!
+seaborn
+pandas
+matplotlib
+datasets==2.19.1
