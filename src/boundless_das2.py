@@ -721,9 +721,9 @@ if __name__ == "__main__":
 
     modelname = args.model
 
-    if model=='mistral':
+    if modelname=='mistral':
         modelname = "mistralai/Mistral-7B-Instruct-v0.2"
-    elif model=='gemma':
+    elif modelname=='gemma':
         modelname = "google/gemma-2-9b-it"
     else:
         raise ValueError("Remember to load right llama from pyvene, not alpaca!")
