@@ -36,7 +36,7 @@ import utils
 import prompt
 from utils_bdas import find_sublist_indices, save_results, load_results, plot_heatmap
 
-from boundless_das import load_data, create_dataset_for_intervention, evaluate
+from boundless_das2 import load_data, create_dataset_for_intervention, evaluate
 
 #cuda_gpu = "1"
 LEMMA_PATH = "../data/things/things-lemmas-annotated.csv"
@@ -128,7 +128,7 @@ if __name__ == "__main__":
         yes_token = None
         no_token = None
 
-    samples, yes_token, no_token = load_data(csv_filepath, tokenizer, data_fraction=1,  prompt_config=prompt_config, chat_style=chat_style, yes_token, no_token)
+    samples, yes_token, no_token = load_data(csv_filepath, tokenizer, data_fraction=1,  prompt_config=prompt_config, chat_style=chat_style, yes_token=yes_token, no_token=no_token)
 
     print("YES TOKEN: ", yes_token)
     print("NO TOKEN: ", no_token)
