@@ -99,9 +99,10 @@ if __name__ == "__main__":
         modelname = "mistralai/Mistral-7B-Instruct-v0.2"
     elif modelname=='gemma':
         modelname = "google/gemma-2-9b-it"
+    elif modelname=='llama':
+        modelname = "meta-llama/Meta-Llama-3-8B-Instruct"
     else:
-        raise ValueError("Remember to load right llama from pyvene, not alpaca!")
-
+        raise ValueError("gemma, mistral or llama")
 
 #    modelname = "mistralai/Mistral-7B-Instruct-v0.2"
     #modelname = "google/gemma-2-9b-it"
