@@ -4,11 +4,11 @@
 layers=(0 5 10 15 20 25 31) #for mistral 7B
 #layers=(15 20 25 30 35 41)
 positions=("premise_first" "premise_last" "conclusion_first" "conclusion_last" "last")
-filter="high-sim-pos"
-model="mistral"
-sim="spose"
+filter="balanced"
+model="llama"
+sim="sense"
 
-cuda_gpu="1"
+cuda_gpu="3"
 
 
 # Nested loop to iterate over layers and positions

@@ -18,7 +18,7 @@ from collections import defaultdict, Counter, namedtuple
 
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-sys.path.append("/data/users/jdr/concepts/pyvene")
+sys.path.append("/datastor1/jdr/concept-hierarchies/pyvenefix")
 import pyvene
 from pyvene import (
     IntervenableModel,
@@ -726,8 +726,10 @@ if __name__ == "__main__":
         modelname = "mistralai/Mistral-7B-Instruct-v0.2"
     elif modelname=='gemma':
         modelname = "google/gemma-2-9b-it"
+    elif modelname=='llama':
+        modelname = "meta-llama/Meta-Llama-3-8B-Instruct"
     else:
-        raise ValueError("Remember to load right llama from pyvene, not alpaca!")
+        raise ValueError("gemma, mistral or llama")
 
     #prompt_config = "variation-qa-2" # use for gemma-2-9B + chat
     #modelname = "google/gemma-2-9b-it"

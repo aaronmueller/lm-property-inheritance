@@ -8,7 +8,7 @@ filter="balanced"
 model="mistral"
 sim="spose"
 
-cuda_gpu="0"
+cuda_gpu="2"
 
 
 # Nested loop to iterate over layers and positions
