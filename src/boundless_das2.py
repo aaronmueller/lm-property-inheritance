@@ -454,6 +454,7 @@ def calculate_loss(logits, labels, intervenable):
 
 
 def train_boundless_das(layer_to_investigate,
+                        model,
                         Yes_id,
                         No_id,
                         train_dataloader,
@@ -837,7 +838,7 @@ if __name__ == "__main__":
 
                 detail_string = 'relpos-'+relative_pos+'-offset-'+str(offset)+'-layer-'+str(layer)
 
-                intervenable, eval_metrics = train_boundless_das(layer, Yes_id, No_id, train_dataloader, test_dataloader, detail_string, verbose=False, epochs=epochs, evaluateit=eval_during_train, outputdirname=output_dir_name, filter_name = train_filter, cuda_gpu=cuda_gpu, control=control, topdir=topdir)
+                intervenable, eval_metrics = train_boundless_das(layer, model, Yes_id, No_id, train_dataloader, test_dataloader, detail_string, verbose=False, epochs=epochs, evaluateit=eval_during_train, outputdirname=output_dir_name, filter_name = train_filter, cuda_gpu=cuda_gpu, control=control, topdir=topdir)
                 if eval_metrics is not None:
                     result =  eval_metrics['accuracy']
                     print(result)
@@ -859,7 +860,7 @@ if __name__ == "__main__":
 
         detail_string = 'relpos-'+relative_pos+'-offset-'+str(offset)+'-layer-'+str(layer)
 
-        intervenable, eval_metrics = train_boundless_das(layer, Yes_id, No_id, train_dataloader, test_dataloader, detail_string, verbose=False, epochs=epochs, evaluateit=eval_during_train, outputdirname = output_dir_name, filter_name = train_filter, cuda_gpu=cuda_gpu, control=control, topdir=topdir)
+        intervenable, eval_metrics = train_boundless_das(layer, model, Yes_id, No_id, train_dataloader, test_dataloader, detail_string, verbose=False, epochs=epochs, evaluateit=eval_during_train, outputdirname = output_dir_name, filter_name = train_filter, cuda_gpu=cuda_gpu, control=control, topdir=topdir)
         if eval_metrics is not None:
             result =  eval_metrics['accuracy']
             print(result)
