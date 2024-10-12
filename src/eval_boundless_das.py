@@ -101,6 +101,8 @@ if __name__ == "__main__":
         modelname = "google/gemma-2-9b-it"
     elif modelname=='llama':
         modelname = "meta-llama/Meta-Llama-3-8B-Instruct"
+    elif modelname=='gemma2b':
+        modelname = "google/gemma-2-2b-it"
     else:
         raise ValueError("gemma, mistral or llama")
 
@@ -117,6 +119,9 @@ if __name__ == "__main__":
     if modelname == "mistralai/Mistral-7B-Instruct-v0.2":
         prompt_config = "variation-qa-1-mistral-special"
         chat_style = False
+    if modelname == "google/gemma-2-2b-it":
+        prompt_config = "variation-qa-2"
+        chat_style=True
 
     model, tokenizer = load_model(modelname, cuda_gpu)
 
@@ -141,19 +146,20 @@ if __name__ == "__main__":
     test = samples[num_train:]
 
     if portion==1:
-        print("Let's see if the whole thing fits in memory!")
-#        test = test[:254]
-#    elif portion==2:
-#        test = test[254:508]
-#    elif portion==3:
-#        test = test[508:762]
-#    elif portion==4:
-#        test = test[762:]
+        #print("Let's see if the whole thing fits in memory!")
+        test = test[:254]
+    elif portion==2:
+        test = test[254:508]
+    elif portion==3:
+        test = test[508:762]
+    elif portion==4:
+        test = test[762:]
     else:
         raise ValueError("!!")
     print("Evaluating on num samples: ", len(test))
 
     batch_size = 24 #8 #6 #5 #4
+    #batch_size = 10
 
     train_filter = args.train_filter #'balanced'
     test_filter = args.test_filter #'balanced'
