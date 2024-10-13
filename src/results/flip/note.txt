@@ -1,0 +1,2 @@
+Just curious what happens if training and testing DAS purely on reverse direction
+(training: only on set where it gets answer "right")
