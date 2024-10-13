@@ -346,6 +346,45 @@ def format_source_base(samples, mode, sample_with_replacement=False):
     return L #list(zip(samples, source))
 
 
+def format_source_base_diff(samples, mode, sample_with_replacement=False):
+    """
+    different filters for source and base.
+    generalize this later!
+
+    e.g., all samples for train regardless of whether high sim, taxonomic etc, "balanced"
+    Ltrain  = format_source_base(train, 'balanced')
+
+    say we want test set which is high sim only for positive (taxonomic) examples:
+    L  = format_source_base(test, 'high-sim-pos')
+
+    Returns
+    -------
+
+    List of namedtuples; each contains a base and source example.
+    """
+    #Filter samples according to criteria:
+    base = [s for s in samples if s['is_hyper']=='no']
+    source = [s for s in samples if s['is_hyper']=='yes']
+
+    minl = min(len(base), len(source))
+    random.sample(base, len(base))
+    random.sample(base, len(base))
+
+    #NOTE for now use same filtering mode for source as for base.
+
+    #Now, sample from WITHIN the filtered samples, to get source examples for intervention.
+#    if sample_with_replacement:
+#        random.seed(42)
+#        source = [random.choice(samples) for _ in range(len(samples))]
+#    else:
+    random.seed(42)
+
+#        source = random.sample(samples, len(samples))
+
+    Pair = namedtuple('Pair', ['base', 'source'])
+    L = [Pair(samples[ii], source[ii]) for ii in range(len(source))]
+    return L #list(zip(samples, source))
+
 def _get_pos(i, relative_pos, offset, input_ids):
     # position i
     if relative_pos=='conclusion_last':
@@ -369,8 +408,9 @@ def _get_pos(i, relative_pos, offset, input_ids):
     return pos
 
 
-def create_dataset_for_intervention(samples, relative_pos, offset, filter_mode, batch_size):
-    sb_pairs  = format_source_base(samples, filter_mode)
+def create_dataset_for_intervention(samples, relative_pos, offset, filter_mode, batch_size, sb_pairs=None):
+    if sb_pairs is None:
+        sb_pairs  = format_source_base(samples, filter_mode)
 
     dataset = Dataset.from_dict(
         {
