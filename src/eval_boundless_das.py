@@ -18,7 +18,8 @@ from collections import defaultdict, Counter, namedtuple
 
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-sys.path.append("/data/users/jdr/concepts/pyvene")
+pyvene_dir = os.getenv('PYVENE')
+sys.path.append(pyvene_dir)
 import pyvene
 from pyvene import (
     IntervenableModel,
@@ -185,15 +186,18 @@ if __name__ == "__main__":
     if not os.path.exists(results_path):
         os.makedirs(results_path)
 
-#    with open(os.path.join(results_path, 'iia-argmax-'+str(portion)+'.csv'), 'a') as fd:
-#        fd.write(str(layer) + '\t' + relative_pos + '\t' + str(eval_metrics['accuracy']) + '\n')
-
-#    with open(os.path.join(results_path, 'iia-yn-'+str(portion)+'.csv'), 'a') as fd:
-#        fd.write(str(layer) + '\t' + relative_pos + '\t' + str(eval_metrics['accuracy_yn']) + '\n')
-
-    with open(os.path.join(results_path, 'iia-argmax'+'.csv'), 'a') as fd:
+    with open(os.path.join(results_path, 'iia-argmax-'+str(portion)+'.csv'), 'a') as fd:
         fd.write(str(layer) + '\t' + relative_pos + '\t' + str(eval_metrics['accuracy']) + '\n')
 
-    with open(os.path.join(results_path, 'iia-yn'+'.csv'), 'a') as fd:
+    with open(os.path.join(results_path, 'iia-yn-'+str(portion)+'.csv'), 'a') as fd:
         fd.write(str(layer) + '\t' + relative_pos + '\t' + str(eval_metrics['accuracy_yn']) + '\n')
+
+    with open(os.path.join(results_path, 'portion-counts.csv'), 'a') as fd:
+        fd.write(str(portion)+ '\t'+ str(test_dataloader.dataset.num_rows)+ '\n')
+
+#    with open(os.path.join(results_path, 'iia-argmax'+'.csv'), 'a') as fd:
+#        fd.write(str(layer) + '\t' + relative_pos + '\t' + str(eval_metrics['accuracy']) + '\n')
+
+#    with open(os.path.join(results_path, 'iia-yn'+'.csv'), 'a') as fd:
+#        fd.write(str(layer) + '\t' + relative_pos + '\t' + str(eval_metrics['accuracy_yn']) + '\n')
 

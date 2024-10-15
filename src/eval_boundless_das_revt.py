@@ -18,7 +18,8 @@ from collections import defaultdict, Counter, namedtuple
 
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-sys.path.append("/data/users/jdr/concepts/pyvene")
+pyvene_dir = os.getenv('PYVENE')
+sys.path.append(pyvene_dir)
 import pyvene
 from pyvene import (
     IntervenableModel,
@@ -81,9 +82,9 @@ if __name__ == "__main__":
     print("portion: ", portion)
 
     #modelname = "meta-llama/Meta-Llama-3-8B-Instruct"
-    modelname = "mistralai/Mistral-7B-Instruct-v0.2"
-    #modelname = "google/gemma-2-9b-it"
-    #modelname = "google/gemma-2-9b-it"
+    #modelname = "mistralai/Mistral-7B-Instruct-v0.2"
+    #modelname = "google/gemma-2-2b-it"
+    modelname = "google/gemma-2-9b-it"
     #first_half = True
 
     if modelname == "meta-llama/Meta-Llama-3-8B-Instruct":

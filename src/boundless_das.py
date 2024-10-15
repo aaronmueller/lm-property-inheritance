@@ -18,7 +18,8 @@ from collections import defaultdict, Counter, namedtuple
 
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-sys.path.append("/data/users/jdr/concepts/pyvene")
+pyvene_dir = os.getenv('PYVENE')
+sys.path.append(pyvene_dir)
 import pyvene
 from pyvene import (
     IntervenableModel,
@@ -39,11 +40,11 @@ from utils_bdas import find_sublist_indices, save_results, load_results, plot_he
 #cuda_gpu = "1"
 LEMMA_PATH = "../data/things/things-lemmas-annotated.csv"
 
-topdir = 'models'
-csv_filepath = "../data/things/stimuli-pairs/things-inheritance-sense_based_sim-pairs.csv"
+#topdir = 'models'
+#csv_filepath = "../data/things/stimuli-pairs/things-inheritance-sense_based_sim-pairs.csv"
 
-#topdir = 'models-spose'
-#csv_filepath = "../data/things/stimuli-pairs/things-inheritance-SPOSE_prototype_sim-pairs.csv"
+topdir = 'models-spose'
+csv_filepath = "../data/things/stimuli-pairs/things-inheritance-SPOSE_prototype_sim-pairs.csv"
 
 def load_model(model_name, cuda_gpu):
     #_config, tokenizer, model = create_mistral()
@@ -880,6 +881,8 @@ if __name__ == "__main__":
             #plot_heatmap(results, [str(i) for i in relpos], [str(i) for i in layers])
     else:
         print(layer, relative_pos)
+
+        breakpoint()
 
         train_dataloader = create_dataset_for_intervention(train, relative_pos, offset, train_filter , batch_size) #'balanced')
         if eval_during_train:
