@@ -81,9 +81,10 @@ if __name__ == "__main__":
     print("rel pos: ", relative_pos)
     print("portion: ", portion)
 
-    modelname = "meta-llama/Meta-Llama-3-8B-Instruct"
+    #modelname = "meta-llama/Meta-Llama-3-8B-Instruct"
     #modelname = "mistralai/Mistral-7B-Instruct-v0.2"
     #modelname = "google/gemma-2-9b-it"
+    modelname = "google/gemma-2-2b-it"
     #first_half = True
 
     if modelname == "meta-llama/Meta-Llama-3-8B-Instruct":
@@ -121,16 +122,20 @@ if __name__ == "__main__":
     #NOTE: Filter for the ones where the model gets it right in deduction:
     prealign_dataloader_test = make_inputs_labels_dataset([i['input_ids'] for i in test], [i['output_ids'] for i in test], [i['attention_masks'] for i in test] )
 
-    icl_accuracy, actual_test_labels, pred_test_labels, yn = icl_accuracy(prealign_dataloader_test, model, tokenizer, yes_token, no_token)
+    icl_acc, actual_test_labels, pred_test_labels, yn = icl_accuracy(prealign_dataloader_test, model, tokenizer, yes_token, no_token)
 
-    good_inds = [ii for ii,i in enumerate(pred_test_labels) if pred_test_labels[ii]==actual_test_labels[ii]]
+    predyn = [yes_token if i else no_token for i in yn]
+
+    if modelname == "meta-llama/Meta-Llama-3-8B-Instruct":
+        actual_test_labels = [i.replace(" ", "Ġ") for i in actual_test_labels]
+    good_inds = [ii for ii,i in enumerate(predyn) if predyn[ii]==actual_test_labels[ii]]
 
     testflip = [testflip[i] for i in good_inds]
     test = [test[i] for i in good_inds]
 
+    print("Test dataset composition (hyp vs not): ", Counter([i['is_hyper'] for i in testflip]) )
+
     assert all([testflip[ii]['conclusion']==test[ii]['premise'] and testflip[ii]['premise']==test[ii]['conclusion'] for ii in range(len(test))] )
-
-
 
     if portion==1:
 #        print("Let's see if the whole thing fits in memory!")
