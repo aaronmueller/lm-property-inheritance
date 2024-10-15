@@ -18,7 +18,8 @@ from collections import defaultdict, Counter, namedtuple
 
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-sys.path.append("/datastor1/jdr/concept-hierarchies/pyvenefix")
+pyvene_dir = os.getenv('PYVENE')
+sys.path.append(pyvene_dir)
 import pyvene
 from pyvene import (
     IntervenableModel,
