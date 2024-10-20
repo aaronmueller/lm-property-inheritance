@@ -1,4 +1,5 @@
 import os
+import sklearn.metrics
 import argparse
 import sys
 import pandas as pd
@@ -201,9 +202,9 @@ def load_data(csv_filepath,
 
         return (first_tok_anchor, last_tok_anchor), (first_tok_concl, last_tok_concl)
 
-    if tokenizer.name_or_path in ['google/gemma-2-2b-it', 'google/gemma-2-9b-it']:
+    if tokenizer.name_or_path in ['google/gemma-2-9b-it']:
         inputs = tokenizer([i['prompt'] for i in samples], return_tensors='pt', padding=True, add_special_tokens=False)
-    elif tokenizer.name_or_path in ['meta-llama/Meta-Llama-3-8B-Instruct']:
+    elif tokenizer.name_or_path in ['meta-llama/Meta-Llama-3-8B-Instruct', 'google/gemma-2-2b-it']:
         tokenizer.padding_side = 'left'
         print(tokenizer.padding_side)
         inputs = tokenizer([i['prompt'] for i in samples], return_tensors='pt', padding=True, add_special_tokens=True)
@@ -293,6 +294,11 @@ def icl_accuracy(dataloader, model, tokenizer, yes_label, no_label):
     preds = flatten(preds)
     gold = [tokenizer.decode(i) for i in gold]
     preds = [tokenizer.decode(i) for i in preds]
+
+    yes_or_no_according_to_logitdiff = ['Yes' if i else 'No' for i in yes_over_no]
+    a3 = sklearn.metrics.accuracy_score([i.strip() for i in gold], yes_or_no_according_to_logitdiff)
+    print("Accuracy according to logit diff between 'yes' and 'no' token: ", a3)
+
 
     return current_acc, gold, preds, yes_over_no
 
@@ -749,15 +755,15 @@ if __name__ == "__main__":
         prompt_config = "variation-qa-1-mistral-special"
         chat_style = False
     if modelname == "google/gemma-2-2b-it":
-        prompt_config = "variation-qa-2"
-        chat_style=True
+        prompt_config = "variation-qa-1"
+        chat_style=False
 
     data_fraction = 1
     num_train = 3000 #500 #3000 # $2000 # 3000 #800 #2000 #800
     epochs = 2
     batch_size = 16#8#4
     offset = 0
-    compute_behavioral = False
+    compute_behavioral = True #False
     compute_all_combinations = False
     eval_during_train = False
 

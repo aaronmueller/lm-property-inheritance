@@ -41,7 +41,7 @@ from boundless_das2 import load_data, create_dataset_for_intervention, evaluate
 
 #cuda_gpu = "1"
 LEMMA_PATH = "../data/things/things-lemmas-annotated.csv"
-csv_filepath = "../data/things/stimuli-pairs/things-inheritance-sense_based_sim-pairs.csv"
+#csv_filepath = "../data/things/stimuli-pairs/things-inheritance-sense_based_sim-pairs.csv"
 #csv_filepath = "../data/things/stimuli-pairs/things-inheritance-SPOSE_prototype_sim-pairs.csv"
 num_train = 3000
 offset = 0
@@ -121,8 +121,8 @@ if __name__ == "__main__":
         prompt_config = "variation-qa-1-mistral-special"
         chat_style = False
     if modelname == "google/gemma-2-2b-it":
-        prompt_config = "variation-qa-2"
-        chat_style=True
+        prompt_config = "variation-qa-1"
+        chat_style=False
 
     model, tokenizer = load_model(modelname, cuda_gpu)
 
