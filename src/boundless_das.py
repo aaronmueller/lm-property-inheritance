@@ -294,8 +294,9 @@ def icl_accuracy(dataloader, model, tokenizer, yes_label, no_label):
 
             total_count += len(correct_labels)
             correct_count += correct_labels.sum().tolist()
-    current_acc = round(correct_count / total_count, 2)
-    print(f"[WARNING: THIS NEEDS TO BE GOOD!] prealign task accuracy: {current_acc}")
+    #current_acc = round(correct_count / total_count, 2)
+    current_acc = None
+    #print(f"[WARNING: THIS NEEDS TO BE GOOD!] prealign task accuracy: {current_acc}")
 
 
     gold = flatten(gold)
@@ -454,6 +455,7 @@ def compute_metrics(eval_preds, eval_labels, Yes_id, No_id):
     #TODO
     gold_labels_all = []
     pred_labels_all = []
+    pred_labels_all_yn = []
 
     #not against max output, but rather if p(yes) > p(no) matches ground truth.
     yes_over_no = []
@@ -477,10 +479,12 @@ def compute_metrics(eval_preds, eval_labels, Yes_id, No_id):
 
         gold_labels_all.extend(actual_test_labels.tolist())
         pred_labels_all.extend(pred_test_labels.tolist())
+        #NOTE: preds are really these since we aren't using ARGMAX here!!!
+        pred_labels_all_yn.extend(pred_test_labels_yn.tolist())
 
     accuracy = round(correct_count / total_count, 2)
     accuracy_yn = round(correct_count_yn / total_count, 2)
-    return {"accuracy": accuracy, "accuracy_yn": accuracy_yn}, gold_labels_all, pred_labels_all
+    return {"accuracy": accuracy, "accuracy_yn": accuracy_yn}, gold_labels_all, pred_labels_all_yn #pred_labels_all
 
 def calculate_loss(logits, labels, intervenable):
     shift_logits = logits[..., :, :].contiguous()

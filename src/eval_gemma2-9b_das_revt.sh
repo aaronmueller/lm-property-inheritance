@@ -1,18 +1,20 @@
 #!/bin/bash
 
-layers=(10)
-#layers=(15)
+layers=(15)
+#layers=(10)
 #layers=(0 5 10 15 20 25 31) #for mistral
 #layers=(0 5 10 15 20 25 30 35 41) #for gemma-2 9B
 #layers=(15 20 25 30 35 41)
 #layers=(0 5 10 15 20 25 31) #for mistral 7B
 #positions=("premise_first" "premise_last" "conclusion_first" "conclusion_last" "last")
-positions=("conclusion_last")
+#positions=("conclusion_last")
+positions=("last")
+
 portions=(1 2 3 4)
 #portions=(1)
 
 cuda_gpu=0
-topdir="models-spose"
+topdir="models"
 #-spose"
 
 trainfilter="balanced"

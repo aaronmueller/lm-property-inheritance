@@ -83,8 +83,8 @@ if __name__ == "__main__":
 
     #modelname = "meta-llama/Meta-Llama-3-8B-Instruct"
     #modelname = "mistralai/Mistral-7B-Instruct-v0.2"
-    #modelname = "google/gemma-2-2b-it"
-    modelname = "google/gemma-2-9b-it"
+    modelname = "google/gemma-2-2b-it"
+    #modelname = "google/gemma-2-9b-it"
     #first_half = True
 
     if modelname == "meta-llama/Meta-Llama-3-8B-Instruct":
@@ -97,8 +97,8 @@ if __name__ == "__main__":
         prompt_config = "variation-qa-1-mistral-special"
         chat_style = False
     if modelname == "google/gemma-2-2b-it":
-        prompt_config = "variation-qa-2"
-        chat_style=True
+        prompt_config = "variation-qa-1"
+        chat_style=False
 
     print("MODEL: ", modelname)
 
@@ -221,7 +221,7 @@ if __name__ == "__main__":
     eval_metrics, gold_labels_all, pred_labels_all = evaluate(intervenable, test_dataloader, Yes_id, No_id, cuda_gpu=cuda_gpu)
 
 
-    #breakpoint()
+#    breakpoint()
 
     das_good_inds = [ii for ii,i in enumerate(pred_labels_all) if pred_labels_all[ii] == gold_labels_all[ii]]
 
