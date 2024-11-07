@@ -1,0 +1,2 @@
+python src/sense_based_negative_sampling.py
+python src/things-spose_negative_sampling.py
