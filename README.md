@@ -1,10 +1,9 @@
 # LM-Property-Inheritance
-This repository contains code for the paper "Characterizing the Role of Similarity in the Property Inferences of Language Models" by Juan Diego Rodriguez, Aaron Mueller, and Kanishka Misra.
+This repository contains code for the paper "[Characterizing the Role of Similarity in the Property Inferences of Language Models](https://arxiv.org/abs/2410.22590)" by Juan Diego Rodriguez, Aaron Mueller, and Kanishka Misra.
 
 ## Packages
 
-Pip installable ones:
-
+Use Python >= 3.9. To install dependencies, pip install the following libraries:
 ```bash
 transformers
 semantic-memory
@@ -142,9 +141,13 @@ If you use the code or data produced for this work, please cite us using the fol
 ```bibtex
 @article{rodriguez-et-al-2024-characterizing,
     title = "{Characterizing the Role of Similarity in the Property Inferences of Language Models}",
-    author = "Rodriguez, Juan Diego and Mueller, Aaron and \textbf{Kanishka Misra}",
-    journal = "arxiv",
+    author = "Rodriguez, Juan Diego and Mueller, Aaron and Misra, Kanishka",
+    journal = {Computing Research Repository},
+    volume = {arXiv:2410.22590},
     year = "2024",
     url = "https://arxiv.org/abs/2410.22590"
 }
 ```
+
+## License
+We release our materials under an MIT license.
